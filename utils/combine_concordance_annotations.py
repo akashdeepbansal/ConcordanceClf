@@ -40,7 +40,7 @@ with open('../sample-data/concordances.txt') as file_concord:
                 dataset_item = {'concordanceText': line, 'concordanceId': f'{id}', 'annotator1': annot1[f'{id}'],
                             'annotator2': annot2[f'{id}'],
                             'annotator3': annot3[f'{id}']}
-                file_dataset.write(json.dumps(dataset_item)+'\n')
+                file_dataset.write(json.dumps(dataset_item, ensure_ascii=False)+'\n')
             except Exception as missing_error:
                 print(missing_error)
                 continue
