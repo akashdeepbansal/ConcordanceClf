@@ -31,7 +31,7 @@ for key, value in annot3_json.items():
 
 with open('../sample-data/concordances.txt') as file_concord:
     lines = file_concord.readlines()
-    file_dataset = open('../sample-data/dataset_combined.json', 'w+')
+    file_dataset = open('../sample-data/bk_dataset_combined.json', 'w+')
     for id, line in enumerate(lines):
         if re.match(r'^\d+\(text\)', line):
             continue
