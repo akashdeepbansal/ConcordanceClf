@@ -1,0 +1,336 @@
+ Duren  [3]  (cf.  [4,5] ). If   MATH   is a univalent complex-valued harmonic 
+ by Lewy's theorem (see  [10] ),   MATH   has a non-vanishing Jacobian and 
+ to the inverse mapping theorem,   MATH   is a diffeomorphism. Moreover, if 
+ is a diffeomorphism. Moreover, if   MATH   is a harmonic function of 
+ function of the unit disk   MATH   onto a bounded convex Jordan 
+ convex Jordan domain Ω in   MATH  , mapping the boundary  MATH  onto 
+ in  C , mapping the boundary   MATH   onto ∂Ω homeomorphically, then   w 
+ MATH   onto ∂Ω homeomorphically, then   MATH   is a diffeomorphism. This is 
+8(text): Let
+Let  MATH   be an orientation preserving diffeomorphism 
+10(text): be an orientation preserving diffeomorphism of class
+ orientation preserving diffeomorphism of class   MATH  onto a  simple closed curve. 
+ diffeomorphism of class  MATH onto  MATH  simple closed curve. Let  D 
+ a  simple closed curve. Let  MATH  be a  bounded domain such 
+ closed curve. Let  D be  MATH  bounded domain such that  MATH 
+15(text): bounded domain such that
+ a  bounded domain such that  MATH  . Let MATH , where MATH  is 
+17(text): . Let
+ domain such that  MATH . Let  MATH  , where MATH  is the standard 
+19(text): , where
+ that  MATH . Let MATH , where  MATH   is the standard Poisson extension 
+ the standard Poisson extension of   MATH  denied in (10)  below. Then 
+22(text): denied in
+ (10)  below. Then the mapping  MATH  is a diffeomorphism of  U 
+ Then the mapping  w is  MATH  diffeomorphism of U onto  D 
+25(text): diffeomorphism of
+ w  is a diffeomorphism of  MATH  onto D  if and only 
+ a  diffeomorphism of U onto  MATH  if and only if  MATH 
+28(text): if and only if
+ D  if and only if  MATH  where MATH , and MATH  is 
+30(text): where
+ only if  MATH where  MATH  , and MATH  is the Jacobian 
+32(text): , and
+ MATH  where MATH , and  MATH  is the Jacobian of  w 
+ MATH  is the Jacobian of  MATH  at rζ.
+35(text): at rζ.
+36(text): Let
+Let  MATH   be an orientation preserving Lipschitz 
+38(text): be an orientation preserving Lipschitz weak homeomorphism of the unit circle
+ homeomorphism of the unit circle   MATH  onto a  Dini's smooth Jordan 
+ the unit circle  T onto  MATH   Dini's smooth Jordan curve and 
+41(text): Dini's smooth Jordan curve and let
+ smooth Jordan curve and let   MATH   be its Poisson extension to 
+ to the unit disk. Let   MATH  be a  bounded domain such 
+ unit disk. Let  D be  MATH  bounded domain such that  MATH 
+45(text): bounded domain such that
+ a  bounded domain such that  MATH  . Then there is a  continuous 
+ that  MATH . Then there is  MATH  continuous function MATH on  T 
+48(text): continuous function
+ there is  a continuous function  MATH  on T such that  MATH 
+50(text): on
+ a  continuous function MATH on  MATH  such that MATH  If 
+52(text): such that
+ MATH  on T such that  MATH  If MATH  then the 
+54(text): If
+ such that  MATH If  MATH  then the mapping MATH  is 
+56(text): then the mapping
+ MATH  then the mapping  MATH  is a diffeomorphism of  U 
+ then the mapping  MATH is  MATH  diffeomorphism of U onto  D. 
+59(text): diffeomorphism of
+ MATH  is a diffeomorphism of  MATH  onto D.
+ a  diffeomorphism of U onto  MATH 
+ is worth noticing that, when   MATH   is convex, then by   Remark 
+ under a stronger condition that   MATH   for some  MATH  and by 
+ condition that  MATH  for some   MATH   and by using a different 
+ state the following conjecture. Let   MATH   be a orientation preserving homeomorphism, 
+ a orientation preserving homeomorphism, where   MATH   is a rectifiable Jordan curve. 
+ a rectifiable Jordan curve. Let   MATH   be the bounded domain such 
+ the bounded domain such that   MATH  . The mapping  MATH  is a 
+ such that  MATH . The mapping   MATH   is a diffeomorphism of   U 
+ MATH   is a diffeomorphism of   MATH   onto  D  if and only 
+ a diffeomorphism of  U  onto   MATH   if and only if  MATH 
+ D   if and only if  MATH 
+Suppose that   MATH   is a rectifiable Jordan curve 
+ the complex plane. Denote by   MATH   the length of  γ  and 
+ by  l  the length of   MATH   and let  MATH  be an 
+ length of  γ  and let   MATH   be an arc length parameterization 
+ an arc length parameterization of   MATH   , i.e. a continuous bijection of 
+ i.e. a continuous bijection of   MATH   onto  γ , with  MATH  , such 
+ continuous bijection of  MATH  onto   MATH  , with  MATH  , such that the 
+ of  MATH  onto  γ , with   MATH   , such that the length of 
+ such that the length of   MATH   is equal to  s  for 
+ of  MATH  is equal to   MATH   for  MATH  . If g is 
+ is equal to  s  for   MATH   . If g is absolutely continuous, 
+ g is absolutely continuous, then   MATH   for almost every  s .
+ then  MATH  for almost every   MATH  .
+Let  MATH   be a function defined a.e. 
+ a function defined a.e. on   MATH  . By  MATH  we extend it 
+ defined a.e. on  MATH . By   MATH   we extend it on   MATH 
+ MATH   we extend it on   MATH  . Note that  MATH  is the 
+ it on  MATH . Note that   MATH   is the inner unit normal 
+ inner unit normal vector of   MATH   at  MATH  and therefore, if 
+ normal vector of  γ  at   MATH   and therefore, if  γ  is 
+ at  MATH  and therefore, if   MATH   is convex then  MATH 
+ if  γ  is convex then  MATH   Suppose now that  MATH  is 
+ MATH   Suppose now that   MATH   is an arbitrary 2  π 
+ MATH   is an arbitrary 2  MATH   periodic Lipschitz function such that 
+ periodic Lipschitz function such that   MATH   inducing the same orientation as 
+ inducing the same orientation as   MATH   on  γ  . Then there exists 
+ same orientation as  g  on   MATH   . Then there exists an increasing 
+ exists an increasing continuous function   MATH   such that MATH  In the 
+ continuous function  MATH  such that  MATH   In the remainder of this 
+ this paper we will identify   MATH   with the unit circle   T 
+ MATH   with the unit circle   MATH  , and  MATH  with  MATH  . In 
+ the unit circle  T , and   MATH   with  MATH  . In view of 
+ circle  T , and  MATH  with   MATH   . In view of the previous 
+ convention we have for a.e.   MATH  MATH  and therefore MATH  Along 
+ we have for a.e.  τ  MATH   and therefore MATH  Along with 
+ a.e.  τ MATH  and therefore  MATH   Along with the function   K 
+ MATH   Along with the function   MATH   we will also consider the 
+ will also consider the function   MATH   defined by MATH  It is 
+ the function  MATH  defined by  MATH   It is easy to see 
+ is easy to see that   MATH 
+Let   MATH   be the length of   γ 
+ MATH   be the length of   MATH   . We will say that a 
+ say that a surjective function   MATH   is a weak homeomorphism, if 
+ is a weak homeomorphism, if   MATH   is a nondecreasing surjective function. 
+Let   MATH   be a continuous function. The 
+ The modulus of continuity of   MATH   is MATH  The function   f 
+ of continuity of  f  is  MATH   The function  f  is called 
+ f   is MATH  The function   MATH   is called Dini-continuous if  MATH 
+ f   is called Dini-continuous if  MATH   Here  MATH  for some positive 
+ called Dini-continuous if  MATH  Here   MATH   for some positive constant   k 
+ MATH   for some positive constant   MATH  . A rectifiable Jordan curve   γ 
+ k  . A rectifiable Jordan curve   MATH   is said to be of 
+ said to be of class   MATH   if  g  is of class 
+ be of class  MATH  if   MATH   is of class  MATH  . A 
+ if  g  is of class   MATH  . A  MATH  Jordan curve   γ 
+ is of class  MATH . A   MATH   Jordan curve  γ  , is said 
+ MATH  . A  MATH  Jordan curve   MATH   , is said to be Dini 
+ to be Dini smooth if   MATH   is Dini continuous. We say 
+ Dini continuous. We say that   MATH   is of class  MATH ,   MATH 
+ that  γ  is of class   MATH  ,  MATH , if  g  is of 
+ γ   is of class  MATH ,   MATH  , if  g  is of class 
+ of class  MATH ,  MATH , if   MATH   is of class  MATH  and 
+ if  g  is of class   MATH   and MATH  Observe that every 
+ is of class  MATH  and  MATH   Observe that every smooth   MATH 
+ MATH   Observe that every smooth   MATH   Jordan curve is Dini smooth. 
+138(text): [8]
+[8] If  MATH  is Dini smooth, and  ω 
+ γ  is Dini smooth, and  MATH   is modulus of continuity of 
+141(text): is modulus of continuity of
+ is modulus of continuity of   MATH  , then MATH
+143(text): , then
+ of continuity of  MATH , then  MATH 
+A mapping   MATH   is called  harmonic  in a 
+146(text): harmonic
+ called  harmonic  in a region   MATH   if  MATH  where  u  and 
+ in a region  MATH  if   MATH   where  u  and  v  are 
+ region  MATH  if  MATH  where   MATH   and  v  are harmonic functions 
+ if  MATH  where  u  and   MATH   are harmonic functions in   D 
+ v   are harmonic functions in   MATH  . If  D  is simply-connected, then 
+ harmonic functions in  D . If   MATH   is simply-connected, then there are 
+ there are two analytic functions   MATH   and  h  defined on   D 
+ two analytic functions  g  and   MATH   defined on  D  such that 
+ g   and  h  defined on   MATH   such that MATH  Let  MATH 
+ defined on  D  such that  MATH   Let MATH  denote the Poisson 
+ D   such that MATH  Let  MATH   denote the Poisson kernel. The 
+ kernel. The Poisson integral of   MATH   is a harmonic function given 
+ a harmonic function given by   MATH   where  MATH .
+ function given by  MATH  where   MATH  .
+ will construct a suitable sequence   MATH   of univalent harmonic mappings, converging 
+ mappings, converging locally uniformly to   MATH   . In order to do so, 
+ approach to the boundary function   MATH   by a sequence of diffeomorphisms 
+ by a sequence of diffeomorphisms   MATH   and take the Poisson extension 
+ and take the Poisson extension   MATH   . We will show that, under 
+ of  Theorem 1  for large   MATH  ,  MATH  satisfies the conditions of 
+ Theorem 1   for large  n ,   MATH   satisfies the conditions of theorem 
+ Schober  [6] , the limit function   MATH   of a locally uniformly convergent 
+ sequence of univalent harmonic mappings   MATH   is univalent, providing that   F 
+ MATH   is univalent, providing that   MATH   is a surjective mapping.
+ We say that a mapping   MATH   is a weak homeomorphism if 
+ if there exist positive numbers   MATH   and  b  such that   MATH 
+ exist positive numbers  a  and   MATH   such that  MATH  is nondecreasing 
+ a   and  b  such that   MATH   is nondecreasing surjective function of 
+ is nondecreasing surjective function of   MATH   onto  MATH  and  MATH  for 
+ surjective function of  MATH  onto   MATH   and  MATH  for every   MATH 
+ of  MATH  onto  MATH  and   MATH   for every  MATH .
+ MATH   and  MATH  for every   MATH  .
+Let   MATH  . A function  MATH  is called 
+Let  MATH . A function   MATH   is called  L  -Lipschitz, where 
+ A function  MATH  is called   MATH  -Lipschitz, where  MATH , if  MATH 
+ is called  L -Lipschitz, where   MATH  , if MATH
+ L  -Lipschitz, where  MATH , if  MATH 
+184(text): (See e.g.
+185(text): [8]
+186(text): .) If
+(See e.g. [8] .) If  MATH   is an L-Lipschitz weak homeomorphism, 
+188(text): is an L-Lipschitz weak homeomorphism, such that
+ L-Lipschitz weak homeomorphism, such that   MATH  for some positive numbers  a 
+ MATH  for some positive numbers  MATH  and b and every  x, 
+ some positive numbers  a and  MATH  and every x,  then there 
+ a  and b and every  MATH  then there exists a  sequence 
+ every  x, then there exists  MATH  sequence of MATH -Lipschitz  MATH 
+194(text): sequence of
+ there exists  a sequence of  MATH  -Lipschitz MATH diffeomorphisms MATH  such 
+196(text): -Lipschitz
+ a  sequence of MATH -Lipschitz  MATH  diffeomorphisms MATH such that  MATH 
+198(text): diffeomorphisms
+ of  MATH -Lipschitz MATH diffeomorphisms  MATH  such that MATH  converges uniformly 
+200(text): such that
+ MATH  diffeomorphisms MATH such that  MATH  converges uniformly to φ,  and 
+ that  MATH converges uniformly to  MATH  and MATH .
+203(text): and
+ converges uniformly to  φ, and  MATH  .
+205(text): .
+ in  [8] , the Lipschitz constants   MATH   of  MATH  have not been 
+ the Lipschitz constants  MATH  of   MATH   have not been specified, but 
+ due to the fact that   MATH   we obtain that  MATH  which 
+ that  MATH  we obtain that   MATH   which is good enough for 
+ enough for our approach. Further   MATH   in  [8]  is defined as 
+ defined as the following convolution   MATH  , where  MATH , and  ρ  is 
+ the following convolution  MATH , where   MATH  , and  ρ  is a smooth 
+ convolution  MATH , where  MATH , and   MATH   is a smooth positive function, 
+ which is compactly supported in   MATH   and satisfies the condition   MATH 
+ MATH   and satisfies the condition   MATH  . Here  ρ  is a smooth 
+ satisfies the condition  MATH . Here   MATH   is a smooth function means 
+ a smooth function means that   MATH   . So by a standard argument 
+ for the convolution we have   MATH  .
+219(text): [8]
+220(text): If
+[8] If  MATH  is a  bounded function satisfying 
+[8] If MATH is  MATH  bounded function satisfying (8)  , then 
+223(text): bounded function satisfying
+ (8)  , then for every constant  MATH  MATH satisfies (8)  . Moreover for 
+ then for every constant  a,  MATH  satisfies (8)  . Moreover for every 
+226(text): satisfies
+227(text): . Moreover for every
+ satisfies  (8) . Moreover for every  MATH  the following formula holds:  MATH 
+229(text): the following formula holds:
+ MATH  the following formula holds:  MATH 
+231(text): [8]
+232(text): Let
+[8] Let  MATH  be a  harmonic mapping, such 
+[8] Let MATH be  MATH  harmonic mapping, such that  MATH 
+235(text): harmonic mapping, such that
+ a  harmonic mapping, such that  MATH  , where g and f  are 
+ mapping, such that  MATH , where  MATH  and f  are as mentioned 
+ that  MATH , where g and  MATH   are as mentioned earlier, is 
+ are as mentioned earlier, is   MATH   Lipschitz weak homeomorphism from the 
+ from the unit circle onto   MATH   Dini smooth Jordan curve. Then 
+241(text): Dini smooth Jordan curve. Then for almost every
+ curve. Then for almost every   MATH  the limit MATH  exists and 
+243(text): the limit
+ almost every  MATH the limit  MATH  exists and MATH
+245(text): exists and
+ the limit  MATH exists and  MATH 
+ For a Lipschitz non-decreasing function   MATH   and an arc-length parametrization   g 
+ f   and an arc-length parametrization   MATH   of the Dini's smooth Jordan 
+ the Dini's smooth Jordan curve   MATH   we define the operator   T 
+ γ   we define the operator   MATH   as follows MATH  According to 
+ the operator  T  as follows  MATH   According to  Lemma 4  , this 
+ and is finite for a.e.   MATH  .
+Notice that, if   MATH   is a convex Jordan curve, 
+ a convex Jordan curve, then   MATH  , and therefore  MATH  . In the 
+ curve, then  MATH , and therefore   MATH   . In the next proof, we 
+ proof, we will show that   MATH   is continuous if  f  is 
+ that  MATH  is continuous if   MATH   is a Lipschitz weak homeomorphism 
+ and under the integral condition   MATH   the harmonic extension of a 
+Assume for simplicity that   MATH   . The general case follows by 
+ case follows by normalization. Let   MATH   be an arc length parametrization 
+ an arc length parametrization of   MATH  . Then  MATH , where  MATH  is 
+ length parametrization of  γ . Then   MATH  , where  MATH  is a   L 
+ of  γ . Then  MATH , where   MATH   is a  L  -Lipschitz weak 
+ MATH  , where  MATH  is a   MATH   -Lipschitz weak homeomorphism such that 
+ -Lipschitz weak homeomorphism such that   MATH  . By using  Lemma 2  , we 
+ can choose a sequence of   MATH  -Lipschitz diffeomorphisms  MATH  converging uniformly 
+ sequence of  MATH -Lipschitz diffeomorphisms   MATH   converging uniformly to  f  . Then 
+ diffeomorphisms  MATH  converging uniformly to   MATH  . Then MATH  We are going 
+ converging uniformly to  f . Then  MATH   We are going to show 
+ are going to show that   MATH   converges uniformly to  MATH  . In 
+ that  MATH  converges uniformly to   MATH   . In order to do this 
+ we apply Arzela–Ascoli theorem. Let   MATH   be a continuous function such 
+ a continuous function such that   MATH  ,  MATH .
+ continuous function such that  MATH ,   MATH  .
+ As in  [8]  we obtain  MATH   Then for module  MATH  of 
+ MATH   Then for module   MATH   of continuity of  MATH  and 
+ module  MATH  of continuity of   MATH   and  MATH MATH  We prove 
+ of continuity of  MATH  and   MATH  MATH  We prove now that 
+ continuity of  MATH  and  MATH  MATH   We prove now that   MATH 
+ MATH   We prove now that   MATH   is an equicontinuous family of 
+ In the contrary, there are   MATH   and  MATH  and there are 
+ contrary, there are  MATH  and   MATH   and there are a sequence 
+ sequence of non-decreasing natural numbers   MATH   and a sequence of real 
+ a sequence of real numbers   MATH   tending to zero such that 
+ zero such that for every   MATH   we have MATH  Assume without 
+ for every  MATH  we have  MATH   Assume without loss of generality 
+ without loss of generality that   MATH  . Use the notation MATH  On 
+ that  MATH . Use the notation  MATH   On the other hand by 
+ other hand by  (9) , for  MATH   we obtain MATH  where   ω 
+ (9)  , for MATH  we obtain  MATH   where  ω  is the modulus 
+ MATH   we obtain MATH  where   MATH   is the modulus of continuity 
+ the modulus of continuity of   MATH  . Since  MATH  we have  MATH 
+ of continuity of  MATH . Since   MATH   we have MATH  Thus   MATH 
+ MATH  . Since  MATH  we have  MATH   Thus  MATH  is a dominant 
+ MATH   we have MATH  Thus   MATH   is a dominant for the 
+ a dominant for the expressions   MATH   Having in mind the equality 
+ the equality  (11) , we obtain  MATH 
+ Theorem, taking the limit when   MATH   under the integral sign in 
+ (14)   we obtain the equality   MATH   if  MATH  is a stationary 
+ obtain the equality  MATH  if   MATH   is a stationary sequence and 
+ is a stationary sequence and   MATH   in the other case. Similarly 
+ in the other case. Similarly   MATH   if  MATH  is a stationary 
+ other case. Similarly  MATH  if   MATH   is a stationary sequence and 
+ is a stationary sequence and   MATH   in the other case and 
+ This implies that the family   MATH   is equicontinuous. By Arzela–Ascoli theorem 
+ that there is a subsequence   MATH   of  MATH  , which will be 
+ is a subsequence  MATH  of   MATH   , which will be also denoted 
+ will be also denoted by   MATH   such that MATH  Thus   MATH 
+ denoted by  MATH  such that  MATH   Thus  MATH  is continuous. Suppose 
+ MATH   such that MATH  Thus   MATH   is continuous. Suppose that   MATH 
+ MATH   is continuous. Suppose that   MATH   for every  MATH  . Then for 
+ Suppose that  MATH  for every   MATH  . Then for  MATH  , there is 
+ for every  MATH . Then for   MATH  , there is  MATH  such that 
+ Then for  MATH , there is   MATH   such that  MATH  for   MATH 
+ there is  MATH  such that   MATH   for  MATH  and therefore   MATH 
+ MATH   such that  MATH  for   MATH   and therefore  MATH  for   MATH 
+ MATH   for  MATH  and therefore   MATH   for  MATH  and  MATH .
+ MATH   and therefore  MATH  for   MATH   and  MATH .
+ therefore  MATH  for  MATH  and   MATH  .
+Moreover, since   MATH   is a diffeomorphism, for   n 
+ MATH   is a diffeomorphism, for   MATH   sufficiently large there holds the 
+ there holds the following inequality   MATH   Since  MATH  , it follows that 
+ the following inequality  MATH  Since   MATH  , it follows that  MATH  . Therefore 
+ Since  MATH , it follows that   MATH   . Therefore all the conditions of 
+ are satisfied. This means that   MATH   is a harmonic diffeomorphism of 
+ unit disk onto the domain   MATH  .
+ Schober  [6] , the limit function   MATH   of a locally uniformly convergent 
+ sequence of univalent harmonic mappings   MATH   on  U  is either univalent 
+ univalent harmonic mappings  MATH  on   MATH   is either univalent on   U 
+ U   is either univalent on   MATH   , is a constant, or its 
+ a straight-line, we obtain that   MATH   is univalent, because  F  is 
+ that  MATH  is univalent, because   MATH   is a surjective function of 
+ is a surjective function of   MATH   onto  γ  . The proof is 
+ surjective function of  T  onto   MATH   . The proof is completed.  
+Univalent   MATH  -harmonic mappings

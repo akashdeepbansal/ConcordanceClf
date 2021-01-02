@@ -1,0 +1,1102 @@
+ Sobolev regularity for the fractional   MATH   -Laplace equation in the superquadratic 
+We prove that for   MATH   , solutions of equations modeled by 
+ equations modeled by the fractional   MATH   -Laplacian improve their regularity on 
+ precise conditions, they are in   MATH   and their gradients are in 
+ the fractional order of differentiation   MATH   reaches 1.
+Fractional   MATH  -Laplacian
+Let   MATH  ,  MATH  be an open set 
+Let  MATH ,   MATH   be an open set and 
+ consider a local weak solution   MATH   of the  p  -Laplace equation 
+ weak solution  u  of the   MATH  -Laplace equation  MATH 
+ of the  p -Laplace equation  MATH   This means that  MATH  and 
+ MATH   This means that   MATH   and verifies MATH  for every 
+ means that  MATH  and verifies  MATH   for every open set   MATH 
+ MATH   for every open set   MATH   compactly contained in Ω and 
+ contained in Ω and every   MATH  . Thus the operator  MATH  arises 
+ every  MATH . Thus the operator   MATH   arises from the first variation 
+ the first variation of the   MATH   Sobolev seminorm. A classical regularity 
+ that (see  [30, Lemma 3.1] )  MATH   This in turn implies the 
+ differentiability for the gradient itself   MATH   see also   [23, Proposition 3.1] 
+19(text): fractional p-Laplace equation
+ like the  fractional p-Laplace equation  MATH   and prove the analogue of 
+ the analogue of  (1.1) . Here   MATH   is given. In order to 
+ definitions of fractional (or nonlocal)   MATH   -Laplacian have been recently proposed 
+ if for every open set   MATH   we define the  MATH  Gagliardo 
+ set  MATH  we define the   MATH   Gagliardo seminorm MATH  then the 
+ define the  MATH  Gagliardo seminorm  MATH   then the operator  MATH  arises 
+ seminorm  MATH  then the operator   MATH   arises as the first variation 
+ as the first variation of   MATH   This is in analogy with 
+ analogy with the case of   MATH   , which formally corresponds to the 
+ formally corresponds to the case   MATH   . Operators of this type were, 
+ and  [16] . A weak solution   MATH   of  (1.2)  verifies MATH  for 
+ solution  u  of  (1.2)  verifies  MATH   for every  MATH  with compact 
+ (1.2)   verifies MATH  for every   MATH   with compact support. The reader 
+ just focus on the operator   MATH   . But indeed we will treat 
+ operators, where the singular kernel   MATH   is replaced by some slight 
+Very recently the operator   MATH   has been much studied and 
+ first done for the case   MATH   by Kassmann in  [17]  . In 
+ As for the inhomogeneous equation   MATH   it is unavoidable to mention 
+ solution under sharp assumptions on   MATH   (see  [20, Corollary 1.2]  ). It 
+ considers a general measure datum   MATH   , not necessarily belonging to the 
+ solution of the Dirichlet problem   MATH   under appropriate assumptions on the 
+ appropriate assumptions on the data   MATH   and Ω (see   [15, Theorem 
+Let   MATH   and  MATH  . We introduce the 
+Let  MATH  and   MATH   . We introduce the weighted Lebesgue 
+ introduce the weighted Lebesgue space   MATH   For  MATH  , we also consider 
+ weighted Lebesgue space  MATH  For   MATH   , we also consider the weighted 
+ consider the weighted Nikol'skii-type space   MATH   It is intended that   MATH 
+ MATH   It is intended that   MATH  , so that for  MATH  it 
+ that  MATH , so that for   MATH   it is easy to see 
+ is easy to see that   MATH  .
+50(text): nonlocal tail
+ In what follows, the writing   MATH   means that both  F  and 
+ writing  MATH  means that both   MATH   and  E  are open sets 
+ means that both  F  and   MATH   are open sets of   MATH 
+ E   are open sets of   MATH   , such that the closure of 
+ such that the closure of   MATH   is a compact set contained 
+ a compact set contained in   MATH  .   Definition 1.2Snail normsLet 1<p<∞, 0<s<1 
+Let   MATH  ,  MATH  and  MATH  . For every 
+Let  MATH ,   MATH   and  MATH  . For every open 
+Let  MATH ,  MATH  and   MATH   . For every open and bounded 
+ every open and bounded set   MATH  , we set MATH  Then for 
+ bounded set  MATH , we set  MATH   Then for every  MATH  the 
+ set  MATH  Then for every   MATH   the following quantity is well-defined 
+ the following quantity is well-defined   MATH   If  MATH  for some   MATH 
+ quantity is well-defined  MATH  If   MATH   for some  MATH  , we can 
+ MATH   If  MATH  for some   MATH   , we can also define the 
+ also define the Nikol'skii-type quantity   MATH   where we set  MATH .
+ quantity  MATH  where we set   MATH  .
+Let   MATH   and  MATH  . We consider a 
+Let  MATH  and   MATH   . We consider a measurable function 
+ We consider a measurable function   MATH   satisfying MATH  and 
+ a measurable function  MATH  satisfying  MATH   and MATH  for 
+ satisfying  MATH  and  MATH   for some  MATH . Let   MATH 
+ MATH   for some   MATH  . Let  MATH  be an open 
+ MATH   for some  MATH . Let   MATH   be an open set, given 
+ be an open set, given   MATH  , we say that  MATH  is 
+ given  MATH , we say that   MATH   is a   local weak solution 
+77(text): local weak solution
+ a  local weak solution  of  MATH   if MATH  for every   MATH 
+ of  MATH  if  MATH   for every  MATH  and every 
+ MATH   if MATH  for every   MATH   and every  MATH  such that 
+ for every  MATH  and every   MATH   such that  MATH  in   MATH 
+ and every  MATH  such that   MATH   in  MATH  . It is intended 
+ MATH   such that  MATH  in   MATH   . It is intended that the 
+ intended that the test functions   MATH   are extended by 0 outside 
+ in  (1.8) . The assumptions on   MATH   and  K  guarantee that the 
+ The assumptions on  u  and   MATH   guarantee that the double integral 
+In the case   MATH  , we will simply write   MATH 
+ MATH  , we will simply write   MATH   in place of  MATH .
+ write  MATH  in place of   MATH  .
+As for the   MATH   -Laplacian, we do not assume 
+ local solutions to belong to   MATH  , but only to  MATH  . For 
+ to  MATH , but only to   MATH   . For this reason, in order 
+ our main result. The parameter   MATH   below measures the degree of 
+ solution “at infinity”. The value   MATH   is admitted as well, thus 
+ one. The case of the   MATH   -Laplacian formally corresponds to taking 
+ -Laplacian formally corresponds to taking   MATH   in  (1.12)  below. In this 
+97(text): Let
+Let  MATH  , MATH and MATH . Let  MATH 
+99(text): ,
+Let MATH ,  MATH  and MATH . Let MATH  be 
+101(text): and
+Let MATH , MATH and  MATH  . Let MATH be a  local 
+103(text): . Let
+ MATH  , MATH and MATH . Let  MATH  be a  local weak solution 
+ and  MATH . Let MATH be  MATH  local weak solution of  MATH 
+106(text): local weak solution of
+ a  local weak solution of  MATH  with MATH and K  verifying 
+108(text): with
+ weak solution of  MATH with  MATH  and K verifying (1.6)  . For 
+ of  MATH with MATH and  MATH  verifying (1.6)  . For every ball 
+111(text): verifying
+112(text): . For every ball
+ verifying  (1.6) . For every ball  MATH  we define MATH  Then we 
+114(text): we define
+ every ball  MATH we define  MATH  Then we have:  i)ifu∈Wlocτ,p(Ω),for everys≤τ<t+spp−1,and 
+116(text): Then we have:
+ MATH 
+118(text): if
+if   MATH  and for every ball  MATH 
+120(text): and for every ball
+ MATH  and for every ball  MATH   there holds the scaling invariant 
+122(text): there holds the scaling invariant estimate
+ holds the scaling invariant estimate   MATH  for some MATH ;
+124(text): for some
+ invariant estimate  MATH for some  MATH  ;
+126(text): ;
+127(text): ii)
+128(text): if
+129(text): we set
+if  we set  MATH  then MATH  and for 
+131(text): then
+ if   we set MATH then  MATH  and for every ball  MATH 
+133(text): and for every ball
+ MATH  and for every ball  MATH   there hold the scaling invariant 
+135(text): there hold the scaling invariant estimates
+ hold the scaling invariant estimates   MATH  and MATH for some  MATH 
+137(text): and
+ scaling invariant estimates  MATH and  MATH  for some MATH and  MATH 
+139(text): for some
+ MATH  and MATH for some  MATH  and MATH .
+141(text): and
+ MATH  for some MATH and  MATH  .
+143(text): .
+ case, if the crucial quantity   MATH   is sufficiently well-detached from   MATH 
+ MATH   is sufficiently well-detached from   MATH   , then it is possible to 
+ make explicit the dependence of   MATH   and  MATH  on  s  . More 
+ the dependence of  MATH  and   MATH   on  s  . More precisely, let 
+ of  MATH  and  MATH  on   MATH   . More precisely, let us fix 
+ More precisely, let us fix   MATH  , then for every  MATH  such 
+ fix  MATH , then for every   MATH   such that MATH  estimates   (1.11) 
+ for every  MATH  such that  MATH   estimates  (1.11)  and  (1.12)  can 
+ (1.12)   can be replaced by  MATH   and MATH  with  MATH  depending 
+ be replaced by  MATH  and  MATH   with  MATH  depending on   N 
+ by  MATH  and MATH  with   MATH   depending on  N ,  p  and 
+ MATH   with  MATH  depending on   MATH  ,  p  and Λ only. We 
+ with  MATH  depending on  N ,   MATH   and Λ only. We will 
+ that a local weak solution   MATH   is locally Hölder continuous for 
+ is locally Hölder continuous for   MATH  ,  MATH  and  MATH  such that 
+ locally Hölder continuous for  MATH ,   MATH   and  MATH  such that  MATH 
+ continuous for  MATH ,  MATH  and   MATH   such that  MATH 
+ MATH   and  MATH  such that  MATH   or MATH  For 
+ that  MATH  or  MATH   For example, in dimension   MATH 
+ MATH   For example, in dimension   MATH   this is always the case 
+ is always the case if   MATH   and  MATH .
+ the case if  MATH  and   MATH  .
+ the case where our solution   MATH   is a priori known to 
+ that is quite natural if   MATH   is constructed through viscosity methods 
+168(text): Let
+Let  MATH  and MATH . Let MATH  be 
+170(text): and
+Let MATH and  MATH  . Let MATH be a  local 
+172(text): . Let
+ Let  MATH and MATH . Let  MATH  be a  local weak solution 
+ and  MATH . Let MATH be  MATH  local weak solution of  (1.7) 
+175(text): local weak solution of
+176(text): , with
+ weak solution of  (1.7) , with  MATH  and K verifying (1.6)  . Then 
+ of  (1.7) , with MATH and  MATH  verifying (1.6) . Then  i)ifu∈Wlocτ,p(Ω),for everyτ<spp−1,ii)ifu∈Wloc1,p(Ω)and∇u∈Wlocτ,p(Ω),for 
+179(text): verifying
+180(text): . Then
+ MATH 
+182(text): if
+if   MATH 
+184(text): ii)
+185(text): if
+if   MATH 
+ from the simple observation that   MATH   see  (2.13)  below. Thus we 
+ can apply  Theorem 1.5  with   MATH  . □
+ value problems for the operator   MATH   . Indeed, since the “boundary datum” 
+ Indeed, since the “boundary datum”   MATH   is imposed on the whole 
+ imposed on the whole complement   MATH  , the solution  u  naturally inherits 
+ whole complement  MATH , the solution   MATH   naturally inherits differentiability properties “at 
+ differentiability properties “at infinity” from   MATH   . We can tune the parameter 
+ We can tune the parameter   MATH   accordingly and improve the result. 
+ [6]  , we use the notation   MATH   to denote the completion of 
+ to denote the completion of   MATH   with respect to the norm 
+ with respect to the norm   MATH   Corollary 1.9Dirichlet problemsLetp≥2and0<s<1. LetΩ⊂RNbe an 
+198(text): Let
+Let  MATH  and MATH . Let MATH  be 
+200(text): and
+Let MATH and  MATH  . Let MATH  be an open 
+202(text): . Let
+ Let  MATH and MATH . Let  MATH   be an open and bounded 
+204(text): be an open and bounded set. Given
+ open and bounded set. Given   MATH  , MATH and K verifying  (1.6) 
+206(text): ,
+ and bounded set. Given  MATH ,  MATH  and K verifying (1.6)  , we 
+ set. Given  MATH , MATH and  MATH  verifying (1.6)  , we consider the 
+209(text): verifying
+210(text): , we consider the (unique) solution
+ we consider the (unique) solution   MATH  of the problem MATH  This 
+212(text): of the problem
+ solution  MATH of the problem  MATH  This means that u  coincides 
+ problem  MATH This means that  MATH  coincides with g in  MATH 
+ means that  u coincides with  MATH  in MATH and verifies  (1.8) 
+216(text): in
+ u  coincides with g in  MATH  and verifies (1.8)  for every 
+218(text): and verifies
+219(text): for every test function
+ (1.8)  for every test function  MATH  . Then we have:  i)ifu∈Wlocτ,p(Ω),for everys≤τ<sp+1p−1;ii)ifu∈Wloc1,p(Ω)and∇u∈Wlocτ,p(Ω),for 
+221(text): . Then we have:
+ MATH 
+223(text): if
+if   MATH 
+225(text): ii)
+226(text): if
+if   MATH 
+ is sufficient to observe that   MATH   see  (2.14)  below. Thus we 
+ can apply  Theorem 1.5  with   MATH  . □
+230(text): About the proof
+ the solution, i.e. quantities like   MATH   we establish a Caccioppoli-type inequality 
+ (see  Proposition 3.1 ). For the   MATH   -Laplacian this is a “one 
+ shot” estimate, i.e. by taking   MATH   to be the exponent dictated 
+ exponent dictated by the hypothesis   MATH   we directly reach  (1.1)  from 
+ iterations depends of course on   MATH   , namely on how close it 
+ 1. Then the initial information   MATH   can be recursively improved. At 
+ step we are estimating the   MATH   seminorm (i.e.  s  derivatives on 
+ estimating the  MATH  seminorm (i.e.   MATH   derivatives on the Gagliardo scale) 
+ a finite difference  (1.15)  (i.e.   MATH   derivatives on the Nikol'skii scale). 
+ quantity as the norm of   MATH   derivatives of the solution, measured 
+241(text): The right-hand side
+ As for the right-hand side   MATH  , the hypothesis  MATH  is certainly 
+ right-hand side  f , the hypothesis   MATH   is certainly too strong and 
+244(text): Previous results
+ case, corresponding to the choice   MATH  . In  [19]  and  [18]  , the 
+ linear elliptic nonlocal equations like   MATH   where MATH  They 
+ MATH   where  MATH   They prove that a solution 
+ They prove that a solution   MATH   is indeed in  MATH  for 
+ solution  MATH  is indeed in   MATH   for some MATH  see   [19, 
+ indeed in  MATH  for some  MATH   see  [19, Theorem 1.1]  . The 
+251(text): fractional Gehring Lemma
+ (1.16)  , under the additional assumptions  MATH   Observe that the previous condition 
+ that the previous condition on   MATH   covers for example the case 
+ of kernels of the type   MATH  . Then  [10, Theorem 2.2]  shows 
+ that the solution gains “almost”   MATH  -derivatives, i.e.  MATH  for every 
+ gains “almost”  s -derivatives, i.e.   MATH   for every  MATH  . The proof 
+ -derivatives, i.e.  MATH  for every   MATH   . The proof relies on differentiating 
+ Theorem 1.5   in the case   MATH  . Indeed, if we consider   Theorem 
+ we consider  Theorem 1.5  for   MATH   and  MATH  and we do 
+ Theorem 1.5   for  MATH  and   MATH   and we do not assume 
+ in  [10] ), i.e. we take   MATH  , then we obtain  MATH  , for 
+ take  MATH , then we obtain   MATH  , for every  MATH  . We point 
+ we obtain  MATH , for every   MATH   . We point out that this 
+ presence of the right-hand side   MATH  .
+ As for the general case   MATH  , in  [26]  the author considers 
+ of  (1.3) , i.e. the equation  MATH   where  f  belongs to the 
+ MATH   where   MATH   belongs to the dual space 
+ to the dual space of   MATH  , for some  MATH . In   [26, 
+ space of  MATH , for some   MATH  . In  [26, Theorem 1.3]  it 
+ is proved that there exists   MATH   such that for  MATH  , a 
+ exists  MATH  such that for   MATH  , a solution  MATH  is indeed 
+ that for  MATH , a solution   MATH   is indeed in  MATH .
+ solution  MATH  is indeed in   MATH  .
+274(text): Limit as
+( Limit as  MATH   ) Finally, we conclude this list 
+ correct dependence on the parameter   MATH   , at least in the asymptotical 
+ least in the asymptotical regime   MATH   . Indeed, we recall that for 
+ recall that for a function   MATH   we have the pointwise convergence 
+ we have the pointwise convergence   MATH   see  [5,4]  . Moreover, we also 
+ with respect to the strong   MATH   topology, see  [8]  and   [25] 
+ Thus, in the standard case   MATH  , the estimates of   Theorem 1.5 
+ that solutions of the fractional   MATH   -Laplace equation converge strongly in 
+ -Laplace equation converge strongly in   MATH   to solutions of the usual 
+ to solutions of the usual   MATH  -Laplace equation as  MATH  , under 
+ usual  p -Laplace equation as   MATH   , under suitable assumptions. For example, 
+ suitable assumptions. For example, let   MATH   be an open and bounded 
+ and bounded set and let   MATH   be the unique solution of 
+ be the unique solution of   MATH   By using  (1.13)  and   (1.14) 
+ is possible to show that   MATH   converges strongly in  MATH  to 
+ that  MATH  converges strongly in   MATH   to the unique solution of 
+ to the unique solution of   MATH 
+ general equations of the type   MATH   see Subsection  4.5  . We then 
+Let   MATH   and  MATH  . For an open 
+Let  MATH  and   MATH  . For an open set   MATH 
+ MATH  . For an open set   MATH  , we denote by  MATH  the 
+ set  MATH , we denote by   MATH   the usual fractional Sobolev space 
+ set of functions such that   MATH   The quantity  MATH  is the 
+ such that  MATH  The quantity   MATH   is the  MATH  Gagliardo seminorm, 
+ The quantity  MATH  is the   MATH   Gagliardo seminorm, i.e. MATH  The 
+ the  MATH  Gagliardo seminorm, i.e.  MATH   The local variant  MATH  is 
+ i.e.  MATH  The local variant   MATH   is defined in a straightforward 
+ in a straightforward manner. Given   MATH  , for a measurable function   MATH 
+ MATH  , for a measurable function   MATH   we introduce the notation  MATH 
+ MATH   we introduce the notation  MATH   We recall that for every 
+ for every pair of functions   MATH  ,  ψ  we have MATH  We 
+ every pair of functions  φ ,   MATH   we have MATH  We also 
+ functions  φ ,  ψ  we have  MATH   We also remind the notation 
+ We also remind the notation   MATH   for the second order differences 
+ differences of a function, i.e.   MATH   Finally, if  MATH  is an 
+ function, i.e.  MATH  Finally, if   MATH   is an integrable function on 
+ is an integrable function on   MATH  , the notation MATH  means that 
+ function on  MATH , the notation  MATH   means that  MATH  and   MATH 
+ the notation  MATH  means that   MATH   and  MATH .
+ MATH   means that  MATH  and   MATH  .
+ the more general Besov space   MATH  , built up of  MATH  functions 
+ space  MATH , built up of   MATH   functions such that MATH  For 
+ of  MATH  functions such that  MATH   For  MATH  , we obtain the 
+ functions such that  MATH  For   MATH   , we obtain the usual fractional 
+ the usual fractional Sobolev space   MATH   . Also observe that our notation 
+ be consistent with that of   MATH  .
+Let   MATH   and  MATH  . We say that 
+Let  MATH  and   MATH  . We say that  MATH  if 
+ and  MATH . We say that   MATH   if MATH  In 
+ We say that  MATH  if  MATH   In this case, we set 
+ In this case, we set   MATH 
+ of simple preliminary results for   MATH   . The first one states that 
+327(text): Let
+Let  MATH  and MATH . If MATH  then 
+329(text): and
+Let MATH and  MATH  . If MATH  then for every 
+331(text): . If
+ Let  MATH and MATH . If  MATH  then for every MATH  MATH 
+333(text): then for every
+ If  MATH then for every  MATH  MATH
+ MATH  then for every MATH  MATH 
+ for everyh0>0(2.3)[ψ]B∞α,p(RN)≤[sup0<|h|<h0⁡‖δh2ψ|h|α‖Lp(RN)+3h0−α‖ψ‖Lp(RN)].   In the case   MATH   , second order difference quotients control 
+337(text): Let
+Let  MATH  and MATH . If MATH  then 
+339(text): and
+Let MATH and  MATH  . If MATH then MATH  for 
+341(text): . If
+ Let  MATH and MATH . If  MATH  then MATH  for some universal 
+343(text): then
+ and  MATH . If MATH then  MATH  for some universal constant  MATH 
+345(text): for some universal constant
+ MATH  for some universal constant  MATH  . For every MATH  , we also 
+347(text): . For every
+ universal constant  MATH . For every  MATH  , we also get MATH
+349(text): , we also get
+ every  MATH , we also get  MATH 
+ that for every measurable function   MATH   we have MATH  Thus for 
+ measurable function  ψ  we have  MATH   Thus for every  MATH  we 
+ have  MATH  Thus for every   MATH   we get MATH  and observe 
+ for every  MATH  we get  MATH   and observe that the second 
+ observe that if we set   MATH  MATH  By using this estimate 
+ that if we set  MATH  MATH   By using this estimate in 
+ estimate in  (2.6) , we get  MATH   By recalling that  MATH  , the 
+ get  MATH  By recalling that   MATH   , the last term can be 
+359(text): thermic extension characterization
+360(text): Let
+Let  MATH  and MATH  . We have the 
+362(text): and
+Let MATH and  MATH   . We have the continuous embedding 
+364(text): . We have the continuous embedding
+ We have the continuous embedding   MATH  . In particular, for every  MATH 
+366(text): . In particular, for every
+ MATH  . In particular, for every  MATH  we have MATH  , with the 
+368(text): we have
+ for every  MATH we have  MATH  , with the following estimate  MATH 
+370(text): , with the following estimate
+ MATH  , with the following estimate  MATH  for some constant MATH  . Moreover, 
+372(text): for some constant
+ estimate  MATH for some constant  MATH  . Moreover, we also have  MATH 
+374(text): . Moreover, we also have
+ MATH  . Moreover, we also have  MATH  still for some MATH .
+376(text): still for some
+ have  MATH still for some  MATH  .
+378(text): .
+379(text): is false
+ false   for the borderline case   MATH  , see   [28, Example, page 148] 
+381(text): Let
+Let  MATH  and MATH .  •(Global case) For 
+383(text): and
+Let MATH and  MATH  .  •(Global case) For everyψ∈Wα,p(RN)there holds(2.9)sup|h|>0⁡‖δhψ|h|α‖Lp(RN)p≤C(1−α)[ψ]Wα,p(RN)p,foraconstantC=C(N,p)>0.•(Compactly 
+385(text): .
+386(text): (Global case) For every
+(Global case) For every  MATH  there holds MATH for  a 
+388(text): there holds
+ For every  MATH there holds  MATH  for a constant MATH .
+ MATH  there holds MATH for  MATH  constant MATH .
+391(text): constant
+ holds  MATH for a constant  MATH  .
+393(text): .
+394(text): (Compactly supported case) Let
+(Compactly supported case) Let  MATH  and let MATH  be such 
+396(text): and let
+ case) Let  MATH and let  MATH  be such that MATH  on 
+398(text): be such that
+ let  MATH be such that  MATH  on MATH  . Then we have 
+400(text): on
+ be such that  MATH on  MATH  . Then we have MATH  where 
+402(text): . Then we have
+ on  MATH . Then we have  MATH  where ψ  is extended by 
+ Then we have  MATH where  MATH  is extended by  0   to 
+405(text): is extended by
+406(text): to the whole
+ by   0  to the whole  MATH  and MATH .
+408(text): and
+ to the whole  MATH and  MATH  .
+410(text): .
+411(text): (Local case) Let
+(Local case) Let  MATH   be an open set. Let 
+413(text): be an open set. Let
+ be an open set. Let   MATH  , then for every ball  MATH 
+415(text): , then for every ball
+ MATH  , then for every ball  MATH  and every MATH  we have 
+417(text): and every
+ every ball  MATH and every  MATH  we have MATH for  a 
+419(text): we have
+ and every  MATH we have  MATH  for a constant MATH .
+ MATH  we have MATH for  MATH  constant MATH .
+422(text): constant
+ have  MATH for a constant  MATH  .
+424(text): .
+ decompose the Gagliardo seminorm of   MATH   as follows MATH  Then we 
+ seminorm of  ψ  as follows  MATH   Then we observe that since 
+ Then we observe that since   MATH   in  MATH MATH  The last 
+ observe that since  MATH  in   MATH  MATH  The last term can 
+ that since  MATH  in  MATH  MATH   The last term can be 
+ inequality (see  [7, Proposition 2.2] )  MATH   where  MATH  . By inserting the 
+ [7, Proposition 2.2]  ) MATH  where   MATH   . By inserting the resulting estimate 
+ that we also used that   MATH   , in order to replace a 
+ order to replace a power   MATH   by  MATH . Finally, for   (2.11) 
+ replace a power  MATH  by   MATH  . Finally, for  (2.11)  we first 
+ a standard Lipschitz cut-off function   MATH   such that  MATH 
+ cut-off function  η  such that  MATH   Then we observe that   MATH 
+ MATH   Then we observe that   MATH   , thus by using the discrete 
+ (2.9)   and the properties of   MATH   we get MATH  We proceed 
+ properties of  η  we get  MATH   We proceed as before  MATH 
+ MATH   We proceed as before  MATH   By using the Lipschitz character 
+ using the Lipschitz character of   MATH   , we can now easily get 
+442(text): Let
+Let  MATH  and MATH . Let MATH  be 
+444(text): and
+Let MATH and  MATH  . Let MATH  be such that 
+446(text): . Let
+ Let  MATH and MATH . Let  MATH   be such that for some 
+448(text): be such that for some
+ be such that for some   MATH  we have MATH  Then there 
+450(text): we have
+ for some  MATH we have  MATH  Then there holds MATH  for 
+452(text): Then there holds
+ have  MATH Then there holds  MATH  for some constant MATH .
+454(text): for some constant
+ holds  MATH for some constant  MATH  .
+456(text): .
+ it for completeness. We have   MATH   The constant  C  above depends 
+ We have  MATH  The constant   MATH   above depends on  N  and 
+ constant  C  above depends on   MATH   and  p  only. This concludes 
+ above depends on  N  and   MATH   only. This concludes the proof. 
+ basic properties of the spaces   MATH   and  MATH  we introduced in 
+ of the spaces  MATH  and   MATH   we introduced in   Definition 1.1 
+ 1.1  . We recall the notation  MATH   Lemma 2.8InclusionsLet1≤p<∞and0<s<1andΩ⊂RN. Then we have 
+464(text): Let
+Let  MATH  and MATH and MATH  . Then 
+466(text): and
+Let MATH and  MATH  and MATH  . Then we have 
+468(text): and
+ Let  MATH and MATH and  MATH   . Then we have the following 
+470(text): . Then we have the following inclusions
+ we have the following inclusions   MATH  MATH MATH
+ the following inclusions  MATH  MATH  MATH
+ inclusions  MATH MATH  MATH 
+ by Hölder inequality we have   MATH   Similarly, for the second inclusion 
+ we observe that for every   MATH   we have MATH  and the 
+ for every  MATH  we have  MATH   and the last term is 
+ term is bounded by the   MATH   seminorm of  ψ  , thanks to 
+ by the  MATH  seminorm of   MATH  , thanks to  (2.9)  . This shows 
+ (2.9)  . This shows  (2.14)  for   MATH   , the general case follows by 
+ case follows by observing that   MATH   for  MATH .
+ by observing that  MATH  for   MATH  .
+ Finally, we prove  (2.15) . Let   MATH  , by definition of  MATH  there 
+ Let  MATH , by definition of   MATH   there exists  MATH  such that 
+ definition of  MATH  there exists   MATH   such that MATH  thus in 
+ there exists  MATH  such that  MATH   thus in particular for every 
+ every open and bounded set   MATH   we have MATH  We now 
+ bounded set  MATH  we have  MATH   We now get the conclusion 
+488(text): Let
+Let  MATH  and MATH  . We consider two 
+490(text): and
+Let MATH and  MATH   . We consider two pairs of 
+492(text): . We consider two pairs of sets
+ consider two pairs of sets   MATH  and MATH such that  MATH 
+494(text): and
+ pairs of sets  MATH and  MATH  such that MATH  Then for 
+496(text): such that
+ MATH  and MATH such that  MATH  Then for every MATH  we 
+498(text): Then for every
+ that  MATH Then for every  MATH  we have MATH  In particular, 
+500(text): we have
+ for every  MATH we have  MATH  In particular, we get  MATH 
+502(text): In particular, we get
+ MATH  In particular, we get  MATH 
+ (2.16)   is elementary. We have  MATH   With some standard manipulations we 
+ whole section, we denote by   MATH   a local weak solution of 
+ of  (1.7) , with right-hand side   MATH   and  K  satisfying  (1.6)  . Thus 
+ with right-hand side  MATH  and   MATH   satisfying  (1.6)  . Thus for every 
+ satisfying  (1.6) . Thus for every   MATH   and any  MATH  such that 
+ for every  MATH  and any   MATH   such that  MATH  on   MATH 
+ and any  MATH  such that   MATH   on  MATH , the function   u 
+ MATH   such that  MATH  on   MATH  , the function  u  satisfies   (1.8) 
+ MATH   on  MATH , the function   MATH   satisfies  (1.8)  . For notational simplicity, 
+ notational simplicity, we will set   MATH   We also set  MATH 
+ set  MATH  We also set  MATH   and then define the nonlinear 
+ nonlinear function of the solution   MATH   by MATH  By a slight 
+ of the solution  MATH  by  MATH   By a slight abuse of 
+ abuse of notation, for every   MATH   we will use the following 
+ will use the following convention   MATH 
+ a free parameter of differentiability   MATH   . This is an iterative scheme 
+ which improves the differentiability of   MATH   . We notice that the case 
+ We notice that the case   MATH   formally corresponds to the result 
+ the result  (1.1)  for the   MATH  -Laplacian.   Proposition 3.1Differentiability schemeLetp≥2,0<s<1and0≤t≤s. We 
+523(text): Let
+Let  MATH  , MATH and MATH  . We take 
+525(text): ,
+Let MATH ,  MATH  and MATH . We take  MATH 
+527(text): and
+Let MATH , MATH and  MATH  . We take MATH a  pair 
+529(text): . We take
+ MATH  and MATH . We take  MATH  a  pair of concentric balls 
+ and  MATH . We take MATH  MATH   pair of concentric balls and 
+532(text): pair of concentric balls and fix
+ of concentric balls and fix   MATH  We take η a  standard 
+ and fix  MATH We take  MATH  a standard MATH  cut-off function 
+ fix  MATH We take η  MATH  standard MATH  cut-off function such 
+536(text): standard
+ We take  η a standard  MATH  cut-off function such that  MATH 
+538(text): cut-off function such that
+ MATH  cut-off function such that  MATH  For every MATH  such that 
+540(text): For every
+ such that  MATH For every  MATH  such that MATH  and every 
+542(text): such that
+ For every  MATH such that  MATH  and every MATH  we have 
+544(text): and every
+ such that  MATH and every  MATH  we have MATH for  a 
+546(text): we have
+ and every  MATH we have  MATH  for a constant MATH .
+ MATH  we have MATH for  MATH  constant MATH .
+549(text): constant
+ have  MATH for a constant  MATH  .
+551(text): .
+ We take a test function   MATH   such that  MATH  on   MATH 
+ test function  MATH  such that   MATH   on  MATH . By testing   (1.8) 
+ MATH   such that  MATH  on   MATH  . By testing  (1.8)  with   MATH 
+ MATH  . By testing  (1.8)  with   MATH   for  MATH  with  MATH  and 
+ testing  (1.8)  with  MATH  for   MATH   with  MATH  and then changing 
+ with  MATH  for  MATH  with   MATH   and then changing variables, we 
+ then changing variables, we get   MATH   We recall that  μ  is 
+ get  MATH  We recall that   MATH   is the singular measure defined 
+ from  (3.4) , thus we get  MATH   for every  MATH  such that 
+ we get  MATH  for every   MATH   such that  MATH  on   MATH 
+ for every  MATH  such that   MATH   on  MATH  . Finally, we insert 
+ MATH   such that  MATH  on   MATH  . Finally, we insert in   (3.5) 
+ in  (3.5)  the test function  MATH   where  η  is the cut-off 
+ the test function  MATH  where   MATH   is the cut-off function of 
+ in  (3.5)  in three pieces:  MATH   and MATH  We estimate each 
+ in three pieces:  MATH  and  MATH   We estimate each term separately. 
+568(text): Estimate of
+Estimate of  MATH  .  We start by observing that 
+570(text): .
+ We start by observing that   MATH   Thus we get MATH  The 
+ that  MATH  Thus we get  MATH   The first term has a 
+ (B.2)  , the definition  (3.2)  of   MATH  , Young inequality and  (B.1)  to 
+ inequality and  (B.1)  to get  MATH   where  MATH  . By putting all 
+ (B.1)   to get MATH  where   MATH   . By putting all the estimates 
+ the estimates together and choosing   MATH   sufficiently small, we then get 
+ sufficiently small, we then get   MATH   for some constant  MATH  . We 
+ get  MATH  for some constant   MATH   . We can further estimate from 
+ (B.4)  . This leads us to  MATH   We now observe that if 
+ if we set for simplicity   MATH   then by using the convexity 
+ by using the convexity of   MATH  , we have MATH  Thus from 
+ convexity of  MATH , we have  MATH   Thus from  (3.6)  together with 
+ with the assumption  (1.6)  on   MATH   , we get the following lower 
+ the following lower bound for   MATH  MATH  where  MATH  . We need 
+ following lower bound for  MATH  MATH   where  MATH  . We need to 
+ bound for  MATH MATH  where   MATH   . We need to estimate the 
+ again the assumption  (1.6)  on   MATH  , the Lipschitz character of   η 
+ K  , the Lipschitz character of   MATH   and some simple manipulations we 
+ some simple manipulations we get   MATH   for some  MATH  . Thus, from 
+ we get  MATH  for some   MATH  . Thus, from  (3.7)  by observing 
+ from  (3.7)  by observing that   MATH   and that  MATH  , we get 
+ observing that  MATH  and that   MATH  , we get MATH  where we 
+ and that  MATH , we get  MATH   where we also used that 
+ where we also used that   MATH   and that  MATH  . By the 
+ used that  MATH  and that   MATH   . By the Lipschitz character of 
+ By the Lipschitz character of   MATH   , the last integral is estimated 
+ last integral is estimated by   MATH   for some  MATH  . Observe that 
+ estimated by  MATH  for some   MATH   . Observe that we again used 
+ again used the trivial estimates   MATH   and  MATH , together with   MATH 
+ the trivial estimates  MATH  and   MATH  , together with  MATH  and   MATH 
+ MATH   and  MATH , together with   MATH   and  MATH .
+ MATH  , together with  MATH  and   MATH  .
+ Leibniz rule  (2.1) , we get  MATH   Observe that by the hypothesis 
+ Observe that by the hypothesis   MATH   and  MATH  . To get the 
+ by the hypothesis  MATH  and   MATH   . To get the last estimate, 
+We used that  MATH 
+ 3We used that|δhη(x)−δhη(y)|≤|x−y|∫01|∇η(x+t(y−x)+h)−∇η(x+t(y−x))|dt≤|x−y||h|‖D2η‖L∞.   of ∇  MATH   (recall that  MATH ).
+ of ∇  η  (recall that   MATH  ).
+ from  (3.8)  we finally get  MATH  Estimate of MATH .  By recalling 
+610(text): Estimate of
+ finally get  MATH Estimate of  MATH  .  By recalling that  η  is 
+612(text): .
+ of  MATH .  By recalling that   MATH   is supported on  MATH  , we 
+ that  η  is supported on   MATH  , we have MATH  Then we 
+ supported on  MATH , we have  MATH   Then we observe that by 
+ observe that by basic calculus   MATH   Using once again the assumption 
+ assumption  (1.6)  on the kernel   MATH  , we get MATH  where   MATH 
+ the kernel  K , we get  MATH   where  MATH  . We now estimate 
+ K  , we get MATH  where   MATH   . We now estimate each term 
+ the first one, we have   MATH   Then by Jensen's inequality  4 
+ With respect to the measure   MATH   which is finite on   MATH 
+ MATH   which is finite on   MATH  , for every  MATH .
+ finite on  MATH , for every   MATH  .
+ some simple manipulations, we get   MATH   for some  MATH  , where we 
+ we get  MATH  for some   MATH   , where we recall the definition 
+ we recall the definition of   MATH  , given in  (3.2)  . For the 
+ side of  (3.11) , we have  MATH   By proceeding similarly as before, 
+ Jensen's inequality we also have   MATH   Thus from  (3.11)  we get 
+ we get the following lower-bound   MATH   By a further application of 
+ of Hölder's inequality with exponents   MATH   the second term in the 
+ of  (3.12)  is estimated by  MATH   By using this estimate, we 
+ this estimate, we obtain for   MATH   the following lower bound  MATH 
+ MATH   the following lower bound  MATH   To obtain the previous, we 
+ previous, we also observed that   MATH   and used that  MATH  . Observe 
+ that  MATH  and used that   MATH   . Observe that the last term 
+ quantity containing a difference quotient   MATH  . By recalling  Definition 1.1  and 
+ Definition 1.1   and using that   MATH  , we get 5  5Observe that12dist(BR+r2,RN∖BR)=R−r4>h0, 
+Observe that  MATH   thus we have MATH  by 
+ that  MATH  thus we have  MATH   by the very definition   (1.4) 
+ definition (1.4) of the latter.   MATH   Finally, for the common   MATH 
+ MATH   Finally, for the common   MATH   term in  (3.13)  , we have 
+ term in  (3.13) , we have  MATH   for some  MATH  . Moreover, by 
+ we have  MATH  for some   MATH   . Moreover, by the monotonicity properties 
+ in  Lemma 2.9 , we have  MATH   With a simple change of 
+ variables and by observing that   MATH   still by  Lemma 2.9  we 
+ Lemma 2.9   we get again  MATH   By keeping everything together, we 
+ keeping everything together, we get   MATH   still for  MATH  . By using 
+ we get  MATH  still for   MATH  . By using  (3.14)  and   (3.15) 
+ we finally end up with   MATH  Estimate of MATH .  This is 
+650(text): Estimate of
+ up with  MATH Estimate of  MATH  .  This is estimated exactly in 
+652(text): .
+ in the same manner as   MATH  . We thus get MATH  Conclusion. 
+ as  MATH . We thus get  MATH  Conclusion.  From  (3.4)  we have 
+655(text): Conclusion.
+ Conclusion.   From  (3.4)  we have  MATH   Thus by using  (3.10) ,   (3.16) 
+ the conclusion, by recalling that   MATH   and that MATH  which follows 
+ recalling that  MATH  and that  MATH   which follows from the hypothesis 
+ which follows from the hypothesis   MATH  . □
+ Observe that the nonlocal terms   MATH   and  MATH  in the right-hand 
+ the nonlocal terms  MATH  and   MATH   in the right-hand side   (3.3) 
+ not contain the correction factor   MATH   , as it is natural. Indeed, 
+ if we multiply  (3.3)  by   MATH   these terms have to disappear 
+ to disappear in the limit   MATH   , which corresponds to the equation 
+665(text): Let
+Let  MATH  , MATH and MATH . Let  MATH 
+667(text): ,
+Let MATH ,  MATH  and MATH . Let MATH  be 
+669(text): and
+Let MATH , MATH and  MATH  . Let MATH be a  couple 
+671(text): . Let
+ MATH  , MATH and MATH . Let  MATH  be a  couple of concentric 
+ and  MATH . Let MATH be  MATH   couple of concentric balls. We 
+ of concentric balls. We take   MATH  a standard MATH  cut-off function 
+ concentric balls. We take  η  MATH  standard MATH  cut-off function such 
+676(text): standard
+ We take  η a standard  MATH  cut-off function such that  MATH 
+678(text): cut-off function such that
+ MATH  cut-off function such that  MATH   Let us assume that for 
+ us assume that for some   MATH  such that MATH  and some 
+681(text): such that
+ for some  γ such that  MATH  and some MATH  we have 
+683(text): and some
+ such that  MATH and some  MATH  we have MATH  Then, by 
+685(text): we have
+ and some  MATH we have  MATH   Then, by setting for simplicity 
+687(text): Then, by setting for simplicity
+ Then, by setting for simplicity   MATH   we have the Besov–Nikol'skii estimate 
+689(text): we have the Besov–Nikol'skii estimate
+ we have the Besov–Nikol'skii estimate   MATH  for some MATH  . In particular, 
+691(text): for some
+ Besov–Nikol'skii estimate  MATH for some  MATH   . In particular, we have the 
+ have the following estimates, for   MATH  possibly different constant MATH :  •if(3.20)sup0<|h|<h0⁡‖δhu|h|Γ‖Lp(Br)p≤Cs(1−Γ)p(Rr)N(Rh0)1+p[(1−s)Mγ+h0−Γp‖u‖Lp(BR+h0)p];•iffor 
+694(text): possibly different constant
+ for  a possibly different constant  MATH  : •if(3.20)sup0<|h|<h0⁡‖δhu|h|Γ‖Lp(Br)p≤Cs(1−Γ)p(Rr)N(Rh0)1+p[(1−s)Mγ+h0−Γp‖u‖Lp(BR+h0)p];•iffor every0<τ<1(3.21)sup0<|h|<h0⁡‖δhu|h|τ‖Lp(Br)p≤C(1−τ)p(Rr)N(Rh0)1+p[(1−s)Mγ+h0−p‖u‖Lp(BR+h0)p];•if(3.22)‖∇u‖Lp(Br)p≤C(Γ−1)p(Rr)N(Rh0)1+p[(1−s)Mγ+h0−Γp‖u‖Lp(BR+h0)p],and for every0<τ<Γ−1(3.23)[∇u]Wτ,p(Br)p≤C(R/r)N(Γ−1−τ)τ(Rh0)1+p(h0−τ(2−Γ)(Γ−1))p[(1−s)Mγ+h0−Γp‖u‖Lp(BR+h0)p].
+696(text): :
+697(text): if
+if   MATH 
+699(text): if
+700(text): for every
+if  for every  MATH  MATH
+if  for every MATH  MATH 
+703(text): if
+if   MATH  and for every MATH  MATH 
+705(text): and for every
+ if   MATH and for every  MATH  MATH
+ MATH  and for every MATH  MATH 
+Let   MATH   , by using the hypothesis and 
+ and  (2.10)  with the choices  MATH   we get  MATH 
+ the choices  MATH  we get  MATH   Here we also used that 
+ Here we also used that   MATH   , by hypothesis. If we now 
+ hypothesis. If we now choose   MATH  , recall  (2.2)  and take the 
+ and take the supremum over   MATH  , we obtain MATH  By joining 
+ supremum over  MATH , we obtain  MATH   By joining  (2.3)  and the 
+ with simple manipulations we have   MATH   where we used the expedient 
+716(text): Case
+ now use  Lemma 2.3  for   MATH  , then from  (3.19)  we get 
+ then from  (3.19)  we get  MATH   By using the discrete Leibniz 
+ and the Lipschitz character of   MATH  , we have MATH  for   MATH 
+ character of  η , we have  MATH   for  MATH . Then  (3.20)  follows 
+ η  , we have MATH  for   MATH  . Then  (3.20)  follows by using 
+ in  (3.25)  and observing that   MATH   and that  MATH .
+ observing that  MATH  and that   MATH  .
+724(text): Case
+Case  . Let   MATH   , we begin by observing that 
+ begin by observing that since   MATH  MATH  Also observe that since 
+ by observing that since  MATH  MATH   Also observe that since   MATH 
+ MATH   Also observe that since   MATH  , we have  MATH 
+ that since  MATH , we have  MATH   so in this case, upon 
+ case, upon redefining the constant   MATH   , we can forget the factor 
+ we can forget the factor   MATH   in  (3.19) . By using   (2.5) 
+ on the right, we get   MATH   possibly with a different constant 
+ possibly with a different constant   MATH  . Finally, we use again   (3.25) 
+ to remove the dependence on   MATH   and the fact that   MATH 
+ η   and the fact that   MATH  .
+736(text): Case
+ the parameters, we always have   MATH   . Moreover, as in the previous 
+ previous case we still have   MATH   , thus again we can forget 
+ we can forget the factor   MATH   in  (3.19)  . Then we use 
+ we use  Proposition 2.4  with   MATH   and from  (3.19)  we get 
+ and from  (3.19)  we get  MATH   By recalling that  MATH  on 
+ get  MATH  By recalling that   MATH   on  MATH  and observing that 
+ By recalling that  MATH  on   MATH   and observing that  MATH  , we 
+ on  MATH  and observing that   MATH  , we get  (3.22)  . As for 
+ and  (3.19)  we also have  MATH   If we now apply   Proposition 
+ to the compactly supported function   MATH   and the exponent  MATH  we 
+ function  MATH  and the exponent   MATH   we get MATH  for every 
+ the exponent  MATH  we get  MATH   for every  MATH  . The right-hand 
+ we get  MATH  for every   MATH   . The right-hand side is now 
+Let   MATH   and  MATH  , we want to 
+Let  MATH  and   MATH   , we want to prove the 
+ –  (1.12)  on the balls   MATH   and  MATH  . Without loss of 
+ on the balls  MATH  and   MATH   . Without loss of generality, we 
+ generality, we can assume that   MATH   is centered at the origin. 
+ we consider the rescaled functions   MATH   then  MATH  and by   (1.5) 
+ functions  MATH  then   MATH   and by  (1.5)  is a 
+ solution in the rescaled set   MATH  , with right-hand side  MATH  . Thus 
+ set  MATH , with right-hand side   MATH   . Thus we just need to 
+ we just need to estimate   MATH   or  MATH 
+ MATH   or  MATH   The desired results will be 
+ all, we define the sequence   MATH   We observe  MATH  is strictly 
+ the sequence  MATH  We observe   MATH   is strictly increasing and  MATH 
+ MATH   is strictly increasing and  MATH   We take any index   MATH 
+ MATH   We take any index   MATH   such that MATH  the precise 
+ any index  MATH  such that  MATH   the precise choice of   MATH 
+ MATH   the precise choice of   MATH   will be done below. We 
+ the decreasing sequence of radii   MATH   Accordingly, we consider the concentric 
+ we consider the concentric balls   MATH   and observe that  MATH 
+ balls  MATH  and observe that  MATH   We point out that by 
+ that by construction, we have   MATH   Then we define MATH  thus 
+ MATH   Then we define  MATH   thus with such a choice 
+ such a choice we have   MATH   Finally, for every  MATH  we 
+ have  MATH  Finally, for every   MATH   we choose a standard cut-off 
+ choose a standard cut-off function   MATH   such that  MATH 
+ cut-off function  MATH  such that  MATH   By taking into account   (4.3) 
+ (4.3)   and  (4.4) , for every   MATH   by  Proposition 3.1  with simple 
+ get (recall the definition of   MATH   and that  MATH ) MATH  for 
+ definition of  MATH  and that   MATH  ) MATH  for some  MATH  . Before 
+ of  MATH  and that  MATH )  MATH   for some  MATH  . Before going 
+ that  MATH ) MATH  for some   MATH   . Before going on, we try 
+By construction   MATH   for every  MATH  , then by 
+ By construction  MATH  for every   MATH  , then by  Proposition 2.6  (  local 
+783(text): local case
+ 2.6   ( local case ) we get  MATH   where we used again that 
+ where we used again that   MATH   . Also, by the monotonicity properties 
+ monotonicity properties of  Lemma 2.9  MATH   where we used that by 
+ we used that by construction   MATH   Finally, by observing that  MATH 
+ MATH   Finally, by observing that  MATH   by  (2.16)  with the choices 
+ by  (2.16)  with the choices  MATH   we get MATH  for some 
+ the choices  MATH  we get  MATH   for some  MATH  . The last 
+ we get  MATH  for some   MATH   . The last local term can 
+792(text): local case
+ case  ) as follows (recall that   MATH  ) MATH  By using  (4.6) ,   (4.7) 
+ as follows (recall that  MATH )  MATH   By using  (4.6) ,  (4.7) ,   (4.8) 
+ in  (4.5)  and observing that  MATH   for every  MATH  we obtain 
+ observing that  MATH  for every   MATH   we obtain MATH  where   MATH 
+ for every  MATH  we obtain  MATH   where  MATH  is the quantity 
+ MATH   we obtain MATH  where   MATH   is the quantity defined in 
+ for simplicity we just write   MATH   in place of  MATH  . Observe 
+ write  MATH  in place of   MATH  . Observe that  MATH  , thanks to 
+ place of  MATH . Observe that   MATH   , thanks to the assumptions on 
+ thanks to the assumptions on   MATH   and  f .
+ the assumptions on  u  and   MATH  .
+We now set  MATH   and claim that  MATH 
+ set  MATH  and claim that  MATH   This is true by a 
+ by a finite induction: for   MATH  , we have  MATH  and by 
+ induction: for  MATH , we have   MATH   and by combining  (4.10)  and 
+808(text): local case
+ 2.6   ( local case ) we get  MATH   where we used again that 
+ where we used again that   MATH   . Thus the claim is true 
+ the claim is true for   MATH   . Also, by using the definition 
+ by using the definition of   MATH   and  (4.4)  , we can infer 
+ and  (4.4) , we can infer  MATH   where as usual  MATH .
+ infer  MATH  where as usual   MATH  .
+ Let us now assume that   MATH   for an index 6  6Of 
+Of course, if   MATH   there is nothing to prove. 
+ there is nothing to prove.   MATH  , then we can use   Lemma 
+ (3.20)   and  (4.10)  we get  MATH   where  MATH  is a possibly 
+ (4.10)   we get MATH  where   MATH   is a possibly different constant 
+ we used the relation between   MATH   and  MATH  and the fact 
+ the relation between  MATH  and   MATH   and the fact that   MATH 
+ MATH   and the fact that   MATH   . This in turn shows that 
+ This in turn shows that   MATH   and thus the validity of 
+ the previous estimate. Observe that   MATH   where we used the definition 
+ used the definition  (4.4)  of   MATH   and the fact that   MATH 
+ MATH   and the fact that   MATH   . From the previous discussion and 
+ thus obtain the iterative scheme   MATH   where  MATH  and  MATH  . It 
+ scheme  MATH  where   MATH   and  MATH  . It is intended 
+ MATH   where  MATH  and   MATH   . It is intended that the 
+ in  (4.13)  is void when   MATH   . Without loss of generality, we 
+ generality, we can assume that   MATH  .
+Case   MATH 
+ We fix a differentiability exponent   MATH   such that MATH  as in 
+ differentiability exponent  τ  such that  MATH   as in  (1.10)  , then the 
+ in  (1.10) , then the index   MATH   above is chosen so that 
+ above is chosen so that   MATH   This is possible thanks to 
+ to  (4.2) . We recall that   MATH   for every  MATH  . By using 
+ recall that  MATH  for every   MATH   . By using this observation in 
+ (4.13)   and iterating, we get  MATH   where  MATH , since  MATH .
+ iterating, we get  MATH  where   MATH  , since  MATH .
+ get  MATH  where  MATH , since   MATH  .
+ (4.14)   yield the Besov–Nikol'skii estimate  MATH   where we further used that 
+ where we further used that   MATH   . The left-hand side is estimated 
+ to  (2.4) , thus we get  MATH   We now recall that   MATH 
+ MATH   We now recall that   MATH   has been chosen so that 
+ has been chosen so that   MATH  , by applying  Proposition 2.7  we 
+ applying  Proposition 2.7  we get  MATH   On the other hand   MATH 
+ MATH   On the other hand   MATH   on  MATH  and by definition 
+ the other hand  MATH  on   MATH   and by definition of   MATH 
+ MATH   and by definition of   MATH   and the fact that   MATH 
+ MATH   and the fact that   MATH  MATH  Thus we conclude with 
+ and the fact that  MATH  MATH   Thus we conclude with the 
+ the estimate (we use that   MATH   and again  MATH ) MATH  where 
+ use that  MATH  and again   MATH  ) MATH  where  MATH  as usual 
+ that  MATH  and again  MATH )  MATH   where  MATH  as usual depends 
+ and again  MATH ) MATH  where   MATH   as usual depends on   MATH 
+ MATH   as usual depends on   MATH   and Λ only. We now 
+ catch the desired estimate for   MATH   in  MATH  . By recalling the 
+ desired estimate for  u  in   MATH  . By recalling the definition   (1.9) 
+ recalling the definition  (1.9)  of   MATH  , from  (4.15)  with a simple 
+ exactly get  (1.10) . The constant   MATH   appearing in  (1.10)  is given 
+ in  (1.10)  is given by  MATH 
+Case   MATH 
+ in this case we have   MATH   We still consider the sequence 
+ We still consider the sequence   MATH   defined by  (4.1)  . Observe that 
+ Observe that in this case   MATH   Then this time the index 
+ Then this time the index   MATH   is chosen so that  MATH 
+ MATH   is chosen so that  MATH   which is feasible. From the 
+ scheme  (4.13) , by using that   MATH   for  MATH , we get  MATH 
+ by using that  MATH  for   MATH  , we get MATH  exactly as 
+ MATH   for  MATH , we get  MATH   exactly as in  (4.14)  , with 
+ exactly as in  (4.14) , with   MATH  . We also used  (4.16)  in 
+ to rule out the factor   MATH  .
+ distinction between two possible subcases   MATH  Case  .  Since  MATH  , we can 
+ MATH  Case  .  Since   MATH  , we can apply  (3.22)  of 
+ of  Lemma 3.3  and get  MATH   which shows that  MATH  . By 
+ get  MATH  which shows that   MATH  . By using  (4.17)  in the 
+ estimate and the definitions of   MATH   and of  MATH  , we end 
+ definitions of  MATH  and of   MATH  , we end up with  MATH 
+ MATH  , we end up with  MATH   where  MATH  . By going back 
+ end up with  MATH  where   MATH   . By going back to the 
+ back to the original solution   MATH   with a scaling, we get 
+ get  (1.11)  with the constant   MATH   given by MATH  We still 
+ the constant  MATH  given by  MATH   We still need to prove 
+ (3.23)   of  Lemma 3.3  with   MATH   , we would get the weaker 
+Indeed, observe that   MATH  .
+ 7  7Indeed, observe that γi0<(1+t+sp)/p.  MATH   Thus, we have to proceed 
+ introduce the new cut-off function   MATH   such that  MATH 
+ cut-off function  MATH  such that  MATH   Then we observe that since 
+ Then we observe that since   MATH   we have MATH  We can 
+ that since  MATH  we have  MATH   We can now use   Proposition 
+ 3.1   in the limit case   MATH   and with balls  MATH  , this 
+ case  MATH  and with balls   MATH  , this gives MATH  By combining 
+ with balls  MATH , this gives  MATH   By combining  (4.19)  and   (4.18) 
+ (4.18)   and still using  (4.16) ,   MATH   can be further estimated by 
+ can be further estimated by   MATH   Then by using estimate   (3.23) 
+ (3.23)   of  Lemma 3.3  for   MATH   and the previous inequality for 
+ and the previous inequality for   MATH  , we get MATH  where   MATH 
+ inequality for  MATH , we get  MATH   where  MATH  . The usual elementary 
+ MATH  , we get MATH  where   MATH   . The usual elementary manipulations used 
+ used so far then give   MATH   By scaling we get   (1.12) 
+ as desired, with the constant   MATH   given by MATH  and   MATH 
+ the constant  MATH  given by  MATH   and  MATH  depending on   MATH 
+ MATH   given by MATH  and   MATH   depending on  MATH  and Λ 
+ MATH   and  MATH  depending on   MATH   and Λ only. This concludes 
+ the proof in the subcase   MATH  .
+ due to the fact that   MATH   . Rather than jumping directly from 
+ jumping directly from the ball   MATH   to the final one   MATH 
+ MATH   to the final one   MATH   as before, we need to 
+ introduce the new intermediate ball   MATH  MATH  Then we replace the 
+ the new intermediate ball  MATH  MATH   Then we replace the cut-off 
+ we replace the cut-off function   MATH   with the new one   MATH 
+ MATH   with the new one   MATH   such that  MATH 
+ new one  MATH  such that  MATH   Finally, we set MATH  We 
+ MATH   Finally, we set  MATH   We now proceed by iteration 
+ step we replace  (4.13)  with  MATH   The latter can be proved 
+ Thus this time we get   MATH   An application of estimate   (3.21) 
+ radii of the two balls   MATH   and  MATH  is such that 
+ the two balls  MATH  and   MATH   is such that MATH
+ and  MATH  is such that  MATH 
+ and Bri0−1 is such thatri0−1−ri0−1+3ri04=34(ri0−1−ri0)=316i0>4h0.   MATH   for an arbitrary  MATH  (we 
+ thatri0−1−ri0−1+3ri04=34(ri0−1−ri0)=316i0>4h0.  MATH  for an arbitrary   MATH   (we still used  (4.16)  to 
+ (4.16)   to neglect the factor   MATH  ). We now apply   Proposition 3.1 
+ apply  Proposition 3.1  with balls   MATH   , this would give as at 
+ the beginning of the proof   MATH   where  η  is as usual 
+ of the proof  MATH  where   MATH   is as usual a   MATH 
+ η   is as usual a   MATH   cut-off function, such that   MATH 
+ MATH   cut-off function, such that   MATH   on  MATH . By choosing   MATH 
+ function, such that  MATH  on   MATH  . By choosing  MATH  such that 
+ MATH   on  MATH . By choosing   MATH   such that MATH  we are 
+ By choosing  MATH  such that  MATH   we are then reduced to 
+ reduced to the previous subcase   MATH   . The proof can then be 
+The number of iterations   MATH 
+ on the number of iterations   MATH   . In particular, all the constants 
+ all the constants blow-up as   MATH   goes to ∞. It is 
+ recall that if we set   MATH   the sequence  MATH  has the 
+ we set  MATH  the sequence   MATH   has the following explicit expression 
+ has the following explicit expression   MATH   Then in the case    , the 
+ in the case   , the exponent   MATH   is given by (recall that 
+ is given by (recall that   MATH  ) MATH  while in the case 
+ given by (recall that  MATH )  MATH   while in the case    , this 
+ case   , this is given by  MATH   and we have MATH
+ by  MATH  and we have  MATH 
+Robust estimate for   MATH 
+ and  (1.12) , this time for   MATH   sufficiently close to 1 and 
+ 1.6  . We still denote by   MATH   the scaled solution. Let us 
+ solution. Let us thus fix   MATH   and consider  MATH  such that 
+ thus fix  MATH  and consider   MATH   such that MATH  Observe that 
+ and consider  MATH  such that  MATH   Observe that sequence  MATH  defined 
+ that  MATH  Observe that sequence   MATH   defined in  (4.1)  is such 
+ in  (4.1)  is such that  MATH   thus  MATH  and we can 
+ is such that  MATH  thus   MATH   and we can conclude in 
+ the usual case of the   MATH  -Laplacian. By using estimate   (3.22) 
+ and  (4.20) , we immediately get  MATH   This leads directly to (recall 
+ directly to (recall  (4.12)  for   MATH  ) MATH  By scaling back we 
+ to (recall  (4.12)  for  MATH )  MATH   By scaling back we get 
+ the fractional differentiability of ∇   MATH   , we can reproduce the final 
+ final step of the case   MATH   above ( case MATH  ). That is, 
+959(text): case
+ the case  MATH  above ( case  MATH  ). That is, we use   (4.19) 
+ is, we use  (4.19) , i.e.  MATH   then  Proposition 3.1  in the 
+ 3.1   in the limit case   MATH   (with balls  MATH  ) and once 
+ limit case  MATH  (with balls   MATH  ) and once more estimate   (3.23) 
+ of the more general equation   MATH   where  MATH  is a locally 
+ more general equation  MATH  where   MATH   is a locally Lipschitz function. 
+ the case of eigenfunctions of   MATH  , corresponding to  MATH ,  MATH  and 
+ eigenfunctions of  MATH , corresponding to   MATH  ,  MATH  and  MATH  for some 
+ of  MATH , corresponding to  MATH ,   MATH   and  MATH  for some   MATH 
+ corresponding to  MATH ,  MATH  and   MATH   for some  MATH  . This nonlinear 
+ MATH   and  MATH  for some   MATH   . This nonlinear and nonlocal eigenvalue 
+ holds for local weak solutions   MATH   of  (4.21)  such that  MATH 
+ MATH   of  (4.21)  such that  MATH   Indeed, the only difference with 
+ the right-hand side of  (3.3)  MATH   This is of course a 
+ be estimated as follows for   MATH  MATH  where  MATH 
+ estimated as follows for  MATH  MATH   where MATH  The 
+ follows for  MATH MATH  where  MATH   The last term in   (4.22) 
+ of  (4.21) , with the term   MATH   defined in  (1.9)  replaced by 
+ defined in  (1.9)  replaced by  MATH   and  L  is as above. 
+ (1.9)   replaced by MATH  and   MATH   is as above.   Remark 1.6 
+ Gruppo Nazionale per l'Analisi Matematica,   MATH  Probabilità e le  loro Applicazioni 
+ per l'Analisi Matematica,  la Probabilità  MATH  le loro Applicazioni  (GNAMPA) of 
+ l'Analisi Matematica,  la Probabilità e  MATH  loro Applicazioni  (GNAMPA) of the 
+983(text): loro Applicazioni
+In  [28]  the space   MATH   is denoted by  MATH .
+ space  MATH  is denoted by   MATH  .
+ We introduce the heat kernel   MATH   then we set MATH  Observe 
+ kernel  MATH  then we set  MATH   Observe that by the semigroup 
+ the heat kernel we have   MATH   thus we get MATH  where 
+ have  MATH  thus we get  MATH   where ∇ denotes the gradient 
+ gradient with respect to the   MATH   variable. In order to estimate 
+ right-hand side of  (A.1)  for   MATH  , we observe that 10  10We 
+We have  MATH 
+ observe that  10 10We have∂∂tKt(x)=Kt(x)[|x|24t2−N2t].  MATH   Thus we get MATH  From 
+ have∂∂tKt(x)=Kt(x)[|x|24t2−N2t].  MATH  Thus we get  MATH   From this, by Minkowski inequality 
+ by Minkowski inequality we obtain   MATH   With a simple change of 
+ change of variables, this gives   MATH   Observe that for  MATH  MATH 
+ gives  MATH  Observe that for   MATH  MATH  and the last two 
+ MATH   Observe that for  MATH  MATH   and the last two terms 
+ finite and depend only on   MATH  , so that in conclusion  MATH 
+ N  , so that in conclusion  MATH   for some  MATH  . Then from 
+ in conclusion  MATH  for some   MATH  . Then from  (A.1)  and   (A.2) 
+ (A.2)   we obtain for every   MATH  MATH  We now integrate the 
+ we obtain for every  MATH  MATH   We now integrate the previous 
+ previous inequality on the interval   MATH   , by Minkowski inequality again we 
+ Minkowski inequality again we get   MATH   Since  MATH  by assumption, this 
+ again we get  MATH  Since   MATH   by assumption, this shows that 
+ by assumption, this shows that   MATH   is a Cauchy net in 
+ net in the complete space   MATH   . Thus there exists a sequence 
+ Thus there exists a sequence   MATH   converging to 0 as   k 
+ MATH   converging to 0 as   MATH   goes to ∞, such that 
+ goes to ∞, such that   MATH   converges strongly in  MATH  . The 
+ that  MATH  converges strongly in   MATH   . The limit function is the 
+ is the distributional gradient of   MATH  . Finally, this shows that   MATH 
+ ψ  . Finally, this shows that   MATH   . Moreover, by taking the limit 
+ (A.4)  , we get the estimate  MATH   which is  (2.7) .
+ Once the existence of ∇   MATH   in  MATH  is established, we 
+ existence of ∇  ψ  in   MATH   is established, we can now 
+ decay estimate on the hessian   MATH   . For this, we observe that 
+ For this, we observe that   MATH   Then of course we have 
+ Then of course we have   MATH   Similarly as before, we can 
+ as before, we can write   MATH   then for every  MATH  we 
+ write  MATH  then for every   MATH   we get MATH  By integrating 
+ for every  MATH  we get  MATH   By integrating this estimate between 
+ By integrating this estimate between   MATH   and  MATH  , as above we 
+ this estimate between  s  and   MATH  , as above we get  MATH 
+ MATH  , as above we get  MATH   By recalling that  MATH  , using 
+ get  MATH  By recalling that   MATH  , using  (A.5)  and taking the 
+ and taking the limit as   MATH   goes to ∞, we get 
+ get the desired decay estimate   MATH   Let  MATH  , by using that 
+ desired decay estimate  MATH  Let   MATH  , by using that  MATH  converges 
+ Let  MATH , by using that   MATH   converges to  ψ  as   t 
+ using that  MATH  converges to   MATH   as  t  goes to 0, 
+ MATH   converges to  ψ  as   MATH   goes to 0, we have 
+ goes to 0, we have   MATH   By using the smoothness of 
+ By using the smoothness of   MATH  , we can write MATH  which 
+ of  MATH , we can write  MATH   which implies MATH  thanks to 
+ can write  MATH  which implies  MATH   thanks to  (A.6)  . On the 
+ inequality and invariance of the   MATH   norm by translations, we have 
+ norm by translations, we have   MATH   where we also used   (A.3) 
+ with  (A.7) , so to get  MATH   for some  MATH  . The previous 
+ to get  MATH  for some   MATH   . The previous estimate holds for 
+ previous estimate holds for every   MATH   and the right-hand side is 
+ right-hand side is minimal for   MATH   . With such a choice we 
+ a choice we thus get   MATH   as desired. □
+For   MATH   we recall the definition of 
+ the definition of the functions   MATH   and  MATH  MATH 
+ of the functions  MATH  and   MATH  MATH  Lemma B.1Letp≥2, 
+ the functions  MATH  and  MATH  MATH   Lemma B.1Letp≥2, for everya,b∈Rwe have(B.1)(Jp(a)−Jp(b))(a−b)≥(p−1)(2p)2|Vp(a)−Vp(b)|2. 
+1049(text): Let
+Let  MATH  , for every MATH  we have 
+1051(text): , for every
+Let MATH , for every  MATH  we have MATH
+1053(text): we have
+ for every  MATH we have  MATH 
+Since   MATH   and  MATH  share the same 
+Since  MATH  and   MATH   share the same sign, we 
+ without loss of generality that   MATH  . If  MATH  there is nothing 
+ of generality that  MATH . If   MATH   there is nothing to prove. 
+ prove. Let us assume that   MATH  , then we have MATH  which 
+ that  MATH , then we have  MATH   which concludes the proof. □ 
+1061(text): Let
+Let  MATH  , for every MATH  we have 
+1063(text): , for every
+Let MATH , for every  MATH  we have MATH
+1065(text): we have
+ for every  MATH we have  MATH 
+For   MATH   there is nothing to prove. 
+ Let us consider the case   MATH   , without loss of generality, we 
+ generality, we can suppose that   MATH  . We set MATH  by basic 
+ suppose that  MATH . We set  MATH   by basic calculus we have 
+ by basic calculus we have   MATH   By observing that MATH  we 
+ have  MATH  By observing that  MATH   we get the conclusion. □ 
+1073(text): Let
+Let  MATH  , for every MATH  we have 
+1075(text): , for every
+Let MATH , for every  MATH  we have MATH  In particular, 
+1077(text): we have
+ for every  MATH we have  MATH   In particular, we also get 
+1079(text): In particular, we also get
+ In particular, we also get   MATH 
+Observe that if   MATH   or  MATH  , the result trivially 
+ Observe that if  MATH  or   MATH   , the result trivially holds. Thus 
+ Thus let us suppose that   MATH   and observe that the function 
+ and observe that the function   MATH   defined by MATH  is   MATH 
+ the function  MATH  defined by  MATH   is  MATH  -Hölder continuous. More 
+ MATH   defined by MATH  is   MATH   -Hölder continuous. More precisely, we 
+ continuous. More precisely, we have   MATH   By observing that  MATH  and 
+ have  MATH  By observing that   MATH   and applying the previous with 
+ and applying the previous with   MATH   we get  (B.3)  . The last 
+A nonlocal   MATH   -Laplacian evolution equation with nonhomogeneous 
+Limiting embedding theorems for   MATH   when  MATH  and applications
+ embedding theorems for  MATH  when   MATH   and applications
+ second eigenvalue of the fractional   MATH  -Laplacian
+ variational eigenvalues for the fractional   MATH  -Laplacian
+Local behavior of fractional   MATH  -minimizers
+Existence results for fractional   MATH   -Laplacian problems via Morse theory 
+ the weak solutions of fractional   MATH  -Laplacian equations
+ Hölder regularity for the fractional   MATH  -Laplacian
+ integral equations and approximation of   MATH  -Laplace equations
+ solutions of equations of fractional   MATH  -Laplace type
+ Nonlinear commutators for the fractional   MATH  -Laplacian and applications
