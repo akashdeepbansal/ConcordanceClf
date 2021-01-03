@@ -1,0 +1,994 @@
+{"concordanceText": " Duren  [3]  (cf.  [4,5] ). If   MATH   is a univalent complex-valued harmonic \n", "concordanceId": "0", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " by Lewy's theorem (see  [10] ),   MATH   has a non-vanishing Jacobian and \n", "concordanceId": "1", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " to the inverse mapping theorem,   MATH   is a diffeomorphism. Moreover, if \n", "concordanceId": "2", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " is a diffeomorphism. Moreover, if   MATH   is a harmonic function of \n", "concordanceId": "3", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " function of the unit disk   MATH   onto a bounded convex Jordan \n", "concordanceId": "4", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " convex Jordan domain Ω in   MATH  , mapping the boundary  MATH  onto \n", "concordanceId": "5", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " in  C , mapping the boundary   MATH   onto ∂Ω homeomorphically, then   w \n", "concordanceId": "6", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   onto ∂Ω homeomorphically, then   MATH   is a diffeomorphism. This is \n", "concordanceId": "7", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": "Let  MATH   be an orientation preserving diffeomorphism \n", "concordanceId": "9", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " orientation preserving diffeomorphism of class   MATH  onto a  simple closed curve. \n", "concordanceId": "11", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " diffeomorphism of class  MATH onto  MATH  simple closed curve. Let  D \n", "concordanceId": "12", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " a  simple closed curve. Let  MATH  be a  bounded domain such \n", "concordanceId": "13", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " closed curve. Let  D be  MATH  bounded domain such that  MATH \n", "concordanceId": "14", "annotator1": -1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " a  bounded domain such that  MATH  . Let MATH , where MATH  is \n", "concordanceId": "16", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " domain such that  MATH . Let  MATH  , where MATH  is the standard \n", "concordanceId": "18", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that  MATH . Let MATH , where  MATH   is the standard Poisson extension \n", "concordanceId": "20", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " the standard Poisson extension of   MATH  denied in (10)  below. Then \n", "concordanceId": "21", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " (10)  below. Then the mapping  MATH  is a diffeomorphism of  U \n", "concordanceId": "23", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Then the mapping  w is  MATH  diffeomorphism of U onto  D \n", "concordanceId": "24", "annotator1": -1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " w  is a diffeomorphism of  MATH  onto D  if and only \n", "concordanceId": "26", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " a  diffeomorphism of U onto  MATH  if and only if  MATH \n", "concordanceId": "27", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " D  if and only if  MATH  where MATH , and MATH  is \n", "concordanceId": "29", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " only if  MATH where  MATH  , and MATH  is the Jacobian \n", "concordanceId": "31", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH  where MATH , and  MATH  is the Jacobian of  w \n", "concordanceId": "33", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " MATH  is the Jacobian of  MATH  at rζ.\n", "concordanceId": "34", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let  MATH   be an orientation preserving Lipschitz \n", "concordanceId": "37", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " homeomorphism of the unit circle   MATH  onto a  Dini's smooth Jordan \n", "concordanceId": "39", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " the unit circle  T onto  MATH   Dini's smooth Jordan curve and \n", "concordanceId": "40", "annotator1": -1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " smooth Jordan curve and let   MATH   be its Poisson extension to \n", "concordanceId": "42", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " to the unit disk. Let   MATH  be a  bounded domain such \n", "concordanceId": "43", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " unit disk. Let  D be  MATH  bounded domain such that  MATH \n", "concordanceId": "44", "annotator1": -1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " a  bounded domain such that  MATH  . Then there is a  continuous \n", "concordanceId": "46", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that  MATH . Then there is  MATH  continuous function MATH on  T \n", "concordanceId": "47", "annotator1": -1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " there is  a continuous function  MATH  on T such that  MATH \n", "concordanceId": "49", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " a  continuous function MATH on  MATH  such that MATH  If \n", "concordanceId": "51", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH  on T such that  MATH  If MATH  then the \n", "concordanceId": "53", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " such that  MATH If  MATH  then the mapping MATH  is \n", "concordanceId": "55", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH  then the mapping  MATH  is a diffeomorphism of  U \n", "concordanceId": "57", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " then the mapping  MATH is  MATH  diffeomorphism of U onto  D. \n", "concordanceId": "58", "annotator1": -1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH  is a diffeomorphism of  MATH  onto D.\n", "concordanceId": "60", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " a  diffeomorphism of U onto  MATH \n", "concordanceId": "61", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " is worth noticing that, when   MATH   is convex, then by   Remark \n", "concordanceId": "62", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " under a stronger condition that   MATH   for some  MATH  and by \n", "concordanceId": "63", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " condition that  MATH  for some   MATH   and by using a different \n", "concordanceId": "64", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " state the following conjecture. Let   MATH   be a orientation preserving homeomorphism, \n", "concordanceId": "65", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " a orientation preserving homeomorphism, where   MATH   is a rectifiable Jordan curve. \n", "concordanceId": "66", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " a rectifiable Jordan curve. Let   MATH   be the bounded domain such \n", "concordanceId": "67", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the bounded domain such that   MATH  . The mapping  MATH  is a \n", "concordanceId": "68", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " such that  MATH . The mapping   MATH   is a diffeomorphism of   U \n", "concordanceId": "69", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " MATH   is a diffeomorphism of   MATH   onto  D  if and only \n", "concordanceId": "70", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " a diffeomorphism of  U  onto   MATH   if and only if  MATH \n", "concordanceId": "71", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " D   if and only if  MATH \n", "concordanceId": "72", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Suppose that   MATH   is a rectifiable Jordan curve \n", "concordanceId": "73", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " the complex plane. Denote by   MATH   the length of  γ  and \n", "concordanceId": "74", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " by  l  the length of   MATH   and let  MATH  be an \n", "concordanceId": "75", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " length of  γ  and let   MATH   be an arc length parameterization \n", "concordanceId": "76", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " an arc length parameterization of   MATH   , i.e. a continuous bijection of \n", "concordanceId": "77", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " i.e. a continuous bijection of   MATH   onto  γ , with  MATH  , such \n", "concordanceId": "78", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " continuous bijection of  MATH  onto   MATH  , with  MATH  , such that the \n", "concordanceId": "79", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of  MATH  onto  γ , with   MATH   , such that the length of \n", "concordanceId": "80", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " such that the length of   MATH   is equal to  s  for \n", "concordanceId": "81", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of  MATH  is equal to   MATH   for  MATH  . If g is \n", "concordanceId": "82", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " is equal to  s  for   MATH   . If g is absolutely continuous, \n", "concordanceId": "83", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " g is absolutely continuous, then   MATH   for almost every  s .\n", "concordanceId": "84", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " then  MATH  for almost every   MATH  .\n", "concordanceId": "85", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let  MATH   be a function defined a.e. \n", "concordanceId": "86", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " a function defined a.e. on   MATH  . By  MATH  we extend it \n", "concordanceId": "87", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " defined a.e. on  MATH . By   MATH   we extend it on   MATH \n", "concordanceId": "88", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   we extend it on   MATH  . Note that  MATH  is the \n", "concordanceId": "89", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " it on  MATH . Note that   MATH   is the inner unit normal \n", "concordanceId": "90", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " inner unit normal vector of   MATH   at  MATH  and therefore, if \n", "concordanceId": "91", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " normal vector of  γ  at   MATH   and therefore, if  γ  is \n", "concordanceId": "92", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " at  MATH  and therefore, if   MATH   is convex then  MATH \n", "concordanceId": "93", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " if  γ  is convex then  MATH   Suppose now that  MATH  is \n", "concordanceId": "94", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   Suppose now that   MATH   is an arbitrary 2  π \n", "concordanceId": "95", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   is an arbitrary 2  MATH   periodic Lipschitz function such that \n", "concordanceId": "96", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " periodic Lipschitz function such that   MATH   inducing the same orientation as \n", "concordanceId": "97", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " inducing the same orientation as   MATH   on  γ  . Then there exists \n", "concordanceId": "98", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " same orientation as  g  on   MATH   . Then there exists an increasing \n", "concordanceId": "99", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " exists an increasing continuous function   MATH   such that MATH  In the \n", "concordanceId": "100", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " continuous function  MATH  such that  MATH   In the remainder of this \n", "concordanceId": "101", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " this paper we will identify   MATH   with the unit circle   T \n", "concordanceId": "102", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   with the unit circle   MATH  , and  MATH  with  MATH  . In \n", "concordanceId": "103", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " the unit circle  T , and   MATH   with  MATH  . In view of \n", "concordanceId": "104", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " circle  T , and  MATH  with   MATH   . In view of the previous \n", "concordanceId": "105", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " convention we have for a.e.   MATH  MATH  and therefore MATH  Along \n", "concordanceId": "106", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " we have for a.e.  τ  MATH   and therefore MATH  Along with \n", "concordanceId": "107", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " a.e.  τ MATH  and therefore  MATH   Along with the function   K \n", "concordanceId": "108", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   Along with the function   MATH   we will also consider the \n", "concordanceId": "109", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " will also consider the function   MATH   defined by MATH  It is \n", "concordanceId": "110", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " the function  MATH  defined by  MATH   It is easy to see \n", "concordanceId": "111", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " is easy to see that   MATH \n", "concordanceId": "112", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let   MATH   be the length of   γ \n", "concordanceId": "113", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " MATH   be the length of   MATH   . We will say that a \n", "concordanceId": "114", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " say that a surjective function   MATH   is a weak homeomorphism, if \n", "concordanceId": "115", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " is a weak homeomorphism, if   MATH   is a nondecreasing surjective function. \n", "concordanceId": "116", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": "Let   MATH   be a continuous function. The \n", "concordanceId": "117", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " The modulus of continuity of   MATH   is MATH  The function   f \n", "concordanceId": "118", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of continuity of  f  is  MATH   The function  f  is called \n", "concordanceId": "119", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " f   is MATH  The function   MATH   is called Dini-continuous if  MATH \n", "concordanceId": "120", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " f   is called Dini-continuous if  MATH   Here  MATH  for some positive \n", "concordanceId": "121", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " called Dini-continuous if  MATH  Here   MATH   for some positive constant   k \n", "concordanceId": "122", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   for some positive constant   MATH  . A rectifiable Jordan curve   γ \n", "concordanceId": "123", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " k  . A rectifiable Jordan curve   MATH   is said to be of \n", "concordanceId": "124", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " said to be of class   MATH   if  g  is of class \n", "concordanceId": "125", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " be of class  MATH  if   MATH   is of class  MATH  . A \n", "concordanceId": "126", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " if  g  is of class   MATH  . A  MATH  Jordan curve   γ \n", "concordanceId": "127", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " is of class  MATH . A   MATH   Jordan curve  γ  , is said \n", "concordanceId": "128", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH  . A  MATH  Jordan curve   MATH   , is said to be Dini \n", "concordanceId": "129", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " to be Dini smooth if   MATH   is Dini continuous. We say \n", "concordanceId": "130", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Dini continuous. We say that   MATH   is of class  MATH ,   MATH \n", "concordanceId": "131", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that  γ  is of class   MATH  ,  MATH , if  g  is of \n", "concordanceId": "132", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " γ   is of class  MATH ,   MATH  , if  g  is of class \n", "concordanceId": "133", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of class  MATH ,  MATH , if   MATH   is of class  MATH  and \n", "concordanceId": "134", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " if  g  is of class   MATH   and MATH  Observe that every \n", "concordanceId": "135", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " is of class  MATH  and  MATH   Observe that every smooth   MATH \n", "concordanceId": "136", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   Observe that every smooth   MATH   Jordan curve is Dini smooth. \n", "concordanceId": "137", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": "[8] If  MATH  is Dini smooth, and  ω \n", "concordanceId": "139", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " γ  is Dini smooth, and  MATH   is modulus of continuity of \n", "concordanceId": "140", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " is modulus of continuity of   MATH  , then MATH\n", "concordanceId": "142", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of continuity of  MATH , then  MATH \n", "concordanceId": "144", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "A mapping   MATH   is called  harmonic  in a \n", "concordanceId": "145", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " called  harmonic  in a region   MATH   if  MATH  where  u  and \n", "concordanceId": "147", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " in a region  MATH  if   MATH   where  u  and  v  are \n", "concordanceId": "148", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " region  MATH  if  MATH  where   MATH   and  v  are harmonic functions \n", "concordanceId": "149", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " if  MATH  where  u  and   MATH   are harmonic functions in   D \n", "concordanceId": "150", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " v   are harmonic functions in   MATH  . If  D  is simply-connected, then \n", "concordanceId": "151", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " harmonic functions in  D . If   MATH   is simply-connected, then there are \n", "concordanceId": "152", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " there are two analytic functions   MATH   and  h  defined on   D \n", "concordanceId": "153", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " two analytic functions  g  and   MATH   defined on  D  such that \n", "concordanceId": "154", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " g   and  h  defined on   MATH   such that MATH  Let  MATH \n", "concordanceId": "155", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " defined on  D  such that  MATH   Let MATH  denote the Poisson \n", "concordanceId": "156", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " D   such that MATH  Let  MATH   denote the Poisson kernel. The \n", "concordanceId": "157", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " kernel. The Poisson integral of   MATH   is a harmonic function given \n", "concordanceId": "158", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " a harmonic function given by   MATH   where  MATH .\n", "concordanceId": "159", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " function given by  MATH  where   MATH  .\n", "concordanceId": "160", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " will construct a suitable sequence   MATH   of univalent harmonic mappings, converging \n", "concordanceId": "161", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " mappings, converging locally uniformly to   MATH   . In order to do so, \n", "concordanceId": "162", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " approach to the boundary function   MATH   by a sequence of diffeomorphisms \n", "concordanceId": "163", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " by a sequence of diffeomorphisms   MATH   and take the Poisson extension \n", "concordanceId": "164", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " and take the Poisson extension   MATH   . We will show that, under \n", "concordanceId": "165", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " of  Theorem 1  for large   MATH  ,  MATH  satisfies the conditions of \n", "concordanceId": "166", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Theorem 1   for large  n ,   MATH   satisfies the conditions of theorem \n", "concordanceId": "167", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Schober  [6] , the limit function   MATH   of a locally uniformly convergent \n", "concordanceId": "168", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " sequence of univalent harmonic mappings   MATH   is univalent, providing that   F \n", "concordanceId": "169", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " MATH   is univalent, providing that   MATH   is a surjective mapping.\n", "concordanceId": "170", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " We say that a mapping   MATH   is a weak homeomorphism if \n", "concordanceId": "171", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " if there exist positive numbers   MATH   and  b  such that   MATH \n", "concordanceId": "172", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " exist positive numbers  a  and   MATH   such that  MATH  is nondecreasing \n", "concordanceId": "173", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " a   and  b  such that   MATH   is nondecreasing surjective function of \n", "concordanceId": "174", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " is nondecreasing surjective function of   MATH   onto  MATH  and  MATH  for \n", "concordanceId": "175", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " surjective function of  MATH  onto   MATH   and  MATH  for every   MATH \n", "concordanceId": "176", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of  MATH  onto  MATH  and   MATH   for every  MATH .\n", "concordanceId": "177", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   and  MATH  for every   MATH  .\n", "concordanceId": "178", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let   MATH  . A function  MATH  is called \n", "concordanceId": "179", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let  MATH . A function   MATH   is called  L  -Lipschitz, where \n", "concordanceId": "180", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " A function  MATH  is called   MATH  -Lipschitz, where  MATH , if  MATH \n", "concordanceId": "181", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " is called  L -Lipschitz, where   MATH  , if MATH\n", "concordanceId": "182", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " L  -Lipschitz, where  MATH , if  MATH \n", "concordanceId": "183", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "(See e.g. [8] .) If  MATH   is an L-Lipschitz weak homeomorphism, \n", "concordanceId": "187", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " L-Lipschitz weak homeomorphism, such that   MATH  for some positive numbers  a \n", "concordanceId": "189", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH  for some positive numbers  MATH  and b and every  x, \n", "concordanceId": "190", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " some positive numbers  a and  MATH  and every x,  then there \n", "concordanceId": "191", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " a  and b and every  MATH  then there exists a  sequence \n", "concordanceId": "192", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " every  x, then there exists  MATH  sequence of MATH -Lipschitz  MATH \n", "concordanceId": "193", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " there exists  a sequence of  MATH  -Lipschitz MATH diffeomorphisms MATH  such \n", "concordanceId": "195", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " a  sequence of MATH -Lipschitz  MATH  diffeomorphisms MATH such that  MATH \n", "concordanceId": "197", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of  MATH -Lipschitz MATH diffeomorphisms  MATH  such that MATH  converges uniformly \n", "concordanceId": "199", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " MATH  diffeomorphisms MATH such that  MATH  converges uniformly to φ,  and \n", "concordanceId": "201", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " that  MATH converges uniformly to  MATH  and MATH .\n", "concordanceId": "202", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " converges uniformly to  φ, and  MATH  .\n", "concordanceId": "204", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " in  [8] , the Lipschitz constants   MATH   of  MATH  have not been \n", "concordanceId": "206", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " the Lipschitz constants  MATH  of   MATH   have not been specified, but \n", "concordanceId": "207", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " due to the fact that   MATH   we obtain that  MATH  which \n", "concordanceId": "208", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that  MATH  we obtain that   MATH   which is good enough for \n", "concordanceId": "209", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " enough for our approach. Further   MATH   in  [8]  is defined as \n", "concordanceId": "210", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " defined as the following convolution   MATH  , where  MATH , and  ρ  is \n", "concordanceId": "211", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the following convolution  MATH , where   MATH  , and  ρ  is a smooth \n", "concordanceId": "212", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " convolution  MATH , where  MATH , and   MATH   is a smooth positive function, \n", "concordanceId": "213", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " which is compactly supported in   MATH   and satisfies the condition   MATH \n", "concordanceId": "214", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   and satisfies the condition   MATH  . Here  ρ  is a smooth \n", "concordanceId": "215", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " satisfies the condition  MATH . Here   MATH   is a smooth function means \n", "concordanceId": "216", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " a smooth function means that   MATH   . So by a standard argument \n", "concordanceId": "217", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " for the convolution we have   MATH  .\n", "concordanceId": "218", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "[8] If  MATH  is a  bounded function satisfying \n", "concordanceId": "221", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": "[8] If MATH is  MATH  bounded function satisfying (8)  , then \n", "concordanceId": "222", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " (8)  , then for every constant  MATH  MATH satisfies (8)  . Moreover for \n", "concordanceId": "224", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " then for every constant  a,  MATH  satisfies (8)  . Moreover for every \n", "concordanceId": "225", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " satisfies  (8) . Moreover for every  MATH  the following formula holds:  MATH \n", "concordanceId": "228", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH  the following formula holds:  MATH \n", "concordanceId": "230", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "[8] Let  MATH  be a  harmonic mapping, such \n", "concordanceId": "233", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": "[8] Let MATH be  MATH  harmonic mapping, such that  MATH \n", "concordanceId": "234", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " a  harmonic mapping, such that  MATH  , where g and f  are \n", "concordanceId": "236", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " mapping, such that  MATH , where  MATH  and f  are as mentioned \n", "concordanceId": "237", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that  MATH , where g and  MATH   are as mentioned earlier, is \n", "concordanceId": "238", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " are as mentioned earlier, is   MATH   Lipschitz weak homeomorphism from the \n", "concordanceId": "239", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " from the unit circle onto   MATH   Dini smooth Jordan curve. Then \n", "concordanceId": "240", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " curve. Then for almost every   MATH  the limit MATH  exists and \n", "concordanceId": "242", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " almost every  MATH the limit  MATH  exists and MATH\n", "concordanceId": "244", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the limit  MATH exists and  MATH \n", "concordanceId": "246", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " For a Lipschitz non-decreasing function   MATH   and an arc-length parametrization   g \n", "concordanceId": "247", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " f   and an arc-length parametrization   MATH   of the Dini's smooth Jordan \n", "concordanceId": "248", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " the Dini's smooth Jordan curve   MATH   we define the operator   T \n", "concordanceId": "249", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " γ   we define the operator   MATH   as follows MATH  According to \n", "concordanceId": "250", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the operator  T  as follows  MATH   According to  Lemma 4  , this \n", "concordanceId": "251", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " and is finite for a.e.   MATH  .\n", "concordanceId": "252", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Notice that, if   MATH   is a convex Jordan curve, \n", "concordanceId": "253", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " a convex Jordan curve, then   MATH  , and therefore  MATH  . In the \n", "concordanceId": "254", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " curve, then  MATH , and therefore   MATH   . In the next proof, we \n", "concordanceId": "255", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " proof, we will show that   MATH   is continuous if  f  is \n", "concordanceId": "256", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that  MATH  is continuous if   MATH   is a Lipschitz weak homeomorphism \n", "concordanceId": "257", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " and under the integral condition   MATH   the harmonic extension of a \n", "concordanceId": "258", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Assume for simplicity that   MATH   . The general case follows by \n", "concordanceId": "259", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " case follows by normalization. Let   MATH   be an arc length parametrization \n", "concordanceId": "260", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " an arc length parametrization of   MATH  . Then  MATH , where  MATH  is \n", "concordanceId": "261", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " length parametrization of  γ . Then   MATH  , where  MATH  is a   L \n", "concordanceId": "262", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of  γ . Then  MATH , where   MATH   is a  L  -Lipschitz weak \n", "concordanceId": "263", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH  , where  MATH  is a   MATH   -Lipschitz weak homeomorphism such that \n", "concordanceId": "264", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " -Lipschitz weak homeomorphism such that   MATH  . By using  Lemma 2  , we \n", "concordanceId": "265", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " can choose a sequence of   MATH  -Lipschitz diffeomorphisms  MATH  converging uniformly \n", "concordanceId": "266", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " sequence of  MATH -Lipschitz diffeomorphisms   MATH   converging uniformly to  f  . Then \n", "concordanceId": "267", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " diffeomorphisms  MATH  converging uniformly to   MATH  . Then MATH  We are going \n", "concordanceId": "268", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " converging uniformly to  f . Then  MATH   We are going to show \n", "concordanceId": "269", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " are going to show that   MATH   converges uniformly to  MATH  . In \n", "concordanceId": "270", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that  MATH  converges uniformly to   MATH   . In order to do this \n", "concordanceId": "271", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " we apply Arzela–Ascoli theorem. Let   MATH   be a continuous function such \n", "concordanceId": "272", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " a continuous function such that   MATH  ,  MATH .\n", "concordanceId": "273", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " continuous function such that  MATH ,   MATH  .\n", "concordanceId": "274", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " As in  [8]  we obtain  MATH   Then for module  MATH  of \n", "concordanceId": "275", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   Then for module   MATH   of continuity of  MATH  and \n", "concordanceId": "276", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " module  MATH  of continuity of   MATH   and  MATH MATH  We prove \n", "concordanceId": "277", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of continuity of  MATH  and   MATH  MATH  We prove now that \n", "concordanceId": "278", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " continuity of  MATH  and  MATH  MATH   We prove now that   MATH \n", "concordanceId": "279", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   We prove now that   MATH   is an equicontinuous family of \n", "concordanceId": "280", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " In the contrary, there are   MATH   and  MATH  and there are \n", "concordanceId": "281", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " contrary, there are  MATH  and   MATH   and there are a sequence \n", "concordanceId": "282", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " sequence of non-decreasing natural numbers   MATH   and a sequence of real \n", "concordanceId": "283", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " a sequence of real numbers   MATH   tending to zero such that \n", "concordanceId": "284", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " zero such that for every   MATH   we have MATH  Assume without \n", "concordanceId": "285", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " for every  MATH  we have  MATH   Assume without loss of generality \n", "concordanceId": "286", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " without loss of generality that   MATH  . Use the notation MATH  On \n", "concordanceId": "287", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that  MATH . Use the notation  MATH   On the other hand by \n", "concordanceId": "288", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " other hand by  (9) , for  MATH   we obtain MATH  where   ω \n", "concordanceId": "289", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " (9)  , for MATH  we obtain  MATH   where  ω  is the modulus \n", "concordanceId": "290", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   we obtain MATH  where   MATH   is the modulus of continuity \n", "concordanceId": "291", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the modulus of continuity of   MATH  . Since  MATH  we have  MATH \n", "concordanceId": "292", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of continuity of  MATH . Since   MATH   we have MATH  Thus   MATH \n", "concordanceId": "293", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH  . Since  MATH  we have  MATH   Thus  MATH  is a dominant \n", "concordanceId": "294", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   we have MATH  Thus   MATH   is a dominant for the \n", "concordanceId": "295", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " a dominant for the expressions   MATH   Having in mind the equality \n", "concordanceId": "296", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the equality  (11) , we obtain  MATH \n", "concordanceId": "297", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Theorem, taking the limit when   MATH   under the integral sign in \n", "concordanceId": "298", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " (14)   we obtain the equality   MATH   if  MATH  is a stationary \n", "concordanceId": "299", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " obtain the equality  MATH  if   MATH   is a stationary sequence and \n", "concordanceId": "300", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " is a stationary sequence and   MATH   in the other case. Similarly \n", "concordanceId": "301", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " in the other case. Similarly   MATH   if  MATH  is a stationary \n", "concordanceId": "302", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " other case. Similarly  MATH  if   MATH   is a stationary sequence and \n", "concordanceId": "303", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " is a stationary sequence and   MATH   in the other case and \n", "concordanceId": "304", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " This implies that the family   MATH   is equicontinuous. By Arzela–Ascoli theorem \n", "concordanceId": "305", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that there is a subsequence   MATH   of  MATH  , which will be \n", "concordanceId": "306", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " is a subsequence  MATH  of   MATH   , which will be also denoted \n", "concordanceId": "307", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " will be also denoted by   MATH   such that MATH  Thus   MATH \n", "concordanceId": "308", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " denoted by  MATH  such that  MATH   Thus  MATH  is continuous. Suppose \n", "concordanceId": "309", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   such that MATH  Thus   MATH   is continuous. Suppose that   MATH \n", "concordanceId": "310", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   is continuous. Suppose that   MATH   for every  MATH  . Then for \n", "concordanceId": "311", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Suppose that  MATH  for every   MATH  . Then for  MATH  , there is \n", "concordanceId": "312", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " for every  MATH . Then for   MATH  , there is  MATH  such that \n", "concordanceId": "313", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Then for  MATH , there is   MATH   such that  MATH  for   MATH \n", "concordanceId": "314", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " there is  MATH  such that   MATH   for  MATH  and therefore   MATH \n", "concordanceId": "315", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   such that  MATH  for   MATH   and therefore  MATH  for   MATH \n", "concordanceId": "316", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   for  MATH  and therefore   MATH   for  MATH  and  MATH .\n", "concordanceId": "317", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   and therefore  MATH  for   MATH   and  MATH .\n", "concordanceId": "318", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " therefore  MATH  for  MATH  and   MATH  .\n", "concordanceId": "319", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Moreover, since   MATH   is a diffeomorphism, for   n \n", "concordanceId": "320", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " MATH   is a diffeomorphism, for   MATH   sufficiently large there holds the \n", "concordanceId": "321", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " there holds the following inequality   MATH   Since  MATH  , it follows that \n", "concordanceId": "322", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the following inequality  MATH  Since   MATH  , it follows that  MATH  . Therefore \n", "concordanceId": "323", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Since  MATH , it follows that   MATH   . Therefore all the conditions of \n", "concordanceId": "324", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " are satisfied. This means that   MATH   is a harmonic diffeomorphism of \n", "concordanceId": "325", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " unit disk onto the domain   MATH  .\n", "concordanceId": "326", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Schober  [6] , the limit function   MATH   of a locally uniformly convergent \n", "concordanceId": "327", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " sequence of univalent harmonic mappings   MATH   on  U  is either univalent \n", "concordanceId": "328", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " univalent harmonic mappings  MATH  on   MATH   is either univalent on   U \n", "concordanceId": "329", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " U   is either univalent on   MATH   , is a constant, or its \n", "concordanceId": "330", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " a straight-line, we obtain that   MATH   is univalent, because  F  is \n", "concordanceId": "331", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that  MATH  is univalent, because   MATH   is a surjective function of \n", "concordanceId": "332", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " is a surjective function of   MATH   onto  γ  . The proof is \n", "concordanceId": "333", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " surjective function of  T  onto   MATH   . The proof is completed.  \n", "concordanceId": "334", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Univalent   MATH  -harmonic mappings\n", "concordanceId": "335", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Sobolev regularity for the fractional   MATH   -Laplace equation in the superquadratic \n", "concordanceId": "0", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "We prove that for   MATH   , solutions of equations modeled by \n", "concordanceId": "1", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " equations modeled by the fractional   MATH   -Laplacian improve their regularity on \n", "concordanceId": "2", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " precise conditions, they are in   MATH   and their gradients are in \n", "concordanceId": "3", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the fractional order of differentiation   MATH   reaches 1.\n", "concordanceId": "4", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": "Fractional   MATH  -Laplacian\n", "concordanceId": "5", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let   MATH  ,  MATH  be an open set \n", "concordanceId": "6", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": "Let  MATH ,   MATH   be an open set and \n", "concordanceId": "7", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " consider a local weak solution   MATH   of the  p  -Laplace equation \n", "concordanceId": "8", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " weak solution  u  of the   MATH  -Laplace equation  MATH \n", "concordanceId": "9", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of the  p -Laplace equation  MATH   This means that  MATH  and \n", "concordanceId": "10", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " MATH   This means that   MATH   and verifies MATH  for every \n", "concordanceId": "11", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " means that  MATH  and verifies  MATH   for every open set   MATH \n", "concordanceId": "12", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   for every open set   MATH   compactly contained in Ω and \n", "concordanceId": "13", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " contained in Ω and every   MATH  . Thus the operator  MATH  arises \n", "concordanceId": "14", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " every  MATH . Thus the operator   MATH   arises from the first variation \n", "concordanceId": "15", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the first variation of the   MATH   Sobolev seminorm. A classical regularity \n", "concordanceId": "16", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " that (see  [30, Lemma 3.1] )  MATH   This in turn implies the \n", "concordanceId": "17", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " differentiability for the gradient itself   MATH   see also   [23, Proposition 3.1] \n", "concordanceId": "18", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " like the  fractional p-Laplace equation  MATH   and prove the analogue of \n", "concordanceId": "20", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " the analogue of  (1.1) . Here   MATH   is given. In order to \n", "concordanceId": "21", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " definitions of fractional (or nonlocal)   MATH   -Laplacian have been recently proposed \n", "concordanceId": "22", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " if for every open set   MATH   we define the  MATH  Gagliardo \n", "concordanceId": "23", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " set  MATH  we define the   MATH   Gagliardo seminorm MATH  then the \n", "concordanceId": "24", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " define the  MATH  Gagliardo seminorm  MATH   then the operator  MATH  arises \n", "concordanceId": "25", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " seminorm  MATH  then the operator   MATH   arises as the first variation \n", "concordanceId": "26", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " as the first variation of   MATH   This is in analogy with \n", "concordanceId": "27", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " analogy with the case of   MATH   , which formally corresponds to the \n", "concordanceId": "28", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " formally corresponds to the case   MATH   . Operators of this type were, \n", "concordanceId": "29", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " and  [16] . A weak solution   MATH   of  (1.2)  verifies MATH  for \n", "concordanceId": "30", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " solution  u  of  (1.2)  verifies  MATH   for every  MATH  with compact \n", "concordanceId": "31", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " (1.2)   verifies MATH  for every   MATH   with compact support. The reader \n", "concordanceId": "32", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " just focus on the operator   MATH   . But indeed we will treat \n", "concordanceId": "33", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " operators, where the singular kernel   MATH   is replaced by some slight \n", "concordanceId": "34", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": "Very recently the operator   MATH   has been much studied and \n", "concordanceId": "35", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " first done for the case   MATH   by Kassmann in  [17]  . In \n", "concordanceId": "36", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " As for the inhomogeneous equation   MATH   it is unavoidable to mention \n", "concordanceId": "37", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " solution under sharp assumptions on   MATH   (see  [20, Corollary 1.2]  ). It \n", "concordanceId": "38", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " considers a general measure datum   MATH   , not necessarily belonging to the \n", "concordanceId": "39", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " solution of the Dirichlet problem   MATH   under appropriate assumptions on the \n", "concordanceId": "40", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " appropriate assumptions on the data   MATH   and Ω (see   [15, Theorem \n", "concordanceId": "41", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": "Let   MATH   and  MATH  . We introduce the \n", "concordanceId": "42", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let  MATH  and   MATH   . We introduce the weighted Lebesgue \n", "concordanceId": "43", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " introduce the weighted Lebesgue space   MATH   For  MATH  , we also consider \n", "concordanceId": "44", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " weighted Lebesgue space  MATH  For   MATH   , we also consider the weighted \n", "concordanceId": "45", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " consider the weighted Nikol'skii-type space   MATH   It is intended that   MATH \n", "concordanceId": "46", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " MATH   It is intended that   MATH  , so that for  MATH  it \n", "concordanceId": "47", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that  MATH , so that for   MATH   it is easy to see \n", "concordanceId": "48", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " is easy to see that   MATH  .\n", "concordanceId": "49", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " In what follows, the writing   MATH   means that both  F  and \n", "concordanceId": "51", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " writing  MATH  means that both   MATH   and  E  are open sets \n", "concordanceId": "52", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " means that both  F  and   MATH   are open sets of   MATH \n", "concordanceId": "53", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " E   are open sets of   MATH   , such that the closure of \n", "concordanceId": "54", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " such that the closure of   MATH   is a compact set contained \n", "concordanceId": "55", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " a compact set contained in   MATH  .   Definition 1.2Snail normsLet 1<p<∞, 0<s<1 \n", "concordanceId": "56", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let   MATH   and  MATH  . We consider a \n", "concordanceId": "68", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let  MATH  and   MATH   . We consider a measurable function \n", "concordanceId": "69", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " We consider a measurable function   MATH   satisfying MATH  and \n", "concordanceId": "70", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " a measurable function  MATH  satisfying  MATH   and MATH  for \n", "concordanceId": "71", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " satisfying  MATH  and  MATH   for some  MATH . Let   MATH \n", "concordanceId": "72", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   for some   MATH  . Let  MATH  be an open \n", "concordanceId": "73", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   for some  MATH . Let   MATH   be an open set, given \n", "concordanceId": "74", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " be an open set, given   MATH  , we say that  MATH  is \n", "concordanceId": "75", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " given  MATH , we say that   MATH   is a   local weak solution \n", "concordanceId": "76", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " a  local weak solution  of  MATH   if MATH  for every   MATH \n", "concordanceId": "78", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of  MATH  if  MATH   for every  MATH  and every \n", "concordanceId": "79", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   if MATH  for every   MATH   and every  MATH  such that \n", "concordanceId": "80", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " for every  MATH  and every   MATH   such that  MATH  in   MATH \n", "concordanceId": "81", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " and every  MATH  such that   MATH   in  MATH  . It is intended \n", "concordanceId": "82", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   such that  MATH  in   MATH   . It is intended that the \n", "concordanceId": "83", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " intended that the test functions   MATH   are extended by 0 outside \n", "concordanceId": "84", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " in  (1.8) . The assumptions on   MATH   and  K  guarantee that the \n", "concordanceId": "85", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " The assumptions on  u  and   MATH   guarantee that the double integral \n", "concordanceId": "86", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "In the case   MATH  , we will simply write   MATH \n", "concordanceId": "87", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH  , we will simply write   MATH   in place of  MATH .\n", "concordanceId": "88", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " write  MATH  in place of   MATH  .\n", "concordanceId": "89", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "As for the   MATH   -Laplacian, we do not assume \n", "concordanceId": "90", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " local solutions to belong to   MATH  , but only to  MATH  . For \n", "concordanceId": "91", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " to  MATH , but only to   MATH   . For this reason, in order \n", "concordanceId": "92", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " our main result. The parameter   MATH   below measures the degree of \n", "concordanceId": "93", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " solution “at infinity”. The value   MATH   is admitted as well, thus \n", "concordanceId": "94", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " one. The case of the   MATH   -Laplacian formally corresponds to taking \n", "concordanceId": "95", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " -Laplacian formally corresponds to taking   MATH   in  (1.12)  below. In this \n", "concordanceId": "96", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let  MATH  , MATH and MATH . Let  MATH \n", "concordanceId": "98", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let MATH ,  MATH  and MATH . Let MATH  be \n", "concordanceId": "100", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let MATH , MATH and  MATH  . Let MATH be a  local \n", "concordanceId": "102", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH  , MATH and MATH . Let  MATH  be a  local weak solution \n", "concordanceId": "104", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " and  MATH . Let MATH be  MATH  local weak solution of  MATH \n", "concordanceId": "105", "annotator1": 0, "annotator2": -1, "annotator3": -1}
+{"concordanceText": " of  MATH with MATH and  MATH  verifying (1.6)  . For every ball \n", "concordanceId": "110", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of  MATH  and  MATH  on   MATH   . More precisely, let us fix \n", "concordanceId": "148", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " More precisely, let us fix   MATH  , then for every  MATH  such \n", "concordanceId": "149", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " fix  MATH , then for every   MATH   such that MATH  estimates   (1.11) \n", "concordanceId": "150", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " for every  MATH  such that  MATH   estimates  (1.11)  and  (1.12)  can \n", "concordanceId": "151", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " (1.12)   can be replaced by  MATH   and MATH  with  MATH  depending \n", "concordanceId": "152", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " be replaced by  MATH  and  MATH   with  MATH  depending on   N \n", "concordanceId": "153", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " by  MATH  and MATH  with   MATH   depending on  N ,  p  and \n", "concordanceId": "154", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   with  MATH  depending on   MATH  ,  p  and Λ only. We \n", "concordanceId": "155", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " with  MATH  depending on  N ,   MATH   and Λ only. We will \n", "concordanceId": "156", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that a local weak solution   MATH   is locally Hölder continuous for \n", "concordanceId": "157", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " is locally Hölder continuous for   MATH  ,  MATH  and  MATH  such that \n", "concordanceId": "158", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " locally Hölder continuous for  MATH ,   MATH   and  MATH  such that  MATH \n", "concordanceId": "159", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " continuous for  MATH ,  MATH  and   MATH   such that  MATH \n", "concordanceId": "160", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   and  MATH  such that  MATH   or MATH  For \n", "concordanceId": "161", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that  MATH  or  MATH   For example, in dimension   MATH \n", "concordanceId": "162", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   For example, in dimension   MATH   this is always the case \n", "concordanceId": "163", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " is always the case if   MATH   and  MATH .\n", "concordanceId": "164", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the case if  MATH  and   MATH  .\n", "concordanceId": "165", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the case where our solution   MATH   is a priori known to \n", "concordanceId": "166", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that is quite natural if   MATH   is constructed through viscosity methods \n", "concordanceId": "167", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": "Let  MATH  and MATH . Let MATH  be \n", "concordanceId": "169", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let MATH and  MATH  . Let MATH be a  local \n", "concordanceId": "171", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Let  MATH and MATH . Let  MATH  be a  local weak solution \n", "concordanceId": "173", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " weak solution of  (1.7) , with  MATH  and K verifying (1.6)  . Then \n", "concordanceId": "177", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of  (1.7) , with MATH and  MATH  verifying (1.6) . Then  i)ifu∈Wlocτ,p(Ω),for everyτ<spp−1,ii)ifu∈Wloc1,p(Ω)and∇u∈Wlocτ,p(Ω),for \n", "concordanceId": "178", "annotator1": 0, "annotator2": -1, "annotator3": -1}
+{"concordanceText": " MATH \n", "concordanceId": "181", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " We can tune the parameter   MATH   accordingly and improve the result. \n", "concordanceId": "194", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " [6]  , we use the notation   MATH   to denote the completion of \n", "concordanceId": "195", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " to denote the completion of   MATH   with respect to the norm \n", "concordanceId": "196", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " with respect to the norm   MATH   Corollary 1.9Dirichlet problemsLetp≥2and0<s<1. LetΩ⊂RNbe an \n", "concordanceId": "197", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": "Let  MATH  and MATH . Let MATH  be \n", "concordanceId": "199", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let MATH and  MATH  . Let MATH  be an open \n", "concordanceId": "201", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " Let  MATH and MATH . Let  MATH   be an open and bounded \n", "concordanceId": "203", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " quantity as the norm of   MATH   derivatives of the solution, measured \n", "concordanceId": "240", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " right-hand side  f , the hypothesis   MATH   is certainly too strong and \n", "concordanceId": "243", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " case, corresponding to the choice   MATH  . In  [19]  and  [18]  , the \n", "concordanceId": "245", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " linear elliptic nonlocal equations like   MATH   where MATH  They \n", "concordanceId": "246", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   where  MATH   They prove that a solution \n", "concordanceId": "247", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " They prove that a solution   MATH   is indeed in  MATH  for \n", "concordanceId": "248", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " solution  MATH  is indeed in   MATH   for some MATH  see   [19, \n", "concordanceId": "249", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " indeed in  MATH  for some  MATH   see  [19, Theorem 1.1]  . The \n", "concordanceId": "250", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " (1.16)  , under the additional assumptions  MATH   Observe that the previous condition \n", "concordanceId": "252", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of kernels of the type   MATH  . Then  [10, Theorem 2.2]  shows \n", "concordanceId": "254", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that the solution gains “almost”   MATH  -derivatives, i.e.  MATH  for every \n", "concordanceId": "255", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " -derivatives, i.e.  MATH  for every   MATH   . The proof relies on differentiating \n", "concordanceId": "257", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Theorem 1.5   in the case   MATH  . Indeed, if we consider   Theorem \n", "concordanceId": "258", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " we consider  Theorem 1.5  for   MATH   and  MATH  and we do \n", "concordanceId": "259", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Theorem 1.5   for  MATH  and   MATH   and we do not assume \n", "concordanceId": "260", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " in  [10] ), i.e. we take   MATH  , then we obtain  MATH  , for \n", "concordanceId": "261", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " take  MATH , then we obtain   MATH  , for every  MATH  . We point \n", "concordanceId": "262", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " presence of the right-hand side   MATH  .\n", "concordanceId": "264", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " As for the general case   MATH  , in  [26]  the author considers \n", "concordanceId": "265", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of  (1.3) , i.e. the equation  MATH   where  f  belongs to the \n", "concordanceId": "266", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " MATH   where   MATH   belongs to the dual space \n", "concordanceId": "267", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " to the dual space of   MATH  , for some  MATH . In   [26, \n", "concordanceId": "268", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " space of  MATH , for some   MATH  . In  [26, Theorem 1.3]  it \n", "concordanceId": "269", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " is proved that there exists   MATH   such that for  MATH  , a \n", "concordanceId": "270", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " exists  MATH  such that for   MATH  , a solution  MATH  is indeed \n", "concordanceId": "271", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that for  MATH , a solution   MATH   is indeed in  MATH .\n", "concordanceId": "272", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " solution  MATH  is indeed in   MATH  .\n", "concordanceId": "273", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "( Limit as  MATH   ) Finally, we conclude this list \n", "concordanceId": "275", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " correct dependence on the parameter   MATH   , at least in the asymptotical \n", "concordanceId": "276", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " least in the asymptotical regime   MATH   . Indeed, we recall that for \n", "concordanceId": "277", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " recall that for a function   MATH   we have the pointwise convergence \n", "concordanceId": "278", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " we have the pointwise convergence   MATH   see  [5,4]  . Moreover, we also \n", "concordanceId": "279", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " with respect to the strong   MATH   topology, see  [8]  and   [25] \n", "concordanceId": "280", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Thus, in the standard case   MATH  , the estimates of   Theorem 1.5 \n", "concordanceId": "281", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that solutions of the fractional   MATH   -Laplace equation converge strongly in \n", "concordanceId": "282", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " -Laplace equation converge strongly in   MATH   to solutions of the usual \n", "concordanceId": "283", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " to solutions of the usual   MATH  -Laplace equation as  MATH  , under \n", "concordanceId": "284", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " usual  p -Laplace equation as   MATH   , under suitable assumptions. For example, \n", "concordanceId": "285", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " and bounded set and let   MATH   be the unique solution of \n", "concordanceId": "287", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " be the unique solution of   MATH   By using  (1.13)  and   (1.14) \n", "concordanceId": "288", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " is possible to show that   MATH   converges strongly in  MATH  to \n", "concordanceId": "289", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that  MATH  converges strongly in   MATH   to the unique solution of \n", "concordanceId": "290", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " to the unique solution of   MATH \n", "concordanceId": "291", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " general equations of the type   MATH   see Subsection  4.5  . We then \n", "concordanceId": "292", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": "Let   MATH   and  MATH  . For an open \n", "concordanceId": "293", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let  MATH  and   MATH  . For an open set   MATH \n", "concordanceId": "294", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH  . For an open set   MATH  , we denote by  MATH  the \n", "concordanceId": "295", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " set  MATH , we denote by   MATH   the usual fractional Sobolev space \n", "concordanceId": "296", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " set of functions such that   MATH   The quantity  MATH  is the \n", "concordanceId": "297", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " such that  MATH  The quantity   MATH   is the  MATH  Gagliardo seminorm, \n", "concordanceId": "298", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " The quantity  MATH  is the   MATH   Gagliardo seminorm, i.e. MATH  The \n", "concordanceId": "299", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the  MATH  Gagliardo seminorm, i.e.  MATH   The local variant  MATH  is \n", "concordanceId": "300", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " i.e.  MATH  The local variant   MATH   is defined in a straightforward \n", "concordanceId": "301", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " in a straightforward manner. Given   MATH  , for a measurable function   MATH \n", "concordanceId": "302", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH  , for a measurable function   MATH   we introduce the notation  MATH \n", "concordanceId": "303", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   we introduce the notation  MATH   We recall that for every \n", "concordanceId": "304", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " for every pair of functions   MATH  ,  ψ  we have MATH  We \n", "concordanceId": "305", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " every pair of functions  φ ,   MATH   we have MATH  We also \n", "concordanceId": "306", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " functions  φ ,  ψ  we have  MATH   We also remind the notation \n", "concordanceId": "307", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " We also remind the notation   MATH   for the second order differences \n", "concordanceId": "308", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " differences of a function, i.e.   MATH   Finally, if  MATH  is an \n", "concordanceId": "309", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " function, i.e.  MATH  Finally, if   MATH   is an integrable function on \n", "concordanceId": "310", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " is an integrable function on   MATH  , the notation MATH  means that \n", "concordanceId": "311", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " function on  MATH , the notation  MATH   means that  MATH  and   MATH \n", "concordanceId": "312", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the notation  MATH  means that   MATH   and  MATH .\n", "concordanceId": "313", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " MATH   means that  MATH  and   MATH  .\n", "concordanceId": "314", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the more general Besov space   MATH  , built up of  MATH  functions \n", "concordanceId": "315", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " space  MATH , built up of   MATH   functions such that MATH  For \n", "concordanceId": "316", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of  MATH  functions such that  MATH   For  MATH  , we obtain the \n", "concordanceId": "317", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " functions such that  MATH  For   MATH   , we obtain the usual fractional \n", "concordanceId": "318", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the usual fractional Sobolev space   MATH   . Also observe that our notation \n", "concordanceId": "319", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " be consistent with that of   MATH  .\n", "concordanceId": "320", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": "Let   MATH   and  MATH  . We say that \n", "concordanceId": "321", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let  MATH  and   MATH  . We say that  MATH  if \n", "concordanceId": "322", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " and  MATH . We say that   MATH   if MATH  In \n", "concordanceId": "323", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " We say that  MATH  if  MATH   In this case, we set \n", "concordanceId": "324", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " In this case, we set   MATH \n", "concordanceId": "325", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of simple preliminary results for   MATH   . The first one states that \n", "concordanceId": "326", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let  MATH  and MATH . If MATH  then \n", "concordanceId": "328", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": "Let MATH and  MATH  . If MATH  then for every \n", "concordanceId": "330", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Let  MATH and MATH . If  MATH  then for every MATH  MATH \n", "concordanceId": "332", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " If  MATH then for every  MATH  MATH\n", "concordanceId": "334", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH  then for every MATH  MATH \n", "concordanceId": "335", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " for everyh0>0(2.3)[ψ]B∞α,p(RN)≤[sup0<|h|<h0⁡‖δh2ψ|h|α‖Lp(RN)+3h0−α‖ψ‖Lp(RN)].   In the case   MATH   , second order difference quotients control \n", "concordanceId": "336", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let  MATH  and MATH . If MATH  then \n", "concordanceId": "338", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " universal constant  MATH . For every  MATH  , we also get MATH\n", "concordanceId": "348", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " every  MATH , we also get  MATH \n", "concordanceId": "350", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " measurable function  ψ  we have  MATH   Thus for every  MATH  we \n", "concordanceId": "352", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " for every  MATH  we get  MATH   and observe that the second \n", "concordanceId": "354", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that if we set  MATH  MATH   By using this estimate in \n", "concordanceId": "356", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " get  MATH  By recalling that   MATH   , the last term can be \n", "concordanceId": "358", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": "Let MATH and  MATH   . We have the continuous embedding \n", "concordanceId": "363", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " We have the continuous embedding   MATH  . In particular, for every  MATH \n", "concordanceId": "365", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH  . In particular, for every  MATH  we have MATH  , with the \n", "concordanceId": "367", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " for every  MATH we have  MATH  , with the following estimate  MATH \n", "concordanceId": "369", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " estimate  MATH for some constant  MATH  . Moreover, we also have  MATH \n", "concordanceId": "373", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH  . Moreover, we also have  MATH  still for some MATH .\n", "concordanceId": "375", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " have  MATH still for some  MATH  .\n", "concordanceId": "377", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "(Global case) For every  MATH  there holds MATH for  a \n", "concordanceId": "387", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " For every  MATH there holds  MATH  for a constant MATH .\n", "concordanceId": "389", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " holds  MATH for a constant  MATH  .\n", "concordanceId": "392", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   Then we observe that   MATH   , thus by using the discrete \n", "concordanceId": "437", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " (2.9)   and the properties of   MATH   we get MATH  We proceed \n", "concordanceId": "438", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " properties of  η  we get  MATH   We proceed as before  MATH \n", "concordanceId": "439", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   We proceed as before  MATH   By using the Lipschitz character \n", "concordanceId": "440", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " using the Lipschitz character of   MATH   , we can now easily get \n", "concordanceId": "441", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let  MATH  and MATH . Let MATH  be \n", "concordanceId": "443", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let MATH and  MATH  . Let MATH  be such that \n", "concordanceId": "445", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " Let  MATH and MATH . Let  MATH   be such that for some \n", "concordanceId": "447", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " be such that for some   MATH  we have MATH  Then there \n", "concordanceId": "449", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " for some  MATH we have  MATH  Then there holds MATH  for \n", "concordanceId": "451", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " have  MATH Then there holds  MATH  for some constant MATH .\n", "concordanceId": "453", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " holds  MATH for some constant  MATH  .\n", "concordanceId": "455", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " it for completeness. We have   MATH   The constant  C  above depends \n", "concordanceId": "457", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " constant  C  above depends on   MATH   and  p  only. This concludes \n", "concordanceId": "459", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " basic properties of the spaces   MATH   and  MATH  we introduced in \n", "concordanceId": "461", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " 1.1  . We recall the notation  MATH   Lemma 2.8InclusionsLet1≤p<∞and0<s<1andΩ⊂RN. Then we have \n", "concordanceId": "463", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let  MATH  and MATH and MATH  . Then \n", "concordanceId": "465", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let MATH and  MATH  and MATH  . Then we have \n", "concordanceId": "467", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " Let  MATH and MATH and  MATH   . Then we have the following \n", "concordanceId": "469", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " we have the following inclusions   MATH  MATH MATH\n", "concordanceId": "471", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the following inclusions  MATH  MATH  MATH\n", "concordanceId": "472", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " inclusions  MATH MATH  MATH \n", "concordanceId": "473", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " by Hölder inequality we have   MATH   Similarly, for the second inclusion \n", "concordanceId": "474", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " we observe that for every   MATH   we have MATH  and the \n", "concordanceId": "475", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let  MATH  and MATH  . We consider two \n", "concordanceId": "489", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let MATH and  MATH   . We consider two pairs of \n", "concordanceId": "491", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " consider two pairs of sets   MATH  and MATH such that  MATH \n", "concordanceId": "493", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " pairs of sets  MATH and  MATH  such that MATH  Then for \n", "concordanceId": "495", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH  and MATH such that  MATH  Then for every MATH  we \n", "concordanceId": "497", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that  MATH Then for every  MATH  we have MATH  In particular, \n", "concordanceId": "499", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " for every  MATH we have  MATH  In particular, we get  MATH \n", "concordanceId": "501", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " (2.16)   is elementary. We have  MATH   With some standard manipulations we \n", "concordanceId": "504", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of  (1.7) , with right-hand side   MATH   and  K  satisfying  (1.6)  . Thus \n", "concordanceId": "506", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " satisfying  (1.6) . Thus for every   MATH   and any  MATH  such that \n", "concordanceId": "508", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " and any  MATH  such that   MATH   on  MATH , the function   u \n", "concordanceId": "510", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " notational simplicity, we will set   MATH   We also set  MATH \n", "concordanceId": "513", "annotator1": -1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " nonlinear function of the solution   MATH   by MATH  By a slight \n", "concordanceId": "515", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " abuse of notation, for every   MATH   we will use the following \n", "concordanceId": "517", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " a free parameter of differentiability   MATH   . This is an iterative scheme \n", "concordanceId": "519", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " which improves the differentiability of   MATH   . We notice that the case \n", "concordanceId": "520", "annotator1": -1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " We notice that the case   MATH   formally corresponds to the result \n", "concordanceId": "521", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the result  (1.1)  for the   MATH  -Laplacian.   Proposition 3.1Differentiability schemeLetp≥2,0<s<1and0≤t≤s. We \n", "concordanceId": "522", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let  MATH  , MATH and MATH  . We take \n", "concordanceId": "524", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let MATH ,  MATH  and MATH . We take  MATH \n", "concordanceId": "526", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let MATH , MATH and  MATH  . We take MATH a  pair \n", "concordanceId": "528", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " MATH  and MATH . We take  MATH  a  pair of concentric balls \n", "concordanceId": "530", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " and  MATH . We take MATH  MATH   pair of concentric balls and \n", "concordanceId": "531", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " of concentric balls and fix   MATH  We take η a  standard \n", "concordanceId": "533", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " and fix  MATH We take  MATH  a standard MATH  cut-off function \n", "concordanceId": "534", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " fix  MATH We take η  MATH  standard MATH  cut-off function such \n", "concordanceId": "535", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " We take  η a standard  MATH  cut-off function such that  MATH \n", "concordanceId": "537", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " We start by observing that   MATH   Thus we get MATH  The \n", "concordanceId": "571", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that  MATH  Thus we get  MATH   The first term has a \n", "concordanceId": "572", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " (B.2)  , the definition  (3.2)  of   MATH  , Young inequality and  (B.1)  to \n", "concordanceId": "573", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " inequality and  (B.1)  to get  MATH   where  MATH  . By putting all \n", "concordanceId": "574", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " (B.1)   to get MATH  where   MATH   . By putting all the estimates \n", "concordanceId": "575", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the estimates together and choosing   MATH   sufficiently small, we then get \n", "concordanceId": "576", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " sufficiently small, we then get   MATH   for some constant  MATH  . We \n", "concordanceId": "577", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " get  MATH  for some constant   MATH   . We can further estimate from \n", "concordanceId": "578", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " (B.4)  . This leads us to  MATH   We now observe that if \n", "concordanceId": "579", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " if we set for simplicity   MATH   then by using the convexity \n", "concordanceId": "580", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " by using the convexity of   MATH  , we have MATH  Thus from \n", "concordanceId": "581", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " convexity of  MATH , we have  MATH   Thus from  (3.6)  together with \n", "concordanceId": "582", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " with the assumption  (1.6)  on   MATH   , we get the following lower \n", "concordanceId": "583", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " the following lower bound for   MATH  MATH  where  MATH  . We need \n", "concordanceId": "584", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " following lower bound for  MATH  MATH   where  MATH  . We need to \n", "concordanceId": "585", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " again the assumption  (1.6)  on   MATH  , the Lipschitz character of   η \n", "concordanceId": "587", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " some simple manipulations we get   MATH   for some  MATH  . Thus, from \n", "concordanceId": "589", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " we get  MATH  for some   MATH  . Thus, from  (3.7)  by observing \n", "concordanceId": "590", "annotator1": -1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " from  (3.7)  by observing that   MATH   and that  MATH  , we get \n", "concordanceId": "591", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " observing that  MATH  and that   MATH  , we get MATH  where we \n", "concordanceId": "592", "annotator1": -1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " and that  MATH , we get  MATH   where we also used that \n", "concordanceId": "593", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " where we also used that   MATH   and that  MATH  . By the \n", "concordanceId": "594", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " used that  MATH  and that   MATH   . By the Lipschitz character of \n", "concordanceId": "595", "annotator1": -1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " By the Lipschitz character of   MATH   , the last integral is estimated \n", "concordanceId": "596", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " last integral is estimated by   MATH   for some  MATH  . Observe that \n", "concordanceId": "597", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " estimated by  MATH  for some   MATH   . Observe that we again used \n", "concordanceId": "598", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " again used the trivial estimates   MATH   and  MATH , together with   MATH \n", "concordanceId": "599", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the trivial estimates  MATH  and   MATH  , together with  MATH  and   MATH \n", "concordanceId": "600", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   and  MATH , together with   MATH   and  MATH .\n", "concordanceId": "601", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH  , together with  MATH  and   MATH  .\n", "concordanceId": "602", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Leibniz rule  (2.1) , we get  MATH   Observe that by the hypothesis \n", "concordanceId": "603", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " by the hypothesis  MATH  and   MATH   . To get the last estimate, \n", "concordanceId": "605", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": "We used that  MATH \n", "concordanceId": "606", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " 3We used that|δhη(x)−δhη(y)|≤|x−y|∫01|∇η(x+t(y−x)+h)−∇η(x+t(y−x))|dt≤|x−y||h|‖D2η‖L∞.   of ∇  MATH   (recall that  MATH ).\n", "concordanceId": "607", "annotator1": -1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of ∇  η  (recall that   MATH  ).\n", "concordanceId": "608", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " from  (3.8)  we finally get  MATH  Estimate of MATH .  By recalling \n", "concordanceId": "609", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " finally get  MATH Estimate of  MATH  .  By recalling that  η  is \n", "concordanceId": "611", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of  MATH .  By recalling that   MATH   is supported on  MATH  , we \n", "concordanceId": "613", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that  η  is supported on   MATH  , we have MATH  Then we \n", "concordanceId": "614", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " supported on  MATH , we have  MATH   Then we observe that by \n", "concordanceId": "615", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " observe that by basic calculus   MATH   Using once again the assumption \n", "concordanceId": "616", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " assumption  (1.6)  on the kernel   MATH  , we get MATH  where   MATH \n", "concordanceId": "617", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the kernel  K , we get  MATH   where  MATH  . We now estimate \n", "concordanceId": "618", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " K  , we get MATH  where   MATH   . We now estimate each term \n", "concordanceId": "619", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the first one, we have   MATH   Then by Jensen's inequality  4 \n", "concordanceId": "620", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " With respect to the measure   MATH   which is finite on   MATH \n", "concordanceId": "621", "annotator1": -1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   which is finite on   MATH  , for every  MATH .\n", "concordanceId": "622", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " finite on  MATH , for every   MATH  .\n", "concordanceId": "623", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " we get  MATH  for some   MATH   , where we recall the definition \n", "concordanceId": "625", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " we recall the definition of   MATH  , given in  (3.2)  . For the \n", "concordanceId": "626", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " side of  (3.11) , we have  MATH   By proceeding similarly as before, \n", "concordanceId": "627", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " we get the following lower-bound   MATH   By a further application of \n", "concordanceId": "629", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of  (3.12)  is estimated by  MATH   By using this estimate, we \n", "concordanceId": "631", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " this estimate, we obtain for   MATH   the following lower bound  MATH \n", "concordanceId": "632", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   the following lower bound  MATH   To obtain the previous, we \n", "concordanceId": "633", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " previous, we also observed that   MATH   and used that  MATH  . Observe \n", "concordanceId": "634", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that  MATH  and used that   MATH   . Observe that the last term \n", "concordanceId": "635", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " quantity containing a difference quotient   MATH  . By recalling  Definition 1.1  and \n", "concordanceId": "636", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Definition 1.1   and using that   MATH  , we get 5  5Observe that12dist(BR+r2,RN∖BR)=R−r4>h0, \n", "concordanceId": "637", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Observe that  MATH   thus we have MATH  by \n", "concordanceId": "638", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that  MATH  thus we have  MATH   by the very definition   (1.4) \n", "concordanceId": "639", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " definition (1.4) of the latter.   MATH   Finally, for the common   MATH \n", "concordanceId": "640", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   Finally, for the common   MATH   term in  (3.13)  , we have \n", "concordanceId": "641", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " term in  (3.13) , we have  MATH   for some  MATH  . Moreover, by \n", "concordanceId": "642", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " we have  MATH  for some   MATH   . Moreover, by the monotonicity properties \n", "concordanceId": "643", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " in  Lemma 2.9 , we have  MATH   With a simple change of \n", "concordanceId": "644", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " variables and by observing that   MATH   still by  Lemma 2.9  we \n", "concordanceId": "645", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Lemma 2.9   we get again  MATH   By keeping everything together, we \n", "concordanceId": "646", "annotator1": -1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " keeping everything together, we get   MATH   still for  MATH  . By using \n", "concordanceId": "647", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " we get  MATH  still for   MATH  . By using  (3.14)  and   (3.15) \n", "concordanceId": "648", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " we finally end up with   MATH  Estimate of MATH .  This is \n", "concordanceId": "649", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " up with  MATH Estimate of  MATH  .  This is estimated exactly in \n", "concordanceId": "651", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " in the same manner as   MATH  . We thus get MATH  Conclusion. \n", "concordanceId": "653", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " as  MATH . We thus get  MATH  Conclusion.  From  (3.4)  we have \n", "concordanceId": "654", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " recalling that  MATH  and that  MATH   which follows from the hypothesis \n", "concordanceId": "658", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " which follows from the hypothesis   MATH  . □\n", "concordanceId": "659", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " Observe that the nonlocal terms   MATH   and  MATH  in the right-hand \n", "concordanceId": "660", "annotator1": -1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the nonlocal terms  MATH  and   MATH   in the right-hand side   (3.3) \n", "concordanceId": "661", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " not contain the correction factor   MATH   , as it is natural. Indeed, \n", "concordanceId": "662", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " if we multiply  (3.3)  by   MATH   these terms have to disappear \n", "concordanceId": "663", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " to disappear in the limit   MATH   , which corresponds to the equation \n", "concordanceId": "664", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let  MATH  , MATH and MATH . Let  MATH \n", "concordanceId": "666", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH  , MATH and MATH . Let  MATH  be a  couple of concentric \n", "concordanceId": "672", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of concentric balls. We take   MATH  a standard MATH  cut-off function \n", "concordanceId": "674", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " concentric balls. We take  η  MATH  standard MATH  cut-off function such \n", "concordanceId": "675", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " We take  η a standard  MATH  cut-off function such that  MATH \n", "concordanceId": "677", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH  cut-off function such that  MATH   Let us assume that for \n", "concordanceId": "679", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " us assume that for some   MATH  such that MATH  and some \n", "concordanceId": "680", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " for some  γ such that  MATH  and some MATH  we have \n", "concordanceId": "682", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " such that  MATH and some  MATH  we have MATH  Then, by \n", "concordanceId": "684", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " and some  MATH we have  MATH   Then, by setting for simplicity \n", "concordanceId": "686", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Then, by setting for simplicity   MATH   we have the Besov–Nikol'skii estimate \n", "concordanceId": "688", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " we have the Besov–Nikol'skii estimate   MATH  for some MATH  . In particular, \n", "concordanceId": "690", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " Besov–Nikol'skii estimate  MATH for some  MATH   . In particular, we have the \n", "concordanceId": "692", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " have the following estimates, for   MATH  possibly different constant MATH :  •if(3.20)sup0<|h|<h0⁡‖δhu|h|Γ‖Lp(Br)p≤Cs(1−Γ)p(Rr)N(Rh0)1+p[(1−s)Mγ+h0−Γp‖u‖Lp(BR+h0)p];•iffor \n", "concordanceId": "693", "annotator1": 0, "annotator2": -1, "annotator3": -1}
+{"concordanceText": " for  a possibly different constant  MATH  : •if(3.20)sup0<|h|<h0⁡‖δhu|h|Γ‖Lp(Br)p≤Cs(1−Γ)p(Rr)N(Rh0)1+p[(1−s)Mγ+h0−Γp‖u‖Lp(BR+h0)p];•iffor every0<τ<1(3.21)sup0<|h|<h0⁡‖δhu|h|τ‖Lp(Br)p≤C(1−τ)p(Rr)N(Rh0)1+p[(1−s)Mγ+h0−p‖u‖Lp(BR+h0)p];•if(3.22)‖∇u‖Lp(Br)p≤C(Γ−1)p(Rr)N(Rh0)1+p[(1−s)Mγ+h0−Γp‖u‖Lp(BR+h0)p],and for every0<τ<Γ−1(3.23)[∇u]Wτ,p(Br)p≤C(R/r)N(Γ−1−τ)τ(Rh0)1+p(h0−τ(2−Γ)(Γ−1))p[(1−s)Mγ+h0−Γp‖u‖Lp(BR+h0)p].\n", "concordanceId": "695", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "if  for every MATH  MATH \n", "concordanceId": "702", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "if   MATH  and for every MATH  MATH \n", "concordanceId": "704", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " if   MATH and for every  MATH  MATH\n", "concordanceId": "706", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let   MATH   , by using the hypothesis and \n", "concordanceId": "708", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the choices  MATH  we get  MATH   Here we also used that \n", "concordanceId": "710", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " hypothesis. If we now choose   MATH  , recall  (2.2)  and take the \n", "concordanceId": "712", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " and take the supremum over   MATH  , we obtain MATH  By joining \n", "concordanceId": "713", "annotator1": 0, "annotator2": -1, "annotator3": -1}
+{"concordanceText": " with simple manipulations we have   MATH   where we used the expedient \n", "concordanceId": "715", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " MATH   Also observe that since   MATH  , we have  MATH \n", "concordanceId": "728", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that since  MATH , we have  MATH   so in this case, upon \n", "concordanceId": "729", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " case, upon redefining the constant   MATH   , we can forget the factor \n", "concordanceId": "730", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " we can forget the factor   MATH   in  (3.19) . By using   (2.5) \n", "concordanceId": "731", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " on the right, we get   MATH   possibly with a different constant \n", "concordanceId": "732", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " possibly with a different constant   MATH  . Finally, we use again   (3.25) \n", "concordanceId": "733", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " to remove the dependence on   MATH   and the fact that   MATH \n", "concordanceId": "734", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " η   and the fact that   MATH  .\n", "concordanceId": "735", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the parameters, we always have   MATH   . Moreover, as in the previous \n", "concordanceId": "737", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " previous case we still have   MATH   , thus again we can forget \n", "concordanceId": "738", "annotator1": -1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " we can forget the factor   MATH   in  (3.19)  . Then we use \n", "concordanceId": "739", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " we use  Proposition 2.4  with   MATH   and from  (3.19)  we get \n", "concordanceId": "740", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " and from  (3.19)  we get  MATH   By recalling that  MATH  on \n", "concordanceId": "741", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " get  MATH  By recalling that   MATH   on  MATH  and observing that \n", "concordanceId": "742", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " By recalling that  MATH  on   MATH   and observing that  MATH  , we \n", "concordanceId": "743", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " and  (3.19)  we also have  MATH   If we now apply   Proposition \n", "concordanceId": "745", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " to the compactly supported function   MATH   and the exponent  MATH  we \n", "concordanceId": "746", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " function  MATH  and the exponent   MATH   we get MATH  for every \n", "concordanceId": "747", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the exponent  MATH  we get  MATH   for every  MATH  . The right-hand \n", "concordanceId": "748", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " we get  MATH  for every   MATH   . The right-hand side is now \n", "concordanceId": "749", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let   MATH   and  MATH  , we want to \n", "concordanceId": "750", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": "Let  MATH  and   MATH   , we want to prove the \n", "concordanceId": "751", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " –  (1.12)  on the balls   MATH   and  MATH  . Without loss of \n", "concordanceId": "752", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " on the balls  MATH  and   MATH   . Without loss of generality, we \n", "concordanceId": "753", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " generality, we can assume that   MATH   is centered at the origin. \n", "concordanceId": "754", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " we consider the rescaled functions   MATH   then  MATH  and by   (1.5) \n", "concordanceId": "755", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " solution in the rescaled set   MATH  , with right-hand side  MATH  . Thus \n", "concordanceId": "757", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " set  MATH , with right-hand side   MATH   . Thus we just need to \n", "concordanceId": "758", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " we just need to estimate   MATH   or  MATH \n", "concordanceId": "759", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " MATH   or  MATH   The desired results will be \n", "concordanceId": "760", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " all, we define the sequence   MATH   We observe  MATH  is strictly \n", "concordanceId": "761", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the sequence  MATH  We observe   MATH   is strictly increasing and  MATH \n", "concordanceId": "762", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   is strictly increasing and  MATH   We take any index   MATH \n", "concordanceId": "763", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   We take any index   MATH   such that MATH  the precise \n", "concordanceId": "764", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " any index  MATH  such that  MATH   the precise choice of   MATH \n", "concordanceId": "765", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   the precise choice of   MATH   will be done below. We \n", "concordanceId": "766", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " the decreasing sequence of radii   MATH   Accordingly, we consider the concentric \n", "concordanceId": "767", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " we consider the concentric balls   MATH   and observe that  MATH \n", "concordanceId": "768", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " balls  MATH  and observe that  MATH   We point out that by \n", "concordanceId": "769", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that by construction, we have   MATH   Then we define MATH  thus \n", "concordanceId": "770", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   Then we define  MATH   thus with such a choice \n", "concordanceId": "771", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " such a choice we have   MATH   Finally, for every  MATH  we \n", "concordanceId": "772", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " have  MATH  Finally, for every   MATH   we choose a standard cut-off \n", "concordanceId": "773", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " choose a standard cut-off function   MATH   such that  MATH \n", "concordanceId": "774", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " cut-off function  MATH  such that  MATH   By taking into account   (4.3) \n", "concordanceId": "775", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " (4.3)   and  (4.4) , for every   MATH   by  Proposition 3.1  with simple \n", "concordanceId": "776", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " get (recall the definition of   MATH   and that  MATH ) MATH  for \n", "concordanceId": "777", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " definition of  MATH  and that   MATH  ) MATH  for some  MATH  . Before \n", "concordanceId": "778", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " of  MATH  and that  MATH )  MATH   for some  MATH  . Before going \n", "concordanceId": "779", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that  MATH ) MATH  for some   MATH   . Before going on, we try \n", "concordanceId": "780", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "By construction   MATH   for every  MATH  , then by \n", "concordanceId": "781", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " By construction  MATH  for every   MATH  , then by  Proposition 2.6  (  local \n", "concordanceId": "782", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " 2.6   ( local case ) we get  MATH   where we used again that \n", "concordanceId": "784", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " where we used again that   MATH   . Also, by the monotonicity properties \n", "concordanceId": "785", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " monotonicity properties of  Lemma 2.9  MATH   where we used that by \n", "concordanceId": "786", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " we used that by construction   MATH   Finally, by observing that  MATH \n", "concordanceId": "787", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " MATH   Finally, by observing that  MATH   by  (2.16)  with the choices \n", "concordanceId": "788", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " by  (2.16)  with the choices  MATH   we get MATH  for some \n", "concordanceId": "789", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the choices  MATH  we get  MATH   for some  MATH  . The last \n", "concordanceId": "790", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " we get  MATH  for some   MATH   . The last local term can \n", "concordanceId": "791", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " case  ) as follows (recall that   MATH  ) MATH  By using  (4.6) ,   (4.7) \n", "concordanceId": "793", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " as follows (recall that  MATH )  MATH   By using  (4.6) ,  (4.7) ,   (4.8) \n", "concordanceId": "794", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " in  (4.5)  and observing that  MATH   for every  MATH  we obtain \n", "concordanceId": "795", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " observing that  MATH  for every   MATH   we obtain MATH  where   MATH \n", "concordanceId": "796", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " for every  MATH  we obtain  MATH   where  MATH  is the quantity \n", "concordanceId": "797", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   we obtain MATH  where   MATH   is the quantity defined in \n", "concordanceId": "798", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " for simplicity we just write   MATH   in place of  MATH  . Observe \n", "concordanceId": "799", "annotator1": -1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " write  MATH  in place of   MATH  . Observe that  MATH  , thanks to \n", "concordanceId": "800", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " place of  MATH . Observe that   MATH   , thanks to the assumptions on \n", "concordanceId": "801", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " thanks to the assumptions on   MATH   and  f .\n", "concordanceId": "802", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "We now set  MATH   and claim that  MATH \n", "concordanceId": "804", "annotator1": -1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " set  MATH  and claim that  MATH   This is true by a \n", "concordanceId": "805", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " by a finite induction: for   MATH  , we have  MATH  and by \n", "concordanceId": "806", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " induction: for  MATH , we have   MATH   and by combining  (4.10)  and \n", "concordanceId": "807", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " 2.6   ( local case ) we get  MATH   where we used again that \n", "concordanceId": "809", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " where we used again that   MATH   . Thus the claim is true \n", "concordanceId": "810", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the claim is true for   MATH   . Also, by using the definition \n", "concordanceId": "811", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " and  (4.4) , we can infer  MATH   where as usual  MATH .\n", "concordanceId": "813", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " infer  MATH  where as usual   MATH  .\n", "concordanceId": "814", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Let us now assume that   MATH   for an index 6  6Of \n", "concordanceId": "815", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Of course, if   MATH   there is nothing to prove. \n", "concordanceId": "816", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " there is nothing to prove.   MATH  , then we can use   Lemma \n", "concordanceId": "817", "annotator1": -1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " (3.20)   and  (4.10)  we get  MATH   where  MATH  is a possibly \n", "concordanceId": "818", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " (4.10)   we get MATH  where   MATH   is a possibly different constant \n", "concordanceId": "819", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " we used the relation between   MATH   and  MATH  and the fact \n", "concordanceId": "820", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the relation between  MATH  and   MATH   and the fact that   MATH \n", "concordanceId": "821", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   and the fact that   MATH   . This in turn shows that \n", "concordanceId": "822", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " This in turn shows that   MATH   and thus the validity of \n", "concordanceId": "823", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the previous estimate. Observe that   MATH   where we used the definition \n", "concordanceId": "824", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " used the definition  (4.4)  of   MATH   and the fact that   MATH \n", "concordanceId": "825", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   and the fact that   MATH   . From the previous discussion and \n", "concordanceId": "826", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " thus obtain the iterative scheme   MATH   where  MATH  and  MATH  . It \n", "concordanceId": "827", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   where  MATH  and   MATH   . It is intended that the \n", "concordanceId": "829", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " in  (4.13)  is void when   MATH   . Without loss of generality, we \n", "concordanceId": "830", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " generality, we can assume that   MATH  .\n", "concordanceId": "831", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Case   MATH \n", "concordanceId": "832", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " We fix a differentiability exponent   MATH   such that MATH  as in \n", "concordanceId": "833", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " differentiability exponent  τ  such that  MATH   as in  (1.10)  , then the \n", "concordanceId": "834", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " in  (1.10) , then the index   MATH   above is chosen so that \n", "concordanceId": "835", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " to  (4.2) . We recall that   MATH   for every  MATH  . By using \n", "concordanceId": "837", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " recall that  MATH  for every   MATH   . By using this observation in \n", "concordanceId": "838", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " (4.13)   and iterating, we get  MATH   where  MATH , since  MATH .\n", "concordanceId": "839", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " iterating, we get  MATH  where   MATH  , since  MATH .\n", "concordanceId": "840", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " get  MATH  where  MATH , since   MATH  .\n", "concordanceId": "841", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " (4.14)   yield the Besov–Nikol'skii estimate  MATH   where we further used that \n", "concordanceId": "842", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " where we further used that   MATH   . The left-hand side is estimated \n", "concordanceId": "843", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " to  (2.4) , thus we get  MATH   We now recall that   MATH \n", "concordanceId": "844", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   We now recall that   MATH   has been chosen so that \n", "concordanceId": "845", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " has been chosen so that   MATH  , by applying  Proposition 2.7  we \n", "concordanceId": "846", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " applying  Proposition 2.7  we get  MATH   On the other hand   MATH \n", "concordanceId": "847", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   On the other hand   MATH   on  MATH  and by definition \n", "concordanceId": "848", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the other hand  MATH  on   MATH   and by definition of   MATH \n", "concordanceId": "849", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   and by definition of   MATH   and the fact that   MATH \n", "concordanceId": "850", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   and the fact that   MATH  MATH  Thus we conclude with \n", "concordanceId": "851", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " and the fact that  MATH  MATH   Thus we conclude with the \n", "concordanceId": "852", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the estimate (we use that   MATH   and again  MATH ) MATH  where \n", "concordanceId": "853", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " use that  MATH  and again   MATH  ) MATH  where  MATH  as usual \n", "concordanceId": "854", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " that  MATH  and again  MATH )  MATH   where  MATH  as usual depends \n", "concordanceId": "855", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " and again  MATH ) MATH  where   MATH   as usual depends on   MATH \n", "concordanceId": "856", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   as usual depends on   MATH   and Λ only. We now \n", "concordanceId": "857", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " catch the desired estimate for   MATH   in  MATH  . By recalling the \n", "concordanceId": "858", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " desired estimate for  u  in   MATH  . By recalling the definition   (1.9) \n", "concordanceId": "859", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " recalling the definition  (1.9)  of   MATH  , from  (4.15)  with a simple \n", "concordanceId": "860", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " exactly get  (1.10) . The constant   MATH   appearing in  (1.10)  is given \n", "concordanceId": "861", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " in  (1.10)  is given by  MATH \n", "concordanceId": "862", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": "Case   MATH \n", "concordanceId": "863", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " in this case we have   MATH   We still consider the sequence \n", "concordanceId": "864", "annotator1": -1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " We still consider the sequence   MATH   defined by  (4.1)  . Observe that \n", "concordanceId": "865", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Observe that in this case   MATH   Then this time the index \n", "concordanceId": "866", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Then this time the index   MATH   is chosen so that  MATH \n", "concordanceId": "867", "annotator1": -1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   is chosen so that  MATH   which is feasible. From the \n", "concordanceId": "868", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " scheme  (4.13) , by using that   MATH   for  MATH , we get  MATH \n", "concordanceId": "869", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " by using that  MATH  for   MATH  , we get MATH  exactly as \n", "concordanceId": "870", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   for  MATH , we get  MATH   exactly as in  (4.14)  , with \n", "concordanceId": "871", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " exactly as in  (4.14) , with   MATH  . We also used  (4.16)  in \n", "concordanceId": "872", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " to rule out the factor   MATH  .\n", "concordanceId": "873", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " distinction between two possible subcases   MATH  Case  .  Since  MATH  , we can \n", "concordanceId": "874", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH  Case  .  Since   MATH  , we can apply  (3.22)  of \n", "concordanceId": "875", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of  Lemma 3.3  and get  MATH   which shows that  MATH  . By \n", "concordanceId": "876", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " get  MATH  which shows that   MATH  . By using  (4.17)  in the \n", "concordanceId": "877", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " estimate and the definitions of   MATH   and of  MATH  , we end \n", "concordanceId": "878", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " definitions of  MATH  and of   MATH  , we end up with  MATH \n", "concordanceId": "879", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH  , we end up with  MATH   where  MATH  . By going back \n", "concordanceId": "880", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " end up with  MATH  where   MATH   . By going back to the \n", "concordanceId": "881", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " back to the original solution   MATH   with a scaling, we get \n", "concordanceId": "882", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " get  (1.11)  with the constant   MATH   given by MATH  We still \n", "concordanceId": "883", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the constant  MATH  given by  MATH   We still need to prove \n", "concordanceId": "884", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " (3.23)   of  Lemma 3.3  with   MATH   , we would get the weaker \n", "concordanceId": "885", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": "Indeed, observe that   MATH  .\n", "concordanceId": "886", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " 7  7Indeed, observe that γi0<(1+t+sp)/p.  MATH   Thus, we have to proceed \n", "concordanceId": "887", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " introduce the new cut-off function   MATH   such that  MATH \n", "concordanceId": "888", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " cut-off function  MATH  such that  MATH   Then we observe that since \n", "concordanceId": "889", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Then we observe that since   MATH   we have MATH  We can \n", "concordanceId": "890", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that since  MATH  we have  MATH   We can now use   Proposition \n", "concordanceId": "891", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " 3.1   in the limit case   MATH   and with balls  MATH  , this \n", "concordanceId": "892", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " case  MATH  and with balls   MATH  , this gives MATH  By combining \n", "concordanceId": "893", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " with balls  MATH , this gives  MATH   By combining  (4.19)  and   (4.18) \n", "concordanceId": "894", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " (4.18)   and still using  (4.16) ,   MATH   can be further estimated by \n", "concordanceId": "895", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " can be further estimated by   MATH   Then by using estimate   (3.23) \n", "concordanceId": "896", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " (3.23)   of  Lemma 3.3  for   MATH   and the previous inequality for \n", "concordanceId": "897", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " and the previous inequality for   MATH  , we get MATH  where   MATH \n", "concordanceId": "898", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " inequality for  MATH , we get  MATH   where  MATH  . The usual elementary \n", "concordanceId": "899", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH  , we get MATH  where   MATH   . The usual elementary manipulations used \n", "concordanceId": "900", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " used so far then give   MATH   By scaling we get   (1.12) \n", "concordanceId": "901", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " as desired, with the constant   MATH   given by MATH  and   MATH \n", "concordanceId": "902", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the constant  MATH  given by  MATH   and  MATH  depending on   MATH \n", "concordanceId": "903", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " MATH   and  MATH  depending on   MATH   and Λ only. This concludes \n", "concordanceId": "905", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " due to the fact that   MATH   . Rather than jumping directly from \n", "concordanceId": "907", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " jumping directly from the ball   MATH   to the final one   MATH \n", "concordanceId": "908", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " MATH   to the final one   MATH   as before, we need to \n", "concordanceId": "909", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " introduce the new intermediate ball   MATH  MATH  Then we replace the \n", "concordanceId": "910", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the new intermediate ball  MATH  MATH   Then we replace the cut-off \n", "concordanceId": "911", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " we replace the cut-off function   MATH   with the new one   MATH \n", "concordanceId": "912", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   with the new one   MATH   such that  MATH \n", "concordanceId": "913", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " new one  MATH  such that  MATH   Finally, we set MATH  We \n", "concordanceId": "914", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   Finally, we set  MATH   We now proceed by iteration \n", "concordanceId": "915", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " step we replace  (4.13)  with  MATH   The latter can be proved \n", "concordanceId": "916", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Thus this time we get   MATH   An application of estimate   (3.21) \n", "concordanceId": "917", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " radii of the two balls   MATH   and  MATH  is such that \n", "concordanceId": "918", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the two balls  MATH  and   MATH   is such that MATH\n", "concordanceId": "919", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " and  MATH  is such that  MATH \n", "concordanceId": "920", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " and Bri0−1 is such thatri0−1−ri0−1+3ri04=34(ri0−1−ri0)=316i0>4h0.   MATH   for an arbitrary  MATH  (we \n", "concordanceId": "921", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " apply  Proposition 3.1  with balls   MATH   , this would give as at \n", "concordanceId": "924", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the beginning of the proof   MATH   where  η  is as usual \n", "concordanceId": "925", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of the proof  MATH  where   MATH   is as usual a   MATH \n", "concordanceId": "926", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " η   is as usual a   MATH   cut-off function, such that   MATH \n", "concordanceId": "927", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   cut-off function, such that   MATH   on  MATH . By choosing   MATH \n", "concordanceId": "928", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " function, such that  MATH  on   MATH  . By choosing  MATH  such that \n", "concordanceId": "929", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   on  MATH . By choosing   MATH   such that MATH  we are \n", "concordanceId": "930", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " By choosing  MATH  such that  MATH   we are then reduced to \n", "concordanceId": "931", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " reduced to the previous subcase   MATH   . The proof can then be \n", "concordanceId": "932", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": "The number of iterations   MATH \n", "concordanceId": "933", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " on the number of iterations   MATH   . In particular, all the constants \n", "concordanceId": "934", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " all the constants blow-up as   MATH   goes to ∞. It is \n", "concordanceId": "935", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " recall that if we set   MATH   the sequence  MATH  has the \n", "concordanceId": "936", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " we set  MATH  the sequence   MATH   has the following explicit expression \n", "concordanceId": "937", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " given by (recall that  MATH )  MATH   while in the case    , this \n", "concordanceId": "941", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " case   , this is given by  MATH   and we have MATH\n", "concordanceId": "942", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " by  MATH  and we have  MATH \n", "concordanceId": "943", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": "Robust estimate for   MATH \n", "concordanceId": "944", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " and  (1.12) , this time for   MATH   sufficiently close to 1 and \n", "concordanceId": "945", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " 1.6  . We still denote by   MATH   the scaled solution. Let us \n", "concordanceId": "946", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " solution. Let us thus fix   MATH   and consider  MATH  such that \n", "concordanceId": "947", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " thus fix  MATH  and consider   MATH   such that MATH  Observe that \n", "concordanceId": "948", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " and consider  MATH  such that  MATH   Observe that sequence  MATH  defined \n", "concordanceId": "949", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that  MATH  Observe that sequence   MATH   defined in  (4.1)  is such \n", "concordanceId": "950", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " in  (4.1)  is such that  MATH   thus  MATH  and we can \n", "concordanceId": "951", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " is such that  MATH  thus   MATH   and we can conclude in \n", "concordanceId": "952", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the usual case of the   MATH  -Laplacian. By using estimate   (3.22) \n", "concordanceId": "953", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " directly to (recall  (4.12)  for   MATH  ) MATH  By scaling back we \n", "concordanceId": "955", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " to (recall  (4.12)  for  MATH )  MATH   By scaling back we get \n", "concordanceId": "956", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the fractional differentiability of ∇   MATH   , we can reproduce the final \n", "concordanceId": "957", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " final step of the case   MATH   above ( case MATH  ). That is, \n", "concordanceId": "958", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the case  MATH  above ( case  MATH  ). That is, we use   (4.19) \n", "concordanceId": "960", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " is, we use  (4.19) , i.e.  MATH   then  Proposition 3.1  in the \n", "concordanceId": "961", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " 3.1   in the limit case   MATH   (with balls  MATH  ) and once \n", "concordanceId": "962", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " limit case  MATH  (with balls   MATH  ) and once more estimate   (3.23) \n", "concordanceId": "963", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of the more general equation   MATH   where  MATH  is a locally \n", "concordanceId": "964", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " more general equation  MATH  where   MATH   is a locally Lipschitz function. \n", "concordanceId": "965", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the case of eigenfunctions of   MATH  , corresponding to  MATH ,  MATH  and \n", "concordanceId": "966", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " eigenfunctions of  MATH , corresponding to   MATH  ,  MATH  and  MATH  for some \n", "concordanceId": "967", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of  MATH , corresponding to  MATH ,   MATH   and  MATH  for some   MATH \n", "concordanceId": "968", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " corresponding to  MATH ,  MATH  and   MATH   for some  MATH  . This nonlinear \n", "concordanceId": "969", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   and  MATH  for some   MATH   . This nonlinear and nonlocal eigenvalue \n", "concordanceId": "970", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " holds for local weak solutions   MATH   of  (4.21)  such that  MATH \n", "concordanceId": "971", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   of  (4.21)  such that  MATH   Indeed, the only difference with \n", "concordanceId": "972", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the right-hand side of  (3.3)  MATH   This is of course a \n", "concordanceId": "973", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " be estimated as follows for   MATH  MATH  where  MATH \n", "concordanceId": "974", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " estimated as follows for  MATH  MATH   where MATH  The \n", "concordanceId": "975", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " follows for  MATH MATH  where  MATH   The last term in   (4.22) \n", "concordanceId": "976", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of  (4.21) , with the term   MATH   defined in  (1.9)  replaced by \n", "concordanceId": "977", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " defined in  (1.9)  replaced by  MATH   and  L  is as above. \n", "concordanceId": "978", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Gruppo Nazionale per l'Analisi Matematica,   MATH  Probabilità e le  loro Applicazioni \n", "concordanceId": "980", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " per l'Analisi Matematica,  la Probabilità  MATH  le loro Applicazioni  (GNAMPA) of \n", "concordanceId": "981", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " l'Analisi Matematica,  la Probabilità e  MATH  loro Applicazioni  (GNAMPA) of the \n", "concordanceId": "982", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " space  MATH  is denoted by   MATH  .\n", "concordanceId": "985", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " We introduce the heat kernel   MATH   then we set MATH  Observe \n", "concordanceId": "986", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " kernel  MATH  then we set  MATH   Observe that by the semigroup \n", "concordanceId": "987", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the heat kernel we have   MATH   thus we get MATH  where \n", "concordanceId": "988", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " have  MATH  thus we get  MATH   where ∇ denotes the gradient \n", "concordanceId": "989", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " gradient with respect to the   MATH   variable. In order to estimate \n", "concordanceId": "990", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "We have  MATH \n", "concordanceId": "992", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " observe that  10 10We have∂∂tKt(x)=Kt(x)[|x|24t2−N2t].  MATH   Thus we get MATH  From \n", "concordanceId": "993", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " have∂∂tKt(x)=Kt(x)[|x|24t2−N2t].  MATH  Thus we get  MATH   From this, by Minkowski inequality \n", "concordanceId": "994", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " by Minkowski inequality we obtain   MATH   With a simple change of \n", "concordanceId": "995", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " change of variables, this gives   MATH   Observe that for  MATH  MATH \n", "concordanceId": "996", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " gives  MATH  Observe that for   MATH  MATH  and the last two \n", "concordanceId": "997", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   Observe that for  MATH  MATH   and the last two terms \n", "concordanceId": "998", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " finite and depend only on   MATH  , so that in conclusion  MATH \n", "concordanceId": "999", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " N  , so that in conclusion  MATH   for some  MATH  . Then from \n", "concordanceId": "1000", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " in conclusion  MATH  for some   MATH  . Then from  (A.1)  and   (A.2) \n", "concordanceId": "1001", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " we obtain for every  MATH  MATH   We now integrate the previous \n", "concordanceId": "1003", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " previous inequality on the interval   MATH   , by Minkowski inequality again we \n", "concordanceId": "1004", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Minkowski inequality again we get   MATH   Since  MATH  by assumption, this \n", "concordanceId": "1005", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " again we get  MATH  Since   MATH   by assumption, this shows that \n", "concordanceId": "1006", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " by assumption, this shows that   MATH   is a Cauchy net in \n", "concordanceId": "1007", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " net in the complete space   MATH   . Thus there exists a sequence \n", "concordanceId": "1008", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " Thus there exists a sequence   MATH   converging to 0 as   k \n", "concordanceId": "1009", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " MATH   converging to 0 as   MATH   goes to ∞, such that \n", "concordanceId": "1010", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that  MATH  converges strongly in   MATH   . The limit function is the \n", "concordanceId": "1012", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " is the distributional gradient of   MATH  . Finally, this shows that   MATH \n", "concordanceId": "1013", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " ψ  . Finally, this shows that   MATH   . Moreover, by taking the limit \n", "concordanceId": "1014", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " (A.4)  , we get the estimate  MATH   which is  (2.7) .\n", "concordanceId": "1015", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Once the existence of ∇   MATH   in  MATH  is established, we \n", "concordanceId": "1016", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " existence of ∇  ψ  in   MATH   is established, we can now \n", "concordanceId": "1017", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " decay estimate on the hessian   MATH   . For this, we observe that \n", "concordanceId": "1018", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " For this, we observe that   MATH   Then of course we have \n", "concordanceId": "1019", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Then of course we have   MATH   Similarly as before, we can \n", "concordanceId": "1020", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " as before, we can write   MATH   then for every  MATH  we \n", "concordanceId": "1021", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " write  MATH  then for every   MATH   we get MATH  By integrating \n", "concordanceId": "1022", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " for every  MATH  we get  MATH   By integrating this estimate between \n", "concordanceId": "1023", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " By integrating this estimate between   MATH   and  MATH  , as above we \n", "concordanceId": "1024", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " this estimate between  s  and   MATH  , as above we get  MATH \n", "concordanceId": "1025", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH  , as above we get  MATH   By recalling that  MATH  , using \n", "concordanceId": "1026", "annotator1": 0, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " get  MATH  By recalling that   MATH  , using  (A.5)  and taking the \n", "concordanceId": "1027", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " and taking the limit as   MATH   goes to ∞, we get \n", "concordanceId": "1028", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " get the desired decay estimate   MATH   Let  MATH  , by using that \n", "concordanceId": "1029", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " desired decay estimate  MATH  Let   MATH  , by using that  MATH  converges \n", "concordanceId": "1030", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Let  MATH , by using that   MATH   converges to  ψ  as   t \n", "concordanceId": "1031", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " using that  MATH  converges to   MATH   as  t  goes to 0, \n", "concordanceId": "1032", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   converges to  ψ  as   MATH   goes to 0, we have \n", "concordanceId": "1033", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " goes to 0, we have   MATH   By using the smoothness of \n", "concordanceId": "1034", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " By using the smoothness of   MATH  , we can write MATH  which \n", "concordanceId": "1035", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of  MATH , we can write  MATH   which implies MATH  thanks to \n", "concordanceId": "1036", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " can write  MATH  which implies  MATH   thanks to  (A.6)  . On the \n", "concordanceId": "1037", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": " inequality and invariance of the   MATH   norm by translations, we have \n", "concordanceId": "1038", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " norm by translations, we have   MATH   where we also used   (A.3) \n", "concordanceId": "1039", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " with  (A.7) , so to get  MATH   for some  MATH  . The previous \n", "concordanceId": "1040", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " to get  MATH  for some   MATH   . The previous estimate holds for \n", "concordanceId": "1041", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " previous estimate holds for every   MATH   and the right-hand side is \n", "concordanceId": "1042", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " right-hand side is minimal for   MATH   . With such a choice we \n", "concordanceId": "1043", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " a choice we thus get   MATH   as desired. □\n", "concordanceId": "1044", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "For   MATH   we recall the definition of \n", "concordanceId": "1045", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the definition of the functions   MATH   and  MATH  MATH \n", "concordanceId": "1046", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of the functions  MATH  and   MATH  MATH  Lemma B.1Letp≥2, \n", "concordanceId": "1047", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the functions  MATH  and  MATH  MATH   Lemma B.1Letp≥2, for everya,b∈Rwe have(B.1)(Jp(a)−Jp(b))(a−b)≥(p−1)(2p)2|Vp(a)−Vp(b)|2. \n", "concordanceId": "1048", "annotator1": 1, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let  MATH  , for every MATH  we have \n", "concordanceId": "1050", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let MATH , for every  MATH  we have MATH\n", "concordanceId": "1052", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " for every  MATH we have  MATH \n", "concordanceId": "1054", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Since   MATH   and  MATH  share the same \n", "concordanceId": "1055", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Since  MATH  and   MATH   share the same sign, we \n", "concordanceId": "1056", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " without loss of generality that   MATH  . If  MATH  there is nothing \n", "concordanceId": "1057", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " of generality that  MATH . If   MATH   there is nothing to prove. \n", "concordanceId": "1058", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " prove. Let us assume that   MATH  , then we have MATH  which \n", "concordanceId": "1059", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " that  MATH , then we have  MATH   which concludes the proof. □ \n", "concordanceId": "1060", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let  MATH  , for every MATH  we have \n", "concordanceId": "1062", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let MATH , for every  MATH  we have MATH\n", "concordanceId": "1064", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " for every  MATH we have  MATH \n", "concordanceId": "1066", "annotator1": 1, "annotator2": 1, "annotator3": 1}
+{"concordanceText": "For   MATH   there is nothing to prove. \n", "concordanceId": "1067", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let  MATH  , for every MATH  we have \n", "concordanceId": "1074", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Let MATH , for every  MATH  we have MATH  In particular, \n", "concordanceId": "1076", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " for every  MATH we have  MATH   In particular, we also get \n", "concordanceId": "1078", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Observe that if   MATH   or  MATH  , the result trivially \n", "concordanceId": "1081", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Thus let us suppose that   MATH   and observe that the function \n", "concordanceId": "1083", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the function  MATH  defined by  MATH   is  MATH  -Hölder continuous. More \n", "concordanceId": "1085", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " MATH   defined by MATH  is   MATH   -Hölder continuous. More precisely, we \n", "concordanceId": "1086", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " continuous. More precisely, we have   MATH   By observing that  MATH  and \n", "concordanceId": "1087", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " have  MATH  By observing that   MATH   and applying the previous with \n", "concordanceId": "1088", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " and applying the previous with   MATH   we get  (B.3)  . The last \n", "concordanceId": "1089", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "A nonlocal   MATH   -Laplacian evolution equation with nonhomogeneous \n", "concordanceId": "1090", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Limiting embedding theorems for   MATH   when  MATH  and applications\n", "concordanceId": "1091", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " second eigenvalue of the fractional   MATH  -Laplacian\n", "concordanceId": "1093", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": "Local behavior of fractional   MATH  -minimizers\n", "concordanceId": "1095", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " the weak solutions of fractional   MATH  -Laplacian equations\n", "concordanceId": "1097", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " integral equations and approximation of   MATH  -Laplace equations\n", "concordanceId": "1099", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " solutions of equations of fractional   MATH  -Laplace type\n", "concordanceId": "1100", "annotator1": 0, "annotator2": 0, "annotator3": 0}
+{"concordanceText": " Nonlinear commutators for the fractional   MATH  -Laplacian and applications\n", "concordanceId": "1101", "annotator1": 0, "annotator2": 0, "annotator3": 0}

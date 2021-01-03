@@ -3,20 +3,39 @@
 import pandas as pd
 import json
 import pickle
+from collections import Counter
 
 try:
     with open("../logs/panda_dataset.pkl", 'rb') as f_read:
         dataset = pickle.load(f_read)
 except FileNotFoundError as file_error:
-    with open("../sample-data/dataset_combined.json") as file_dataset_json:
+    with open("../data/combined_data.json") as file_dataset_json:
         dataset_lines = file_dataset_json.readlines()
         dataset = pd.DataFrame(columns=["concor", 'annot'])
         for idx, line in enumerate(dataset_lines):
             json_item = json.loads(line)
-            annotation = 1 if sum([int(annot) for annot in [json_item["annotator1"],
-                                                            json_item["annotator2"], json_item["annotator3"]]
-                                   ]) >= 2 else 0
+            ## Error in annotation
+            annotation_list = [json_item["annotator1"], json_item["annotator2"], json_item["annotator3"]]
+            # two annotation -1: do not include
+            # -1, 0, 1 -> do not include
+            # -1, 0, 0 -> include
+            # -1, 1, 1 -> include
+            annotation_counter = Counter(annotation_list)
+            if annotation_counter[-1] == 2:
+                continue
+            elif annotation_counter[-1] == 1:
+                if annotation_counter[0] == annotation_counter[1]:
+                    continue
+                else:
+                    if annotation_counter[1]:
+                        annotation = 1
+                    elif annotation_counter[0]:
+                        annotation = 0
+            else:
+                annotation = 1 if sum([int(annot) for annot in annotation_list]) >= 2 else 0
+
             dataset.loc[idx] = [json_item["concordanceText"], annotation]
+
     with open("../logs/panda_dataset.pkl", 'wb') as f_write:
         pickle.dump(dataset, f_write)
         # print(dataset["annot"])
