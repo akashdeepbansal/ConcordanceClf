@@ -1,0 +1,693 @@
+ defined by the infinite product:queue   MATH   where  MATH  for all   r 
+ product:queue  MATH  where   MATH   for all  r  and   MATH 
+ MATH   where  MATH  for all   MATH   and  MATH  . Eta is a 
+ MATH   for all  r  and   MATH   . Eta is a holomorphic function 
+ is a holomorphic function on   MATH   with no zeros. This function 
+ overview of them). The function   MATH   is a modular form of 
+ with a multiplier system on   MATH   (see  [10]  ). An eta quotient 
+ (see  [10] ). An eta quotient   MATH   is a finite product of 
+ finite product of the form   MATH   where  MATH ,  MATH  is the 
+ of the form  MATH  where   MATH  ,  MATH  is the rescaling of 
+ the form  MATH  where  MATH ,   MATH   is the rescaling of   η 
+ MATH   is the rescaling of   MATH   by  d , defined by  MATH 
+ the rescaling of  η  by   MATH  , defined by  MATH 
+ η   by  d , defined by  MATH   and  MATH  . Eta quotients naturally 
+ MATH   and   MATH   . Eta quotients naturally inherit modularity 
+ quotients naturally inherit modularity from   MATH  : The eta quotient  f  in 
+ from  η : The eta quotient   MATH   in  (1.2)  transforms like a 
+ a modular form of weight   MATH   with a multiplier system on 
+ on suitable congruence subgroups of   MATH   : The largest among these subgroups 
+ largest among these subgroups is   MATH   where  MATH  We call   N 
+ these subgroups is  MATH  where   MATH   We call  N  the   level 
+ MATH   where  MATH  We call   MATH   the  level  of  f  . Since 
+22(text): level
+ call  N  the  level  of   MATH  . Since  η  is non-zero on 
+ the  level  of  f . Since   MATH   is non-zero on  MATH  , the 
+ Since  η  is non-zero on   MATH  , the eta quotient  f  is 
+ on  MATH , the eta quotient   MATH   is holomorphic if and only 
+ holomorphic if and only if   MATH   does not have any pole 
+ pole at the cusps of   MATH  .
+ We call an eta quotient   MATH  primitive  if there does not 
+30(text): primitive
+ exist any other eta quotient   MATH   and any  MATH  such that 
+ eta quotient  h  and any   MATH   such that  MATH  for all 
+ and any  MATH  such that   MATH   for all  MATH . Let   f 
+ such that  MATH  for all   MATH  . Let  f ,  g  and   h 
+ MATH   for all  MATH . Let   MATH  ,  g  and  h  be nonconstant 
+ for all  MATH . Let  f ,   MATH   and  h  be nonconstant holomorphic 
+ MATH  . Let  f ,  g  and   MATH   be nonconstant holomorphic eta quotients 
+ nonconstant holomorphic eta quotients on   MATH   (i.e. their levels divide   M 
+ MATH   (i.e. their levels divide   MATH  ) such that  MATH  . Then we 
+ levels divide  M ) such that   MATH  . Then we say that   f 
+ MATH  . Then we say that   MATH   is  factorizable on MATH  . We 
+42(text): factorizable on
+ that  f  is  factorizable on  MATH   . We call a holomorphic eta 
+ call a holomorphic eta quotient   MATH   of level  N quasi-irreducible  (resp. 
+ eta quotient  f  of level   MATH  quasi-irreducible  (resp.  irreducible  ), if it 
+46(text): quasi-irreducible
+47(text): irreducible
+ it is not factorizable on   MATH   (resp. on  MATH  for all 
+ factorizable on  MATH  (resp. on   MATH   for all multiples  M  of 
+ on  MATH  for all multiples   MATH   of  N  ). Here, it is 
+ for all multiples  M  of   MATH   ). Here, it is worth mentioning 
+52(text): simple
+53(text): Diplomarbeit
+ simple holomorphic eta quotients of   MATH  given weight.
+55(text): given weight.
+ simple holomorphic eta quotients of   MATH  given level.  In  [3]  , we 
+57(text): given level.
+By   MATH   we denote the set of 
+ integers. We define the operation   MATH   by MATH  For  MATH  , by 
+ define the operation  MATH  by  MATH   For  MATH , by  MATH  we 
+ operation  MATH  by MATH  For   MATH  , by  MATH  we denote the 
+ by  MATH  For  MATH , by   MATH   we denote the set of 
+ the set of divisors of   MATH  . For  MATH  , we say that 
+ of divisors of  N . For   MATH  , we say that  d  exactly 
+ For  MATH , we say that   MATH  exactly divides N  and write 
+ say that  d exactly divides  MATH   and write  MATH  if   MATH 
+ exactly divides  N  and write   MATH   if  MATH  . We denote the 
+ N   and write  MATH  if   MATH   . We denote the set of 
+ set of such divisors of   MATH   by  MATH  . It follows trivially 
+ such divisors of  N  by   MATH  . It follows trivially that   MATH 
+ MATH  . It follows trivially that   MATH   is a boolean group (i.e. 
+ group (i.e. each element of   MATH   is the inverse of itself) 
+ inverse of itself) and that   MATH   acts on  MATH  by ⊙. 
+ and that  MATH  acts on   MATH   by ⊙. For  MATH  , we 
+ on  MATH  by ⊙. For   MATH   , we define the eta quotient 
+ we define the eta quotient   MATH   by MATH  where  MATH  is 
+ the eta quotient  MATH  by  MATH   where  MATH  is the value 
+ quotient  MATH  by MATH  where   MATH   is the value of   X 
+ MATH   is the value of   MATH   at  MATH  whereas  MATH  denotes 
+ the value of  X  at   MATH   whereas  MATH  denotes the rescaling 
+ of  X  at  MATH  whereas   MATH   denotes the rescaling of   η 
+ MATH   denotes the rescaling of   MATH   by  d  . Clearly, the level 
+ the rescaling of  η  by   MATH  . Clearly, the level of   MATH 
+ d  . Clearly, the level of   MATH   divides  N  . In other words, 
+ the level of  MATH  divides   MATH  . In other words,  MATH  transforms 
+ divides  N . In other words,   MATH   transforms like a modular form 
+ with a multiplier system on   MATH  .
+88(text): eta quotient on
+An  eta quotient on  MATH   is an eta quotient whose 
+ eta quotient whose level divides   MATH  . For  MATH , let  MATH  (resp. 
+ whose level divides  N . For   MATH  , let  MATH  (resp.  MATH  ) be 
+ divides  N . For  MATH , let   MATH   (resp.  MATH  ) be the set 
+ For  MATH , let  MATH  (resp.   MATH   ) be the set of eta 
+ holomorphic eta quotients) of weight   MATH   on  MATH . For  MATH  , we 
+ quotients) of weight  MATH  on   MATH  . For  MATH  , we define the 
+ weight  MATH  on  MATH . For   MATH  , we define the   Atkin–Lehner map 
+97(text): Atkin–Lehner map
+ we define the  Atkin–Lehner map  MATH   by MATH  Since  MATH  is 
+ the  Atkin–Lehner map MATH  by  MATH   Since  MATH  is a boolean 
+ map  MATH  by MATH  Since   MATH   is a boolean group and 
+ and since it acts on   MATH   by ⊙, it follows trivially 
+ follows trivially that the map   MATH   is an involution. It is 
+ involutions of modular forms on   MATH   up to multiplication by a 
+ Preliminaries in  [2] ). So, if   MATH   is an eta quotient on 
+ is an eta quotient on   MATH   and  MATH , then  f  is 
+ eta quotient on  MATH  and   MATH  , then  f  is holomorphic if 
+ on  MATH  and  MATH , then   MATH   is holomorphic if and only 
+ and only if so is   MATH  . In particular, the involution   MATH 
+ MATH  . In particular, the involution   MATH   from  MATH  to  MATH  is 
+ particular, the involution  MATH  from   MATH   to  MATH  is called   Fricke 
+ involution  MATH  from  MATH  to   MATH   is called  Fricke involution .
+112(text): Fricke involution
+ that a holomorphic eta quotient   MATH   on  MATH  is an eta 
+ holomorphic eta quotient  f  on   MATH   is an eta quotient on 
+ is an eta quotient on   MATH   that does not have any 
+ cusps. Under the action of   MATH   on  MATH  by Möbius transformation, 
+ the action of  MATH  on   MATH   by Möbius transformation, for   MATH 
+ MATH   by Möbius transformation, for   MATH   with  MATH , we have  MATH 
+ Möbius transformation, for  MATH  with   MATH  , we have MATH  for some 
+ MATH   with  MATH , we have  MATH   for some  MATH  which is 
+ we have  MATH  for some   MATH   which is coprime to   MATH 
+ MATH   which is coprime to   MATH   (see  [7] ). We identify   MATH 
+ MATH   (see  [7] ). We identify   MATH   with  MATH  via the canonical 
+ [7]  ). We identify  MATH  with   MATH   via the canonical bijection that 
+ the canonical bijection that maps   MATH   to  MATH  if  MATH  and 
+ bijection that maps  MATH  to   MATH   if  MATH  and to ∞ 
+ maps  MATH  to  MATH  if   MATH   and to ∞ if   MATH 
+ MATH   and to ∞ if   MATH  . For  MATH  and a weakly 
+ to ∞ if  MATH . For   MATH   and a weakly holomorphic modular 
+ a weakly holomorphic modular form   MATH   on  MATH  , the order of 
+ holomorphic modular form  f  on   MATH  , the order of  f  at 
+ on  MATH , the order of   MATH   at the cusp  s  of 
+ of  f  at the cusp   MATH   of  MATH  is the exponent 
+ at the cusp  s  of   MATH   is the exponent of   MATH 
+ MATH   is the exponent of   MATH   occurring with the first nonzero 
+ first nonzero coefficient in the   MATH  -expansion of  f  at the 
+ in the  q -expansion of   MATH   at the cusp  s  , where 
+ of  f  at the cusp   MATH  , where  MATH  is the width 
+ at the cusp  s , where   MATH   is the width of the 
+ the width of the cusp   MATH   (see  [7,14]  ). The following is 
+ classes of the cusps of   MATH   (see  [7,11] ): MATH  where   MATH 
+ cusps of  MATH  (see  [7,11] ):  MATH   where  MATH  if and only 
+ MATH   (see  [7,11] ): MATH  where   MATH   if and only if   MATH 
+ MATH   if and only if   MATH  . For  MATH  and for   MATH 
+ and only if  MATH . For   MATH   and for  MATH  with   MATH 
+ MATH  . For  MATH  and for   MATH   with  MATH , we have  MATH 
+ MATH   and for  MATH  with   MATH  , we have MATH  (see   [11] 
+ MATH   with  MATH , we have  MATH   (see  [11]  ). It is easy 
+ check the above inclusion when   MATH   is a prime power. The 
+ It follows that for all   MATH  , we have MATH  In particular, 
+ for all  MATH , we have  MATH   In particular, that implies  MATH 
+ MATH   In particular, that implies  MATH   for all  MATH  and for 
+ that implies  MATH  for all   MATH   and for all the   MATH 
+ MATH   and for all the   MATH   inequivalent cusps of  MATH  represented 
+ the  MATH  inequivalent cusps of   MATH   represented by rational numbers of 
+ rational numbers of the form   MATH   with  MATH , where  φ  denotes 
+ of the form  MATH  with   MATH  , where  φ  denotes Euler's totient 
+ form  MATH  with  MATH , where   MATH   denotes Euler's totient function.
+159(text): order map
+ We define the  order map  MATH   of level  N  as the 
+ order map  MATH  of level   MATH   as the map which sends 
+ as the map which sends   MATH   to the ordered set of 
+ orders of the eta quotient   MATH   at the cusps  MATH  of 
+ quotient  MATH  at the cusps   MATH   of  MATH  . Also, we define 
+ at the cusps  MATH  of   MATH  . Also, we define the   order 
+166(text): order matrix
+ we define the  order matrix  MATH   of level  N  by  MATH 
+ order matrix  MATH  of level   MATH   by MATH  for all   MATH 
+ MATH   of level  N  by  MATH   for all  MATH  . By linearity 
+ N   by MATH  for all   MATH   . By linearity of the order 
+ the order map, we have   MATH   From  (2.9)  and  (2.6)  , we 
+ we note that the matrix   MATH   is not symmetric. It would 
+ for us to work with   MATH   if it would have been 
+174(text): symmetrized order matrix
+ define the  symmetrized order matrix  MATH   by MATH  where 
+ symmetrized order matrix  MATH  by  MATH   where  MATH  (resp.  MATH  ) denotes 
+ by  MATH  where   MATH   (resp.  MATH  ) denotes the row 
+ MATH   where  MATH  (resp.   MATH  ) denotes the row of   MATH 
+ MATH  ) denotes the row of   MATH   (resp.  MATH ) indexed by   MATH 
+ the row of  MATH  (resp.   MATH  ) indexed by  MATH  . For example, 
+ MATH   (resp.  MATH ) indexed by   MATH   . For example, for a prime 
+ example, for a prime power   MATH  , we have MATH  For   MATH 
+ prime power  MATH , we have  MATH   For  MATH , if  MATH  is 
+ MATH  , we have MATH  For   MATH  , if  MATH  is such that 
+ have  MATH  For  MATH , if   MATH   is such that  MATH  is 
+ if  MATH  is such that   MATH   is nonnegative at each element 
+ nonnegative at each element of   MATH  , then we write  MATH  . Otherwise, 
+ of  MATH , then we write   MATH  . Otherwise, we write  MATH  . In 
+ write  MATH . Otherwise, we write   MATH  . In particular, for  MATH  , the 
+ write  MATH . In particular, for   MATH  , the eta quotient  MATH  is 
+ for  MATH , the eta quotient   MATH   is holomorphic if and only 
+ holomorphic if and only if   MATH  .
+ and  (2.6) , we note that   MATH   is multiplicative in  N  and 
+ that  MATH  is multiplicative in   MATH   and in  MATH  . Hence, it 
+ multiplicative in  N  and in   MATH  . Hence, it follows that  MATH 
+ MATH  . Hence, it follows that  MATH   where by ⊗, we denote 
+ ordering of the primes dividing   MATH   induces a lexicographic ordering on 
+ induces a lexicographic ordering on   MATH   with which the entries of 
+ with which the entries of   MATH   are indexed, Equation  (2.13)  makes 
+ orderings of the primes dividing   MATH  .
+ that for a prime power   MATH  , the matrix  MATH  is invertible 
+ prime power  MATH , the matrix   MATH   is invertible with the tridiagonal 
+ invertible with the tridiagonal inverse:   MATH   For general  N  , the invertibility 
+ tridiagonal inverse:  MATH  For general   MATH   , the invertibility of the matrix 
+ the invertibility of the matrix   MATH   now follows by  (2.13)  . Hence, 
+ Hence, any eta quotient on   MATH   is uniquely determined by its 
+ the set of the cusps   MATH   of  MATH  . In particular, for 
+ of the cusps  MATH  of   MATH  . In particular, for distinct   MATH 
+ MATH  . In particular, for distinct   MATH  , we have  MATH  . The last 
+ for distinct  MATH , we have   MATH   . The last statement is also 
+ implied by the uniqueness of   MATH  -series expansion: Let  MATH  and 
+ of  q -series expansion: Let   MATH   and  MATH  be the   eta 
+ -series expansion: Let  MATH  and   MATH   be the  eta products  (i.e. 
+214(text): eta products
+ be the  eta products  (i.e.   MATH  ) obtained by multiplying  MATH  and 
+ (i.e.  MATH ) obtained by multiplying   MATH   and  MATH  with a common 
+ obtained by multiplying  MATH  and   MATH   with a common denominator. The 
+ induction on the weight of   MATH   (or equivalently, the weight of 
+ (or equivalently, the weight of   MATH   ) when we compare the corresponding 
+ corresponding first two exponents of   MATH   occurring in the  q  -series 
+ of  q  occurring in the   MATH  -series expansions of  MATH  and 
+ the  q -series expansions of   MATH   and  MATH .
+ -series expansions of  MATH  and   MATH  .
+For   MATH   and  MATH , we define   MATH 
+For  MATH  and   MATH  , we define  MATH  as the 
+ MATH   and  MATH , we define   MATH   as the integer-valued function on 
+ as the integer-valued function on   MATH   , whose value at each element 
+ value at each element of   MATH   is the absolute value of 
+ of the value taken by   MATH   at that point. We define 
+ at that point. We define   MATH   and  MATH  by  MATH 
+ point. We define  MATH  and   MATH   by  MATH 
+ define  MATH  and  MATH  by  MATH  MATH  Then we 
+ by  MATH  MATH   Then we have  MATH 
+ MATH   Then we have  MATH   where  MATH  and  φ ,   MATH 
+ MATH   where   MATH   and  φ ,  MATH  are Euler's 
+ MATH   where  MATH  and   MATH  ,  MATH  are Euler's  φ  function 
+ MATH   where  MATH  and  φ ,   MATH   are Euler's  φ  function and 
+ and  φ ,  MATH  are Euler's   MATH   function and Dedekind's  ψ  function 
+ Euler's  φ  function and Dedekind's   MATH   function given by  MATH 
+ Dedekind's  ψ  function given by  MATH   Using  (2.14)  , the assertions in 
+ are easy to check if   MATH   is a prime power. The 
+Let   MATH   and let  MATH  be an 
+Let  MATH  and let   MATH   be an eta quotient on 
+ be an eta quotient on   MATH   of weight  MATH  for some 
+ quotient on  MATH  of weight   MATH   for some  MATH  . We recall 
+ of weight  MATH  for some   MATH   . We recall the linear relation 
+ recall the linear relation between   MATH   and the orders of   f 
+ X   and the orders of   MATH   from  (2.10) . Since  MATH  is 
+ of  f  from  (2.10) . Since   MATH   is invertible, so is   MATH 
+ MATH   is invertible, so is   MATH  . Since  MATH  is symmetric and 
+ invertible, so is  MATH . Since   MATH   is symmetric and since for 
+ is symmetric and since for   MATH   , the weight the eta quotient 
+ the weight the eta quotient   MATH   is equal to  MATH  , summing 
+ quotient  MATH  is equal to   MATH   , summing over the rows of 
+ summing over the rows of   MATH  , from  (2.10) ,  (2.11) ,  (2.16)  and 
+ (2.16)   and  (2.17) , we get:  MATH   The above equation is just 
+ valence formula (see  [3] ). Since   MATH   (see  (2.6) ), from  (2.19)  it 
+ many holomorphic eta quotients on   MATH   . More precisely, the number of 
+ holomorphic eta quotients of weight   MATH   on  MATH  is at most 
+ quotients of weight  MATH  on   MATH   is at most the number 
+ solutions of the following equation   MATH   in nonnegative integers  MATH  . Also, 
+ equation  MATH  in nonnegative integers   MATH  . Also,  Corollary 1  in the 
+ MATH   the positive component of   MATH 
+ MATH   the positive component of   MATH  , i.e.  MATH .
+ positive component of  MATH , i.e.   MATH  .
+ MATH   the negative component of   MATH 
+ MATH   the negative component of   MATH  , i.e.  MATH .
+ negative component of  MATH , i.e.   MATH  .
+ MATH   the sum of the values 
+ sum of the values of   MATH  . So,  MATH .
+ the values of  MATH . So,   MATH  .
+ MATH   the  MATH  norm of   MATH 
+MATH  the   MATH   norm of  MATH , i.e.   MATH 
+ MATH   the  MATH  norm of   MATH  , i.e.  MATH .
+ MATH   norm of  MATH , i.e.   MATH  .
+ MATH   the  MATH  norm of   MATH 
+MATH  the   MATH   norm of  MATH , i.e.   MATH 
+ MATH   the  MATH  norm of   MATH  , i.e.  MATH .
+ MATH   norm of  MATH , i.e.   MATH  .
+280(text): For
+For  MATH  , let MATH  be an eta 
+282(text): , let
+For MATH , let  MATH   be an eta quotient of 
+284(text): be an eta quotient of weight
+ an eta quotient of weight   MATH  on MATH  . Then we have 
+286(text): on
+ quotient of weight  MATH on  MATH  . Then we have MATH  where 
+288(text): . Then we have
+ on  MATH . Then we have  MATH  where MATH and ψ,  MATH 
+290(text): where
+ Then we have  MATH where  MATH  and ψ, MATH  are as 
+ have  MATH where MATH and  MATH  MATH  are as defined in 
+ MATH  where MATH and ψ,  MATH  are as defined in  (2.18) 
+294(text): are as defined in
+295(text): .
+ in(2.18).   We recall that for   MATH  ,  MATH  is holomorphic if and 
+ We recall that for  MATH ,   MATH   is holomorphic if and only 
+ holomorphic if and only if   MATH   . So, from the above lemma, 
+299(text): For
+For  MATH  , let MATH be a  holomorphic 
+301(text): , let
+For MATH , let  MATH  be a  holomorphic eta quotient 
+ For  MATH , let MATH be  MATH   holomorphic eta quotient of weight 
+304(text): holomorphic eta quotient of weight
+ holomorphic eta quotient of weight   MATH  on MATH  . Then we have 
+306(text): on
+ quotient of weight  MATH on  MATH  . Then we have MATH
+308(text): . Then we have
+ on  MATH . Then we have  MATH 
+ holomorphic eta quotients of weight   MATH   on  MATH  is less than 
+ quotients of weight  MATH  on   MATH   is less than  MATH  , where 
+ on  MATH  is less than   MATH  , where  MATH  denotes the number 
+ is less than  MATH , where   MATH   denotes the number of divisors 
+ the number of divisors of   MATH   . But the dimension of the 
+ any fixed even weight on   MATH   becomes arbitrarily large as   MATH 
+ MATH   becomes arbitrarily large as   MATH   (see  [7]  ). So, if we 
+ the number of divisors of   MATH   along with a  MATH  , then 
+ of  N  along with a   MATH   , then except only finitely many 
+ only finitely many possibilities for   MATH   , the space of modular forms 
+ of modular forms of weight   MATH   on  MATH  never contains enough 
+ forms of weight  MATH  on   MATH   never contains enough eta quotients 
+322(text): Let
+Let  MATH  be a  weakly holomorphic eta 
+Let MATH be  MATH   weakly holomorphic eta quotient of 
+325(text): weakly holomorphic eta quotient of weight
+ holomorphic eta quotient of weight   MATH  on MATH with MATH  . Then 
+327(text): on
+ quotient of weight  MATH on  MATH  with MATH  . Then we have 
+329(text): with
+ weight  MATH on MATH with  MATH  . Then we have MATH
+331(text): . Then we have
+ with  MATH . Then we have  MATH 
+333(text): Let
+Let  MATH  be a  weakly holomorphic eta 
+Let MATH be  MATH   weakly holomorphic eta quotient of 
+336(text): weakly holomorphic eta quotient of weight
+ holomorphic eta quotient of weight   MATH  on MATH , where MATH  . Then 
+338(text): on
+ quotient of weight  MATH on  MATH  , where MATH  . Then we have 
+340(text): , where
+ weight  MATH on MATH , where  MATH  . Then we have MATH
+342(text): . Then we have
+ where  MATH . Then we have  MATH 
+We have   MATH  . Since  MATH ,  MATH  . So, if 
+We have  MATH . Since   MATH  ,  MATH . So, if  MATH  , then 
+ We have  MATH . Since  MATH ,   MATH  . So, if  MATH , then   MATH 
+ Since  MATH ,  MATH . So, if   MATH  , then  MATH  has at least 
+ MATH  . So, if  MATH , then   MATH   has at least two nonzero 
+ nonzero entries. Hence, we have   MATH   for all  k  . The claim 
+ we have  MATH  for all   MATH   . The claim now follows from 
+Let   MATH  . Then we have MATH  We 
+ Let  MATH . Then we have  MATH   We define the set   MATH 
+ MATH   We define the set   MATH   by  MATH  . Then for all 
+ define the set  MATH  by   MATH  . Then for all  MATH  , we 
+ by  MATH . Then for all   MATH  , we have  MATH  and for 
+ for all  MATH , we have   MATH   and for all  MATH  , we 
+ have  MATH  and for all   MATH  , we have  MATH . For   MATH 
+ for all  MATH , we have   MATH  . For  MATH , let MATH  Since 
+ MATH  , we have  MATH . For   MATH  , let MATH  Since  MATH  is 
+ have  MATH . For  MATH , let  MATH   Since  MATH  is symmetric, from 
+ For  MATH , let MATH  Since   MATH   is symmetric, from  (2.16)  and 
+ (2.16)   and  (2.17) , we get  MATH   and MATH  Again from   (2.16) 
+ (2.17)  , we get MATH  and  MATH   Again from  (2.16) ,  (2.17)  and 
+ (2.17)   and  (3.7) , we obtain  MATH   It follows that MATH  where 
+ obtain  MATH  It follows that  MATH   where the first inequality is 
+ and from the fact that   MATH   and  MATH  attain respectively the 
+ the fact that  MATH  and   MATH   attain respectively the maximum and 
+ for the same values of   MATH   in  MATH .
+ same values of  d  in   MATH  .
+ (3.8)   and  (3.10) , we get  MATH   □
+ (3.2)  , if for any given   MATH   the existence of a simple 
+ holomorphic eta quotient of weight   MATH   and level  N  implies only 
+ of weight  MATH  and level   MATH   implies only finitely many possibilities 
+ only finitely many possibilities for   MATH   . Below we show that this 
+Let   MATH  , where  MATH  are primes. For 
+Let  MATH , where   MATH   are primes. For any   MATH 
+ MATH   are primes. For any   MATH   , there exists a canonical bijection 
+ exists a canonical bijection between   MATH   and  MATH . If  MATH  , then 
+ canonical bijection between  MATH  and   MATH  . If  MATH  , then we denote 
+ between  MATH  and  MATH . If   MATH   , then we denote the image 
+ we denote the image of   MATH   by  MATH  under this bijection, 
+ the image of  MATH  by   MATH   under this bijection, i.e. if 
+ bijection, i.e. if we set   MATH   then MATH  For any nonnegative 
+ if we set  MATH  then  MATH   For any nonnegative integer   MATH 
+ MATH   For any nonnegative integer   MATH  , we call  MATH  the   j-th 
+ nonnegative integer  MATH , we call   MATH   the  j-th column  of   MATH 
+387(text): j-th column
+ MATH   the  j-th column  of   MATH  . Let  MATH , where  MATH ,   MATH 
+ j-th column   of  MATH . Let   MATH  , where  MATH ,  MATH  are the 
+ of  MATH . Let  MATH , where   MATH  ,  MATH  are the first   m 
+ MATH  . Let  MATH , where  MATH ,   MATH   are the first  m  primes 
+ MATH  ,  MATH  are the first   MATH   primes and the function   F 
+ m   primes and the function   MATH   is as defined in   Lemma 
+ is easy to note that   MATH   . The prime number theorem (see 
+ theorem (see  [8] ) states that   MATH   . Hence, from Mertens' theorem (see 
+ theorem (see  [8] ), we obtain   MATH   . Later in this section, we 
+ we shall show that for   MATH  , there exists a constant   MATH 
+ MATH  , there exists a constant   MATH   such that if  MATH  is 
+ constant  MATH  such that if   MATH   is a simple holomorphic eta 
+ holomorphic eta quotient of level   MATH   and weight  MATH  , then for 
+ of level  N  and weight   MATH  , then for all primes   MATH 
+ MATH  , then for all primes   MATH  , we have MATH  where   MATH 
+ all primes  MATH , we have  MATH   where  MATH  the highest number 
+ MATH  , we have MATH  where   MATH   the highest number of consecutive 
+ of consecutive zero columns in   MATH  . In particular, from  (4.2)  for 
+ In particular, from  (4.2)  for   MATH   we get  MATH . Since   MATH 
+ (4.2)   for  MATH  we get   MATH  . Since  MATH , Inequality  (4.2)  puts 
+ MATH   we get  MATH . Since   MATH  , Inequality  (4.2)  puts an upper 
+ puts an upper bound on   MATH   as well as on all 
+ well as on all primes   MATH  . 2  2In general, this bound 
+ large. For example, we have   MATH   . The order of magnitude of 
+ magnitude of the largest prime   MATH   for which the inequation   MATH 
+ MATH   for which the inequation   MATH   holds is 10 17  . Whereas 
+For each   MATH  ,  MATH  has  MATH  columns. Since 
+For each  i ,   MATH   has  MATH  columns. Since   MATH 
+ For each  i ,  MATH  has   MATH   columns. Since  MATH  is primitive, 
+ MATH   has  MATH  columns. Since   MATH   is primitive, the first column 
+ primitive, the first column of   MATH   is nonzero and since   MATH 
+ MATH   is nonzero and since   MATH   is of level  N  , the 
+ since  MATH  is of level   MATH  , the last column of   MATH 
+ N  , the last column of   MATH   is nonzero. Therefore, the number 
+ number of nonzero columns in   MATH   is at least  MATH  . Hence, 
+ in  MATH  is at least   MATH  . Hence, from  (3.2)  we get 
+ Hence, from  (3.2)  we get  MATH   Since  (4.2)  and  (4.3)  together 
+ together impose a bound on   MATH   , we have only finitely many 
+ only finitely many possibilities for   MATH   if  k  is given. □ 
+ many possibilities for  N  if   MATH   is given. □
+ we construct a decreasing function   MATH   such that if  MATH  is 
+ function  MATH  such that if   MATH   is a simple holomorphic eta 
+ holomorphic eta quotient of weight   MATH   and level  N  , then for 
+ of weight  MATH  and level   MATH  , then for any prime   MATH 
+ N  , then for any prime   MATH  ,  (4.2)  is satisfied if we 
+ is satisfied if we put   MATH   For all  MATH  , we set 
+ we put  MATH  For all   MATH  , we set  MATH  and we 
+ For all  MATH , we set   MATH   and we set  MATH  . For 
+ set  MATH  and we set   MATH  . For  MATH  , below we define 
+ and we set  MATH . For   MATH  , below we define  MATH  inductively. 
+ For  MATH , below we define   MATH   inductively. Let  G  be the 
+ we define  MATH  inductively. Let   MATH   be the function as defined 
+ defined in  Lemma 1 . Since   MATH   as  MATH  , for all sufficiently 
+ Lemma 1  . Since  MATH  as   MATH  , for all sufficiently large   MATH 
+ MATH  , for all sufficiently large   MATH  , we have MATH  Let   MATH 
+ sufficiently large  MATH , we have  MATH   Let  MATH  be the least 
+ MATH  , we have MATH  Let   MATH   be the least positive integer 
+ be the least positive integer   MATH   for which  (4.5)  holds and 
+ which  (4.5)  holds and let  MATH   Let  M  be a positive 
+ holds and let  MATH  Let   MATH   be a positive integer such 
+ that for each prime power   MATH  , we have MATH  where  MATH 
+ prime power  MATH , we have  MATH   where MATH  If the number 
+ MATH  , we have MATH  where  MATH   If the number of distinct 
+ of distinct prime divisors of   MATH   is  m  , then Mertens' theorem 
+ prime divisors of  M  is   MATH   , then Mertens' theorem and the 
+ theorem together imply that both   MATH   and  MATH  are  MATH  . So, 
+ imply that both  MATH  and   MATH   are  MATH  . So, the quantity 
+ both  MATH  and  MATH  are   MATH   . So, the quantity at the 
+ hand side of  (4.7)  is   MATH   . Now, as before, via the 
+ upper bound with respect to   MATH   on  m  as well as 
+ with respect to  n  on   MATH   as well as on each 
+ each prime power which divides   MATH   . Hence, there are only finitely 
+ are only finitely many integers   MATH  , which satisfy  (4.7) . Let   MATH 
+ MATH  , which satisfy  (4.7) . Let   MATH   be the greatest positive integer 
+ be the greatest positive integer   MATH   for which  (4.7)  holds and 
+ which  (4.7)  holds and let  MATH   We define MATH
+ and let  MATH  We define  MATH 
+465(text): For
+For  MATH  , MATH  and any prime power 
+467(text): ,
+For MATH ,  MATH  and any prime power  MATH 
+469(text): and any prime power
+ MATH  and any prime power  MATH  , we have 3  3In fact, 
+471(text): , we have
+In fact, for any   MATH  , if we denote by   MATH 
+ MATH  , if we denote by   MATH   the image of  MATH  in 
+ by  MATH  the image of   MATH   in  MATH  , then we have 
+ the image of  MATH  in   MATH  , then we have  MATH  (see 
+ in  MATH , then we have   MATH   (see Section 4 in   [5] 
+ (see Section 4 in [5]).   MATH  where MATH and MATH  are 
+478(text): where
+ 4 in [5]).  MATH where  MATH  and MATH  are defined similarly 
+480(text): and
+ [5]).  MATH where MATH and  MATH   are defined similarly as in 
+482(text): are defined similarly as in
+483(text): .
+ defined similarly as in(4.1).   For   MATH   and  MATH  as above, for 
+ as in(4.1).   For  MATH  and   MATH   as above, for  MATH  and 
+ and  MATH  as above, for   MATH   and for a real interval 
+ and for a real interval   MATH  , by  MATH  we denote the 
+ a real interval  MATH , by   MATH   we denote the submatrix of 
+ we denote the submatrix of   MATH   consisting of successive columns of 
+ of it with indices in   MATH  . For  MATH  and  MATH  , by 
+ with indices in  I . For   MATH   and  MATH , by  MATH  we 
+ in  I . For  MATH  and   MATH  , by  MATH  we denote the 
+ For  MATH  and  MATH , by   MATH   we denote the projection map, 
+ denote the projection map, i.e.   MATH   Lemma 3LetN,Piandrias above. LetX∈ZDNand leta,b∈Zwith0≤a<b≤risuch 
+495(text): Let
+Let  MATH  and MATH  as above. Let 
+497(text): and
+Let MATH and  MATH  as above. Let MATH  and 
+499(text): as above. Let
+ and  MATH as above. Let  MATH  and let MATH with  MATH 
+501(text): and let
+ above. Let  MATH and let  MATH  with MATH such that  MATH 
+503(text): with
+ MATH  and let MATH with  MATH  such that MATH  ( i.e.  MATH 
+505(text): such that
+ MATH  with MATH such that  MATH   ( i.e. MATH )  or MATH  . Let 
+507(text): i.e.
+ MATH  such that MATH  ( i.e.  MATH  )  or MATH . Let MATH  . Then 
+509(text): or
+ that  MATH  ( i.e. MATH )  or  MATH  . Let MATH . Then MATH
+511(text): . Let
+ i.e.  MATH )  or MATH . Let  MATH  . Then MATH
+513(text): . Then
+ or  MATH . Let MATH . Then  MATH 
+515(text): For
+For  MATH  and MATH , if MATH  , then 
+517(text): and
+For MATH and  MATH  , if MATH , then MATH
+519(text): , if
+ For  MATH and MATH , if  MATH  , then MATH
+521(text): , then
+ and  MATH , if MATH , then  MATH 
+ in the next section. Let   MATH   be a section of the 
+ a section of the projection   MATH   such that for all   MATH 
+ MATH   such that for all   MATH   and  MATH , we have  MATH 
+ that for all  MATH  and   MATH  , we have MATH  We 
+ MATH   and  MATH , we have  MATH   We define  MATH .
+ have  MATH  We define   MATH  .
+Let   MATH   with  MATH  such that   MATH 
+Let  MATH  with   MATH   such that  MATH  and   MATH 
+ MATH   with  MATH  such that   MATH   and  MATH  . For ease of 
+ MATH   such that  MATH  and   MATH   . For ease of notation, we 
+ ease of notation, we write   MATH  ,  MATH  and  MATH . Since   MATH 
+ of notation, we write  MATH ,   MATH   and  MATH . Since  MATH  is 
+ we write  MATH ,  MATH  and   MATH  . Since  MATH  is primitive,   MATH 
+ MATH  ,  MATH  and  MATH . Since   MATH   is primitive,  MATH  and since 
+ MATH  . Since  MATH  is primitive,   MATH   and since  MATH  is of 
+ is primitive,  MATH  and since   MATH   is of level  N ,   MATH 
+ since  MATH  is of level   MATH  ,  MATH . Let  MATH  and   MATH 
+ MATH   is of level  N ,   MATH  . Let  MATH  and  MATH  . So, 
+ of level  N ,  MATH . Let   MATH   and  MATH . So,  MATH  . Now, 
+ N  ,  MATH . Let  MATH  and   MATH  . So,  MATH . Now, if   MATH 
+ Let  MATH  and  MATH . So,   MATH  . Now, if  MATH  or   MATH 
+ MATH  . So,  MATH . Now, if   MATH   or  MATH , then by   (3.4) 
+ MATH  . Now, if  MATH  or   MATH  , then by  (3.4)  , we have 
+ by  (3.4) , we have respectively   MATH   or  MATH . Otherwise,  MATH ,   MATH 
+ we have respectively  MATH  or   MATH  . Otherwise,  MATH ,  MATH . Since   MATH 
+ respectively  MATH  or  MATH . Otherwise,   MATH  ,  MATH . Since  MATH  is irreducible, 
+ MATH   or  MATH . Otherwise,  MATH ,   MATH  . Since  MATH  is irreducible, we 
+ MATH  . Otherwise,  MATH ,  MATH . Since   MATH   is irreducible, we still have 
+ irreducible, we still have either   MATH   or  MATH  . Therefore if necessary, 
+ still have either  MATH  or   MATH  . Therefore if necessary, replacing   X 
+ MATH  . Therefore if necessary, replacing   MATH   by  MATH  where  MATH  for 
+ if necessary, replacing  X  by   MATH   where  MATH  for some   MATH 
+ replacing  X  by  MATH  where   MATH   for some  MATH  with   MATH 
+ MATH   where  MATH  for some   MATH   with  MATH  (hence, replacing   a 
+ MATH   for some  MATH  with   MATH   (hence, replacing  a  by   MATH 
+ MATH   with  MATH  (hence, replacing   MATH   by  MATH  and  b  by 
+ MATH   (hence, replacing  a  by   MATH   and  b  by  MATH  ), we 
+ replacing  a  by  MATH  and   MATH   by  MATH  ), we may assume 
+ by  MATH  and  b  by   MATH  ), we may assume that   MATH 
+ MATH  ), we may assume that   MATH   and MATH  We have  MATH 
+ may assume that  MATH  and  MATH   We have MATH  where the 
+ MATH   and MATH  We have  MATH   where the  j  -th column 
+ We have  MATH  where the   MATH  -th column of  MATH  (the 
+ the  j -th column of   MATH   (the last column of   MATH 
+ MATH   (the last column of   MATH  ), for all  MATH  . Hence from 
+ column of  MATH ), for all   MATH  . Hence from  (4.10) , via   Lemma 
+ via  Lemma 2  we get  MATH   Since  MATH , from   Lemma 3 
+ 2   we get MATH  Since   MATH  , from  Lemma 3  we have 
+ from  Lemma 3  we have  MATH   Since  MATH  is holomorphic,   MATH 
+ 3   we have MATH  Since   MATH   is holomorphic,  MATH  . So, from 
+ MATH   Since  MATH  is holomorphic,   MATH  . So, from  (4.12) ,  (4.11) ,   Lemma 
+ 4   and  (3.2) , we get  MATH   where the last inequality holds 
+ the last inequality holds since   MATH   is a decreasing function and 
+ a decreasing function and since   MATH   . It follows trivially from the 
+ trivially from the definitions of   MATH   and  G  that MATH  Now, 
+ the definitions of  F  and   MATH   that MATH  Now, Inequality   (4.2) 
+ of  F  and  G  that  MATH   Now, Inequality  (4.2)  follows from 
+ Follows from the facts that   MATH   and that these matrices are 
+ lighten the notation, we write   MATH   and  MATH . From   Lemma 2 
+ notation, we write  MATH  and   MATH  . From  Lemma 2  , we have 
+ From  Lemma 2 , we have  MATH   Therefore, MATH  where the first 
+ 2  , we have MATH  Therefore,  MATH   where the first two equalities 
+ 1st term of  (5.2)  is   MATH   . The sum of positive entries 
+ less than or equal to   MATH   We have MATH  The above 
+ equal to  MATH  We have  MATH   The above inequality follows from 
+ inequality follows from  (2.12)  if   MATH   is a prime power. The 
+ by multiplicativity (see  (2.13) ). Since  MATH   the sum of the positive 
+ less than or equal to   MATH   Thus, we have MATH  □ 
+ to  MATH  Thus, we have  MATH   □
+For   MATH  , we have  MATH  . So, the 
+For  MATH , we have   MATH   . So, the lemma holds trivially 
+ the lemma holds trivially for   MATH   . We proceed by induction on 
+ We proceed by induction on   MATH  . Let  MATH  be an integer 
+ by induction on  N . Let   MATH   be an integer and let 
+ the lemma holds for all   MATH  . Let  MATH  such that   MATH 
+ holds for all  MATH . Let   MATH   such that  MATH . Let   MATH 
+ MATH  . Let  MATH  such that   MATH  . Let  MATH . If  MATH  , then 
+ MATH   such that  MATH . Let   MATH  . If  MATH  , then the lemma 
+ that  MATH . Let  MATH . If   MATH   , then the lemma holds by 
+ So, let us assume that   MATH  . By the definition of   g 
+ MATH  . By the definition of   MATH   , the lemma holds trivially for 
+ the lemma holds trivially for   MATH   if  MATH , where  MATH  is 
+ holds trivially for  M  if   MATH  , where  MATH  is as defined 
+ for  M  if  MATH , where   MATH   is as defined in   (4.8) 
+ So, we may assume that   MATH   Since  MATH  (see  (4.6)  and 
+ may assume that  MATH  Since   MATH   (see  (4.6)  and  (4.9)  ), if 
+ (see  (4.6)  and  (4.9) ), if   MATH  , the claim holds by   (3.3) 
+ we may also assume that   MATH   Since  MATH  (see  (4.8)  and 
+ also assume that  MATH  Since   MATH   (see  (4.8)  and  (4.7)  ), there 
+ (4.7)  ), there exists a prime   MATH   dividing  M  such that  MATH 
+ exists a prime  p  dividing   MATH   such that MATH  where  MATH 
+ p   dividing  M  such that  MATH   where MATH  where  MATH  such 
+ M   such that MATH  where  MATH   where  MATH  such that   MATH 
+ that  MATH  where MATH  where   MATH   such that  MATH . Since   MATH 
+ MATH   where  MATH  such that   MATH  . Since  MATH ,  X  is nonzero. 
+ MATH   such that  MATH . Since   MATH  ,  X  is nonzero. For   MATH 
+ such that  MATH . Since  MATH ,   MATH   is nonzero. For  MATH ,   MATH 
+ MATH  ,  X  is nonzero. For   MATH  ,  MATH  and  MATH  , we define 
+ X   is nonzero. For  MATH ,   MATH   and  MATH , we define   MATH 
+ nonzero. For  MATH ,  MATH  and   MATH  , we define  MATH  by   (4.1) 
+ MATH   and  MATH , we define   MATH   by  (4.1) , replacing  MATH  with 
+ define  MATH  by  (4.1) , replacing   MATH   with  MATH  in it.
+ by  (4.1) , replacing  MATH  with   MATH   in it.
+ least one of the columns   MATH   or  MATH  is entirely zero. 
+ of the columns  MATH  or   MATH   is entirely zero. If   MATH 
+ MATH   is entirely zero. If   MATH   and  MATH  , then we replace 
+ entirely zero. If  MATH  and   MATH  , then we replace  X  by 
+ and  MATH , then we replace   MATH   by  MATH  (thereby interchanging the 
+ then we replace  X  by   MATH   (thereby interchanging the columns   MATH 
+ MATH   (thereby interchanging the columns   MATH   and  MATH ), where  MATH  is 
+ interchanging the columns  MATH  and   MATH  ), where  MATH  is the image 
+ columns  MATH  and  MATH ), where   MATH   is the image under the 
+ image under the Fricke involution   MATH  . As  MATH  for all   MATH 
+ the Fricke involution  MATH . As   MATH   for all  MATH  , from the 
+ MATH  . As  MATH  for all   MATH   , from the definition of Fricke 
+ (2.3)  ), it follows indeed that  MATH   So, we may assume that 
+ So, we may assume that   MATH  . Let  MATH  be such that 
+ may assume that  MATH . Let   MATH   be such that  MATH  and 
+ Let  MATH  be such that   MATH   and  MATH  for all   b 
+ be such that  MATH  and   MATH   for all  b  with   MATH 
+ MATH   and  MATH  for all   MATH   with  MATH . Let  MATH  . Then 
+ MATH   for all  b  with   MATH  . Let  MATH  . Then we have 
+ all  b  with  MATH . Let   MATH  . Then we have MATH  Since 
+ Let  MATH . Then we have  MATH   Since  MATH  , the same argument 
+ Then we have  MATH  Since   MATH   , the same argument which led 
+ to  (4.11)  also implies that   MATH  . So, we obtain MATH  where 
+ that  MATH . So, we obtain  MATH   where the last equality follows 
+ the induction hypothesis, we get   MATH   where the first inequality holds 
+ the first inequality holds since   MATH   and the second inequality holds 
+ the second inequality holds since   MATH  . Thus, from  (5.11)  and   (5.12) 
+ where none of the columns   MATH   and  MATH  are entirely zero. 
+ of the columns  MATH  and   MATH   are entirely zero. We choose 
+ are entirely zero. We choose   MATH   with  MATH  such that neither 
+ zero. We choose  MATH  with   MATH   such that neither  MATH  nor 
+ with  MATH  such that neither   MATH   nor  MATH  is entirely zero 
+ such that neither  MATH  nor   MATH   is entirely zero but   MATH 
+ MATH   is entirely zero but   MATH   for all  MATH  and   MATH 
+ zero but  MATH  for all   MATH   and  MATH  the highest number 
+ MATH   for all  MATH  and   MATH   the highest number of consecutive 
+ of consecutive zero columns in   MATH  . Since  MATH  has  MATH  columns 
+ zero columns in  MATH . Since   MATH   has  MATH  columns and since 
+ in  MATH . Since  MATH  has   MATH   columns and since none of 
+ number of nonzero columns of   MATH   is at least  MATH  . Hence, 
+ of  MATH  is at least   MATH  . Hence, from  (5.6)  we get 
+ Hence, from  (5.6)  we get  MATH   Let  MATH  and  MATH  . Since 
+ (5.6)   we get MATH  Let   MATH   and  MATH . Since  MATH  , either 
+ get  MATH  Let  MATH  and   MATH  . Since  MATH , either MATH  If 
+ Let  MATH  and  MATH . Since   MATH  , either MATH  If necessary, replacing 
+ and  MATH . Since  MATH , either  MATH   If necessary, replacing  X  by 
+ either  MATH  If necessary, replacing   MATH   by  MATH  where  MATH  is 
+ If necessary, replacing  X  by   MATH   where  MATH  is the image 
+ replacing  X  by  MATH  where   MATH   is the image of   MATH 
+ MATH   is the image of   MATH   under the Fricke involution   MATH 
+ MATH   under the Fricke involution   MATH   (see  (5.9)  ) and using an 
+ (4.10)  ), we may assume that   MATH   and  MATH  . As before, that 
+ may assume that  MATH  and   MATH  . As before, that implies   MATH 
+ MATH  . As before, that implies   MATH  . Since  MATH , from   Lemma 3 
+ before, that implies  MATH . Since   MATH  , from  Lemma 3  we have 
+ from  Lemma 3  we have  MATH   From  (5.14) ,  (5.6)  and from 
+ induction hypothesis, it follows that   MATH   where the last inequality holds 
+ the last inequality holds since   MATH   is a decreasing function and 
+ a decreasing function and since   MATH  . Since  (5.13)  implies that   MATH 
+ MATH  . Since  (5.13)  implies that   MATH   (see  (5.8) ), from  (5.7)  we 
+ (5.8)  ), from  (5.7)  we get  MATH   where the last inequality follows 
+ follows from the definition of   MATH   (see  (4.6)  and  (4.9)  ). From 
+Hecke operators on   MATH 
+Multiplicative   MATH  -quotients
+Holomorphe   MATH   -produkte und nichtverschwindende ganze modul-formen 
+ und nichtverschwindende ganze modul-formen für   MATH 
+ Coefficients of Modular Forms and   MATH  -Series

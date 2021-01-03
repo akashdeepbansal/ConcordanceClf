@@ -1,0 +1,848 @@
+ domain of the Euclidean space   MATH  ,  MATH  , it is very well 
+ of the Euclidean space  MATH ,   MATH   , it is very well known 
+ to the Laplacian equation in   MATH  , MATH  is given by the 
+ the Laplacian equation in  MATH ,  MATH   is given by the Green 
+ (or the Newton potential formula)   MATH   for suitable functions  f  supported 
+ formula)  MATH  for suitable functions   MATH   supported in Ω. Here   MATH 
+ f   supported in Ω. Here   MATH   is the fundamental solution to 
+ fundamental solution to Δ in   MATH   given by MATH  where   MATH 
+ Δ in  MATH  given by  MATH   where  MATH  is the surface 
+ MATH   given by MATH  where   MATH   is the surface area of 
+ of the unit sphere in   MATH   . An interesting question having several 
+ condition can be put on   MATH   on the (piecewise smooth) boundary 
+ (1.2)  , with the same kernel   MATH   given by  (1.3)  . This amounts 
+ is the integral boundary condition   MATH   where  MATH  denotes the outer 
+ integral boundary condition  MATH  where   MATH   denotes the outer normal derivative 
+ normal derivative at a point   MATH   on ∂Ω. Thus, the trace 
+ results of this paper. Let   MATH   be a homogeneous Carnot group 
+ Carnot group of homogeneous dimension   MATH   with Haar measure  dν  , and 
+ dimension  MATH  with Haar measure   MATH  , and let  MATH  be left-invariant 
+ Haar measure  dν , and let   MATH   be left-invariant vector fields giving 
+ first stratum, with the sub-Laplacian   MATH   For precise definitions we refer 
+ Section  2 . Throughout this paper   MATH   will be an admissible domain: 
+ say that an open set   MATH   is an  admissible domain  if 
+23(text): admissible domain
+ Stokes theorem) in the form   MATH   where the form  MATH  is 
+ form  MATH  where the form   MATH   is obtained from the natural 
+ from the natural pairing of   MATH   (viewed as a form) with 
+ (viewed as a form) with   MATH  , see  (3.2) – (3.4)  for 
+ of Green's first formula: if   MATH   and  MATH , then MATH  where 
+ first formula: if  MATH  and   MATH  , then MATH  where MATH  see 
+ if  MATH  and  MATH , then  MATH   where MATH  see   Proposition 3.2 
+ and  MATH , then MATH  where  MATH   see  Proposition 3.2  . Consequently, we 
+ formula is also established: if   MATH  , then MATH  see   Proposition 3.10 
+ also established: if  MATH , then  MATH   see  Proposition 3.10  . As a 
+ layer potentials (for the sub-Laplacian   MATH  ) in the form MATH  where 
+ sub-Laplacian  MATH ) in the form  MATH   where MATH  is the fundamental 
+ in the form  MATH  where  MATH   is the fundamental solution of 
+ fundamental solution of the sub-Laplacian   MATH   on  MATH , MATH  see   (3.1) 
+ of the sub-Laplacian  MATH  on   MATH  , MATH  see  (3.1)  for its 
+ the sub-Laplacian  MATH  on  MATH ,  MATH   see  (3.1)  for its formula. 
+ analysis. We show that if   MATH   then  MATH  is continuous (  Theorem 
+ show that if  MATH  then   MATH   is continuous ( Theorem 4.1  ). As 
+ double layer potential we consider   MATH   where MATH  and we establish 
+ potential we consider  MATH  where  MATH   and we establish its jump 
+ for the Newton potential operator   MATH   to arbitrary bounded piecewise smooth 
+ piecewise smooth surfaces ∂Ω when   MATH   and  f  is in the 
+ surfaces ∂Ω when  MATH  and   MATH   is in the Folland–Stein's Hölder 
+ the boundary” for the sub-Laplacian   MATH  , see Section  5 .
+ Kac's problem also for poly-sub-Laplacians   MATH  , see Section  6  , for all 
+ Section  6 , for all integers   MATH  .
+ a “local” Hardy inequality on   MATH   . Namely, we show that for 
+ Namely, we show that for   MATH  ,  MATH  and  MATH  , we have 
+ we show that for  MATH ,   MATH   and  MATH , we have  MATH 
+ that for  MATH ,  MATH  and   MATH  , we have MATH  for all 
+ MATH   and  MATH , we have  MATH   for all  MATH , where   d 
+ we have  MATH  for all   MATH  , where  d  is the   MATH 
+ MATH   for all  MATH , where   MATH   is the  MATH  -gauge distance 
+ MATH  , where  d  is the   MATH  -gauge distance and MATH  If 
+ the  MATH -gauge distance and  MATH   If  MATH  on ∂Ω, the 
+ -gauge distance and  MATH  If   MATH   on ∂Ω, the second (boundary) 
+ term vanishes, and the constant   MATH   in the first term is 
+ of (local) uncertainty principles on   MATH  .
+ can be extended to operators   MATH   where  MATH  is a positive-definite 
+ extended to operators  MATH  where   MATH   is a positive-definite symmetric matrix, 
+A Lie group   MATH   is called homogeneous Carnot group 
+ (a) For some natural numbers   MATH   the decomposition  MATH  is valid, 
+ natural numbers  MATH  the decomposition   MATH   is valid, and for every 
+ is valid, and for every   MATH   the dilation  MATH  given by 
+ for every  MATH  the dilation   MATH   given by MATH  is an 
+ the dilation  MATH  given by  MATH   is an automorphism of the 
+ an automorphism of the group   MATH  . Here  MATH  for  MATH .
+ of the group  MATH . Here   MATH   for  MATH .
+ group  MATH . Here  MATH  for   MATH  .
+(b) Let   MATH   be as in (a) and 
+ as in (a) and let   MATH   be the left invariant vector 
+ left invariant vector fields on   MATH   such that  MATH  for   MATH 
+ fields on  MATH  such that   MATH   for  MATH . Then MATH  for 
+ MATH   such that  MATH  for   MATH  . Then MATH  for every   MATH 
+ that  MATH  for  MATH . Then  MATH   for every  MATH  , i.e. the 
+ MATH  . Then MATH  for every   MATH   , i.e. the iterated commutators of 
+ i.e. the iterated commutators of   MATH   span the Lie algebra of 
+ span the Lie algebra of   MATH  .
+ we say that the triple   MATH   is a homogeneous Carnot group. 
+ Carnot group. In  Definition 2.1 ,   MATH   is called a step of 
+ is called a step of   MATH   and the left invariant vector 
+ the left invariant vector fields   MATH   are called the (Jacobian) generators 
+ called the (Jacobian) generators of   MATH   . We also note that a 
+ homogeneous Lie group (modelled on   MATH   but this is not restricting 
+ restricting the generality). The number   MATH   is called the homogeneous dimension 
+ called the homogeneous dimension of   MATH  .
+ Throughout this paper we assume   MATH   . This is not very restrictive 
+ rules out only the spaces   MATH   and  MATH  where the fundamental 
+ only the spaces  MATH  and   MATH   where the fundamental solution assumes 
+ The second order differential operator   MATH   is called the (canonical) sub-Laplacian 
+ called the (canonical) sub-Laplacian on   MATH   . In this paper we mainly 
+ the operator  (2.1) . The sub-Laplacian   MATH   is a left invariant homogeneous 
+ and it is known that   MATH   is elliptic if and only 
+ only if the step of   MATH   is equal to 1.
+ are “equivalent” to the sub-Laplacian   MATH   . Let us very briefly discuss 
+Let   MATH   be a positive-definite symmetric matrix. 
+ operator based on the matrix   MATH   and the vector fields   MATH 
+ A   and the vector fields   MATH  , given by MATH  For instance, 
+ vector fields  MATH , given by  MATH   For instance, in the Euclidean 
+ instance, in the Euclidean case (   MATH  ), that is, for  MATH  , the 
+ case (  MATH ), that is, for   MATH   , the constant coefficient second order 
+ order operator of elliptic type   MATH   is transformed into MATH  under 
+ type  MATH  is transformed into  MATH   under a linear change of 
+ linear change of coordinates in   MATH  . Thus, the operator  MATH  is 
+ in  MATH . Thus, the operator   MATH   is “equivalent” to the operator 
+ can be carried out for   MATH   on the group  MATH  ? In 
+ for  MATH  on the group   MATH   ? In general, classical changes of 
+ additional assumption on the group   MATH   is needed in order to 
+ the idea is preserved if   MATH   is a free Carnot group. 
+ Recall that the Carnot group   MATH   is called a free Carnot 
+ For instance, the Heisenberg group   MATH   is a free Carnot group. 
+115(text): Let
+Let  MATH  be a  free homogeneous Carnot 
+Let MATH be  MATH   free homogeneous Carnot group, and 
+ homogeneous Carnot group, and let   MATH  be a  given positive-definite symmetric 
+ group, and let  A be  MATH   given positive-definite symmetric matrix. Let 
+120(text): given positive-definite symmetric matrix. Let
+ given positive-definite symmetric matrix. Let   MATH   be left-invariant vector fields in 
+122(text): be left-invariant vector fields in the first stratum of the free homogeneous Carnot group
+ the free homogeneous Carnot group   MATH  with the corresponding sub-Laplacian  (2.1) 
+124(text): with the corresponding sub-Laplacian
+125(text): (2.1)
+126(text): . Let
+ the corresponding sub-Laplacian  (2.1) . Let  MATH   Consider the related second order 
+128(text): Consider the related second order differential operator
+ related second order differential operator   MATH  Then there exists a  Lie 
+ operator  MATH Then there exists  MATH  Lie group automorphism MATH  of 
+131(text): Lie group automorphism
+ exists  a Lie group automorphism  MATH  of MATH such that  MATH 
+133(text): of
+ Lie group automorphism  MATH of  MATH  such that MATH  for every 
+135(text): such that
+ MATH  of MATH such that  MATH  for every smooth function  MATH 
+137(text): for every smooth function
+ MATH  for every smooth function  MATH  . Moreover, MATH  has polynomial component 
+139(text): . Moreover,
+ every smooth function  MATH . Moreover,  MATH   has polynomial component functions and 
+141(text): has polynomial component functions and commutes with the dilations of
+ commutes with the dilations of   MATH  .
+143(text): .
+ be also proved that if   MATH   is not a free Carnot 
+ Carnot group, then the automorphism   MATH   may not exist. However, it 
+ for any homogeneous Carnot group   MATH   there exists a different homogeneous 
+ a different homogeneous Carnot group   MATH   , that is, with the same 
+ with the same underlying manifold   MATH   and the same group of 
+ the same group of dilations   MATH   as  MATH  , and a Lie-group 
+ group of dilations  MATH  as   MATH   , and a Lie-group isomorphism from 
+ and a Lie-group isomorphism from   MATH   to  MATH  turning  MATH  (of 
+ Lie-group isomorphism from  MATH  to   MATH   turning  MATH  (of  MATH  ) into 
+ from  MATH  to  MATH  turning   MATH   (of  MATH ) into  MATH  (of 
+ to  MATH  turning  MATH  (of   MATH  ) into  MATH  (of  MATH  ) (see 
+ turning  MATH  (of  MATH ) into   MATH   (of  MATH ) (see   [4, Chapter 
+ (of  MATH ) into  MATH  (of   MATH  ) (see  [4, Chapter 16.3]  ). See 
+ important lemmas for integration on   MATH   and their consequences for a 
+ has a unique fundamental solution   MATH   on  MATH  (see  [15] ),  MATH 
+ unique fundamental solution  ε  on   MATH   (see  [15] ), MATH  and   MATH 
+ ε   on  MATH  (see  [15] ),  MATH   and  MATH  is homogeneous of 
+ MATH   (see  [15] ), MATH  and   MATH   is homogeneous of degree   MATH 
+ MATH   is homogeneous of degree   MATH   and represented in the form 
+ and represented in the form   MATH   where  d  is the   MATH 
+ in the form  MATH  where   MATH   is the  MATH -gauge.
+ MATH   where  d  is the   MATH  -gauge.
+We recall that the   MATH  -gauge (see  [4]  ) is a 
+ on the homogeneous Carnot group   MATH  , that is,  •d(x)>0 if and 
+ MATH   if and only if   MATH 
+ MATH   if and only if   MATH  ,
+ MATH   for all  MATH  and   MATH 
+MATH  for all   MATH   and  MATH ,
+ MATH   for all  MATH  and   MATH  ,
+ MATH   for all  MATH .
+MATH  for all   MATH  .
+ paper we keep the notation   MATH   for the  MATH  -gauge and 
+ the notation  d  for the   MATH   -gauge and use the following 
+ MATH  , and  MATH  if and only 
+MATH , and   MATH   if and only if   MATH 
+ MATH   if and only if   MATH   for all  MATH .
+ only if  MATH  for all   MATH  .
+ There exists a positive constant   MATH   such that MATH  for all 
+ positive constant  MATH  such that  MATH   for all  MATH .
+ such that  MATH  for all   MATH  .
+Let   MATH   be the homogeneous dimension of 
+ be the homogeneous dimension of   MATH   , ∂Ω the boundary of an 
+ an admissible domain Ω in   MATH  ,  dν  the volume element on 
+ admissible domain Ω in  MATH ,   MATH   the volume element on   MATH 
+ dν   the volume element on   MATH  ,  MATH  left-invariant vector fields in 
+ the volume element on  MATH ,   MATH   left-invariant vector fields in the 
+ of a homogeneous Carnot group   MATH  , and  MATH  the natural pairing 
+ homogeneous Carnot group  MATH , and   MATH   the natural pairing between vector 
+ Proposition 3.1  , we can write  MATH   with MATH  where  MATH  is 
+ we can write  MATH  with  MATH   where  MATH  is a   MATH 
+ write  MATH  with MATH  where   MATH   is a  MATH  -homogeneous polynomial 
+ MATH   where  MATH  is a   MATH  -homogeneous polynomial of degree   MATH 
+ MATH  -homogeneous polynomial of degree   MATH   such that MATH  We also 
+ of degree  MATH  such that  MATH   We also recall that the 
+ the standard Lebesque measure on   MATH   is the Haar measure for 
+ is the Haar measure for   MATH   (see, e.g.   [4, Proposition 1.3.21] 
+ explicit formula for the forms   MATH   in  (3.3) .
+201(text): Let
+Let  MATH   be an admissible domain. Let 
+203(text): be an admissible domain. Let
+ be an admissible domain. Let   MATH  . Then for each MATH  , we 
+205(text): . Then for each
+ Let  MATH . Then for each  MATH  , we have MATH  Consequently, we 
+207(text): , we have
+ for each  MATH , we have  MATH  Consequently, we also have  MATH 
+209(text): Consequently, we also have
+ MATH  Consequently, we also have  MATH 
+ 3.1.5]  ) that the Jacobian basis   MATH   of  MATH  takes the form 
+ the Jacobian basis  MATH  of   MATH   takes the form MATH  where 
+ of  MATH  takes the form  MATH   where  MATH  is a   MATH 
+ takes the form  MATH  where   MATH   is a  MATH  -homogeneous polynomial 
+ MATH   where  MATH  is a   MATH   -homogeneous polynomial function of degree 
+ -homogeneous polynomial function of degree   MATH  . As in  Definition 2.1 ,   r 
+ MATH  . As in  Definition 2.1 ,   MATH   is the step of   MATH 
+ r   is the step of   MATH   and  MATH ,  MATH  . For any 
+ the step of  MATH  and   MATH  ,  MATH . For any function   f 
+ step of  MATH  and  MATH ,   MATH  . For any function  f  we 
+ MATH  ,  MATH . For any function   MATH   we obtain the following differentiation 
+ obtain the following differentiation formula   MATH   where MATH  That is  MATH 
+ following differentiation formula  MATH  where  MATH   That is MATH  It is 
+ MATH   where MATH  That is  MATH   It is simple to see 
+ is simple to see that   MATH   where  MATH  is the Kronecker 
+ to see that  MATH  where   MATH   is the Kronecker delta, and 
+ is the Kronecker delta, and   MATH   That is, we have  MATH 
+ MATH   That is, we have  MATH   for  MATH , and MATH  for 
+ is, we have  MATH  for   MATH  , and MATH  for  MATH  . Here 
+ have  MATH  for  MATH , and  MATH   for  MATH . Here MATH  We 
+ for  MATH , and MATH  for   MATH  . Here MATH  We have  MATH 
+ and  MATH  for  MATH . Here  MATH   We have MATH  so  MATH 
+ MATH  . Here MATH  We have  MATH   so MATH  Therefore, by using 
+ MATH   We have MATH  so  MATH   Therefore, by using Formula   (3.9) 
+ using Formula  (3.9)  we get  MATH   that is, MATH  Now using 
+ we get  MATH  that is,  MATH   Now using the Stokes theorem 
+ (3.5)  . Taking a sum over   MATH   we also obtain  (3.6)  . □ 
+238(text): Let
+Let  MATH   be an admissible domain. Let 
+240(text): be an admissible domain. Let
+ be an admissible domain. Let   MATH  and MATH . Then MATH  where 
+242(text): and
+ admissible domain. Let  MATH and  MATH  . Then MATH where MATH  is 
+244(text): . Then
+ Let  MATH and MATH . Then  MATH  where MATH  is the sub-Laplacian 
+246(text): where
+ and  MATH . Then MATH where  MATH  is the sub-Laplacian on  MATH 
+248(text): is the sub-Laplacian on
+ MATH  is the sub-Laplacian on  MATH  and MATH
+250(text): and
+ the sub-Laplacian on  MATH and  MATH 
+Let   MATH  , then MATH  Here as usual 
+Let  MATH , then  MATH   Here as usual we understand 
+ understand the scalar expression for   MATH   as MATH  Otherwise, we may 
+ scalar expression for  MATH  as  MATH   Otherwise, we may sometimes use 
+ may sometimes use the expression   MATH   , of course, this is an 
+ in  Proposition 3.1  we obtain  MATH   completing the proof. □
+ completing the proof. □   When   MATH  Proposition 3.2  implies the following 
+259(text): If
+If  MATH  in an admissible domain  MATH 
+261(text): in an admissible domain
+ MATH  in an admissible domain  MATH  , then MATH
+263(text): , then
+ an admissible domain  MATH , then  MATH 
+ particular, to the fundamental solution   MATH  .
+Then, for   MATH  , taking  MATH  and  MATH  we 
+Then, for  MATH , taking   MATH   and  MATH  we record the 
+ for  MATH , taking  MATH  and   MATH   we record the following consequence 
+269(text): If
+If  MATH   is an admissible domain, and 
+271(text): is an admissible domain, and
+ is an admissible domain, and   MATH  , then MATH where ε  is 
+273(text): , then
+ admissible domain, and  MATH , then  MATH  where ε  is the fundamental 
+ and  MATH , then MATH where  MATH   is the fundamental solution of 
+276(text): is the fundamental solution of the sub-Laplacian.
+277(text): The Dirichlet boundary value problem
+ The Dirichlet boundary value problem   MATH  MATH  has the unique trivial 
+ Dirichlet boundary value problem  MATH  MATH   has the unique trivial solution 
+280(text): has the unique trivial solution
+ has the unique trivial solution   MATH   in the class of functions 
+282(text): in the class of functions
+ in the class of functions   MATH  .
+284(text): .
+Set   MATH   in  (3.12) , then by   (3.13) 
+ (3.13)   and  (3.14)  we get  MATH   Therefore MATH  that is,   MATH 
+ (3.14)   we get MATH  Therefore  MATH   that is,  MATH  . Since any 
+ MATH   Therefore MATH  that is,   MATH   . Since any element of a 
+ of a Jacobian basis of   MATH   is represented by Lie brackets 
+ represented by Lie brackets of   MATH  , we obtain that  u  is 
+ of  MATH , we obtain that   MATH   is a constant, so   MATH 
+ u   is a constant, so   MATH   on Ω by  (3.14)  . □ 
+293(text): Let
+Let  MATH  be a  non-negative bounded function 
+Let MATH be  MATH   non-negative bounded function that is, 
+296(text): non-negative bounded function that is,
+ non-negative bounded function that is,   MATH  and MATH  . Then the Dirichlet 
+298(text): and
+ function that is,  MATH and  MATH   . Then the Dirichlet boundary value 
+300(text): . Then the Dirichlet boundary value problem for the Schrödinger equation
+ problem for the Schrödinger equation   MATH  MATH  has the unique trivial 
+ for the Schrödinger equation  MATH  MATH   has the unique trivial solution 
+303(text): has the unique trivial solution
+ has the unique trivial solution   MATH   in the class of functions 
+305(text): in the class of functions
+ in the class of functions   MATH  .
+307(text): .
+ (3.15)   and  (3.16)  we obtain  MATH   Therefore, MATH  that is,   MATH 
+ (3.16)   we obtain MATH  Therefore,  MATH   that is,  MATH . □
+ MATH   Therefore, MATH  that is,   MATH  . □
+311(text): The boundary value problem
+The boundary value problem  MATH  MATH has a solution  MATH 
+ The boundary value problem  MATH  MATH  has a solution MATH  in 
+ value problem  MATH MATH has  MATH  solution MATH  in the class 
+315(text): solution
+ MATH  MATH has a solution  MATH   in the class of functions 
+317(text): in the class of functions
+ in the class of functions   MATH  .
+319(text): .
+Set   MATH   in  (3.12) , then by   (3.17) 
+ (3.17)   and  (3.18)  we get  MATH   Therefore MATH  that is,   MATH 
+ (3.18)   we get MATH  Therefore  MATH   that is,  MATH ,  MATH  . Since 
+ MATH   Therefore MATH  that is,   MATH  ,  MATH  . Since any element of 
+ Therefore  MATH  that is,  MATH ,   MATH   . Since any element of a 
+ of a Jacobian basis of   MATH   is represented by Lie brackets 
+ represented by Lie brackets of   MATH  , we obtain that  u  is 
+ of  MATH , we obtain that   MATH   is a constant. □
+328(text): Let
+Let  MATH   , be bounded functions such that 
+330(text): , be bounded functions such that the measure
+ functions such that the measure   MATH  is non-negative on  ∂Ω  . Then 
+332(text): is non-negative on
+333(text): . Then the boundary value problem
+ Then the boundary value problem   MATH  MATH has a solution  MATH 
+ the boundary value problem  MATH  MATH  has a solution MATH  in 
+ value problem  MATH MATH has  MATH  solution MATH  in the class 
+337(text): solution
+ MATH  MATH has a solution  MATH   in the class of functions 
+339(text): in the class of functions
+ in the class of functions   MATH  .
+341(text): .
+342(text): Moreover, if the integral of the measure
+343(text): (3.19)
+344(text): is positive, i.e. if
+ (3.19)  is positive, i.e. if  MATH   then the boundary value problem 
+346(text): then the boundary value problem
+347(text): (3.20)
+348(text): (3.21)
+349(text): has the unique trivial solution
+ has the unique trivial solution   MATH   in the class of functions 
+351(text): in the class of functions
+ in the class of functions   MATH  .
+353(text): .
+Set   MATH   in  (3.12) , then by   (3.20) 
+ (3.20)   and  (3.21)  we get  MATH   that is, MATH  Therefore  MATH 
+ we get  MATH  that is,  MATH   Therefore MATH  and MATH  As 
+ MATH   that is, MATH  Therefore  MATH   and MATH  As above the 
+ is,  MATH  Therefore MATH  and  MATH   As above the first equality 
+ the first equality implies that   MATH   is a constant. This proves 
+ (3.22)   the second equality implies   MATH   on ∂Ω, this means   MATH 
+ MATH   on ∂Ω, this means   MATH   on Ω. □
+362(text): Let
+Let  MATH   , be bounded functions such that 
+364(text): , be bounded functions such that the measure
+ functions such that the measure   MATH  is non-negative on  ∂Ω  . Let 
+366(text): is non-negative on
+367(text): . Let
+ is non-negative on   ∂Ω . Let  MATH  , MATH and MATH  . Then the 
+369(text): ,
+ non-negative on   ∂Ω . Let MATH ,  MATH  and MATH  . Then the boundary 
+371(text): and
+ ∂Ω  . Let MATH , MATH and  MATH   . Then the boundary value problem 
+373(text): . Then the boundary value problem
+ Then the boundary value problem   MATH  MATH MATH  has the unique 
+ the boundary value problem  MATH  MATH  MATH  has the unique trivial 
+ boundary value problem  MATH MATH  MATH   has the unique trivial solution 
+377(text): has the unique trivial solution
+ has the unique trivial solution   MATH   in the class of functions 
+379(text): in the class of functions
+ in the class of functions   MATH  .
+381(text): .
+ still valid on both parts   MATH   and  MATH  of the boundary 
+ on both parts  MATH  and   MATH   of the boundary ∂Ω using 
+384(text): Let
+Let  MATH   be an admissible domain. Let 
+386(text): be an admissible domain. Let
+ be an admissible domain. Let   MATH  . Then MATH
+388(text): . Then
+ admissible domain. Let  MATH . Then  MATH 
+Rewriting  (3.12)  we have  MATH   By subtracting the second identity 
+ the first one and using   MATH   we obtain the desired result. 
+Putting the fundamental solution   MATH   instead of  v  in   (3.28) 
+ fundamental solution  ε  instead of   MATH   in  (3.28)  we get the 
+394(text): Let
+Let  MATH  . Then for MATH  we have 
+396(text): . Then for
+Let MATH . Then for  MATH  we have MATH
+398(text): we have
+ Then for  MATH we have  MATH 
+400(text): Let
+Let  MATH  and MATH on  Ω  , then 
+402(text): and
+Let MATH and  MATH  on  Ω , then for  MATH 
+404(text): on
+405(text): , then for
+ MATH  on  Ω , then for  MATH  we have MATH
+407(text): we have
+ then for  MATH we have  MATH 
+409(text): Let
+Let  MATH  and MATH then MATH
+411(text): and
+Let MATH and  MATH  then MATH
+413(text): then
+ Let  MATH and MATH then  MATH 
+415(text): Let
+Let  MATH  and MATH then MATH
+417(text): and
+Let MATH and  MATH  then MATH
+419(text): then
+ Let  MATH and MATH then  MATH 
+ has a unique fundamental solution   MATH   on  MATH , see  (3.1)  , given 
+ unique fundamental solution  ε  on   MATH  , see  (3.1) , given by  MATH 
+ MATH  , see  (3.1) , given by  MATH   where  d  is the   MATH 
+ (3.1)  , given by MATH  where   MATH   is the  MATH  -gauge, so 
+ MATH   where  d  is the   MATH   -gauge, so that the function 
+ -gauge, so that the function   MATH   is homogeneous of degree   MATH 
+ ε   is homogeneous of degree   MATH  .
+Let   MATH   be an open set with 
+ open set with boundary ∂   MATH  . The set  D  is called 
+ boundary ∂  D . The set   MATH   is called a domain of 
+ called a domain of class   MATH   if for each  MATH  there 
+ class  MATH  if for each   MATH   there exist a neighbourhood   MATH 
+ MATH   there exist a neighbourhood   MATH   of  MATH  , and a function 
+ exist a neighbourhood  MATH  of   MATH  , and a function  MATH  , with 
+ of  MATH , and a function   MATH  , with  MATH  in  MATH  , where 
+ and a function  MATH , with   MATH   in  MATH  , where ∇ is 
+ function  MATH , with  MATH  in   MATH   , where ∇ is the standard 
+ is the standard gradient in   MATH  , such that MATH  So let 
+ gradient in  MATH , such that  MATH   So let  D  be an 
+ such that  MATH  So let   MATH   be an open domain of 
+ an open domain of class   MATH  . A point  MATH  is called 
+ of class  MATH . A point   MATH   is called  characteristic  with respect 
+443(text): characteristic
+ characteristic   with respect to fields   MATH  , if given  MATH ,  MATH  , as 
+ to fields  MATH , if given   MATH  ,  MATH  , as above, we have 
+ fields  MATH , if given  MATH ,   MATH  , as above, we have  MATH 
+ MATH  , as above, we have  MATH   Typically, bounded domains have non-empty 
+ any bounded domain of class   MATH   in the Heisenberg group   MATH 
+ MATH   in the Heisenberg group   MATH   , whose boundary is homeomorphic to 
+ is homeomorphic to the 2   MATH  -dimensional sphere  MATH  , has non-empty 
+ the 2  n -dimensional sphere   MATH   , has non-empty characteristic set (see, 
+ single layer potential defined by   MATH   which, however, is not integrable 
+ On the contrary, the functionals   MATH   where  MATH  is the canonical 
+ contrary, the functionals  MATH  where   MATH   is the canonical pairing between 
+ (see  Lemma 4.1 ). Parallel to   MATH   , it will be natural to 
+ natural to use the operator   MATH   as a double layer potential, 
+ a double layer potential, where   MATH   with  MATH  acting on the 
+ layer potential, where  MATH  with   MATH   acting on the  y  -variable. 
+ with  MATH  acting on the   MATH  -variable.
+460(text): Let
+461(text): be the boundary of an admissible domain
+ boundary of an admissible domain   MATH  . Then MATH is a  convergent 
+463(text): . Then
+ an admissible domain  MATH . Then  MATH  is a  convergent integral for 
+ domain  MATH . Then MATH is  MATH  convergent integral for any  MATH 
+466(text): convergent integral for any
+ a  convergent integral for any  MATH  and MATH .
+468(text): and
+ integral for any  MATH and  MATH  .
+470(text): .
+We have  MATH   where  MATH  is a ball 
+We have MATH  where   MATH   is a ball such that 
+ is a ball such that   MATH  . □
+474(text): Let
+475(text): be the boundary of an admissible domain
+ boundary of an admissible domain   MATH  . Let u  be bounded on 
+ an admissible domain  MATH . Let  MATH  be bounded on  ∂Ω  , that 
+478(text): be bounded on
+479(text): , that is,
+ bounded on   ∂Ω , that is,  MATH   . Then the single layer potential 
+481(text): . Then the single layer potential
+ Then the single layer potential   MATH  is continuous on MATH  , for 
+483(text): is continuous on
+ potential  MATH is continuous on  MATH  , for all MATH .
+485(text): , for all
+ continuous on  MATH , for all  MATH  .
+487(text): .
+Let   MATH  , then MATH  This means  MATH 
+Let  MATH , then  MATH   This means MATH  that is, 
+ MATH  , then MATH  This means  MATH   that is, the single layer 
+ is, the single layer potential   MATH   is continuous in  MATH  . Now 
+ potential  MATH  is continuous in   MATH  . Now let  MATH . Let   MATH 
+ continuous in  MATH . Now let   MATH  . Let  MATH . Then MATH  where 
+ MATH  . Now let  MATH . Let   MATH  . Then MATH  where the first 
+ let  MATH . Let  MATH . Then  MATH   where the first term tends 
+ term tends to zero when   MATH   . Now it is left to 
+ to zero, and we have   MATH   This completes the proof. □ 
+ for the double layer potential   MATH   defined in  (4.2) .
+499(text): Let
+Let  MATH  , MATH  , be an admissible domain 
+501(text): ,
+Let MATH ,  MATH   , be an admissible domain with 
+503(text): , be an admissible domain with the boundary
+504(text): and
+ with the boundary   ∂Ω  and  MATH  . Then MATH where MATH .
+506(text): . Then
+ boundary   ∂Ω  and MATH . Then  MATH  where MATH .
+508(text): where
+ and  MATH . Then MATH where  MATH  .
+510(text): .
+ that is, if the index   MATH   is repeated in an integrant, 
+ a sum from 1 to   MATH   over  k  (and both indices 
+ from 1 to  MATH  over   MATH   (and both indices can enter 
+ enter as subscripts). For example,   MATH   First, let us show that 
+ First, let us show that   MATH   By using  Proposition 3.1  MATH 
+ MATH   By using  Proposition 3.1  MATH   Therefore, we have MATH  If 
+ 3.1  MATH  Therefore, we have  MATH   If we take  MATH  , then 
+ have  MATH  If we take   MATH  , then MATH  and by the 
+ If we take  MATH , then  MATH   and by the Divergence formula 
+ 3.1  ) the above expression is  MATH   That is, MATH  As we 
+ expression is  MATH  That is,  MATH   As we agreed this is 
+ this is the same as   MATH   where  MATH . □
+ the same as  MATH  where   MATH  . □
+ for the double layer potential   MATH   in  (4.2) .
+525(text): Let
+Let  MATH   be an admissible domain and 
+527(text): be an admissible domain and let
+ an admissible domain and let   MATH  . Define MATH and MATH  for 
+529(text): . Define
+ domain and let  MATH . Define  MATH  and MATH for MATH  . Then 
+531(text): and
+ let  MATH . Define MATH and  MATH  for MATH . Then MATH  and 
+533(text): for
+ Define  MATH and MATH for  MATH  . Then MATH and MATH  exist 
+535(text): . Then
+ and  MATH for MATH . Then  MATH  and MATH  exist and verify 
+537(text): and
+ for  MATH . Then MATH and  MATH   exist and verify the following 
+539(text): exist and verify the following jump relations:
+ verify the following jump relations:   MATH  where the jump value  MATH 
+541(text): where the jump value
+ MATH  where the jump value  MATH   is given by the formula 
+543(text): is given by the formula
+ is given by the formula   MATH   in the sense of the 
+545(text): in the sense of the (Cauchy) principal value and
+ the (Cauchy) principal value and   MATH  .
+547(text): .
+We have  MATH   Taking  MATH  and  MATH  in 
+We have MATH  Taking   MATH   and  MATH  in the Green's 
+ have  MATH  Taking  MATH  and   MATH   in the Green's first formula 
+ first formula  (3.12)  we get  MATH   Therefore, using  Lemma 4.3  we 
+ using  Lemma 4.3  we obtain  MATH  MATH  From here we obtain 
+ Lemma 4.3   we obtain MATH  MATH   From here we obtain the 
+ the first jump relation, i.e.   MATH   We also have MATH  So 
+ i.e.  MATH  We also have  MATH   So we obtain MATH  Now 
+ have  MATH  So we obtain  MATH   Now subtracting  (4.4)  from   (4.5) 
+For   MATH  , Folland and Stein (see   [17] 
+ defined the anisotropic Hölder spaces   MATH  ,  MATH , by MATH  For   MATH 
+ the anisotropic Hölder spaces  MATH ,   MATH  , by MATH  For  MATH  and 
+ Hölder spaces  MATH ,  MATH , by  MATH   For  MATH  and  MATH  , one 
+ MATH  ,  MATH , by MATH  For   MATH   and  MATH , one defines   MATH 
+ by  MATH  For  MATH  and   MATH  , one defines  MATH  as the 
+ MATH   and  MATH , one defines   MATH   as the space of all 
+ as the space of all   MATH   such that all derivatives of 
+ such that all derivatives of   MATH   of order  k  belong to 
+ derivatives of  f  of order   MATH   belong to  MATH  . A bounded 
+ of order  k  belong to   MATH  . A bounded function  f  is 
+ to  MATH . A bounded function   MATH   is called  α  -Hölder continuous 
+ bounded function  f  is called   MATH  -Hölder continuous in  MATH  if 
+ called  α -Hölder continuous in   MATH   if  MATH .
+ -Hölder continuous in  MATH  if   MATH  .
+Let   MATH   be an admissible domain. Consider 
+ analogy of the Newton potential   MATH   where MATH  is the fundamental 
+ the Newton potential  MATH  where  MATH   is the fundamental solution   (3.1) 
+ solution  (3.1)  of the sub-Laplacian   MATH  , i.e. MATH  and  u  is 
+ of the sub-Laplacian  MATH , i.e.  MATH   and  u  is a solution 
+ sub-Laplacian  MATH , i.e. MATH  and   MATH   is a solution of  MATH 
+ u   is a solution of  MATH   in Ω. The aim of 
+ find a boundary condition for   MATH   such that with this boundary 
+ this boundary condition the equation   MATH   has a unique solution in 
+ has a unique solution in   MATH   , say, and this solution is 
+ us will be that if   MATH   for  MATH  then  u  defined 
+ be that if  MATH  for   MATH   then  u  defined by   (5.1) 
+ if  MATH  for  MATH  then   MATH   defined by  (5.1)  is twice 
+ differentiable and satisfies the equation   MATH  . We refer to Folland   [15] 
+586(text): Let
+Let  MATH   be the fundamental solution to 
+588(text): be the fundamental solution to
+ be the fundamental solution to   MATH  , so that MATH Let  MATH 
+590(text): , so that
+ solution to  MATH , so that  MATH  Let MATH  be an admissible 
+592(text): Let
+ MATH  , so that MATH Let  MATH   be an admissible domain. For 
+594(text): be an admissible domain. For any
+ an admissible domain. For any   MATH  , MATH , MATH  , the Newton potential 
+596(text): ,
+ admissible domain. For any  MATH ,  MATH  , MATH , the Newton potential  (5.1) 
+598(text): ,
+ domain. For any  MATH , MATH ,  MATH  , the Newton potential (5.1)  is 
+600(text): , the Newton potential
+601(text): (5.1)
+602(text): is the unique solution in
+ is the unique solution in   MATH  of the equation MATH  with 
+604(text): of the equation
+ in  MATH of the equation  MATH  with the boundary condition  MATH 
+606(text): with the boundary condition
+ MATH  with the boundary condition  MATH   where the jump value is 
+608(text): where the jump value is given by the formula
+ is given by the formula   MATH  with MATH defined by  MATH 
+610(text): with
+ by the formula  MATH with  MATH  defined by MATH
+612(text): defined by
+ MATH  with MATH defined by  MATH 
+Since the Newton potential  MATH   is a solution of   (5.3) 
+ of Folland it follows that   MATH   is locally in  MATH  and 
+ that  u  is locally in   MATH   and that it is twice 
+ In particular, it follows that   MATH  .
+ have the following representation formula   MATH   for  MATH .
+ following representation formula  MATH  for   MATH  .
+Since   MATH   given by  (5.6)  is a 
+ it in  (5.7)  we get  MATH   By using  Theorem 4.2  and 
+ 4.2   and  Theorem 4.4  as   MATH   approaches the boundary ∂Ω from 
+ from inside, we find that   MATH 
+ value problem has two solutions   MATH   and  MATH  then the function 
+ has two solutions  u  and   MATH   then the function MATH  satisfies 
+ and  MATH  then the function  MATH   satisfies the homogeneous equation  MATH 
+ MATH   satisfies the homogeneous equation  MATH   and the boundary condition   (5.4) 
+ the boundary condition  (5.4) , i.e.  MATH   Since  MATH  in this case 
+ condition  (5.4) , i.e. MATH  Since   MATH   in this case instead of 
+ representation formula (see  Corollary 3.12 )  MATH   for any  MATH  . As above, 
+ Corollary 3.12  ) MATH  for any   MATH   . As above, by using the 
+ and single layer potentials as   MATH   from interior, from  (5.12)  we 
+ interior, from  (5.12)  we obtain  MATH   for any  MATH  . Comparing this 
+ we obtain  MATH  for any   MATH  . Comparing this with  (5.11)  we 
+ with  (5.11)  we arrive at  MATH 
+ (5.14)   has only trivial solution   MATH   in Ω, see   Lemma 3.5 
+ has a unique solution in   MATH   . This completes the proof of 
+ Theorem 5.1   that the kernel   MATH   , which is a fundamental solution 
+As before, let   MATH   be an admissible domain. For 
+ be an admissible domain. For   MATH  , we denote  MATH  . Then for 
+ domain. For  MATH , we denote   MATH  . Then for  MATH  , we consider 
+ we denote  MATH . Then for   MATH  , we consider the equation  MATH 
+ MATH  , we consider the equation  MATH   for a given  MATH  . Let 
+ equation  MATH  for a given   MATH  . Let  MATH  be the fundamental 
+ for a given  MATH . Let   MATH   be the fundamental solution of 
+ (5.2)  . Let us now define  MATH   in  MATH , where  MATH  is 
+ us now define  MATH  in   MATH  , where  MATH  is a fundamental 
+ define  MATH  in  MATH , where   MATH   is a fundamental solution of 
+ solution of  (6.1)  such that  MATH   We take, with a proper 
+ a proper distributional interpretation, for   MATH  , MATH  with MATH
+ proper distributional interpretation, for  MATH ,  MATH   with MATH
+ interpretation, for  MATH , MATH  with  MATH 
+ has a unique solution in   MATH  , which coincides with  (6.2) .
+ case of the iterated sub-Laplacian   MATH   we still have the uniqueness 
+655(text): Let
+Let  MATH   be an admissible domain. For 
+657(text): be an admissible domain. For any
+ an admissible domain. For any   MATH  , MATH , MATH  , the generalised Newton 
+659(text): ,
+ admissible domain. For any  MATH ,  MATH  , MATH  , the generalised Newton potential 
+661(text): ,
+ domain. For any  MATH , MATH ,  MATH  , the generalised Newton potential  (6.2) 
+663(text): , the generalised Newton potential
+664(text): (6.2)
+ generalised Newton potential  (6.2) is  MATH   unique solution of the equation 
+666(text): unique solution of the equation
+667(text): (6.1)
+668(text): in
+ of the equation  (6.1) in  MATH  with m boundary conditions  MATH 
+ equation  (6.1) in MATH with  MATH  boundary conditions MATH  for all 
+671(text): boundary conditions
+ MATH  with m boundary conditions  MATH  for all MATH , where  MATH 
+673(text): for all
+ boundary conditions  MATH for all  MATH  , where MATH  is given by 
+675(text): , where
+ MATH  for all MATH , where  MATH  is given by MATH  and 
+677(text): is given by
+ where  MATH is given by  MATH  and MATH  is the jump 
+679(text): and
+ is given by  MATH and  MATH   is the jump function given 
+681(text): is the jump function given by the formula
+682(text): (5.5)
+683(text): .
+ Green's second formula for each   MATH  , as in  (5.7)  (see   Proposition 
+ (see  Proposition 3.10 ), we obtain  MATH   This implies the identity  MATH 
+ MATH   This implies the identity  MATH   Note that here only the 
+ of the first summand, i.e.,   MATH   term of the first summand: 
+ term of the first summand:   MATH   is the double layer potential 
+ they are continuous functions on   MATH   (see  Theorem 4.2  ). By using 
+ and single layer potentials as   MATH   approaches the boundary ∂Ω from 
+ interior, from  (6.5)  we obtain  MATH   Thus, this relation is one 
+ To this end, we write   MATH   and carry out similar considerations 
+ just as above. This yields   MATH   where  MATH  is a fundamental 
+ above. This yields  MATH  where   MATH   is a fundamental solution of 
+ of the equation  (6.6) , i.e.,  MATH   From the previous relations, we 
+ relations, we obtain the identities   MATH   for any  MATH  and   MATH 
+ the identities  MATH  for any   MATH   and  MATH  . By using the 
+ MATH   for any  MATH  and   MATH   . By using the properties of 
+ and single layer potentials as   MATH   approaches the boundary ∂Ω from 
+ of Ω, we find that   MATH   are all boundary conditions of 
+ conditions of  (6.2)  for each   MATH  .
+ show that if a function   MATH   satisfies the equation  MATH  and 
+ function  MATH  satisfies the equation   MATH   and the boundary conditions   (6.4) 
+ (6.2)  . Indeed, otherwise the function  MATH   where  u  is the generalised 
+ otherwise the function  MATH  where   MATH   is the generalised Newton potential 
+ (6.2)  , satisfies the homogeneous equation  MATH   and the boundary conditions   (6.4) 
+ the boundary conditions  (6.4) , i.e.  MATH   for  MATH  . By applying the 
+ conditions  (6.4) , i.e. MATH  for   MATH   . By applying the Green formula 
+ Green formula to the function   MATH   and by following the lines 
+ the above argument, we obtain   MATH 
+ passing to the limit as   MATH   from interior, we obtain the 
+ interior, we obtain the relations   MATH 
+ of the boundary value problem   MATH   we get that  MATH  , for 
+ problem  MATH  we get that   MATH  , for all  MATH , i.e.   w 
+ get that  MATH , for all   MATH  , i.e.  w  coincides with   u 
+ MATH  , for all  MATH , i.e.   MATH   coincides with  u  in Ω. 
+ MATH  , i.e.  w  coincides with   MATH   in Ω. Thus  (6.2)  is 
+ has a unique solution in   MATH  . Denoting MATH  this follows by 
+ unique solution in  MATH . Denoting  MATH   this follows by induction from 
+ induction from the uniqueness in   MATH   of the problem MATH  The 
+ in  MATH  of the problem  MATH   The proof of   Theorem 6.1 
+ for homogenous Carnot groups. Let   MATH  ,  MATH ,  MATH , and  MATH  . Then 
+ homogenous Carnot groups. Let  MATH ,   MATH  ,  MATH , and  MATH  . Then it 
+ Carnot groups. Let  MATH ,  MATH ,   MATH  , and  MATH  . Then it was 
+ Let  MATH ,  MATH ,  MATH , and   MATH   . Then it was shown in 
+ we have the Hardy inequality   MATH   and the constant  MATH  is 
+ inequality  MATH  and the constant   MATH   is sharp. In the case 
+ sharp. In the case of   MATH   , this recovers the Hardy inequality: 
+ recovers the Hardy inequality: here   MATH  ,  MATH  is the Euclidean norm, 
+ the Hardy inequality: here  MATH ,   MATH   is the Euclidean norm, and 
+ the Euclidean norm, and with   MATH   , this gives the classical Hardy 
+ gives the classical Hardy inequality   MATH   where ∇ is the standard 
+ is the standard gradient in   MATH  ,  MATH , and the constant   MATH 
+ the standard gradient in  MATH ,   MATH  , and the constant  MATH  is 
+ MATH  ,  MATH , and the constant   MATH   is sharp. On the Heisenberg 
+ for the fundamental solution of   MATH   and of the distance function 
+ and of the distance function   MATH  . We refer to  [10,25]  and 
+ Ω containing the support of   MATH   , so that the boundary term 
+739(text): Let
+Let  MATH   be an admissible domain with 
+741(text): be an admissible domain with
+ be an admissible domain with   MATH  and let MATH , MATH  , and 
+743(text): and let
+ domain with  MATH and let  MATH  , MATH , and MATH . Let  MATH 
+745(text): ,
+ with  MATH and let MATH ,  MATH  , and MATH . Let MATH  . Then 
+747(text): , and
+ and let  MATH , MATH , and  MATH  . Let MATH  . Then the following 
+749(text): . Let
+ MATH  , MATH , and MATH . Let  MATH   . Then the following generalised local 
+751(text): . Then the following generalised local Hardy inequality is valid
+ local Hardy inequality is valid   MATH  where d is the  MATH 
+ inequality is valid  MATH where  MATH  is the MATH  -gauge and 
+754(text): is the
+ MATH  where d is the  MATH  -gauge and MATH .
+756(text): -gauge and
+ is the  MATH -gauge and  MATH  .
+758(text): .
+If   MATH   on ∂Ω,  Proposition 7.1  reduces 
+ 7.2   and the range of   MATH   that the boundary term in 
+ in  (7.3)  can be positive:  MATH   Since it is known that 
+ is known that the constant   MATH   in  (7.3)  (or rather in 
+ the support of the function   MATH   since for  MATH  all the 
+ the function  u  since for   MATH   all the integrals in   (7.3) 
+Even if   MATH  , the statement of   Proposition 7.1 
+ Proposition 7.1   remains true if   MATH  .
+ sign. For this purpose when   MATH  ,  MATH  , applying Green's first formula 
+ For this purpose when  MATH ,   MATH   , applying Green's first formula (see 
+ (see  Proposition 3.2 ) we calculate  MATH   Let  MATH ,  MATH , and   MATH 
+ 3.2  ) we calculate MATH  Let   MATH  ,  MATH , and  MATH , where   MATH 
+ we calculate  MATH  Let  MATH ,   MATH  , and  MATH , where  MATH  . Then 
+ MATH   Let  MATH ,  MATH , and   MATH  , where  MATH  . Then we get 
+ MATH  ,  MATH , and  MATH , where   MATH  . Then we get MATH  can 
+ where  MATH . Then we get  MATH   can be positive, that is, 
+ can be positive. Similarly, if   MATH  , then we get MATH  which 
+ if  MATH , then we get  MATH   which shows that the boundary 
+ generality we can assume that   MATH   is real-valued. In this case, 
+ In this case, recalling that   MATH  (7.3)  reduces to MATH  which 
+ that  MATH (7.3)  reduces to  MATH   which we will now prove. 
+ we will now prove. Setting   MATH   for some  MATH  to be 
+ prove. Setting  MATH  for some   MATH   to be chosen later, we 
+ be chosen later, we have   MATH   Multiplying both sides of the 
+ of the above equality by   MATH   and applying Green's first formula 
+ (see  Proposition 3.2 ), we get  MATH   On the other hand, it 
+ readily checked that we have   MATH   Since  MATH , substituting  (7.7)  into 
+ that we have  MATH  Since   MATH  , substituting  (7.7)  into  (7.6)  we 
+ (7.7)   into  (7.6)  we obtain  MATH   Recall that  MATH  , is the 
+ we obtain  MATH  Recall that   MATH   , is the fundamental solution of 
+ fundamental solution of the sub-Laplacian   MATH  , therefore MATH  independent of whether 
+ of the sub-Laplacian  MATH , therefore  MATH   independent of whether 0 belongs 
+ to Ω or not, since   MATH   in  MATH . Thus MATH  Taking 
+ or not, since  MATH  in   MATH  . Thus MATH  Taking  MATH  , we 
+ since  MATH  in  MATH . Thus  MATH   Taking  MATH , we obtain   (7.5) 
+ in  MATH . Thus MATH  Taking   MATH  , we obtain  (7.5) . □
+795(text): Let
+Let  MATH   be an admissible domain with 
+797(text): be an admissible domain with
+ be an admissible domain with   MATH  and let MATH . Then  MATH 
+799(text): and let
+ domain with  MATH and let  MATH  . Then MATH and also  MATH 
+801(text): . Then
+ MATH  and let MATH . Then  MATH  and also MATH
+803(text): and also
+ MATH  . Then MATH and also  MATH 
+Again, assuming   MATH   is real-valued, and taking   MATH 
+ u   is real-valued, and taking   MATH   in the inequality  (7.5)  we 
+ the inequality  (7.5)  we get  MATH   where we have used the 
+ to the uncertainty principles on   MATH   when we take  MATH  and 
+ on  MATH  when we take   MATH   and then Ω large enough 
+ it contains the support of   MATH   , so that these (boundary) terms 
+ vanish. In the Euclidean case   MATH   with  MATH , we have   MATH 
+ the Euclidean case  MATH  with   MATH  , we have  MATH  , so that 
+ MATH   with  MATH , we have   MATH  , so that both  (7.8)  and 
+ the classical uncertainty principle for   MATH  , MATH
+ classical uncertainty principle for  MATH ,  MATH 
+ the relation between the forms   MATH   , perimeter measure, and the surface 
+Let   MATH   denote the Lie derivative with 
+ respect to the vector field   MATH  . The Cartan formula for   MATH 
+ X  . The Cartan formula for   MATH   gives MATH  where MATH  is 
+ Cartan formula for  MATH  gives  MATH   where MATH  is the contraction 
+ for  MATH  gives MATH  where  MATH   is the contraction of the 
+ contraction of the volume form   MATH   by  X  . For any left 
+ the volume form  MATH  by   MATH   . For any left invariant vector 
+ any left invariant vector field   MATH   we have MATH  where we 
+ vector field  MATH  we have  MATH   where we use the Cartan 
+ for simplicity, is given by   MATH   Denoting by  MATH  the Euclidean 
+ given by  MATH  Denoting by   MATH   the Euclidean scalar product, we 
+ Euclidean scalar product, we write   MATH   and MATH  where  v  is 
+ product, we write  MATH  and  MATH   where  v  is a vector, 
+ write  MATH  and MATH  where   MATH   is a vector, which will 
+ stratum) vector on ∂Ω. If   MATH   is the surface measure on 
+ measure on ∂Ω, we have   MATH   and all these relations are 
+ zero. We can now calculate   MATH   Combining this with  (8.1)  we 
+ this with  (8.1)  we obtain  MATH   Let us now assume that 
+ Let us now assume that   MATH   are orthonormal on  MATH  , and 
+ that  MATH  are orthonormal on   MATH  , and let MATH  We write 
+ orthonormal on  MATH , and let  MATH   We write MATH  for a 
+ and let  MATH  We write  MATH   for a vector  v  with 
+ write  MATH  for a vector   MATH   with  MATH  . Then we have 
+ for a vector  v  with   MATH  . Then we have MATH  Now, 
+ with  MATH . Then we have  MATH   Now, applying  (8.2)  with   MATH 
+ MATH   Now, applying  (8.2)  with   MATH   and summing over  j  , we 
+ with  MATH  and summing over   MATH  , we get MATH  which gives 
+ summing over  j , we get  MATH   which gives a link between 
+ (3.6)   and the perimeter measure   MATH  .
+Estimates for the   MATH   complex and analysis on the 
+ horizontal Hardy, Rellich, Caffarelli–Kohn–Nirenberg and   MATH   -sub-Laplacian inequalities on stratified groups 
