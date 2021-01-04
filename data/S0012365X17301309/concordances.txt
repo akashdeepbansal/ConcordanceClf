@@ -1,0 +1,979 @@
+Weight   MATH 
+Multiplicity   MATH 
+ MATH 
+ MATH 
+ MATH 
+ MATH 
+Weight   MATH 
+Multiplicity   MATH 
+ MATH 
+ MATH 
+ MATH 
+ MATH 
+Weight   MATH 
+Multiplicity   MATH 
+ MATH 
+ MATH 
+ MATH 
+ MATH 
+ MATH 
+ MATH 
+Weight   MATH 
+Multiplicity   MATH 
+ MATH 
+ MATH 
+ MATH 
+ MATH 
+Weight   MATH 
+Multiplicity   MATH 
+ MATH 
+ MATH 
+ MATH 
+ MATH 
+Weight   MATH 
+Multiplicity   MATH 
+ MATH 
+ MATH 
+ MATH 
+ MATH 
+Weight   MATH 
+Multiplicity   MATH 
+ MATH 
+ MATH 
+ MATH 
+ MATH 
+ MATH 
+ MATH 
+Weight   MATH 
+Multiplicity   MATH 
+ MATH 
+ MATH 
+ MATH 
+ MATH 
+Weight   MATH 
+Multiplicity   MATH 
+ MATH 
+ MATH 
+ MATH 
+ MATH 
+Weight   MATH 
+Multiplicity   MATH 
+ MATH 
+ MATH 
+ MATH 
+ MATH 
+ and strongly regular graphs from   MATH  -polynomials
+ two or three weights from   MATH   -polynomials and study their weight 
+ MATH  -polynomial
+Let   MATH   be an odd prime and 
+ be an odd prime and   MATH  , where  MATH  is a positive 
+ odd prime and  MATH , where   MATH   is a positive integer. Denote 
+ a positive integer. Denote by   MATH   a finite field with   MATH 
+ MATH   a finite field with   MATH   elements and  MATH . An   MATH 
+ field with  MATH  elements and   MATH  . An  MATH  linear code   MATH 
+ MATH   elements and  MATH . An   MATH   linear code  MATH  over   MATH 
+ MATH  . An  MATH  linear code   MATH   over  MATH  is a   MATH 
+ MATH   linear code  MATH  over   MATH   is a  MATH  -dimensional subspace 
+ MATH   over  MATH  is a   MATH  -dimensional subspace of  MATH  with 
+ a  MATH -dimensional subspace of   MATH   with minimum (Hamming) distance   MATH 
+ MATH   with minimum (Hamming) distance   MATH  . Let  MATH  denote the number 
+ minimum (Hamming) distance  MATH . Let   MATH   denote the number of codewords 
+ of codewords with Hamming weight   MATH   in a linear code   MATH 
+ MATH   in a linear code   MATH  . The weight enumerator of   MATH 
+ MATH  . The weight enumerator of   MATH   is defined by  MATH  The 
+ of  MATH  is defined by   MATH  The sequence  MATH  is called 
+ defined by  MATH The sequence   MATH   is called the   weight distribution 
+85(text): weight distribution
+ called the  weight distribution  of   MATH   . In recent years, there has 
+ detection and correction. A code   MATH   is called a  MATH -  weight 
+ code  MATH  is called a   MATH  - weight code  if the number 
+89(text): weight code
+ if the number of nonzero   MATH   in the sequence  MATH  is 
+ nonzero  MATH  in the sequence   MATH   is equal to  MATH  . When 
+ sequence  MATH  is equal to   MATH  . When  MATH , we call   MATH 
+ is equal to  MATH . When   MATH  , we call  MATH  a constant-weight 
+ MATH  . When  MATH , we call   MATH   a constant-weight code. Let   MATH 
+ MATH   a constant-weight code. Let   MATH   denote the dual of a 
+ the dual of a code   MATH  , i.e.,   MATH 
+ of a code  MATH , i.e.,   MATH  , where  MATH  is the usual 
+ MATH  , where   MATH   is the usual inner product 
+ some other fields. Recall that   MATH  strongly regular graph  (in short 
+100(text): strongly regular graph
+ (in short SRG) with parameters   MATH   is a graph with   MATH 
+ MATH   is a graph with   MATH   vertices that is regular of 
+ that is regular of valency   MATH  MATH  and it has the 
+ is regular of valency  MATH  MATH   and it has the following 
+ MATH 
+ For any two adjacent vertices   MATH  ,  MATH , there are exactly   MATH 
+ any two adjacent vertices  MATH ,   MATH  , there are exactly  MATH  vertices 
+ MATH  ,  MATH , there are exactly   MATH   vertices adjacent to both   MATH 
+ MATH   vertices adjacent to both   MATH   and  MATH ,
+ adjacent to both  MATH  and   MATH  ,
+ MATH 
+ For any two nonadjacent vertices   MATH  ,  MATH , there are exactly   MATH 
+ any two nonadjacent vertices  MATH ,   MATH  , there are exactly  MATH  vertices 
+ MATH  ,  MATH , there are exactly   MATH   vertices adjacent to both   MATH 
+ MATH   vertices adjacent to both   MATH   and  MATH .
+ adjacent to both  MATH  and   MATH  .
+ If the minimum distance of   MATH   is at least  MATH  , then 
+ of  MATH  is at least   MATH  , then  MATH  is said to 
+ is at least  MATH , then   MATH   is said to be   projective 
+120(text): projective
+For any positive integer   MATH   dividing  MATH  , the trace function 
+ any positive integer  MATH  dividing   MATH  , the trace function  MATH  from 
+ dividing  MATH , the trace function   MATH   from  MATH  to  MATH  is 
+ the trace function  MATH  from   MATH   to  MATH  is defined by 
+ function  MATH  from  MATH  to   MATH   is defined by  MATH  It 
+ to  MATH  is defined by   MATH   It is well known that 
+ property  [13] , i.e., for any   MATH  ,  MATH . Let  MATH  denote the 
+ [13]  , i.e., for any  MATH ,   MATH  . Let  MATH  denote the ring 
+ for any  MATH ,  MATH . Let   MATH   denote the ring of polynomials 
+ polynomials in a single indeterminate   MATH   over  MATH  and  MATH  be 
+ a single indeterminate  MATH  over   MATH   and  MATH  be a positive 
+ indeterminate  MATH  over  MATH  and   MATH   be a positive integer. A 
+ A polynomial of the form   MATH  is called a  MATH -  polynomial 
+ form  MATH is called a   MATH  - polynomial  (or a   linearized polynomial 
+135(text): polynomial
+136(text): linearized polynomial
+ (or a  linearized polynomial ) over   MATH   . There is another representation of 
+ is another representation of a   MATH  -polynomial as follows.
+139(text): Let
+Let  MATH   be any given basis of 
+141(text): be any given basis of
+ be any given basis of   MATH  over MATH and MATH  be 
+143(text): over
+ given basis of  MATH over  MATH  and MATH be a  linearized 
+145(text): and
+ of  MATH over MATH and  MATH  be a  linearized polynomial over 
+ over  MATH and MATH be  MATH  linearized polynomial over MATH  . Then 
+148(text): linearized polynomial over
+ be  a linearized polynomial over  MATH  . Then there exists a  unique 
+ over  MATH . Then there exists  MATH  unique vector MATH  such that 
+151(text): unique vector
+ there exists  a unique vector  MATH  such that MATH
+153(text): such that
+ unique vector  MATH such that  MATH 
+Assume that   MATH  . Let  MATH  be a basis 
+Assume that  MATH . Let   MATH   be a basis of   MATH 
+ MATH   be a basis of   MATH   over  MATH . We extend   MATH 
+ a basis of  MATH  over   MATH  . We extend  MATH  to   MATH 
+ MATH   over  MATH . We extend   MATH   to  MATH  which is a 
+ MATH  . We extend  MATH  to   MATH   which is a basis of 
+ which is a basis of   MATH   over  MATH . Let  MATH  be 
+ a basis of  MATH  over   MATH  . Let  MATH  be a basis 
+ of  MATH  over  MATH . Let   MATH   be a basis of   MATH 
+ MATH   be a basis of   MATH   over  MATH  and  MATH  be 
+ a basis of  MATH  over   MATH   and  MATH  be a basis 
+ of  MATH  over  MATH  and   MATH   be a basis of   MATH 
+ MATH   be a basis of   MATH   over  MATH , where  MATH  . Using 
+ a basis of  MATH  over   MATH  , where  MATH . Using   Lemma 1 
+ of  MATH  over  MATH , where   MATH  . Using  Lemma 1  , we define 
+ we define two linearized polynomials   MATH   and  MATH  over  MATH  as 
+ two linearized polynomials  MATH  and   MATH   over  MATH  as follows:   MATH 
+ polynomials  MATH  and  MATH  over   MATH   as follows:  MATH
+ MATH   over  MATH  as follows:   MATH 
+ construction of linear codes from   MATH   and  MATH . Let  MATH  , where 
+ linear codes from  MATH  and   MATH  . Let  MATH , where  MATH  and 
+ from  MATH  and  MATH . Let   MATH  , where  MATH  and  MATH  . For 
+ and  MATH . Let  MATH , where   MATH   and  MATH . For any   MATH 
+ Let  MATH , where  MATH  and   MATH  . For any  MATH  , we have 
+ MATH   and  MATH . For any   MATH  , we have  MATH  . Then we 
+ For any  MATH , we have   MATH   . Then we define a linear 
+ a linear code of length   MATH   over  MATH  by  MATH  where 
+ code of length  MATH  over   MATH   by  MATH where  MATH  is 
+ length  MATH  over  MATH  by   MATH  where  MATH  is an integer. 
+ over  MATH  by  MATH where   MATH   is an integer. We call 
+ is an integer. We call   MATH   the  defining set  of the 
+186(text): defining set
+ defining set   of the code   MATH   . Recently, linear codes constructed from 
+ these codes. If we take   MATH   in  (1)  , we can obtain 
+ linear codes as follows. Setting   MATH   , we can obtain a class 
+ procedure as in  [7] . Putting   MATH   , we can obtain a class 
+ [19]  . For quadratic planar functions   MATH   and weakly regular bent functions 
+ and weakly regular bent functions   MATH  , proceeding as  [24]  and   [15] 
+ Throughout this paper, we fix   MATH  , where  MATH  is a positive 
+ paper, we fix  MATH , where   MATH   is a positive integer. A 
+ positive integer. A positive integer   MATH   is of  Niho-type  if   MATH 
+196(text): Niho-type
+ MATH   is of  Niho-type  if   MATH   for some integer  MATH  [14] 
+ if  MATH  for some integer   MATH  [14]  . Without loss of generality, 
+ of generality, we can suppose   MATH   since one can substitute   MATH 
+ MATH   since one can substitute   MATH   by  MATH  if necessary and 
+ one can substitute  MATH  by   MATH   if necessary and raising an 
+ element to a power of   MATH   is a Frobenius mapping. For 
+ Frobenius mapping. For Niho exponents   MATH  , we restrict  MATH  in the 
+ Niho exponents  MATH , we restrict   MATH   in the range  MATH .
+ restrict  MATH  in the range   MATH  .
+ constructions of linear codes from   MATH   -polynomials and give their parameters 
+ with the definition of our   MATH  -polynomials.
+We fix   MATH  , where  MATH  is a positive 
+We fix  MATH , where   MATH   is a positive integer. Let 
+ is a positive integer. Let   MATH   be a basis of   MATH 
+ MATH   be a basis of   MATH   over  MATH  and  MATH  be 
+ a basis of  MATH  over   MATH   and  MATH  be a basis 
+ of  MATH  over  MATH  and   MATH   be a basis of   MATH 
+ MATH   be a basis of   MATH   over  MATH , where  MATH  . We 
+ a basis of  MATH  over   MATH  , where  MATH . We extend   MATH 
+ of  MATH  over  MATH , where   MATH  . We extend  MATH  to   MATH 
+ MATH  , where  MATH . We extend   MATH   to  MATH  which is a 
+ MATH  . We extend  MATH  to   MATH   which is a basis of 
+ which is a basis of   MATH   over  MATH . Assume that   MATH 
+ a basis of  MATH  over   MATH  . Assume that  MATH By   Lemma 
+ MATH   over  MATH . Assume that   MATH  By  Lemma 1 ,  MATH  is 
+ that  MATH By  Lemma 1 ,   MATH   is a linearized polynomial over 
+ is a linearized polynomial over   MATH  . Recall that  MATH where   MATH 
+ polynomial over  MATH . Recall that   MATH  where  MATH  and  MATH  is 
+ MATH  . Recall that  MATH where   MATH   and  MATH  is a basis 
+ that  MATH where  MATH  and   MATH   is a basis of   MATH 
+ MATH   is a basis of   MATH   over  MATH  . In the sequel, 
+ a basis of  MATH  over   MATH  . In the sequel, let   MATH 
+ MATH  . In the sequel, let   MATH   and  MATH  be two positive 
+ the sequel, let  MATH  and   MATH   be two positive integers with 
+ be two positive integers with   MATH   and  MATH  and assume that 
+ positive integers with  MATH  and   MATH   and assume that  MATH  is 
+ and  MATH  and assume that   MATH   is a Niho exponent and 
+ is a Niho exponent and   MATH   . In the following, we present 
+Put   MATH  , where  MATH  . We define the 
+Put  MATH , where   MATH   . We define the following linear 
+ the following linear code over   MATH   by  MATH
+ linear code over  MATH  by   MATH 
+239(text): Let
+Let  MATH  be a  positive integer and 
+Let MATH be  MATH  positive integer and MATH  . Let 
+242(text): positive integer and
+ be  a positive integer and  MATH  . Let MATH and MATH  be 
+244(text): . Let
+ positive integer and  MATH . Let  MATH  and MATH  be two positive 
+246(text): and
+ and  MATH . Let MATH and  MATH   be two positive integers with 
+248(text): be two positive integers with
+ be two positive integers with   MATH  and MATH . Assume that  MATH 
+250(text): and
+ positive integers with  MATH and  MATH  . Assume that MATH with  MATH 
+252(text): . Assume that
+ MATH  and MATH . Assume that  MATH  with MATH .
+254(text): with
+ MATH  . Assume that MATH with  MATH  .
+256(text): .
+257(text): If
+(i)  If  MATH   , then the code defined by 
+259(text): , then the code defined by
+ code defined by  (2) is  MATH  MATH linear code over  MATH 
+ defined by  (2) is a  MATH  linear code over MATH  with 
+262(text): linear code over
+ a  MATH linear code over  MATH   with the weight distribution in 
+264(text): with the weight distribution in
+265(text): Table
+266(text): ;
+267(text): If
+(ii)  If  MATH  and MATH  is odd, then 
+269(text): and
+(ii)  If MATH and  MATH   is odd, then the code 
+271(text): is odd, then the code defined by
+ code defined by  (2) is  MATH  MATH linear code over  MATH 
+ defined by  (2) is a  MATH  linear code over MATH  with 
+274(text): linear code over
+ a  MATH linear code over  MATH   with the weight distribution in 
+276(text): with the weight distribution in
+277(text): Table
+278(text): ;
+279(text): If
+(iii)  If  MATH  and MATH  is even, then 
+281(text): and
+(iii)  If MATH and  MATH   is even, then the code 
+283(text): is even, then the code defined by
+ code defined by  (2) is  MATH  MATH linear code over  MATH 
+ defined by  (2) is a  MATH  linear code over MATH  with 
+286(text): linear code over
+ a  MATH linear code over  MATH   with the weight distribution in 
+288(text): with the weight distribution in
+289(text): Table
+290(text): .
+   Let   MATH  ,  MATH ,  MATH ,  MATH  and   MATH 
+   Let  MATH ,   MATH  ,  MATH ,  MATH  and  MATH  . Then 
+   Let  MATH ,  MATH ,   MATH  ,  MATH  and  MATH  . Then the 
+   Let  MATH ,  MATH ,  MATH ,   MATH   and  MATH  . Then the linear 
+ MATH  ,  MATH ,  MATH ,  MATH  and   MATH  . Then the linear code   MATH 
+ MATH  . Then the linear code   MATH   defined by  (2)  is a 
+ defined by  (2)  is a   MATH   linear code over  MATH  with 
+ a  MATH  linear code over   MATH   with the weight enumerator   MATH 
+ MATH   with the weight enumerator   MATH  .
+Let   MATH  ,  MATH ,  MATH ,  MATH  and   MATH 
+Let  MATH ,   MATH  ,  MATH ,  MATH  and  MATH  . Then 
+Let  MATH ,  MATH ,   MATH  ,  MATH  and  MATH  . Then the 
+Let  MATH ,  MATH ,  MATH ,   MATH   and  MATH  . Then the linear 
+ MATH  ,  MATH ,  MATH ,  MATH  and   MATH  . Then the linear code   MATH 
+ MATH  . Then the linear code   MATH   defined by  (2)  is a 
+ defined by  (2)  is a   MATH   linear code over  MATH  with 
+ a  MATH  linear code over   MATH   with the weight enumerator   MATH 
+ MATH   with the weight enumerator   MATH  .
+Let   MATH  ,  MATH ,  MATH ,  MATH  and   MATH 
+Let  MATH ,   MATH  ,  MATH ,  MATH  and  MATH  . Then 
+Let  MATH ,  MATH ,   MATH  ,  MATH  and  MATH  . Then the 
+Let  MATH ,  MATH ,  MATH ,   MATH   and  MATH  . Then the linear 
+ MATH  ,  MATH ,  MATH ,  MATH  and   MATH  . Then the linear code   MATH 
+ MATH  . Then the linear code   MATH   defined by  (2)  is a 
+ defined by  (2)  is a   MATH   linear code over  MATH  with 
+ a  MATH  linear code over   MATH   with the weight enumerator   MATH 
+ MATH   with the weight enumerator   MATH  .
+If   MATH   in  Theorem 1  , then we 
+ Theorem 1  , then we have   MATH   . Therefore, we obtain a class 
+320(text): Let the symbols be the same as
+321(text): Theorem
+322(text): .
+323(text): If
+(i)  If  MATH  and MATH  is odd, then 
+325(text): and
+(i)  If MATH and  MATH   is odd, then the code 
+327(text): is odd, then the code defined in
+ code defined in  (2) is  MATH  MATH  constant-weight linear code over 
+ defined in  (2) is a  MATH  constant-weight linear code over  MATH 
+330(text): constant-weight linear code over
+ MATH  constant-weight linear code over  MATH  ;
+332(text): ;
+333(text): If
+(ii)  If  MATH  and MATH  is even, then 
+335(text): and
+(ii)  If MATH and  MATH   is even, then the code 
+337(text): is even, then the code defined in
+ code defined in  (2) is  MATH  MATH linear code over  MATH 
+ defined in  (2) is a  MATH  linear code over MATH  with 
+340(text): linear code over
+ a  MATH linear code over  MATH   with the weight distribution in 
+342(text): with the weight distribution in
+343(text): Table
+344(text): .
+ Let   MATH  ,  MATH ,  MATH ,  MATH  . Then the 
+ Let  MATH ,   MATH  ,  MATH ,  MATH  . Then the linear 
+ Let  MATH ,  MATH ,   MATH  ,  MATH  . Then the linear code 
+ Let  MATH ,  MATH ,  MATH ,   MATH  . Then the linear code   MATH 
+ MATH  . Then the linear code   MATH   defined by  (2)  is a 
+ defined by  (2)  is a   MATH   constant-weight linear code over   MATH 
+ MATH   constant-weight linear code over   MATH  .
+Let   MATH  ,  MATH ,  MATH ,  MATH  . Then the 
+Let  MATH ,   MATH  ,  MATH ,  MATH  . Then the linear 
+Let  MATH ,  MATH ,   MATH  ,  MATH  . Then the linear code 
+Let  MATH ,  MATH ,  MATH ,   MATH  . Then the linear code   MATH 
+ MATH  . Then the linear code   MATH   defined by  (2)  is a 
+ defined by  (2)  is a   MATH   linear code over  MATH  with 
+ a  MATH  linear code over   MATH   with the weight enumerator   MATH 
+ MATH   with the weight enumerator   MATH  .
+ we put the defining set   MATH   from  MATH  and construct   MATH 
+ the defining set  MATH  from   MATH   and construct  MATH  by using 
+ MATH   from  MATH  and construct   MATH   by using  MATH  . It is 
+ and construct  MATH  by using   MATH   . It is interesting to consider 
+ the situation when one exchanges   MATH   and  MATH  . Then Construction 2 
+ when one exchanges  MATH  and   MATH  . Then Construction 2 follows.
+Define   MATH  Let  MATH  and  MATH  . Since 
+Define  MATH Let   MATH   and  MATH . Since  MATH  is 
+ Define  MATH Let  MATH  and   MATH  . Since  MATH  is a basis 
+ Let  MATH  and  MATH . Since   MATH   is a basis of   MATH 
+ MATH   is a basis of   MATH   over  MATH , for any   MATH 
+ a basis of  MATH  over   MATH  , for any  MATH  , we have 
+ MATH   over  MATH , for any   MATH  , we have  MATH  . Then we 
+ for any  MATH , we have   MATH   . Then we define the following 
+ the following linear code over   MATH   by  MATH
+ linear code over  MATH  by   MATH 
+376(text): Let
+Let  MATH  be a  positive integer and 
+Let MATH be  MATH  positive integer and MATH  . Let 
+379(text): positive integer and
+ be  a positive integer and  MATH  . Let MATH and MATH  be 
+381(text): . Let
+ positive integer and  MATH . Let  MATH  and MATH  be two positive 
+383(text): and
+ and  MATH . Let MATH and  MATH   be two positive integers with 
+385(text): be two positive integers with
+ be two positive integers with   MATH  and MATH .
+387(text): and
+ positive integers with  MATH and  MATH  .
+389(text): .
+390(text): If
+(i)  If  MATH  , then MATH of (3)  is 
+392(text): , then
+(i)  If MATH , then  MATH  of (3) is a  two-weight 
+394(text): of
+ then  MATH of (3) is  MATH  two-weight linear code over  MATH 
+396(text): two-weight linear code over
+ a  two-weight linear code over  MATH  with parameters MATH  and the 
+398(text): with parameters
+ code over  MATH with parameters  MATH   and the weight distribution in 
+400(text): and the weight distribution in
+401(text): Table
+402(text): ;
+403(text): If
+(ii)  If  MATH  and MATH  is odd, then 
+405(text): and
+(ii)  If MATH and  MATH  is odd, then MATH  of 
+407(text): is odd, then
+ and  MATH is odd, then  MATH  of (3) is a  two-weight 
+409(text): of
+ then  MATH of (3) is  MATH  two-weight linear code over  MATH 
+411(text): two-weight linear code over
+ a  two-weight linear code over  MATH  with parameters MATH  and the 
+413(text): with parameters
+ code over  MATH with parameters  MATH   and the weight distribution in 
+415(text): and the weight distribution in
+416(text): Table
+417(text): ;
+418(text): If
+(iii)  If  MATH  and MATH  is even, then 
+420(text): and
+(iii)  If MATH and  MATH  is even, then MATH  of 
+422(text): is even, then
+ and  MATH is even, then  MATH  of (3) is a  three-weight 
+424(text): of
+ then  MATH of (3) is  MATH  three-weight linear code over  MATH 
+426(text): three-weight linear code over
+ a  three-weight linear code over  MATH  with parameters MATH  and the 
+428(text): with parameters
+ code over  MATH with parameters  MATH   and the weight distribution in 
+430(text): and the weight distribution in
+431(text): Table
+432(text): .
+   Let   MATH  ,  MATH ,  MATH ,  MATH  and   MATH 
+   Let  MATH ,   MATH  ,  MATH ,  MATH  and  MATH  . Then 
+   Let  MATH ,  MATH ,   MATH  ,  MATH  and  MATH  . Then the 
+   Let  MATH ,  MATH ,  MATH ,   MATH   and  MATH  . Then the linear 
+ MATH  ,  MATH ,  MATH ,  MATH  and   MATH  . Then the linear code   MATH 
+ MATH  . Then the linear code   MATH   defined in  (3)  is a 
+ defined in  (3)  is a   MATH   linear code over  MATH  with 
+ a  MATH  linear code over   MATH   with the weight enumerator   MATH 
+ MATH   with the weight enumerator   MATH  .
+Let   MATH  ,  MATH ,  MATH  and  MATH  . Then 
+Let  MATH ,   MATH  ,  MATH  and  MATH  . Then the 
+Let  MATH ,  MATH ,   MATH   and  MATH  . Then the linear 
+ Let  MATH ,  MATH ,  MATH  and   MATH  . Then the linear code   MATH 
+ MATH  . Then the linear code   MATH   defined in  (3)  is a 
+ defined in  (3)  is a   MATH   linear code over  MATH  with 
+ a  MATH  linear code over   MATH   with the weight enumerator   MATH 
+ MATH   with the weight enumerator   MATH  .
+Let   MATH  ,  MATH ,  MATH ,  MATH  and   MATH 
+Let  MATH ,   MATH  ,  MATH ,  MATH  and  MATH  . Then 
+Let  MATH ,  MATH ,   MATH  ,  MATH  and  MATH  . Then the 
+Let  MATH ,  MATH ,  MATH ,   MATH   and  MATH  . Then the linear 
+ MATH  ,  MATH ,  MATH ,  MATH  and   MATH  . Then the linear code   MATH 
+ MATH  . Then the linear code   MATH   defined in  (3)  is a 
+ defined in  (3)  is a   MATH   linear code over  MATH  with 
+ a  MATH  linear code over   MATH   with the weight enumerator   MATH 
+ MATH   with the weight enumerator   MATH  .
+If   MATH   in  Theorem 2  , we have 
+460(text): Let the symbols be the same as
+461(text): Theorem
+462(text): .
+463(text): (i) If
+(i) If  MATH  and MATH  is odd, then 
+465(text): and
+(i) If MATH and  MATH   is odd, then the code 
+467(text): is odd, then the code defined in
+ code defined in  (3) is  MATH  MATH  constant-weight linear code over 
+ defined in  (3) is a  MATH  constant-weight linear code over  MATH 
+470(text): constant-weight linear code over
+ MATH  constant-weight linear code over  MATH  ;
+472(text): ;
+473(text): If
+(ii)  If  MATH  and MATH  is even, then 
+475(text): and
+(ii)  If MATH and  MATH   is even, then the code 
+477(text): is even, then the code defined in
+ code defined in  (3) is  MATH  MATH linear code over  MATH 
+ defined in  (3) is a  MATH  linear code over MATH  with 
+480(text): linear code over
+ a  MATH linear code over  MATH   with the weight distribution in 
+482(text): with the weight distribution in
+483(text): Table
+484(text): .
+ Let   MATH  ,  MATH  and  MATH  . Then the 
+ Let  MATH ,   MATH   and  MATH  . Then the linear 
+ Let  MATH ,  MATH  and   MATH  . Then the linear code   MATH 
+ MATH  . Then the linear code   MATH   defined in  (3)  is a 
+ defined in  (3)  is a   MATH   constant-weight linear code over   MATH 
+ MATH   constant-weight linear code over   MATH   . This code is optimal due 
+Let   MATH  ,  MATH  and  MATH  . Then the 
+Let  MATH ,   MATH   and  MATH  . Then the linear 
+Let  MATH ,  MATH  and   MATH  . Then the linear code   MATH 
+ MATH  . Then the linear code   MATH   defined in  (3)  is a 
+ defined in  (3)  is a   MATH   linear code over  MATH  with 
+ a  MATH  linear code over   MATH   with the weight enumerator   MATH 
+ MATH   with the weight enumerator   MATH  .
+ puncturing the defining sets of   MATH   and  MATH  into short ones, 
+ defining sets of  MATH  and   MATH   into short ones, we can 
+Let   MATH   be a basis of   MATH 
+ MATH   be a basis of   MATH   over  MATH  and  MATH  be 
+ a basis of  MATH  over   MATH   and  MATH  be a basis 
+ of  MATH  over  MATH  and   MATH   be a basis of   MATH 
+ MATH   be a basis of   MATH   over  MATH  . Then two bases 
+ a basis of  MATH  over   MATH  . Then two bases  MATH  and 
+ over  MATH . Then two bases   MATH   and  MATH  are said to 
+ Then two bases  MATH  and   MATH   are said to be   dual 
+508(text): dual
+ be  dual  bases if for   MATH   we have   MATH 
+ if for  MATH  we have   MATH 
+Let   MATH   and  MATH  be defined as 
+Let  MATH  and   MATH   be defined as before. Assume 
+ defined as before. Assume that   MATH   and  MATH  are dual bases. 
+ before. Assume that  MATH  and   MATH   are dual bases. Recall that 
+ are dual bases. Recall that   MATH   . Define an equivalent relation “ 
+ Define an equivalent relation “   MATH  ” in  MATH  by   MATH 
+ relation “  MATH ” in   MATH   by  MATH  iff  MATH  . Put 
+ MATH  ” in  MATH  by   MATH   iff  MATH . Put  MATH  , where 
+ in  MATH  by  MATH  iff   MATH  . Put  MATH , where  MATH  and 
+ by  MATH  iff  MATH . Put   MATH  , where  MATH  and  MATH  for 
+ iff  MATH . Put  MATH , where   MATH   and  MATH  for every pair 
+ Put  MATH , where  MATH  and   MATH   for every pair of distinct 
+ every pair of distinct elements   MATH   and  MATH  in  MATH  . We 
+ of distinct elements  MATH  and   MATH   in  MATH  . We define the 
+ elements  MATH  and  MATH  in   MATH   . We define the following linear 
+ the following linear code over   MATH   by  MATH
+ linear code over  MATH  by   MATH 
+528(text): Let
+Let  MATH  be a  positive integer and 
+Let MATH be  MATH  positive integer and MATH  . Let 
+531(text): positive integer and
+ be  a positive integer and  MATH  . Let MATH and MATH  be 
+533(text): . Let
+ positive integer and  MATH . Let  MATH  and MATH  be two positive 
+535(text): and
+ and  MATH . Let MATH and  MATH   be two positive integers such 
+537(text): be two positive integers such that
+ two positive integers such that   MATH  . Assume that MATH with  MATH 
+539(text): . Assume that
+ such that  MATH . Assume that  MATH  with MATH and MATH  . Then 
+541(text): with
+ MATH  . Assume that MATH with  MATH  and MATH  . Then the code 
+543(text): and
+ that  MATH with MATH and  MATH   . Then the code defined by 
+545(text): . Then the code defined by
+ code defined by  (4) is  MATH  MATH  two-weight projective linear code 
+ defined by  (4) is a  MATH   two-weight projective linear code over 
+548(text): two-weight projective linear code over
+ two-weight projective linear code over   MATH   with the weight distribution in 
+550(text): with the weight distribution in
+551(text): Table
+552(text): .
+ Let   MATH  ,  MATH ,  MATH ,  MATH  and   MATH 
+ Let  MATH ,   MATH  ,  MATH ,  MATH  and  MATH  . Then 
+ Let  MATH ,  MATH ,   MATH  ,  MATH  and  MATH  . Then the 
+ Let  MATH ,  MATH ,  MATH ,   MATH   and  MATH  . Then the linear 
+ MATH  ,  MATH ,  MATH ,  MATH  and   MATH  . Then the linear code   MATH 
+ MATH  . Then the linear code   MATH   defined by  (4)  is a 
+ defined by  (4)  is a   MATH   linear code over  MATH  with 
+ a  MATH  linear code over   MATH   with the weight enumerator   MATH 
+ MATH   with the weight enumerator   MATH  .
+ Proceeding as the construction of   MATH   , we can obtain another class 
+ codes from  Theorem 2 . Let   MATH   and  MATH  be defined as 
+ Theorem 2  . Let  MATH  and   MATH   be defined as before. Suppose 
+ be defined as before. Suppose   MATH   and  MATH  are dual bases. 
+ as before. Suppose  MATH  and   MATH   are dual bases. Recall that 
+ are dual bases. Recall that   MATH   . Define an equivalent relation “ 
+ Define an equivalent relation “   MATH  ” in  MATH  by   MATH 
+ relation “  MATH ” in   MATH   by  MATH  iff  MATH  . Let 
+ MATH  ” in  MATH  by   MATH   iff  MATH . Let  MATH  , where 
+ in  MATH  by  MATH  iff   MATH  . Let  MATH , where  MATH  and 
+ by  MATH  iff  MATH . Let   MATH  , where  MATH  and  MATH  for 
+ iff  MATH . Let  MATH , where   MATH   and  MATH  for every pair 
+ Let  MATH , where  MATH  and   MATH   for every pair of distinct 
+ every pair of distinct elements   MATH   and  MATH  in  MATH  . Then 
+ of distinct elements  MATH  and   MATH   in  MATH  . Then we define 
+ elements  MATH  and  MATH  in   MATH   . Then we define the following 
+ the following linear code over   MATH   by  MATH
+ linear code over  MATH  by   MATH 
+580(text): Let
+Let  MATH  be a  positive integer and 
+Let MATH be  MATH  positive integer and MATH  . Let 
+583(text): positive integer and
+ be  a positive integer and  MATH  . Let MATH and MATH  be 
+585(text): . Let
+ positive integer and  MATH . Let  MATH  and MATH  be two positive 
+587(text): and
+ and  MATH . Let MATH and  MATH   be two positive integers with 
+589(text): be two positive integers with
+ be two positive integers with   MATH  and MATH  is odd. Then 
+591(text): and
+ positive integers with  MATH and  MATH  is odd. Then MATH  of 
+593(text): is odd. Then
+ and  MATH is odd. Then  MATH  of (5) is a  two-weight 
+595(text): of
+ Then  MATH of (5) is  MATH   two-weight projective linear code over 
+597(text): two-weight projective linear code over
+ two-weight projective linear code over   MATH  with parameters MATH  and the 
+599(text): with parameters
+ code over  MATH with parameters  MATH   and the weight distribution in 
+601(text): and the weight distribution in
+602(text): Table
+603(text): ;
+ Let   MATH  ,  MATH ,  MATH  and  MATH  . Then 
+ Let  MATH ,   MATH  ,  MATH  and  MATH  . Then the 
+ Let  MATH ,  MATH ,   MATH   and  MATH  . Then the linear 
+ Let  MATH ,  MATH ,  MATH  and   MATH  . Then the linear code   MATH 
+ MATH  . Then the linear code   MATH   defined in  (3)  is a 
+ defined in  (3)  is a   MATH   linear code over  MATH  with 
+ a  MATH  linear code over   MATH   with the weight enumerator   MATH 
+ MATH   with the weight enumerator   MATH  .
+612(text): An
+An  MATH   two-weight code which is projective 
+614(text): two-weight code which is projective over
+ code which is projective over   MATH  with nonzero weights MATH  and 
+616(text): with nonzero weights
+ over  MATH with nonzero weights  MATH  and MATH  is equivalent to 
+618(text): and
+ with nonzero weights  MATH and  MATH  is equivalent to a  strongly 
+ and  MATH is equivalent to  MATH   strongly regular graph with the 
+621(text): strongly regular graph with the following parameters:
+ graph with the following parameters:   MATH 
+Since the parameter   MATH   is much greater than   MATH 
+ MATH   is much greater than   MATH   in   Theorems 2 and 4 
+625(text): Let the symbols be the same as
+626(text): Theorem
+627(text): . Set
+ same as  Theorem 1 . Set  MATH  A  strongly regular graph with 
+ as  Theorem 1 . Set MATH  MATH   strongly regular graph with parameters 
+630(text): strongly regular graph with parameters
+ strongly regular graph with parameters   MATH  exists if MATH  and the 
+632(text): exists if
+ with parameters  MATH exists if  MATH  and the code in  Theorem 
+634(text): and the code in
+635(text): Theorem
+636(text): is projective.
+637(text): Let the symbols be the same as
+638(text): Theorem
+639(text): . Put
+ same as  Theorem 1 . Put  MATH  A  strongly regular graph with 
+ as  Theorem 1 . Put MATH  MATH   strongly regular graph with parameters 
+642(text): strongly regular graph with parameters
+ strongly regular graph with parameters   MATH  exists if MATH  such that 
+644(text): exists if
+ with parameters  MATH exists if  MATH  such that MATH  is odd 
+646(text): such that
+ exists if  MATH such that  MATH   is odd and the code 
+648(text): is odd and the code in
+649(text): Theorem
+650(text): is projective.
+651(text): Let the symbols be the same as
+652(text): Theorem
+653(text): . Let
+ same as  Theorem 3 . Let  MATH  Then there exists a  strongly 
+ Let  MATH Then there exists  MATH   strongly regular graph with parameters 
+656(text): strongly regular graph with parameters
+ strongly regular graph with parameters   MATH  .
+658(text): .
+ Theorem 10. For instance, taking   MATH  ,  MATH ,  MATH ,  MATH  and   MATH 
+ 10. For instance, taking  MATH ,   MATH  ,  MATH ,  MATH  and  MATH  , we 
+ For instance, taking  MATH ,  MATH ,   MATH  ,  MATH  and  MATH  , we can 
+ instance, taking  MATH ,  MATH ,  MATH ,   MATH   and  MATH  , we can obtain 
+ MATH  ,  MATH ,  MATH ,  MATH  and   MATH  , we can obtain a   MATH 
+ MATH  , we can obtain a   MATH   -strongly regular graph with two 
+ regular graph with two eigenvalues   MATH  ,  MATH  from  Theorem 7  . Comparing 
+ graph with two eigenvalues  MATH ,   MATH   from  Theorem 7  . Comparing with 
+667(text): additive character
+An  additive character  of   MATH   is a nonzero function   MATH 
+ MATH   is a nonzero function   MATH   from  MATH  to the set 
+ a nonzero function  MATH  from   MATH   to the set of nonzero 
+ complex numbers of absolute value   MATH   with  MATH  for all   MATH 
+ of absolute value  MATH  with   MATH   for all  MATH  . For each 
+ MATH   with  MATH  for all   MATH  . For each  MATH  , the function 
+ for all  MATH . For each   MATH  , the function   MATH 
+ For each  MATH , the function   MATH   defines an additive character of 
+ defines an additive character of   MATH  , where  MATH . The character   MATH 
+ additive character of  MATH , where   MATH  . The character  MATH  in   (6) 
+ MATH  , where  MATH . The character   MATH   in  (6)  for all   MATH 
+ MATH   in  (6)  for all   MATH   is called the   trivial additive 
+680(text): trivial additive character
+ the  trivial additive character  of   MATH  . When  MATH , the character   MATH 
+ additive character   of  MATH . When   MATH  , the character  MATH  in   (6) 
+ MATH  . When  MATH , the character   MATH   in  (6)  is called the 
+684(text): canonical additive character
+ the  canonical additive character  of   MATH   . We denote the canonical additive 
+ the canonical additive character of   MATH   by  MATH , where  MATH  is 
+ additive character of  MATH  by   MATH  , where  MATH  is a positive 
+ of  MATH  by  MATH , where   MATH   is a positive integer.
+ of the multiplicative group of   MATH   are called  multiplicative characters  of 
+690(text): multiplicative characters
+ are called  multiplicative characters  of   MATH   . All the multiplicative characters are 
+ multiplicative characters are given by   MATH  where  MATH  and  MATH  is 
+ are given by  MATH where   MATH   and  MATH  is a generator 
+ by  MATH where  MATH  and   MATH   is a generator of   MATH 
+ MATH   is a generator of   MATH  . For  MATH  , we have the 
+ a generator of  MATH . For   MATH  , we have the   quadratic character 
+697(text): quadratic character
+ we have the  quadratic character  MATH   . Denote the quadratic character of 
+ Denote the quadratic character of   MATH   by  MATH , where  MATH  is 
+ quadratic character of  MATH  by   MATH  , where  MATH  is a positive 
+ of  MATH  by  MATH , where   MATH   is a positive integer.
+The Gauss sum   MATH   over  MATH  is defined by 
+ The Gauss sum  MATH  over   MATH   is defined by  MATH  In 
+ over  MATH  is defined by   MATH   In this paper, denote the 
+ paper, denote the Gauss sum   MATH   over  MATH  by  MATH .
+ the Gauss sum  MATH  over   MATH   by  MATH .
+ sum  MATH  over  MATH  by   MATH  .
+708(text): With the symbols and notation above, we have
+ and notation above, we have   MATH 
+710(text): Let
+Let  MATH  be a  nontrivial additive character 
+Let MATH be  MATH  nontrivial additive character of  MATH 
+713(text): nontrivial additive character of
+ a  nontrivial additive character of  MATH  , and let MATH with  MATH 
+715(text): , and let
+ character of  MATH , and let  MATH  with MATH . Then MATH
+717(text): with
+ MATH  , and let MATH with  MATH  . Then MATH
+719(text): . Then
+ let  MATH with MATH . Then  MATH 
+ function. For any positive integer   MATH   dividing  MATH  , the norm function 
+ any positive integer  MATH  dividing   MATH  , the norm function  MATH  from 
+ dividing  MATH , the norm function   MATH   from  MATH  to  MATH  is 
+ the norm function  MATH  from   MATH   to  MATH  is defined by 
+ function  MATH  from  MATH  to   MATH   is defined by  MATH
+ to  MATH  is defined by   MATH 
+727(text): Let
+Let  MATH  and MATH  be two positive 
+729(text): and
+Let MATH and  MATH   be two positive integers with 
+731(text): be two positive integers with
+ be two positive integers with   MATH  . If MATH  is even, then 
+733(text): . If
+ positive integers with  MATH . If  MATH  is even, then MATH  for 
+735(text): is even, then
+ If  MATH is even, then  MATH  for any MATH . If  MATH 
+737(text): for any
+ even, then  MATH for any  MATH  . If MATH  is odd, then 
+739(text): . If
+ MATH  for any MATH . If  MATH  is odd, then MATH  for 
+741(text): is odd, then
+ If  MATH is odd, then  MATH  for any MATH .
+743(text): for any
+ odd, then  MATH for any  MATH  .
+745(text): .
+Assume that   MATH  . Then we have  MATH  Since 
+ that  MATH . Then we have   MATH  Since  MATH  , a direct calculation 
+ Then we have  MATH Since   MATH   , a direct calculation completes the 
+749(text): Let
+Let  MATH  , where MATH and MATH  . Then 
+751(text): , where
+Let MATH , where  MATH  and MATH  . Then we have 
+753(text): and
+ Let  MATH , where MATH and  MATH  . Then we have MATH
+755(text): . Then we have
+ and  MATH . Then we have  MATH 
+ MATH  Since  MATH we have   MATH 
+MATH Since   MATH  we have  MATH  This completes 
+ MATH  Since  MATH we have   MATH  This completes the proof.    □ 
+ codeword defined in  (2) . Let   MATH   be a Niho exponent and 
+ be a Niho exponent and   MATH  where  MATH . Using   Lemma 6 
+ Niho exponent and  MATH where   MATH  . Using  Lemma 6  , we have 
+763(text): Let
+Let  MATH  and MATH  be two positive 
+765(text): and
+Let MATH and  MATH   be two positive integers with 
+767(text): be two positive integers with
+ be two positive integers with   MATH  and MATH . Assume that  MATH 
+769(text): and
+ positive integers with  MATH and  MATH  . Assume that MATH is  a 
+771(text): . Assume that
+ MATH  and MATH . Assume that  MATH  is a  Niho exponent and 
+ MATH  . Assume that MATH is  MATH  Niho exponent and MATH .
+774(text): Niho exponent and
+ is  a Niho exponent and  MATH  .
+776(text): .
+777(text): if
+(i)  if  MATH  , then we have MATH
+779(text): , then we have
+ if  MATH , then we have  MATH 
+781(text): if
+(ii)  if  MATH  and MATH  is odd, then 
+783(text): and
+(ii)  if MATH and  MATH   is odd, then we have 
+785(text): is odd, then we have
+ is odd, then we have   MATH 
+787(text): if
+(iii)  if  MATH  and MATH  is even, then 
+789(text): and
+(iii)  if MATH and  MATH   is even, then we have 
+791(text): is even, then we have
+ is even, then we have   MATH 
+By   MATH  , we get  MATH . Suppose   MATH 
+By  MATH , we get   MATH  . Suppose  MATH  is a positive 
+ MATH  , we get  MATH . Suppose   MATH   is a positive integer such 
+ a positive integer such that   MATH  . Thus we have  MATH  Then, 
+ that  MATH . Thus we have   MATH  Then, we have  MATH  By 
+ have  MATH Then, we have   MATH  By  Lemma 6  , we obtain 
+ By  Lemma 6 , we obtain   MATH 
+Let   MATH  . If  MATH  , then we have 
+Let  MATH . If   MATH  , then we have   MATH 
+ If  MATH , then we have   MATH  From  Lemma 4  , we get 
+ From  Lemma 4 , we get   MATH  It follows from   Lemma 5 
+ follows from  Lemma 5  that   MATH   Then a direct calculation presents 
+ we can obtain (i) when   MATH  .   □
+806(text): Let the symbols be the same as
+807(text): Lemma
+808(text): . For any
+ as  Lemma 7 . For any  MATH  , let MATH
+810(text): , let
+ 7  . For any MATH , let  MATH 
+812(text): if
+(i)  if  MATH  , then we have MATH
+814(text): , then we have
+ if  MATH , then we have  MATH 
+816(text): if
+(ii)  if  MATH  and MATH  is odd, then 
+818(text): and
+(ii)  if MATH and  MATH   is odd, then we have 
+820(text): is odd, then we have
+ is odd, then we have   MATH 
+822(text): if
+(iii)  if  MATH  and MATH  is even, then 
+824(text): and
+(iii)  if MATH and  MATH   is even, then we have 
+826(text): is even, then we have
+ is even, then we have   MATH 
+Note that   MATH  Since  MATH  is a basis 
+Note that  MATH Since   MATH   is a basis of   MATH 
+ MATH   is a basis of   MATH   over  MATH  and  MATH  is 
+ a basis of  MATH  over   MATH   and  MATH  is a basis 
+ of  MATH  over  MATH  and   MATH   is a basis of   MATH 
+ MATH   is a basis of   MATH   over  MATH ,  MATH  is equivalent 
+ a basis of  MATH  over   MATH  ,  MATH  is equivalent to   MATH 
+ basis of  MATH  over  MATH ,   MATH   is equivalent to  MATH  (  MATH 
+ MATH  ,  MATH  is equivalent to   MATH   ( MATH ) and  MATH  if and 
+ MATH   is equivalent to  MATH  (  MATH  ) and  MATH  if and only 
+ equivalent to  MATH  ( MATH ) and   MATH   if and only if   MATH 
+ MATH   if and only if   MATH   ( MATH  ). Using the orthogonal relation 
+ if and only if  MATH  (  MATH   ). Using the orthogonal relation of 
+ exponential sums, one can express   MATH   as follows:  MATH
+ can express  MATH  as follows:   MATH 
+Recall that   MATH   is a basis of   MATH 
+ MATH   is a basis of   MATH   over  MATH  and  MATH  is 
+ a basis of  MATH  over   MATH   and  MATH  is a basis 
+ of  MATH  over  MATH  and   MATH   is a basis of   MATH 
+ MATH   is a basis of   MATH   over  MATH . Thus,  (7)  becomes 
+ a basis of  MATH  over   MATH  . Thus,  (7)  becomes  MATH
+ over  MATH . Thus,  (7)  becomes   MATH 
+850(text): Let
+Let  MATH  and MATH  be two positive 
+852(text): and
+Let MATH and  MATH   be two positive integers with 
+854(text): be two positive integers with
+ be two positive integers with   MATH  and MATH . For each  MATH 
+856(text): and
+ positive integers with  MATH and  MATH  . For each MATH , let  MATH 
+858(text): . For each
+ MATH  and MATH . For each  MATH  , let MATH Then MATH  where 
+860(text): , let
+ MATH  . For each MATH , let  MATH  Then MATH where MATH .
+862(text): Then
+ each  MATH , let MATH Then  MATH  where MATH .
+864(text): where
+ let  MATH Then MATH where  MATH  .
+866(text): .
+ the proof for the case   MATH  . The case  MATH  can be 
+ the case  MATH . The case   MATH   can be setted similarly. Now 
+ similarly. Now we can express   MATH   as follows:   MATH 
+ can express  MATH  as follows:   MATH  This completes the proof.    □ 
+Recall that   MATH   Similar to the proof of 
+ of  Lemma 8 , we have   MATH   . Therefore, the length of the 
+ the length of the code   MATH   is  MATH . Observe that   MATH 
+ of the code  MATH  is   MATH  . Observe that  MATH  gives the 
+ MATH   is  MATH . Observe that   MATH   gives the zero codeword. So 
+ codeword. So we assume that   MATH   for the rest of the 
+ rest of the proof. Let   MATH   denote the Hamming weight of 
+ Hamming weight of the codeword   MATH   of  MATH , where  MATH  . It 
+ of the codeword  MATH  of   MATH  , where  MATH  . It is obvious 
+ codeword  MATH  of  MATH , where   MATH  . It is obvious that   MATH 
+ MATH  . It is obvious that   MATH  . By  Lemma 8 ,  MATH  can 
+ that  MATH . By  Lemma 8 ,   MATH   can be given as follows. 
+(i) if   MATH  , then we have   MATH 
+ if  MATH , then we have   MATH 
+(ii) if   MATH   and  MATH  is odd, then 
+(ii) if  MATH  and   MATH   is odd, then we have 
+ is odd, then we have   MATH 
+(iii) if   MATH   and  MATH  is even, then 
+(iii) if  MATH  and   MATH   is even, then we have 
+ is even, then we have   MATH  where  MATH  . By the fact 
+ MATH  where   MATH  . By the fact that   MATH 
+ MATH  . By the fact that   MATH   , the number of codewords in 
+ the number of codewords in   MATH   is  MATH  . Therefore, the dimension 
+ of codewords in  MATH  is   MATH  . Therefore, the dimension of   MATH 
+ MATH  . Therefore, the dimension of   MATH   is  MATH  . The desired conclusions 
+ the dimension of  MATH  is   MATH  . The desired conclusions of   Theorem 
+Recall that   MATH  . Let  MATH  and  MATH  . Our 
+Recall that  MATH . Let   MATH   and  MATH  . Our first goal 
+ that  MATH . Let  MATH  and   MATH   . Our first goal is to 
+ goal is to show that   MATH  . Clearly, since  MATH  noting that 
+ show that  MATH . Clearly, since   MATH  noting that  MATH  be a 
+ Clearly, since  MATH noting that   MATH   be a basis of   MATH 
+ MATH   be a basis of   MATH   over  MATH , we have   MATH 
+ a basis of  MATH  over   MATH  , we have  MATH , where   MATH 
+ MATH   over  MATH , we have   MATH  , where  MATH . Since  MATH  be 
+ MATH  , we have  MATH , where   MATH  . Since  MATH  be a basis 
+ have  MATH , where  MATH . Since   MATH   be a basis of   MATH 
+ MATH   be a basis of   MATH   over  MATH  and  MATH  is 
+ a basis of  MATH  over   MATH   and  MATH  is a subfield 
+ of  MATH  over  MATH  and   MATH   is a subfield of   MATH 
+ MATH   is a subfield of   MATH  , one can express  MATH  by 
+ of  MATH , one can express   MATH   by  MATH , where  MATH  . Due 
+ one can express  MATH  by   MATH  , where  MATH . Due to   MATH 
+ express  MATH  by  MATH , where   MATH  . Due to  MATH  , we get 
+ MATH  , where  MATH . Due to   MATH  , we get  MATH  which implies 
+ Due to  MATH , we get   MATH   which implies  MATH  Similarly, we 
+ we get  MATH  which implies   MATH  Similarly, we have  MATH  , where 
+ implies  MATH Similarly, we have   MATH  , where  MATH  . It follows that 
+ Similarly, we have  MATH , where   MATH  . It follows that  MATH  , i.e., 
+ where  MATH . It follows that   MATH  , i.e.,  MATH  . From the proof 
+ It follows that  MATH , i.e.,   MATH  . From the proof of   Theorem 
+ Theorem 1  , we know that   MATH  . Recall that  MATH , where   MATH 
+ know that  MATH . Recall that   MATH  , where  MATH  and  MATH  for 
+ MATH  . Recall that  MATH , where   MATH   and  MATH  for every pair 
+ that  MATH , where  MATH  and   MATH   for every pair of distinct 
+ every pair of distinct elements   MATH   and  MATH  in  MATH  . Then 
+ of distinct elements  MATH  and   MATH   in  MATH  . Then we have 
+ elements  MATH  and  MATH  in   MATH  . Then we have  MATH  . Therefore, 
+ in  MATH . Then we have   MATH   . Therefore, the length of the 
+ the length of the code   MATH   is  MATH .
+ of the code  MATH  is   MATH  .
+For any   MATH  ,  MATH  and  MATH  , we can 
+For any  MATH ,   MATH   and  MATH  , we can prove 
+ For any  MATH ,  MATH  and   MATH  , we can prove that   MATH 
+ MATH  , we can prove that   MATH   is equivalent to  MATH  similarly. 
+ that  MATH  is equivalent to   MATH   similarly. From  Theorem 1  , we 
+ get the weight distribution of   MATH  .
+Below we show that   MATH   is projective, i.e., the minimum 
+ distance of the dual of   MATH   is at least  MATH  . Let 
+ of  MATH  is at least   MATH  . Let  MATH  denote the dual 
+ is at least  MATH . Let   MATH   denote the dual of   MATH 
+ MATH   denote the dual of   MATH  . Since  MATH  , the minimum distance 
+ the dual of  MATH . Since   MATH  , the minimum distance of   MATH 
+ MATH  , the minimum distance of   MATH   is bigger than one. By 
+ one. By the definition of   MATH   , its dual has a codeword 
+ a codeword of Hamming weight   MATH   if and only if there 
+ there exist two distinct elements   MATH   for each  MATH  such that 
+ distinct elements  MATH  for each   MATH   such that  MATH where   MATH 
+ for each  MATH  such that   MATH  where  MATH  and  MATH  . Note 
+ MATH   such that  MATH where   MATH   and  MATH . Note that   MATH 
+ that  MATH where  MATH  and   MATH  . Note that  MATH . From   (8) 
+ MATH   and  MATH . Note that   MATH  . From  (8) , we have   MATH 
+ MATH  . From  (8) , we have   MATH  Since  MATH  be a basis 
+ (8)  , we have  MATH Since   MATH   be a basis of   MATH 
+ MATH   be a basis of   MATH   over  MATH  and  MATH  , one 
+ a basis of  MATH  over   MATH   and  MATH  , one can express 
+ of  MATH  over  MATH  and   MATH  , one can express  MATH ,   MATH 
+ and  MATH , one can express   MATH  ,  MATH  by  MATH ,  MATH  , respectively. 
+ MATH  , one can express  MATH ,   MATH   by  MATH ,  MATH  , respectively. It 
+ can express  MATH ,  MATH  by   MATH  ,  MATH  , respectively. It follows that 
+ express  MATH ,  MATH  by  MATH ,   MATH  , respectively. It follows that   MATH 
+ MATH  , respectively. It follows that   MATH  Taking the trace function   MATH 
+ MATH  Taking the trace function   MATH   of both sides, we have 
+ of both sides, we have   MATH  Because  MATH  and  MATH  are 
+ sides, we have  MATH Because   MATH   and  MATH  are dual bases, 
+ have  MATH Because  MATH  and   MATH   are dual bases, from   (9) 
+ from  (9) , it follows that   MATH  which implies  MATH  . Note that 
+ follows that  MATH which implies   MATH  . Note that  MATH  is non-singular. 
+ which implies  MATH . Note that   MATH   is non-singular. Then we have 
+ is non-singular. Then we have   MATH  . From the definition of   MATH 
+ MATH  . From the definition of   MATH   and  MATH  , we get that 
+ the definition of  MATH  and   MATH  , we get that  MATH  which 
+ and  MATH , we get that   MATH   which contradicts  MATH  . Therefore, there 
+ get that  MATH  which contradicts   MATH   . Therefore, there do not exist 
+ Therefore, there do not exist   MATH   satisfying  (8)  . That is to 
+ (8)  . That is to say,   MATH   is projective.   □
+ construction of linear codes via   MATH  -polynomial was proposed.
+ can construct linear codes from   MATH   -polynomials by choosing other exponents 
