@@ -4,10 +4,11 @@ import pandas as pd
 import json
 import pickle
 from collections import Counter
-
+# from collections import Counter
 try:
     with open("../logs/panda_dataset.pkl", 'rb') as f_read:
         dataset = pickle.load(f_read)
+        print(Counter(dataset["annot"].tolist()))
 except FileNotFoundError as file_error:
     with open("../data/combined_data.json") as file_dataset_json:
         dataset_lines = file_dataset_json.readlines()
@@ -98,5 +99,8 @@ clf.fit(train_X, train_y)
 prediction = clf.predict(test_X)
 accuracy = metrics.accuracy_score(test_y, prediction)
 f1_score = metrics.f1_score(test_y, prediction, average='macro')
+conf_mat = metrics.confusion_matrix(test_y, prediction, labels=[1, 0] )
+
 print(f"Total Accuracy: {accuracy}")
 print(f"f1_score: {f1_score}")
+print(f'confusion matrix labels[1,0]:\n{conf_mat}')
