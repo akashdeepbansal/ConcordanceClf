@@ -83,7 +83,18 @@ except FileNotFoundError as file_error:
 
 from sklearn.naive_bayes import MultinomialNB
 from sklearn import metrics
-clf = MultinomialNB(alpha=0.1)
+# clf = MultinomialNB(alpha=0.1)
+# using GridSearch for parameter search
+from sklearn.model_selection import GridSearchCV
+
+# clf = MultinomialNB()
+# parameters = {'alpha': [1e-2, 1e-3, 1e-4, 1e-5]}
+# grid_search = GridSearchCV(clf, parameters)
+# grid_search.fit(train_X, train_y)
+# print(grid_search.best_score_)
+# print(grid_search.best_params_)
+
+clf = MultinomialNB(alpha=0.0001)
 clf.fit(train_X, train_y)
 prediction = clf.predict(test_X)
 accuracy = metrics.accuracy_score(test_y, prediction)
@@ -95,15 +106,17 @@ print(f"Total Accuracy: {accuracy}")
 print(f"f1_score: {f1_score}")
 print(f'confusion matrix labels[1,0]:\n{conf_mat}')
 
-from sklearn.linear_model import SGDClassifier
-clf_svm = SGDClassifier(loss='hinge', alpha=1e-3, random_state=1)
-clf_svm.fit(train_X, train_y)
-prediction = clf_svm.predict(test_X)
-accuracy = metrics.accuracy_score(test_y, prediction)
-f1_score = metrics.f1_score(test_y, prediction, average='macro')
-conf_mat = metrics.confusion_matrix(test_y, prediction, labels=[1, 0] )
 
-print("SVM:---------------")
-print(f"Total Accuracy: {accuracy}")
-print(f"f1_score: {f1_score}")
-print(f'confusion matrix labels[1,0]:\n{conf_mat}')
+
+# from sklearn.linear_model import SGDClassifier
+# clf_svm = SGDClassifier(loss='hinge', alpha=1e-3, random_state=1)
+# clf_svm.fit(train_X, train_y)
+# prediction = clf_svm.predict(test_X)
+# accuracy = metrics.accuracy_score(test_y, prediction)
+# f1_score = metrics.f1_score(test_y, prediction, average='macro')
+# conf_mat = metrics.confusion_matrix(test_y, prediction, labels=[1, 0] )
+#
+# print("SVM:---------------")
+# print(f"Total Accuracy: {accuracy}")
+# print(f"f1_score: {f1_score}")
+# print(f'confusion matrix labels[1,0]:\n{conf_mat}')
