@@ -55,7 +55,8 @@ except FileNotFoundError as file_error:
     # from sklearn.feature_extraction.text import CountVectorizer
     # vectorizer = CountVectorizer(lowercase=False)
     from sklearn.feature_extraction.text import TfidfVectorizer
-    vectorizer = TfidfVectorizer(stop_words={'english'})
+    vectorizer = TfidfVectorizer(sublinear_tf=True, min_df=5, norm='l2',
+                                 ngram_range=(1, 2), stop_words={'english'})
     from sklearn.model_selection import train_test_split
     dataset_X = dataset["concor"].tolist()
     dataset_y = dataset['annot'].tolist()
@@ -108,15 +109,15 @@ print(f'confusion matrix labels[1,0]:\n{conf_mat}')
 
 
 
-# from sklearn.linear_model import SGDClassifier
-# clf_svm = SGDClassifier(loss='hinge', alpha=1e-3, random_state=1)
-# clf_svm.fit(train_X, train_y)
-# prediction = clf_svm.predict(test_X)
-# accuracy = metrics.accuracy_score(test_y, prediction)
-# f1_score = metrics.f1_score(test_y, prediction, average='macro')
-# conf_mat = metrics.confusion_matrix(test_y, prediction, labels=[1, 0] )
-#
-# print("SVM:---------------")
-# print(f"Total Accuracy: {accuracy}")
-# print(f"f1_score: {f1_score}")
-# print(f'confusion matrix labels[1,0]:\n{conf_mat}')
+from sklearn.linear_model import SGDClassifier
+clf_svm = SGDClassifier(loss='hinge', alpha=1e-3, random_state=1)
+clf_svm.fit(train_X, train_y)
+prediction = clf_svm.predict(test_X)
+accuracy = metrics.accuracy_score(test_y, prediction)
+f1_score = metrics.f1_score(test_y, prediction, average='macro')
+conf_mat = metrics.confusion_matrix(test_y, prediction, labels=[1, 0] )
+
+print("SVM:---------------")
+print(f"Total Accuracy: {accuracy}")
+print(f"f1_score: {f1_score}")
+print(f'confusion matrix labels[1,0]:\n{conf_mat}')
