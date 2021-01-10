@@ -1,0 +1,1058 @@
+The angular domain   MATH  .
+ MATH  priori  estimates
+2(text): priori
+ by the potential flow equation:   MATH   where  MATH  is the potential 
+ potential flow equation:  MATH  where   MATH   is the potential of the 
+ of the velocity field in   MATH  ,  ρ  is the density with 
+ the velocity field in  MATH ,   MATH   is the density with  MATH 
+ ρ   is the density with  MATH   from Bernoulli's law for polytropic 
+ polytropic gases of adiabatic exponent   MATH   by scaling, and  MATH  is 
+ exponent  MATH  by scaling, and   MATH   is the gradient in   x 
+ MATH   is the gradient in   MATH  .
+ (1.1)   can be written as  MATH   where MATH  with  MATH  being 
+ be written as  MATH  where  MATH   with  MATH  being the sonic 
+ as  MATH  where MATH  with   MATH   being the sonic speed. Denote 
+ being the sonic speed. Denote   MATH  .
+15(text): cf.
+ of supersonic Euler flows in   MATH   were established via a modified 
+17(text): cf.
+ is suitably small. Furthermore, the   MATH   -stability and uniqueness of entropy 
+ uniqueness of entropy solutions in   MATH   containing the strong supersonic–supersonic shock 
+ important difference between an M-D (   MATH   ) dihedral-angled wedge, whose edge is 
+21(text): cf.
+ the shock polar in the   MATH   -plane, whose tangent value, according 
+ flow ahead of a shock-front   MATH   is  MATH  , and the velocity 
+ of a shock-front  MATH  is   MATH   , and the velocity of the 
+ of the uniform flow behind   MATH   is  MATH  with  MATH  . Then 
+ uniform flow behind  MATH  is   MATH   with  MATH  . Then the corresponding 
+ behind  MATH  is  MATH  with   MATH   . Then the corresponding potential functions 
+ the corresponding potential functions are   MATH   respectively, where  MATH  with   MATH 
+ functions are  MATH  respectively, where   MATH   with  MATH . Let MATH  Then 
+ MATH   respectively, where  MATH  with   MATH  . Let MATH  Then the Rankine–Hugoniot 
+ where  MATH  with  MATH . Let  MATH   Then the Rankine–Hugoniot conditions on 
+ Then the Rankine–Hugoniot conditions on   MATH   can be written as  MATH 
+ MATH   can be written as  MATH  MATH  Condition  (2.1)  indicates the 
+ can be written as  MATH  MATH   Condition  (2.1)  indicates the conservation 
+ of the shock-front and velocity   MATH   behind it, for the given 
+ the uniform incoming supersonic flow   MATH   . To this end, the rigidity 
+ flow along the wedge surface:   MATH   where  ν  is the unit 
+ the wedge surface:  MATH  where   MATH   is the unit normal of 
+ MATH 
+ (2.1)   can be rewritten as  MATH   where  MATH ,  MATH , and   MATH 
+ be rewritten as  MATH  where   MATH  ,  MATH , and  MATH  . Then the 
+ rewritten as  MATH  where  MATH ,   MATH  , and  MATH  . Then the admissible 
+ MATH   where  MATH ,  MATH , and   MATH  . Then the admissible solution   v 
+ MATH  . Then the admissible solution   MATH   to equation  (2.4)  can be 
+ 2-D shock polar around the   MATH  -axis; see  Fig. 2.1   (a). 
+ spanned by the unit vectors   MATH  ,  MATH , with  MATH  the   j 
+ by the unit vectors  MATH ,   MATH  , with  MATH  the  j  -th 
+ unit vectors  MATH ,  MATH , with   MATH   the  j  -th component, we 
+ MATH  ,  MATH , with  MATH  the   MATH   -th component, we can differentiate 
+ along the edge to obtain   MATH   which implies that  MATH  is 
+ obtain  MATH  which implies that   MATH   is orthogonal to  MATH  . Thus, 
+ that  MATH  is orthogonal to   MATH   . Thus, the M-D shock polar 
+ intersection curve exists; see loop   MATH   in  Fig. 2.1 (b).
+ rigidity assumption  (2.3)  yields that   MATH   should also be tangential to 
+ to the wedge plane, plane   MATH   , which intersects with the shock 
+ the shock balloon at loop   MATH   when the dihedral wedge angle 
+ determined by the intersection points   MATH   and  B  of loop   MATH 
+ the intersection points  A  and   MATH   of loop  MATH  and the 
+ A   and  B  of loop   MATH   and the shock polar   MATH 
+ MATH   and the shock polar   MATH  ; see  Fig. 2.1  (d). Each 
+ critical value, the intersection points   MATH   and  B  coincide with   MATH 
+ the intersection points  A  and   MATH   coincide with  MATH  ; and when 
+ A   and  B  coincide with   MATH   ; and when it is larger 
+ Both shock solutions determined by   MATH   and  B  satisfy the entropy 
+ solutions determined by  A  and   MATH   satisfy the entropy condition, and 
+ of the solution represented by   MATH   is stronger than  B  . In 
+ by  A  is stronger than   MATH  . In addition,  A  must correspond 
+ stronger than  B . In addition,   MATH   must correspond to a transonic 
+ a transonic shock solution, while   MATH   may correspond to a transonic 
+ solution. The critical shock solution   MATH   must be transonic. We are 
+ of the computation. Fix the   MATH   -axis to be in the 
+ to the wedge edge, the   MATH   -axis to be perpendicular to 
+ the wedge surface, and the   MATH   -axis to be parallel with 
+ behind the shock-front on the   MATH  -D hyperplane  MATH ; see   Fig. 
+ on the  MATH -D hyperplane   MATH  ; see  Fig. 3.1  .
+ that the wedge angle is   MATH   . Then, for the background shock 
+ ahead of the shock-front is   MATH   with  MATH  , and the velocity 
+ the shock-front is  MATH  with   MATH   , and the velocity behind the 
+ velocity behind the shock-front is   MATH   where  MATH  is the angle 
+ the shock-front is  MATH  where   MATH   is the angle between   MATH 
+ MATH   is the angle between   MATH   and the  MATH  -axis for 
+ angle between  MATH  and the   MATH  -axis for  MATH ; see   Fig. 
+ and the  MATH -axis for   MATH  ; see  Fig. 3.1 .
+ the Rankine–Hugoniot conditions, we have   MATH   Thus, the corresponding potential functions 
+ the corresponding potential functions are   MATH  MATH  and the location of 
+ corresponding potential functions are  MATH  MATH   and the location of the 
+ the location of the shock-front   MATH   is determined by MATH  that 
+ shock-front  MATH  is determined by  MATH   that is, MATH
+ determined by  MATH  that is,  MATH 
+ perturbed by the perturbed surface:   MATH   see  Fig. 3.2   . We investigate 
+ shock solution is stable, then   MATH   is denoted as the shock-front, 
+ is denoted as the shock-front,   MATH   as the supersonic flow field 
+ the supersonic flow field ahead   MATH  , and  MATH  the subsonic flow 
+ flow field ahead  MATH , and   MATH   the subsonic flow field between 
+ the subsonic flow field between   MATH   and  MATH ; see   Fig. 3.2 
+ flow field between  MATH  and   MATH  ; see  Fig. 3.2 . Let   MATH 
+ MATH  ; see  Fig. 3.2 . Let   MATH   be the potential functions of 
+ the perturbed steady flow in   MATH  , respectively. Then we have  MATH 
+ MATH  , respectively. Then we have  MATH   Let MATH  Then  MATH  in 
+ have  MATH  Let  MATH   Then  MATH  in  MATH  is 
+ MATH   Let MATH  Then   MATH   in  MATH  is governed by 
+ Let  MATH  Then  MATH  in   MATH   is governed by  MATH 
+ in  MATH  is governed by  MATH 
+ condition on the wedge boundary   MATH  : MATH  where, with   MATH 
+ on the wedge boundary  MATH :  MATH   where, with  MATH , MATH
+ MATH  : MATH  where, with   MATH  , MATH
+ MATH   where, with  MATH ,  MATH 
+On the shock front   MATH  , the Rankine–Hugoniot conditions hold:  MATH 
+ MATH  , the Rankine–Hugoniot conditions hold:  MATH  MATH  where  MATH 
+ conditions hold:  MATH  MATH   where MATH
+ MATH  MATH  where  MATH 
+ perturbation of the wedge surface   MATH   and the given incoming supersonic 
+ the given incoming supersonic flow   MATH  , determine  MATH  and the free 
+ incoming supersonic flow  MATH , determine   MATH   and the free boundary   MATH 
+ MATH   and the free boundary   MATH   of domain  MATH  such that 
+ free boundary  MATH  of domain   MATH   such that  (3.6) –  (3.9) 
+ (3.6)  – (3.9)  hold. Moreover,   MATH   describes a subsonic flow behind 
+118(text): Let
+Let  MATH   be the weak transonic shock 
+ solution that is represented by   MATH  on the shock polar ;   see 
+121(text): on the shock polar
+122(text): see
+123(text): Fig.
+124(text): . If the wedge edge is not perturbed, that is,
+ is not perturbed, that is,   MATH  and the perturbation MATH  of 
+126(text): and the perturbation
+ MATH  and the perturbation  MATH   of the wedge surface is 
+ sufficiently small, then there exists   MATH  unique MATH  , which is also 
+129(text): unique
+ then there exists  a unique  MATH  , which is also a  small 
+ unique  MATH , which is also  MATH  small perturbation of MATH  , such 
+132(text): small perturbation of
+ also  a small perturbation of  MATH  , such that MATH solves  Problem 
+134(text): , such that
+ perturbation of  MATH , such that  MATH  solves Problem 3.1  , i.e., the 
+136(text): solves
+137(text): Problem
+138(text): , i.e., the free boundary problem
+139(text): , with the perturbed shock-front
+ (3.9)  , with the perturbed shock-front  MATH  determined by MATH  This indicates 
+141(text): determined by
+ perturbed shock-front  MATH determined by  MATH   This indicates that the weak 
+143(text): This indicates that the weak transonic shock solution is conditionally stable.
+ the same results hold if   MATH   is replaced by any smooth 
+ near the background potential function   MATH   . This can be achieved by 
+As before, denote   MATH   with  MATH . Let  MATH  be 
+ As before, denote  MATH  with   MATH  . Let  MATH  be the polar 
+ denote  MATH  with  MATH . Let   MATH   be the polar coordinates for 
+ be the polar coordinates for   MATH   and  MATH  . Define an angular 
+ polar coordinates for  MATH  and   MATH  . Define an angular domain   K 
+ MATH  . Define an angular domain   MATH   in  MATH  with its boundaries 
+ an angular domain  K  in   MATH   with its boundaries  MATH  as 
+ in  MATH  with its boundaries   MATH   as in  Fig. 4.1  :  MATH 
+ MATH   as in  Fig. 4.1  :  MATH   Then  MATH  is a domain 
+ in  Fig. 4.1  : MATH  Then   MATH   is a domain of dihedral 
+ domain of dihedral angles in   MATH  , and  MATH  are its two 
+ dihedral angles in  MATH , and   MATH   are its two faces intersecting 
+ two faces intersecting at edge   MATH  .
+159(text): weighted Hölder norms
+ the following  weighted Hölder norms :  MATH   where  MATH ,  MATH ,  MATH ,   MATH 
+ weighted Hölder norms  : MATH  where   MATH  ,  MATH ,  MATH ,  MATH ,  MATH  , and 
+ Hölder norms  : MATH  where  MATH ,   MATH  ,  MATH ,  MATH ,  MATH , and   MATH 
+ norms  : MATH  where  MATH ,  MATH ,   MATH  ,  MATH ,  MATH , and  MATH  for 
+ MATH   where  MATH ,  MATH ,  MATH ,   MATH  ,  MATH , and  MATH  for multi-index 
+ where  MATH ,  MATH ,  MATH ,  MATH ,   MATH  , and  MATH  for multi-index   MATH 
+ MATH  ,  MATH ,  MATH ,  MATH , and   MATH   for multi-index  MATH  . Denote by 
+ MATH  , and  MATH  for multi-index   MATH  . Denote by  MATH  the completion 
+ for multi-index  MATH . Denote by   MATH   the completion of set   MATH 
+ MATH   the completion of set   MATH   under norm  (4.1) .
+The weight   MATH   in  (4.1)  has simultaneous control 
+ for both the regularity of   MATH   near edge  MATH  and the 
+ regularity of  u  near edge   MATH   and the asymptotic behavior as 
+ and the asymptotic behavior as   MATH   . For our later use of 
+ control for the regularity of   MATH   near edge  MATH  and the 
+ regularity of  u  near edge   MATH   and the asymptotic behavior. Let 
+ and the asymptotic behavior. Let   MATH  ,  MATH . Set MATH  with the 
+ the asymptotic behavior. Let  MATH ,   MATH  . Set MATH  with the weighted 
+ behavior. Let  MATH ,  MATH . Set  MATH   with the weighted norm as 
+ with the weighted norm as   MATH 
+180(text): multiplier in
+A  multiplier in  MATH   is a function  φ  such 
+ in  MATH  is a function   MATH   such that  MATH 
+ a function  φ  such that  MATH   We denote the set of 
+ of all the multipliers in   MATH   by  MATH .
+ the multipliers in  MATH  by   MATH  .
+ independent of the weight power   MATH   as shown in Maz'ya–Plamenevskij   [30] 
+ MATH  .
+188(text): .
+ problem in the dihedral angle   MATH  : MATH  MATH 
+ in the dihedral angle  MATH :  MATH  MATH  where   MATH 
+ angle  MATH : MATH  MATH   where  MATH  with  MATH  , and 
+ MATH  MATH  where   MATH   with  MATH , and  MATH  with 
+ MATH   where  MATH  with   MATH  , and  MATH  with  MATH ,   MATH 
+ where  MATH  with  MATH , and   MATH   with  MATH ,  MATH ,  MATH  the 
+ with  MATH , and  MATH  with   MATH  ,  MATH ,  MATH  the inward normal 
+ MATH  , and  MATH  with  MATH ,   MATH  ,  MATH  the inward normal of 
+ and  MATH  with  MATH ,  MATH ,   MATH   the inward normal of   MATH 
+ MATH   the inward normal of   MATH  , and  MATH  tangent vector to 
+ inward normal of  MATH , and   MATH   tangent vector to  MATH  , perpendicular 
+ and  MATH  tangent vector to   MATH  , perpendicular to  MATH  and directed 
+ vector to  MATH , perpendicular to   MATH   and directed from  MATH  into 
+ to  MATH  and directed from   MATH   into  MATH ; see   Fig. 4.1 
+ and directed from  MATH  into   MATH  ; see  Fig. 4.1 .
+204(text): Let
+Let  MATH  . Suppose that MATH and  MATH 
+206(text): . Suppose that
+Let MATH . Suppose that  MATH  and MATH  . Then the operator 
+208(text): and
+ MATH  . Suppose that MATH and  MATH   . Then the operator of problem 
+210(text): . Then the operator of problem
+211(text): induces the isomorphism
+ –  (4.3) induces the isomorphism  MATH  Moreover, suppose that both  MATH 
+213(text): Moreover, suppose that both
+ MATH  Moreover, suppose that both  MATH  and MATH satisfy (4.4)  , and 
+215(text): and
+ suppose that both  MATH and  MATH  satisfy (4.4) , and MATH  . Assume 
+217(text): satisfy
+218(text): , and
+ and  MATH satisfy (4.4) , and  MATH  . Assume that MATH  Then solution 
+220(text): . Assume that
+ (4.4)  , and MATH . Assume that  MATH  Then solution MATH  of problem 
+222(text): Then solution
+ Assume that  MATH Then solution  MATH  of problem (4.2) –  (4.3) 
+224(text): of problem
+225(text): is also in
+ –  (4.3) is also in  MATH  , that is, MATH  with the 
+227(text): , that is,
+ also in  MATH , that is,  MATH  with the estimate: MATH
+229(text): with the estimate:
+ is,  MATH with the estimate:  MATH 
+ fix first the free boundary   MATH   . To achieve this, we introduce 
+ the following partial hodograph transformation:   MATH   which is invertible as   MATH 
+ MATH   which is invertible as   MATH   , and we denote its inverse 
+ we denote its inverse by   MATH   Taking the partial derivatives to 
+ partial derivatives to the equation:   MATH   with respect to  MATH  , we 
+ equation:  MATH  with respect to   MATH  , we have MATH  that is, 
+ respect to  MATH , we have  MATH   that is, MATH  Thus, the 
+ we have  MATH  that is,  MATH   Thus, the Jacobi matrix of 
+ the Jacobi matrix of transformation   MATH   is MATH  where MATH  After 
+ matrix of transformation  MATH  is  MATH   where MATH  After a direct 
+ transformation  MATH  is MATH  where  MATH   After a direct computation, we 
+ direct computation, we also obtain   MATH   where  MATH , with  MATH .
+ we also obtain  MATH  where   MATH  , with  MATH .
+ obtain  MATH  where  MATH , with   MATH  .
+Notice that  MATH   where  MATH  ( MATH  and   MATH 
+Notice that MATH  where   MATH   ( MATH  and  MATH ),  MATH  , and 
+ Notice that  MATH  where  MATH  (  MATH   and  MATH ),  MATH , and  MATH 
+ MATH   where  MATH  ( MATH  and   MATH  ),  MATH , and MATH  Then we 
+ where  MATH  ( MATH  and  MATH ),   MATH  , and MATH  Then we have 
+ MATH   and  MATH ),  MATH , and  MATH   Then we have MATH  where 
+ and  MATH  Then we have  MATH   where  MATH  with  MATH  , and 
+ Then we have  MATH  where   MATH   with  MATH , and MATH  Thus, 
+ have  MATH  where  MATH  with   MATH  , and MATH  Thus, under the 
+ where  MATH  with  MATH , and  MATH   Thus, under the partial hodograph 
+ potential flow equation  (3.6)  becomes  MATH 
+ Under the partial hodograph transformation,   MATH   becomes MATH  as shown in 
+ partial hodograph transformation,  MATH  becomes  MATH   as shown in   Fig. 5.1 
+ (3.7)   on the wedge becomes  MATH   where MATH  The shock front 
+ the wedge becomes  MATH  where  MATH   The shock front  MATH  becomes 
+ where  MATH  The shock front   MATH   becomes a fixed boundary   MATH 
+ MATH   becomes a fixed boundary   MATH  , and the boundary condition   (3.8) 
+ the boundary condition  (3.8)  becomes  MATH   where MATH
+ condition  (3.8)  becomes MATH  where  MATH 
+ Finally, since the wedge edge:   MATH   is the intersection of the 
+ the shock-front, which yields that   MATH   on the edge, by condition 
+ Thus, the tangential derivatives of   MATH   on the edge should be 
+ under the partial hodograph transformation,   MATH   on edge  MATH  . Therefore, on 
+ hodograph transformation,  MATH  on edge   MATH  . Therefore, on the edge,   MATH 
+ MATH  . Therefore, on the edge,   MATH  .
+ the background transonic shock solution   MATH  , we have MATH  and the 
+ shock solution  MATH , we have  MATH   and the corresponding partial hodograph 
+ corresponding partial hodograph transformation is   MATH   It is invertible since   MATH 
+ MATH   It is invertible since   MATH  , and its inverse is  MATH 
+ MATH  , and its inverse is  MATH   where MATH  Then we have 
+ its inverse is  MATH  where  MATH   Then we have MATH  Therefore, 
+ where  MATH  Then we have  MATH   Therefore, the partial hodograph transformation 
+ invertible in the case that   MATH   is a small perturbation of 
+ is a small perturbation of   MATH   such that  MATH  is small 
+ perturbation of  MATH  such that   MATH   is small enough.
+ problem  (5.1) – (5.4)  near   MATH   and prove the following theorem 
+281(text): Let
+Let  MATH   be the weak transonic shock 
+ solution that is represented by   MATH   on the shock polar in 
+284(text): on the shock polar in
+285(text): Fig.
+286(text): . Then there exist constants
+ 2.1  . Then there exist constants  MATH  and MATH  depending on the 
+288(text): and
+ there exist constants  MATH and  MATH   depending on the background solution 
+290(text): depending on the background solution such that, for any
+ solution such that, for any   MATH   , if the wedge edge is 
+292(text): , if the wedge edge is not perturbed, that is,
+293(text): holds, and the perturbation of the wedge surface
+ perturbation of the wedge surface   MATH  satisfies MATH for MATH  and 
+295(text): satisfies
+ the wedge surface  MATH satisfies  MATH  for MATH and MATH  , then 
+297(text): for
+ surface  MATH satisfies MATH for  MATH  and MATH  , then there exists 
+299(text): and
+ satisfies  MATH for MATH and  MATH  , then there exists a  unique 
+ and  MATH , then there exists  MATH  unique solution MATH  to the 
+302(text): unique solution
+ there exists  a unique solution  MATH   to the boundary value problem 
+304(text): to the boundary value problem
+305(text): satisfying
+ problem  (5.1) – (5.4) satisfying  MATH  where MATH  depends on the 
+307(text): where
+ –  (5.4) satisfying MATH where  MATH   depends on the background solution, 
+309(text): depends on the background solution, but is independent of
+ solution, but is independent of   MATH  .
+311(text): .
+ [25]  . In  Theorem 5.2 , since   MATH  , estimate  (5.6)  yields that   MATH 
+ MATH  , estimate  (5.6)  yields that   MATH   on edge  MATH  , which indicates 
+ yields that  MATH  on edge   MATH   , which indicates that, as the 
+ (5.4)   hold automatically, and solution   MATH   to problem  (5.1) –  (5.3) 
+Let  MATH   Then the linearized problem for 
+ (5.3)   on the background solution   MATH   reads  MATH 
+ the background solution  MATH  reads  MATH   where MATH  and the iteration 
+ MATH   where  MATH   and the iteration terms   MATH 
+ MATH   and the iteration terms   MATH   and  MATH  , will be specified 
+ the iteration terms  MATH  and   MATH   , will be specified later in 
+ in §  7 . Note that  MATH   We have MATH  where   MATH 
+ Note that  MATH  We have  MATH   where  MATH ,  MATH  which is 
+ MATH   We have MATH  where   MATH  ,  MATH  which is exactly the 
+ We have  MATH  where  MATH ,   MATH   which is exactly the outer 
+ of the shock balloon, and   MATH 
+ value problem of elliptic type (   MATH   is still denoted as the 
+ denoted as the unknown function):   MATH   MATH 
+ the unknown function):  MATH  MATH   MATH 
+ MATH   MATH   Then  Theorem 4.4  can be 
+331(text): Assume that
+Assume that  MATH  Then there exists a  constant 
+ that  MATH Then there exists  MATH  constant MATH  depending only on 
+334(text): constant
+ Then there exists  a constant  MATH   depending only on the parameters 
+336(text): depending only on the parameters of the unperturbed background transonic shock solution such that, for any
+ solution such that, for any   MATH  if MATH with MATH  and 
+338(text): if
+ that, for any  MATH if  MATH  with MATH and MATH  , there 
+340(text): with
+ any  MATH if MATH with  MATH  and MATH , there exists  a 
+342(text): and
+ if  MATH with MATH and  MATH  , there exists a  unique solution 
+ MATH  and MATH , there exists  MATH  unique solution MATH  to the 
+345(text): unique solution
+ there exists  a unique solution  MATH   to the boundary value problem 
+347(text): to the boundary value problem
+348(text): satisfying the following estimate:
+ (6.3)  satisfying the following estimate:  MATH 
+ shock solution represented by point   MATH   on the shock polar, condition 
+ polar, condition  (6.4)  holds. However,   MATH   for the strong transonic shock 
+ shock solution represented by point   MATH  , and  MATH  when point   A 
+ represented by point  A , and   MATH   when point  A  coincides with 
+ A  , and  MATH  when point   MATH   coincides with point  B  . That 
+ point  A  coincides with point   MATH  . That is, condition  (6.4)  does 
+In this case,   MATH   (see  Fig. 6.1   ), and the 
+ the corresponding potential functions are   MATH 
+Then we have  MATH   and the corresponding partial hodograph 
+ corresponding partial hodograph transformation becomes   MATH   with its inverse MATH  where 
+ becomes  MATH  with its inverse  MATH   where MATH
+ with its inverse  MATH  where  MATH 
+Let  MATH   and MATH  Then, in equation 
+Let MATH  and  MATH   Then, in equation  (6.1) ,  MATH 
+ MATH   Then, in equation  (6.1) ,  MATH   Moreover, in the boundary condition 
+ condition  (6.3) , the unit normal   MATH  .
+Let  MATH   where  MATH  is a nonsingular 
+Let MATH  where   MATH   is a nonsingular matrix, with 
+ is a nonsingular matrix, with   MATH   Then MATH  For  MATH ,  MATH 
+ nonsingular matrix, with  MATH  Then  MATH   For  MATH , MATH  and  MATH 
+ with  MATH  Then MATH  For   MATH  , MATH  and MATH  Thus we 
+ MATH   Then MATH  For  MATH ,  MATH   and MATH  Thus we have 
+ MATH   For  MATH , MATH  and  MATH   Thus we have MATH  Then 
+ and  MATH  Thus we have  MATH   Then equation  (6.1)  becomes  MATH 
+ MATH   Then equation  (6.1)  becomes  MATH 
+The boundaries   MATH   and  MATH  become MATH  where 
+The boundaries  MATH  and   MATH   become MATH  where MATH  The 
+ boundaries  MATH  and  MATH  become  MATH   where MATH  The boundary condition 
+ and  MATH  become MATH  where  MATH   The boundary condition  (6.2)  becomes 
+ The boundary condition  (6.2)  becomes  MATH   and the boundary condition   (6.3) 
+ the boundary condition  (6.3)  becomes  MATH   which can be rewritten under 
+ under the polar coordinates for   MATH   as MATH  where MATH
+ polar coordinates for  MATH  as  MATH   where MATH
+ for  MATH  as MATH  where  MATH 
+ in the weighted Hölder space   MATH   for any admissible weight   MATH 
+ MATH   for any admissible weight   MATH   with  σ  satisfying MATH  On 
+ any admissible weight  MATH  with   MATH   satisfying MATH  On the other 
+ weight  MATH  with  σ  satisfying  MATH   On the other hand, we 
+ hand, we also need solution   MATH   to be physically reasonable such 
+ the velocity is bounded. Then   MATH   should be bounded in   MATH 
+ Du   should be bounded in   MATH   . Therefore, there exist valid admissible 
+ there exist valid admissible weights   MATH   which are further applicable to 
+ stability problem, only when constant   MATH   satisfies the condition: MATH  that 
+ constant  MATH  satisfies the condition:  MATH   that is, MATH  Let 
+ the condition:  MATH  that is,  MATH   Let  MATH . Then condition   (6.11) 
+ that is,  MATH  Let   MATH  . Then condition  (6.11)  yields that 
+ Then condition  (6.11)  yields that  MATH   We remark that Ψ equals 
+ shock solution represented by point   MATH   on the shock polar,  MATH 
+ A   on the shock polar,  MATH   while, for the weak transonic 
+ shock solution represented by point   MATH  , MATH  This means that, via 
+ solution represented by point  B ,  MATH   This means that, via this 
+ shock solution represented by point   MATH  .
+402(text): Suppose that
+403(text): holds. Let
+ Suppose that  (6.10) holds. Let  MATH  Assume that MATH where  MATH 
+405(text): Assume that
+ holds. Let  MATH Assume that  MATH  where MATH and MATH  . Then 
+407(text): where
+ MATH  Assume that MATH where  MATH  and MATH  . Then there exists 
+409(text): and
+ that  MATH where MATH and  MATH  . Then there exists a  unique 
+ and  MATH . Then there exists  MATH  unique solution MATH  to the 
+412(text): unique solution
+ there exists  a unique solution  MATH   to the boundary value problem 
+414(text): to the boundary value problem
+415(text): satisfying the following estimate:
+ (6.9)  satisfying the following estimate:  MATH 
+In this case,   MATH   (see  Fig. 3.1 ). Taking   MATH 
+ MATH   (see  Fig. 3.1 ). Taking   MATH  , equation  (6.1)  becomes MATH  where 
+ Taking  MATH , equation  (6.1)  becomes  MATH   where  MATH . The boundaries   MATH 
+ equation  (6.1)  becomes MATH  where   MATH  . The boundaries  MATH  and   MATH 
+ MATH   where  MATH . The boundaries   MATH   and  MATH  become MATH  where 
+ MATH  . The boundaries  MATH  and   MATH   become MATH  where MATH
+ boundaries  MATH  and  MATH  become  MATH   where MATH
+ and  MATH  become MATH  where  MATH 
+ The boundary condition  (6.2)  becomes  MATH   and the boundary condition   (6.3) 
+ the boundary condition  (6.3)  becomes  MATH 
+ (6.15)   into the Laplacian. Let  MATH   and MATH  Then equation   (6.15) 
+ the Laplacian. Let  MATH  and  MATH   Then equation  (6.15)  becomes  MATH 
+ MATH   Then equation  (6.15)  becomes  MATH   and the boundaries  MATH  and 
+ becomes  MATH  and the boundaries   MATH   and  MATH  become MATH  with 
+ and the boundaries  MATH  and   MATH   become MATH  with MATH  the 
+ boundaries  MATH  and  MATH  become  MATH   with MATH  the boundary condition 
+ and  MATH  become MATH  with  MATH   the boundary condition  (6.16)  becomes 
+ the boundary condition  (6.16)  becomes  MATH   and the boundary condition   (6.17) 
+ the boundary condition  (6.17)  becomes  MATH   where MATH
+ condition  (6.17)  becomes MATH  where  MATH 
+ under the polar coordinates for   MATH   as MATH  where MATH
+ polar coordinates for  MATH  as  MATH   where MATH
+ for  MATH  as MATH  where  MATH 
+ in the weighted Hölder space   MATH   for any admissible weight   MATH 
+ MATH   for any admissible weight   MATH   with  σ  satisfying MATH  On 
+ any admissible weight  MATH  with   MATH   satisfying MATH  On the other 
+ weight  MATH  with  σ  satisfying  MATH   On the other hand, we 
+ hand, we also need solution   MATH   to be physically reasonable such 
+ the velocity is bounded. Then   MATH   should be bounded in   MATH 
+ Du   should be bounded in   MATH   . Therefore, there exist valid admissible 
+ there exist valid admissible weights   MATH   which are further applicable to 
+ stability problem, only when constant   MATH   satisfies the condition: MATH  that 
+ constant  MATH  satisfies the condition:  MATH   that is, MATH  Let 
+ the condition:  MATH  that is,  MATH   Let MATH  Then  (6.23)  yields 
+ that is,  MATH  Let  MATH   Then  (6.23)  yields that  MATH 
+ MATH   Then  (6.23)  yields that  MATH   If the shock polar is 
+ polar is projected onto the   MATH  -plane (see  Fig. 6.3   ), then 
+ shock solution represented by point   MATH   on the shock polar,  MATH 
+ A   on the shock polar,  MATH   while, for the weak transonic 
+ shock solution represented by point   MATH  , MATH  This also means that, 
+ solution represented by point  B ,  MATH   This also means that, via 
+ shock solution represented by point   MATH   . Therefore, we have the following 
+459(text): Suppose that
+460(text): holds. Let
+ Suppose that  (6.23) holds. Let  MATH  Assume that MATH where  MATH 
+462(text): Assume that
+ holds. Let  MATH Assume that  MATH  where MATH and MATH  . Then 
+464(text): where
+ MATH  Assume that MATH where  MATH  and MATH  . Then there exists 
+466(text): and
+ that  MATH where MATH and  MATH  . Then there exists a  unique 
+ and  MATH . Then there exists  MATH  unique solution MATH  to the 
+469(text): unique solution
+ there exists  a unique solution  MATH   to the boundary value problem 
+471(text): to the boundary value problem
+472(text): satisfying the following estimate:
+ (6.3)  satisfying the following estimate:  MATH 
+Let   MATH   be the constants defined in 
+ in  (6.13)  or  (6.25) . Define  MATH   where  MATH  and  MATH .
+ or  (6.25) . Define MATH  where   MATH   and  MATH .
+ Define  MATH  where  MATH  and   MATH  .
+Let  MATH   Let MATH  Assume that   MATH 
+Let MATH  Let  MATH   Assume that  MATH  with   MATH 
+ MATH   Let MATH  Assume that   MATH   with  MATH  and  MATH  to 
+ MATH   Assume that  MATH  with   MATH   and  MATH  to be determined 
+ that  MATH  with  MATH  and   MATH   to be determined later. The 
+ linearized elliptic boundary value problem:   MATH  MATH  where  MATH 
+ value problem:  MATH  MATH   where MATH
+ MATH  MATH  where  MATH 
+There exist  MATH  sufficiently small constant MATH  and 
+487(text): sufficiently small constant
+ exist  a sufficiently small constant  MATH  and a constant MATH  that 
+ sufficiently small constant  MATH and  MATH  constant MATH  that is independent 
+490(text): constant
+ constant  MATH and a constant  MATH  that is independent of  MATH 
+492(text): that is independent of
+ MATH  that is independent of  MATH  such that, for any  MATH 
+494(text): such that, for any
+ MATH  such that, for any  MATH  and MATH , there exists  a 
+496(text): and
+ that, for any  MATH and  MATH  , there exists a  unique solution 
+ MATH  and MATH , there exists  MATH  unique solution MATH  to the 
+499(text): unique solution
+ there exists  a unique solution  MATH   to the boundary value problem 
+501(text): to the boundary value problem
+502(text): . That is, the mapping
+ (7.2)  . That is, the mapping  MATH  is well-defined in MATH .
+504(text): is well-defined in
+ mapping  MATH is well-defined in  MATH  .
+506(text): .
+Notice that  MATH   where MATH  Since MATH  and 
+Notice that MATH  where  MATH   Since MATH  and  MATH  is 
+ that  MATH  where MATH  Since  MATH   and  MATH  is a smooth 
+ where  MATH  Since MATH  and   MATH   is a smooth function with 
+ of its parameters, we have   MATH 
+Since  MATH   we obtain via a direct 
+ and employing  Proposition 4.3  that  MATH 
+ can also analogously verify that   MATH   since it is easy to 
+ is easy to check that   MATH   with  MATH  being some smooth 
+ to check that  MATH  with   MATH   being some smooth functions of 
+ being some smooth functions of   MATH   and  MATH .
+ smooth functions of  Du  and   MATH  .
+Thus, we obtain that  MATH 
+Notice that  MATH   where MATH  Thus, we also 
+Notice that MATH  where  MATH   Thus, we also obtain  MATH 
+ MATH   Thus, we also obtain  MATH   Similarly, we have MATH
+ obtain  MATH  Similarly, we have  MATH 
+ there exists a unique solution   MATH   with the following estimate:  MATH 
+ MATH   with the following estimate:  MATH   for given  K  and sufficiently 
+ following estimate:  MATH  for given   MATH   and sufficiently small  δ .
+ given  K  and sufficiently small   MATH  .
+Fix   MATH   from now on. Then we 
+ on. Then we find that   MATH  , and the mapping MATH  is 
+ that  MATH , and the mapping  MATH   is well-defined in  MATH  . This 
+ mapping  MATH  is well-defined in   MATH   . This completes the proof.  
+There exists  MATH  sufficiently small constant MATH  such 
+533(text): sufficiently small constant
+ exists  a sufficiently small constant  MATH  such that, for any  MATH 
+535(text): such that, for any
+ MATH  such that, for any  MATH  , MATH is a  contraction mapping 
+537(text): ,
+ such that, for any  MATH ,  MATH  is a  contraction mapping in 
+ for any  MATH , MATH is  MATH  contraction mapping in MATH .
+540(text): contraction mapping in
+ is  a contraction mapping in  MATH  .
+542(text): .
+Denote that   MATH  . Then we have  MATH 
+ that  MATH . Then we have  MATH  MATH
+ we have  MATH  MATH 
+ right-hand side of equation  (7.3) ,  MATH   which, with analogous computations as 
+ as in  Lemma 7.1 , implies  MATH 
+ the boundary condition  (7.4)  on   MATH  , MATH  which implies MATH
+ boundary condition  (7.4)  on  MATH ,  MATH   which implies MATH
+ on  MATH , MATH  which implies  MATH 
+Thus, we have  MATH   Then, choosing  MATH  such that 
+ we have  MATH  Then, choosing   MATH   such that  MATH  , we have 
+ Then, choosing  MATH  such that   MATH  , we have MATH  which implies 
+ such that  MATH , we have  MATH   which implies that the mapping 
+ which implies that the mapping   MATH   is a contraction mapping in 
+ is a contraction mapping in   MATH  .  □
+ that, for an M-D wedge   MATH   , the weak transonic shock solution, 
+ which is represented by point   MATH   on the shock polar (see 
+ shock solution, represented by point   MATH   on the shock polar, may 
+ stable, except the critical point   MATH   (see  [7,15]  ). Moreover, for the 
+ the whole fluid, independent of   MATH   or  MATH  . Therefore, the partial 
+ fluid, independent of  MATH  or   MATH   . Therefore, the partial hodograph transformation 
+ (6.3)  , since the singularity of   MATH   is a straight line for 
+ is a straight line for   MATH   and a hyperplane for   MATH 
+ MATH   and a hyperplane for   MATH   , while it is only a 
+ is only a point for   MATH   for which the better results 
+For   MATH  , equation  (6.1)  becomes MATH  where 
+ For  MATH , equation  (6.1)  becomes  MATH   where MATH
+ equation  (6.1)  becomes MATH  where  MATH 
+ The boundary condition  (6.2)  on   MATH   remains unchanged: MATH  and condition 
+ (6.2)   on  MATH  remains unchanged:  MATH   and condition  (6.3)  on   MATH 
+ MATH   and condition  (6.3)  on   MATH   is MATH  where  MATH  , the 
+ condition  (6.3)  on  MATH  is  MATH   where  MATH  , the unit outer 
+ on  MATH  is MATH  where   MATH   , the unit outer normal of 
+Let  MATH   where MATH  with MATH  Then 
+Let MATH  where  MATH   with MATH  Then equation   (8.1) 
+ Let  MATH  where MATH  with  MATH   Then equation  (8.1)  becomes  MATH 
+ MATH   Then equation  (8.1)  becomes  MATH 
+The boundaries   MATH   and  MATH  become MATH  where 
+The boundaries  MATH  and   MATH   become MATH  where MATH  The 
+ boundaries  MATH  and  MATH  become  MATH   where MATH  The boundary condition 
+ and  MATH  become MATH  where  MATH   The boundary condition  (8.2)  becomes 
+ The boundary condition  (8.2)  becomes  MATH   and the boundary condition   (8.3) 
+ the boundary condition  (8.3)  becomes  MATH   which can be rewritten as 
+ which can be rewritten as   MATH   under the polar coordinates for 
+ under the polar coordinates for   MATH  , where MATH
+ polar coordinates for  MATH , where  MATH 
+588(text): Let
+ be the set of eigenvalues   MATH  satisfying (A.13) : MATH Let  MATH 
+590(text): satisfying
+591(text): :
+ of eigenvalues  λ satisfying (A.13) :  MATH  Let MATH and MATH  . If 
+593(text): Let
+ λ  satisfying (A.13) : MATH Let  MATH  and MATH . If MATH  and 
+595(text): and
+ (A.13)  : MATH Let MATH and  MATH  . If MATH and MATH  then 
+597(text): . If
+ Let  MATH and MATH . If  MATH  and MATH  then there exists 
+599(text): and
+ and  MATH . If MATH and  MATH  then there exists a  unique 
+ and  MATH then there exists  MATH  unique solution MATH  to the 
+602(text): unique solution
+ there exists  a unique solution  MATH   to the boundary value problem 
+604(text): to the boundary value problem
+605(text): with the following estimate:
+ (8.6)  with the following estimate:  MATH 
+ see that the weight power   MATH   describes the asymptotic behavior of 
+ the asymptotic behavior of solution   MATH   with the property that   MATH 
+ u   with the property that   MATH   as  MATH  , while the weight 
+ the property that  MATH  as   MATH  , while the weight power   MATH 
+ MATH  , while the weight power   MATH   describes the regularity of   u 
+ MATH   describes the regularity of   MATH   at the origin with the 
+ origin with the property that   MATH   as  MATH  . Since, in the 
+ the property that  MATH  as   MATH   . Since, in the stability analysis 
+ analysis of the wedge shocks,   MATH   relates with the velocity field 
+ the flow, we expect that   MATH   should be bounded in   MATH 
+ Du   should be bounded in   MATH  . Therefore, we need that  MATH 
+ MATH  . Therefore, we need that  MATH   Then, in order to decide 
+ calculate the eigenvalues corresponding to   MATH   in set Λ. By definition, 
+ in set Λ. By definition,   MATH   and  MATH . Thus, for   MATH 
+ Λ. By definition,  MATH  and   MATH  . Thus, for  MATH , MATH  for 
+ MATH   and  MATH . Thus, for   MATH  , MATH  for  MATH , MATH  and 
+ and  MATH . Thus, for  MATH ,  MATH   for  MATH , MATH  and for 
+ Thus, for  MATH , MATH  for   MATH  , MATH  and for  MATH ,  MATH 
+ for  MATH , MATH  for  MATH ,  MATH   and for  MATH , MATH  That 
+ for  MATH , MATH  and for   MATH  , MATH  That is, we obtain 
+ MATH  , MATH  and for  MATH ,  MATH   That is, we obtain the 
+ following inequality for the eigenvalues   MATH  : MATH  Therefore, in order 
+ inequality for the eigenvalues  MATH :  MATH   Therefore, in order to decide 
+ weights, we need to compare   MATH   with 1, or equivalently, to 
+ 1, or equivalently, to compare   MATH   with 0. Notice that   MATH 
+ MATH   with 0. Notice that   MATH   is determined by the background 
+ solution. One can verify that   MATH   for the strong transonic shock 
+ strong transonic shock represented by   MATH  ,  MATH  for the weak transonic 
+ transonic shock represented by  A ,   MATH   for the weak transonic shock 
+ weak transonic shock represented by   MATH  , and  MATH  for the critical 
+ shock represented by  B , and   MATH   for the critical shock solution 
+ critical shock solution represented by   MATH   (see  Fig. 8.1  ).
+ transonic shock solution represented by   MATH   on the shock polar, we 
+ the shock polar, we have   MATH   Then any  MATH  and   MATH 
+ we have  MATH  Then any   MATH   and  MATH  satisfying MATH  can 
+ MATH   Then any  MATH  and   MATH   satisfying MATH  can be applicable 
+ any  MATH  and  MATH  satisfying  MATH   can be applicable weights. Since 
+ can be applicable weights. Since   MATH  , the regularity of velocity   Du 
+ MATH  , the regularity of velocity   MATH   near the origin (the wedge 
+ (the wedge vertex) can be   MATH  , or even better. Velocity   Du 
+ MATH  , or even better. Velocity   MATH   decays slower than  MATH  as 
+ Velocity  Du  decays slower than   MATH   as  MATH , while  Du  decays 
+ decays slower than  MATH  as   MATH  , while  Du  decays slower than 
+ than  MATH  as  MATH , while   MATH   decays slower than  MATH  in 
+ while  Du  decays slower than   MATH   in case  MATH .
+ slower than  MATH  in case   MATH  .
+ transonic shock solution represented by   MATH  , we have MATH  Then any 
+ represented by  B , we have  MATH   Then any  MATH  and   MATH 
+ we have  MATH  Then any   MATH   and  MATH  satisfying MATH  can 
+ MATH   Then any  MATH  and   MATH   satisfying MATH  can be applicable 
+ any  MATH  and  MATH  satisfying  MATH   can be applicable weights, and 
+ be applicable weights, and solution   MATH   can be  MATH  near the 
+ and solution  u  can be   MATH   near the origin (the wedge 
+ origin (the wedge vertex), while   MATH   decays slower than  MATH  as 
+ while  Du  decays slower than   MATH   as  MATH .
+ decays slower than  MATH  as   MATH  .
+663(text): Let
+Let  MATH  be a  transonic shock solution 
+Let MATH be  MATH   transonic shock solution on the 
+666(text): transonic shock solution on the shock polar
+667(text): see
+668(text): Fig.
+669(text): .
+670(text): If
+If  MATH   is the strong transonic shock 
+ transonic shock solution represented by   MATH  which implies that MATH  then, 
+673(text): which implies that
+ by  A, which implies that  MATH  then, for any MATH  and 
+675(text): then, for any
+ that  MATH then, for any  MATH  and MATH with MATH  when 
+677(text): and
+ then, for any  MATH and  MATH  with MATH when MATH  with 
+679(text): with
+ any  MATH and MATH with  MATH  when MATH with MATH  and 
+681(text): when
+ and  MATH with MATH when  MATH  with MATH and MATH  , there 
+683(text): with
+ with  MATH when MATH with  MATH  and MATH , there exists  a 
+685(text): and
+ when  MATH with MATH and  MATH  , there exists a  unique solution 
+ MATH  and MATH , there exists  MATH  unique solution MATH  to the 
+688(text): unique solution
+ there exists  a unique solution  MATH   to the boundary value problem 
+690(text): to the boundary value problem
+691(text): satisfying the following estimate
+ (8.3)  satisfying the following estimate :  MATH 
+693(text): If
+If  MATH   is the weak transonic shock 
+ transonic shock solution represented by   MATH  which implies that MATH  then, 
+696(text): which implies that
+ by  B, which implies that  MATH  then, for any MATH  and 
+698(text): then, for any
+ that  MATH then, for any  MATH  and MATH with MATH  when 
+700(text): and
+ then, for any  MATH and  MATH  with MATH when MATH  with 
+702(text): with
+ any  MATH and MATH with  MATH  when MATH with MATH  and 
+704(text): when
+ and  MATH with MATH when  MATH  with MATH and MATH  , there 
+706(text): with
+ with  MATH when MATH with  MATH  and MATH , there exists  a 
+708(text): and
+ when  MATH with MATH and  MATH  , there exists a  unique solution 
+ MATH  and MATH , there exists  MATH  unique solution MATH  to the 
+711(text): unique solution
+ there exists  a unique solution  MATH   to the boundary value problem 
+713(text): to the boundary value problem
+714(text): satisfying the following estimate
+ (8.3)  satisfying the following estimate :  MATH 
+ as in §  7  for   MATH   , we can obtain the following 
+717(text): Let
+Let  MATH  be a  transonic shock solution. 
+Let MATH be  MATH  transonic shock solution.  (i).If(φ0−(x);φ0+(x))is the 
+720(text): transonic shock solution.
+721(text): If
+If  MATH   is the strong transonic shock 
+ solution that is represented by   MATH  on the shock polar  (  see 
+724(text): on the shock polar
+725(text): see
+726(text): Fig.
+727(text): , then there exist
+ Fig. 8.1  ) , then there exist  MATH  sufficiently small and MATH  , depending 
+729(text): sufficiently small and
+ exist  MATH sufficiently small and  MATH   , depending on the background solution, 
+731(text): , depending on the background solution, such that, for any
+ solution, such that, for any   MATH   when the perturbation of the 
+733(text): when the perturbation of the wedge surface
+ perturbation of the wedge surface   MATH   is small in the sense 
+735(text): is small in the sense that
+ small in the sense that   MATH  with MATH and MATH  , there 
+737(text): with
+ the sense that  MATH with  MATH  and MATH , there exists  a 
+739(text): and
+ that  MATH with MATH and  MATH  , there exists a  unique solution 
+ MATH  and MATH , there exists  MATH  unique solution MATH  to the 
+742(text): unique solution
+ there exists  a unique solution  MATH   to the boundary value problem 
+744(text): to the boundary value problem
+745(text): satisfying
+ problem  (5.1) – (5.3) satisfying  MATH  where MATH  depends on the 
+747(text): where
+ –  (5.3) satisfying MATH where  MATH   depends on the background solution, 
+749(text): depends on the background solution, but is independent of
+ solution, but is independent of   MATH  .
+751(text): .
+752(text): If
+If  MATH   is the weak transonic shock 
+ is, the one represented by   MATH  on the shock polar  (  see 
+755(text): on the shock polar
+756(text): see
+757(text): Fig.
+758(text): , then there exist
+ Fig. 8.1  ) , then there exist  MATH  sufficiently small and MATH  , depending 
+760(text): sufficiently small and
+ exist  MATH sufficiently small and  MATH   , depending on the background solution, 
+762(text): , depending on the background solution, such that, for any
+ solution, such that, for any   MATH   when the perturbation of the 
+764(text): when the perturbation of the wedge surface
+ perturbation of the wedge surface   MATH   is small in the sense 
+766(text): is small in the sense that
+ small in the sense that   MATH  with MATH and MATH  , there 
+768(text): with
+ the sense that  MATH with  MATH  and MATH , there exists  a 
+770(text): and
+ that  MATH with MATH and  MATH  , there exists a  unique solution 
+ MATH  and MATH , there exists  MATH  unique solution MATH  to the 
+773(text): unique solution
+ there exists  a unique solution  MATH   to the boundary value problem 
+775(text): to the boundary value problem
+776(text): satisfying
+ problem  (5.1) – (5.3) satisfying  MATH  where MATH  depends on the 
+778(text): where
+ –  (5.3) satisfying MATH where  MATH   depends on the background solution, 
+780(text): depends on the background solution, but is independent of
+ solution, but is independent of   MATH  .
+782(text): .
+When   MATH   , we have the stability property 
+ transonic shock solution represented by   MATH   and the weak one represented 
+ the weak one represented by   MATH   , that is, for all the 
+ polar except the critical one   MATH   . This result is better than 
+ result we have obtained for   MATH   in § 7  , where only 
+ transonic shock solution represented by   MATH   is obtained.
+ spaces in the dihedral angle   MATH 
+Let   MATH  ,  MATH ,  MATH , and  MATH  . Define 
+Let  MATH ,   MATH  ,  MATH , and  MATH  . Define the 
+Let  MATH ,  MATH ,   MATH  , and  MATH  . Define the weighted 
+ Let  MATH ,  MATH ,  MATH , and   MATH   . Define the weighted Sobolev norms: 
+ Define the weighted Sobolev norms:   MATH   where  MATH  and  MATH .
+ weighted Sobolev norms:  MATH  where   MATH   and  MATH .
+ norms:  MATH  where  MATH  and   MATH  .
+Denote by   MATH   the completion of set   MATH 
+ MATH   the completion of set   MATH   under norm  (A.1)  . Denote by 
+ under norm  (A.1) . Denote by   MATH   the completion of set   MATH 
+ MATH   the completion of set   MATH   under norm  (A.1) .
+Denote by   MATH   the space of traces on 
+ the space of traces on   MATH   of the functions in   MATH 
+ MATH   of the functions in   MATH  , that is, MATH  The corresponding 
+ functions in  MATH , that is,  MATH   The corresponding trace norm is 
+ trace norm is defined as   MATH 
+ spaces in the angular domain   MATH 
+If   MATH  , the dihedral angle  MATH  becomes 
+ If  MATH , the dihedral angle   MATH   becomes an angular domain   K 
+ MATH   becomes an angular domain   MATH  , and the edge  MATH  shrinks 
+ domain  K , and the edge   MATH   shrinks to a point. In 
+ norms in the angular domain   MATH  , with  MATH .
+ the angular domain  K , with   MATH  .
+Define  MATH   where  MATH  and  MATH  . Note 
+Define MATH  where   MATH   and  MATH  . Note that, by 
+ Define  MATH  where  MATH  and   MATH   . Note that, by applying the 
+ by applying the blow-up transformation   MATH  ,  K  becomes an infinite strip: 
+ applying the blow-up transformation  MATH ,   MATH   becomes an infinite strip:  MATH 
+ K   becomes an infinite strip:  MATH   and MATH  where  MATH .
+ an infinite strip:  MATH  and  MATH   where  MATH .
+ strip:  MATH  and MATH  where   MATH  .
+Denote by   MATH   the completion of set   MATH 
+ MATH   the completion of set   MATH   under norm  (A.3)  . Denote by 
+ under norm  (A.3) . Denote by   MATH   the completion of set   MATH 
+ MATH   the completion of set   MATH   under norm  (A.3) .
+Denote by   MATH   the space of traces on 
+ the space of traces on   MATH   of the functions in   MATH 
+ MATH   of the functions in   MATH  , that is, MATH  The corresponding 
+ functions in  MATH , that is,  MATH   The corresponding trace norm is 
+ trace norm is defined as   MATH 
+ spaces in the angular domain   MATH 
+ the following weighted norms in   MATH  : MATH  Then we also define 
+ following weighted norms in  K :  MATH   Then we also define the 
+ spaces and traces. Denote by   MATH   the completion of set   MATH 
+ MATH   the completion of set   MATH   under norm  (A.5)  . Denote by 
+ under norm  (A.5) . Denote by   MATH   the completion of set   MATH 
+ MATH   the completion of set   MATH   under norm  (A.5) .
+Denote by   MATH   the space of traces on 
+ the space of traces on   MATH   of the functions in   MATH 
+ MATH   of the functions in   MATH  , that is, MATH  The corresponding 
+ functions in  MATH , that is,  MATH   The corresponding trace norm is 
+ trace norm is defined as   MATH 
+ theory for the homogeneous operator   MATH   in the angular domain   K 
+ MATH   in the angular domain   MATH 
+ problem of the homogeneous operator   MATH   in  K , with  MATH :  MATH 
+ the homogeneous operator  MATH  in   MATH  , with  MATH :  MATH 
+ operator  MATH  in  K , with   MATH  : MATH  MATH 
+ MATH   in  K , with  MATH :  MATH  MATH  where   MATH 
+ with  MATH : MATH  MATH   where  MATH .
+ MATH  MATH  where   MATH  .
+The   MATH   well-posedness theory for boundary value 
+ it was improved to the   MATH   and Hölder well-posedness in Maz'ya–Plamenevskij 
+Let   MATH   be the polar coordinates on 
+ be the polar coordinates on   MATH  . Then we have MATH  Set 
+ on  K . Then we have  MATH   Set  MATH  , and apply transformation 
+ Then we have  MATH  Set   MATH  , and apply transformation  MATH  . Then 
+ Set  MATH , and apply transformation   MATH   . Then the boundary value problem 
+ problem  (A.7) – (A.8)  becomes  MATH  MATH  Applying the 
+ (A.8)   becomes MATH  MATH   Applying the Fourier transform with 
+ Fourier transform with respect to   MATH   to problem  (A.9) –  (A.10) 
+ ordinary differential equation with parameter   MATH  : MATH  MATH 
+ differential equation with parameter  MATH :  MATH  MATH  for given 
+ parameter  MATH : MATH  MATH   for given  σ  and any 
+ MATH   for given   MATH   and any  MATH  . In order 
+ for given  σ  and any   MATH   . In order to apply the 
+ (A.11)  – (A.12)  for any   MATH   . Thus, in the case that 
+ transform to obtain a solution   MATH   to problem  (A.9) –  (A.10) 
+ problem  (A.9) – (A.10) . Then   MATH   is the solution to problem 
+ –  (A.8) . The complex number   MATH   is called an  eigenvalue  for 
+869(text): eigenvalue
+ checked that a complex number   MATH   is an eigenvalue for problem 
+ (A.12)   if and only if  MATH   where  MATH  . Define the following 
+ only if  MATH  where   MATH   . Define the following set Λ 
+ collection of the above eigenvalues:   MATH   Therefore, we can fulfill the 
+ fulfill the above argument for   MATH   satisfying MATH
+ above argument for  σ  satisfying  MATH 
+876(text): Let
+Let  MATH  , MATH , MATH , and MATH  . Let 
+878(text): ,
+Let MATH ,  MATH  , MATH , and MATH . Let  MATH 
+880(text): ,
+Let MATH , MATH ,  MATH  , and MATH . Let MATH  and 
+882(text): , and
+ Let  MATH , MATH , MATH , and  MATH  . Let MATH and MATH  . Then 
+884(text): . Let
+ MATH  , MATH , and MATH . Let  MATH  and MATH  . Then the boundary 
+886(text): and
+ and  MATH . Let MATH and  MATH   . Then the boundary value problem 
+888(text): . Then the boundary value problem
+ problem  (A.7) – (A.8) has  MATH  unique solution MATH  for all 
+890(text): unique solution
+ (A.8)  has a unique solution  MATH  for all F and  MATH 
+ unique solution  MATH for all  MATH  and MATH  if and only 
+893(text): and
+ MATH  for all F and  MATH   if and only if the 
+895(text): if and only if the line:
+ and only if the line:   MATH   contains no eigenvalues of problem 
+897(text): contains no eigenvalues of problem
+ (A.11)  – (A.12) , that is,  MATH  satisfies (A.14) . Moreover, when  (A.14) 
+899(text): satisfies
+900(text): . Moreover, when
+901(text): is satisfied, the following estimate holds
+ satisfied, the following estimate holds  :  MATH  That is, operator MATH  of 
+903(text): That is, operator
+ holds  : MATH That is, operator  MATH  of problem (A.7) –  (A.8) 
+905(text): of problem
+906(text): induces an isomorphism:
+ –  (A.8) induces an isomorphism:  MATH 
+Theorem A.1  presents the   MATH   well-posedness for operator  MATH  of 
+ the  MATH  well-posedness for operator   MATH   of problem  (A.7) –  (A.8) 
+Suppose that  MATH  satisfies (A.14) . Then operator  MATH 
+911(text): satisfies
+912(text): . Then operator
+ σ  satisfies (A.14) . Then operator  MATH  of problem (A.7) –  (A.8) 
+914(text): of problem
+915(text): induces an isomorphism
+ –  (A.8) induces an isomorphism  MATH  for MATH .
+917(text): for
+ induces an isomorphism  MATH for  MATH  .
+919(text): .
+920(text): Moreover, let
+Moreover, let  MATH   be two real numbers satisfying 
+922(text): be two real numbers satisfying that strip
+ real numbers satisfying that strip   MATH  in the complex plane  MATH 
+924(text): in the complex plane
+ MATH  in the complex plane  MATH   contains no eigenvalues of problem 
+926(text): contains no eigenvalues of problem
+927(text): . Assume
+ problem  (A.11) – (A.12) . Assume  MATH  , MATH , and MATH  Then there 
+929(text): ,
+ (A.11)  – (A.12) . Assume MATH ,  MATH  , and MATH  Then there exists 
+931(text): , and
+ (A.12)  . Assume MATH , MATH , and  MATH  Then there exists a  unique 
+ and  MATH Then there exists  MATH  unique solution MATH  of problem 
+934(text): unique solution
+ there exists  a unique solution  MATH  of problem (A.7) –  (A.8) 
+936(text): of problem
+937(text): with the following estimate:
+ (A.8)  with the following estimate:  MATH 
+ property of the nonhomogeneous operator   MATH   in the angular domain   K 
+ MATH   in the angular domain   MATH 
+ problem for the nonhomogeneous operator   MATH  : MATH  MATH 
+ for the nonhomogeneous operator  MATH :  MATH  MATH  where   MATH 
+ operator  MATH : MATH  MATH   where  MATH  with  MATH  , the 
+ MATH  MATH  where   MATH   with  MATH  , the unit sphere 
+ MATH   where  MATH  with   MATH  , the unit sphere in   MATH 
+ MATH  , the unit sphere in   MATH  .
+ Different from the homogeneous operator   MATH  ,  MATH  does not induce an 
+ from the homogeneous operator  MATH ,   MATH   does not induce an isomorphism 
+ A.2   under the condition that   MATH   satisfies  (A.14)  . In fact, operator 
+ satisfies  (A.14) . In fact, operator   MATH   induces an Fredholm operator, as 
+Suppose that  MATH  satisfies (A.14)  , that is, the 
+952(text): satisfies
+953(text): , that is, the line:
+ (A.14)  , that is, the line:  MATH   contains no eigenvalues of problem 
+955(text): contains no eigenvalues of problem
+956(text): . Then the operator induced by the boundary value problem
+957(text): with
+ problem  (A.16) – (A.17) with  MATH  : MATH is a  Fredholm operator 
+ (A.16)  – (A.17) with MATH :  MATH  is a  Fredholm operator for 
+ (A.17)  with MATH : MATH is  MATH  Fredholm operator for all  MATH 
+961(text): Fredholm operator for all
+ a  Fredholm operator for all  MATH  .
+963(text): .
+ verify that the kernel of   MATH   is 0-dimensional, which is still 
+ have a better theorem for   MATH   and  MATH  , proved in Reisman 
+ better theorem for  MATH  and   MATH  , proved in Reisman   [35, Lemma 
+ presented which ensures that operator   MATH   is an isomorphism.
+968(text): Suppose that
+Suppose that  MATH  and MATH  . Then the following 
+970(text): and
+Suppose that MATH and  MATH  . Then the following holds :  (i).IfU∈E2,β2(K)and 
+972(text): . Then the following holds
+973(text): If
+If  MATH  and satisfies problem (A.16)  – 
+975(text): and satisfies problem
+976(text): , then
+ problem  (A.16) – (A.17) , then  MATH 
+978(text): For any
+For any  MATH  , there exists MATH  that solves 
+980(text): , there exists
+ For any  MATH , there exists  MATH  that solves problem (A.16)  – 
+982(text): that solves problem
+983(text): .
+Step 3:   MATH   well-posedness for problem  (4.2)  – 
+ Fourier transform with respect to   MATH  , we have  MATH 
+ respect to  MATH , we have  MATH   MATH 
+ MATH   MATH   where  MATH , and  MATH  . We 
+ MATH   where   MATH  , and  MATH  . We hope that, 
+ MATH   where  MATH , and   MATH   . We hope that, for all 
+ We hope that, for all   MATH  , problem  (A.21) – (A.22)  has 
+ (A.22)   has a unique solution   MATH   , so that the inverse Fourier 
+If   MATH  , by applying  Theorem A.1  , problem 
+ (A.22)   is solvable in space   MATH   for  MATH  with  σ  satisfying 
+ solvable in space  MATH  for   MATH   with  σ  satisfying  (A.14) .
+ space  MATH  for  MATH  with   MATH   satisfying  (A.14) .
+If   MATH   , by introducing the coordinate transform: 
+ by introducing the coordinate transform:   MATH   and defining MATH  we find 
+ coordinate transform:  MATH  and defining  MATH   we find that problem   (A.21) 
+ –  (A.17)  in Step 2:  MATH   MATH 
+ MATH   MATH   where  MATH  with  MATH  , and 
+ MATH   where   MATH   with  MATH , and MATH
+ MATH   where  MATH  with   MATH  , and MATH
+ where  MATH  with  MATH , and  MATH 
+ uniqueness, as well as the   MATH  priori  estimates, of a solution 
+1005(text): priori
+ –  (A.24)  for any parameter   MATH   . Then the inverse Fourier transform 
+ Fourier transform with respect to   MATH   leads to a solution   u 
+ MATH 
+ η   leads to a solution   MATH   of problem  (4.2) –  (4.3) 
+ We eventually obtain the following   MATH   well-posedness theorem for problem   (4.2) 
+Suppose that  MATH  satisfies condition (A.19) and  MATH 
+1012(text): satisfies condition
+1013(text): and
+ σ  satisfies condition (A.19) and  MATH   . Then the operator of the 
+1015(text): . Then the operator of the boundary value problem
+1016(text): induces an isomorphism
+ –  (4.3) induces an isomorphism  MATH 
+ estimate for homogeneous boundary conditions:   MATH 
+Under the assumption that   MATH   satisfies condition  (A.19)  , by applying 
+ there exists a unique solution   MATH   for any  MATH . Then  MATH 
+ unique solution  MATH  for any   MATH  . Then MATH  is the solution 
+ MATH   for any  MATH . Then  MATH   is the solution to problem 
+ (4.2)  – (4.3) . Noting that  MATH   we obtain estimate  (A.25)  , which 
+With the   MATH   well-posedness established in Step 3, 
+1025(text): priori
+ priori   Schauder estimates for solution   MATH   have also been established in 
+1027(text): cf.
+1028(text): Let
+Let  MATH  , MATH , and MATH  . Suppose that 
+1030(text): ,
+Let MATH ,  MATH  , and MATH . Suppose that  MATH 
+1032(text): , and
+Let MATH , MATH , and  MATH  . Suppose that MATH , MATH ,  MATH 
+1034(text): . Suppose that
+ MATH  , and MATH . Suppose that  MATH  , MATH , MATH and MATH ,  MATH 
+1036(text): ,
+ and  MATH . Suppose that MATH ,  MATH  , MATH and MATH , MATH  . Then, 
+1038(text): ,
+ MATH  . Suppose that MATH , MATH ,  MATH  and MATH , MATH  . Then, for 
+1040(text): and
+ that  MATH , MATH , MATH and  MATH  , MATH . Then, for any  MATH 
+1042(text): ,
+ MATH  , MATH , MATH and MATH ,  MATH  . Then, for any MATH  , if 
+1044(text): . Then, for any
+ MATH  , MATH . Then, for any  MATH  , if MATH solution MATH  of 
+1046(text): , if
+ Then, for any  MATH , if  MATH  solution MATH of problem  (4.2) 
+1048(text): solution
+ any  MATH , if MATH solution  MATH  of problem (4.2) –  (4.3) 
+1050(text): of problem
+1051(text): is also in
+ –  (4.3) is also in  MATH   and satisfies the following estimate: 
+1053(text): and satisfies the following estimate:
+ and satisfies the following estimate:   MATH 
+ case of  Theorem A.6  with   MATH  .
+ MATH   -estimates of solutions of elliptic 
+Estimates in   MATH   and in Hölder classes, and 

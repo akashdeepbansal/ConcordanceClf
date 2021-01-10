@@ -1,0 +1,1222 @@
+ be zero due to the   MATH   -regularity of solutions. The estimates 
+ inviscid flow in elastodynamics  [18,22,31] :  MATH  MATH MATH  where  ρ  stands 
+ flow in elastodynamics  [18,22,31] : MATH  MATH  MATH  where  ρ  stands for 
+ in elastodynamics  [18,22,31] : MATH MATH  MATH   where  ρ  stands for the 
+ [18,22,31]  : MATH MATH MATH  where   MATH   stands for the density,   MATH 
+ ρ   stands for the density,   MATH   the velocity,  MATH  the deformation 
+ the density,  MATH  the velocity,   MATH   the deformation gradient, and   p 
+ MATH   the deformation gradient, and   MATH   the pressure with  MATH  a 
+ and  p  the pressure with   MATH   a smooth strictly increasing function 
+ smooth strictly increasing function on   MATH   . This model arises from the 
+ spatial dimensions with Mach number   MATH   , the vortex sheets are violently 
+ vortex sheets for Mach number   MATH   . These instability results show that 
+ two dimensions with March number   MATH   . In their setup, the initial 
+ the equation, and use the   MATH   -regularity of solutions to conclude 
+ Notice that the intrinsic property   MATH   holds at any time throughout 
+ system as the following form:   MATH   where  MATH  is the   j 
+ the following form:  MATH  where   MATH   is the  j  th column 
+ MATH   where  MATH  is the   MATH   th column of the deformation 
+ column of the deformation gradient   MATH  ,  MATH  . In column-wise components, the 
+ of the deformation gradient  MATH ,   MATH   . In column-wise components, the intrinsic 
+ the intrinsic property actually means   MATH 
+Consider   MATH   to be a solution to 
+ side of a smooth hypersurface   MATH  . Using the notation  MATH ,   MATH 
+ hypersurface  MATH . Using the notation   MATH  ,  MATH  , for the partial derivatives, 
+ MATH  . Using the notation  MATH ,   MATH   , for the partial derivatives, we 
+ partial derivatives, we denote by   MATH   a normal vector on Γ 
+ normal vector on Γ and   MATH   where  MATH  . It follows that 
+ and  MATH  where   MATH  . It follows that  U  satisfies 
+ where  MATH . It follows that   MATH   satisfies the Rankine–Hugoniot conditions at 
+ at each point of Γ:   MATH  MATH MATH MATH where   MATH 
+ each point of Γ:  MATH  MATH  MATH MATH where  MATH  denotes 
+ point of Γ:  MATH MATH  MATH  MATH where  MATH  denotes the 
+ of Γ:  MATH MATH MATH  MATH  where  MATH  denotes the jump 
+ MATH  MATH MATH MATH where   MATH   denotes the jump of the 
+ the jump of the function   MATH   across the hypersurface Γ. Here 
+ jump condition. Now, we denote   MATH  . By  (2.3a) , we have   MATH 
+ MATH  . By  (2.3a) , we have   MATH  . Thus combining  (2.3d)  and   (2.3c) 
+ and  (2.3c) , we can obtain  MATH   Since we consider the contact 
+ the contact discontinuity, we assume   MATH  . By  (2.3a)  and  (2.4)  , we 
+ (2.3a)   and  (2.4) , we obtain   MATH  ,  MATH ,  MATH  and  MATH  , for 
+ and  (2.4) , we obtain  MATH ,   MATH  ,  MATH  and  MATH , for   MATH 
+ (2.4)  , we obtain  MATH ,  MATH ,   MATH   and  MATH , for  MATH  . Therefore 
+ obtain  MATH ,  MATH ,  MATH  and   MATH  , for  MATH  . Therefore for a 
+ MATH  ,  MATH  and  MATH , for   MATH   . Therefore for a vortex sheet 
+ conditions  (2.3a) – (2.3d)  become  MATH 
+ We now introduce the transformations   MATH   to straighten the free boundary 
+ consider the class of functions   MATH   such that  MATH  and   MATH 
+ of functions  MATH  such that   MATH   and  MATH  . Then we define 
+ MATH   such that  MATH  and   MATH  . Then we define MATH  for 
+ and  MATH . Then we define  MATH   for  MATH  . For simplicity of 
+ Then we define  MATH  for   MATH   . For simplicity of notation, we 
+ rest of the paper. Define   MATH   . To obtain a simpler formulation 
+ we can choose Φ satisfying   MATH   for any  MATH  , which is 
+ Φ satisfying  MATH  for any   MATH  , which is inspired by   [16,20] 
+ (1.3)   in the following form:  MATH   for  MATH  with the fixed 
+ the following form:  MATH  for   MATH   with the fixed boundary   MATH 
+ MATH   with the fixed boundary   MATH  , where MATH  and MATH  Moreover, 
+ the fixed boundary  MATH , where  MATH   and MATH  Moreover, from   (2.5) 
+ boundary  MATH , where MATH  and  MATH   Moreover, from  (2.5)  , we obtain 
+ obtain the boundary conditions at   MATH  : MATH  where we note   MATH 
+ the boundary conditions at  MATH :  MATH   where we note  MATH  at 
+ MATH  : MATH  where we note   MATH   at  MATH .
+ where we note  MATH  at   MATH  .
+ measurement to the following form:   MATH   where the constants  MATH ,   MATH 
+ form:  MATH  where the constants   MATH  ,  MATH ,  MATH ,  MATH ,  MATH ,   MATH 
+ MATH   where the constants  MATH ,   MATH  ,  MATH ,  MATH ,  MATH ,  MATH  and 
+ where the constants  MATH ,  MATH ,   MATH  ,  MATH ,  MATH ,  MATH  and   MATH 
+ the constants  MATH ,  MATH ,  MATH ,   MATH  ,  MATH ,  MATH  and  MATH  satisfy 
+ constants  MATH ,  MATH ,  MATH ,  MATH ,   MATH  ,  MATH  and  MATH  satisfy  MATH 
+ MATH  ,  MATH ,  MATH ,  MATH ,  MATH ,   MATH   and  MATH  satisfy  MATH 
+ MATH  ,  MATH ,  MATH ,  MATH  and   MATH   satisfy  MATH 
+ MATH  ,  MATH  and  MATH  satisfy  MATH 
+ above constant states  (2.8) . Let   MATH   and  MATH  be the small 
+ states  (2.8) . Let  MATH  and   MATH   be the small perturbations of 
+ consider the following linearized problem:   MATH   in  MATH  , with the boundary 
+ following linearized problem:  MATH  in   MATH   , with the boundary condition at 
+ with the boundary condition at   MATH  : MATH  where  MATH  at   MATH 
+ the boundary condition at  MATH :  MATH   where  MATH  at  MATH  . In 
+ condition at  MATH : MATH  where   MATH   at  MATH  . In short, we 
+ MATH  : MATH  where  MATH  at   MATH  . In short, we have  MATH 
+ MATH  . In short, we have  MATH   where MATH
+ have  MATH  where  MATH 
+ the following change of variables,   MATH   where  T  is a matrix 
+ change of variables,  MATH  where   MATH   is a matrix of the 
+ matrix of the following form:   MATH   and  MATH  is the sound 
+ the following form:  MATH  and   MATH   is the sound speed of 
+ of the new variable by   MATH   and the tangential, normal, characteristic 
+ characteristic and non-characteristic parts of   MATH   by MATH
+ non-characteristic parts of  W  by  MATH 
+ system  (2.9)  by a symmetrizer  MATH   Thus we can obtain the 
+ can obtain the following equation   MATH   where MATH
+ the following equation  MATH  where  MATH 
+ for the main theorem. Use   MATH   to denote the space of 
+ space of distributions and define   MATH   for  MATH  , equipped with the 
+ distributions and define  MATH  for   MATH  , equipped with the norms  MATH 
+ MATH  , equipped with the norms  MATH   respectively, where MATH  In our 
+ the norms  MATH  respectively, where  MATH   In our stability analysis, the 
+ that is frequently used is   MATH   where  MATH  is the Fourier 
+ frequently used is  MATH  where   MATH   is the Fourier transform of 
+ is the Fourier transform of   MATH  . Note that by letting   MATH 
+ u  . Note that by letting   MATH  , we have that  MATH  and 
+ letting  MATH , we have that   MATH   and  MATH  are equivalent, denoted 
+ we have that  MATH  and   MATH   are equivalent, denoted by   MATH 
+ MATH   are equivalent, denoted by   MATH  .
+ we can define the space   MATH  , equipped with the norm  MATH 
+ MATH  , equipped with the norm  MATH   Again we have MATH  Note 
+ norm  MATH  Again we have  MATH   Note that  MATH  is actually 
+ we have  MATH  Note that   MATH   is actually the usual norm 
+ actually the usual norm on   MATH   and  MATH  is the usual 
+ usual norm on  MATH  and   MATH   is the usual norm on 
+ is the usual norm on   MATH  .
+111(text): (1) If the particular solution defined by
+112(text): satisfies
+ solution defined by  (2.8) satisfies  MATH  then there is a  positive 
+ satisfies  MATH then there is  MATH  positive constant C  such that 
+ there is  a positive constant  MATH  such that for all  MATH 
+116(text): such that for all
+ C  such that for all  MATH  , MATH and MATH  , the following 
+118(text): ,
+ such that for all  MATH ,  MATH  and MATH  , the following estimate 
+120(text): and
+ for all  MATH , MATH and  MATH  , the following estimate holds:  MATH 
+122(text): , the following estimate holds:
+ MATH  , the following estimate holds:  MATH 
+124(text): (2) If the particular solution defined by
+125(text): satisfies
+ solution defined by  (2.8) satisfies  MATH  then there is a  positive 
+ satisfies  MATH then there is  MATH  positive constant C  such that 
+ there is  a positive constant  MATH  such that for all  MATH 
+129(text): such that for all
+ C  such that for all  MATH  , MATH and MATH  , the following 
+131(text): ,
+ such that for all  MATH ,  MATH  and MATH  , the following estimate 
+133(text): and
+ for all  MATH , MATH and  MATH  , the following estimate holds:  MATH 
+135(text): , the following estimate holds:
+ MATH  , the following estimate holds:  MATH 
+137(text): (3) If the particular solution defined by
+138(text): satisfies
+ solution defined by  (2.8) satisfies  MATH  then there is a  positive 
+ satisfies  MATH then there is  MATH  positive constant C  such that 
+ there is  a positive constant  MATH  such that for all  MATH 
+142(text): such that for all
+ C  such that for all  MATH  , MATH and MATH  , the following 
+144(text): ,
+ such that for all  MATH ,  MATH  and MATH  , the following estimate 
+146(text): and
+ for all  MATH , MATH and  MATH  , the following estimate holds:  MATH 
+148(text): , the following estimate holds:
+ MATH  , the following estimate holds:  MATH 
+150(text): (4) If the particular solution defined by
+151(text): satisfies
+ solution defined by  (2.8) satisfies  MATH  the constant vortex sheets  (2.8) 
+153(text): the constant vortex sheets
+154(text): is linearly unstable, in the sense that the Lopatinskii condition is violated.
+ in absence of the elasticity   MATH   , our results recover the stability 
+ equations, eliminate the wave front   MATH   from the resulting system, and 
+ single out the non-characteristic part   MATH   of the unknown  W  to 
+ part  MATH  of the unknown   MATH   to arrive at a reduced 
+ Fourier space of the form:   MATH   where  A  is a   MATH 
+ of the form:  MATH  where   MATH   is a  MATH  block diagonal 
+ MATH   where  A  is a   MATH   block diagonal matrix and   β 
+ MATH   block diagonal matrix and   MATH   is a  MATH  matrix (the 
+ matrix and  β  is a   MATH   matrix (the explicit forms are 
+ can be achieved by estimating   MATH  .
+ at most two components of   MATH   . Thus in order to obtain 
+ obtain the full estimate on   MATH   one has to utilize the 
+ is to first find a   MATH   Hermitian matrix  r  and a 
+ find a  MATH  Hermitian matrix   MATH   and a number  MATH  such 
+ matrix  r  and a number   MATH   such that  MATH  and   rA 
+ a number  MATH  such that   MATH   and  rA  are both positive 
+ MATH   such that  MATH  and   MATH   are both positive definite, where 
+ are both positive definite, where   MATH   is the Hermitian transpose of 
+ is the Hermitian transpose of   MATH  . The positivity of  MATH  implies 
+ of  β . The positivity of   MATH   implies MATH  for some   MATH 
+ The positivity of  MATH  implies  MATH   for some  MATH , where   MATH 
+ MATH   implies MATH  for some   MATH  , where  MATH  is the Euclidean 
+ MATH   for some  MATH , where   MATH   is the Euclidean inner product 
+ the Euclidean inner product in   MATH   . Therefore if one can further 
+ if one can further choose   MATH   such that  MATH , then   MATH 
+ further choose  r  such that   MATH  , then  MATH  can be controlled 
+ r   such that  MATH , then   MATH   can be controlled by   h 
+ MATH   can be controlled by   MATH  . To check  MATH  , we multiply 
+ controlled by  h . To check   MATH   , we multiply the differential equations 
+ differential equations in  (2.21)  by   MATH   and integrate with respect to 
+ and integrate with respect to   MATH   from 0 to ∞ to 
+ 0 to ∞ to obtain   MATH   Thus a sufficient condition for 
+ condition for stability is that   MATH   is positive definite. However at 
+ point of the eigenvalues of   MATH  , the usual symmetrizer  r  can 
+ of  A , the usual symmetrizer   MATH   can not make  MATH  positive 
+ symmetrizer  r  can not make   MATH   positive definite for any   MATH 
+ MATH   positive definite for any   MATH   when the Lopatinskii determinant is 
+ solution defined by  (2.8)  satisfies  MATH   with  MATH  , some non-differentiable points 
+ by  (2.8)  satisfies MATH  with   MATH  , some non-differentiable points of   A 
+ MATH  , some non-differentiable points of   MATH   will coincide with some roots 
+ perform an upper triangularization of   MATH   to obtain a closed differential 
+ of the two components of   MATH   which are not in the 
+ in the stable subspace of   MATH   (we refer to these two 
+198(text): outgoing modes
+199(text): incoming modes
+ system  (2.21)  is transformed to  MATH   where  MATH  and  MATH  are 
+ is transformed to  MATH  where   MATH   and  MATH  are both two-dimensional 
+ to  MATH  where  MATH  and   MATH   are both two-dimensional vectors corresponding 
+ incoming and outgoing modes of   MATH  ,  G  and  H  are both 
+ and outgoing modes of  MATH ,   MATH   and  H  are both   MATH 
+ modes of  MATH ,  G  and   MATH   are both  MATH  matrices. The 
+ G   and  H  are both   MATH   matrices. The closed differential system 
+ The closed differential system of   MATH   is MATH  This upper triangularization 
+ differential system of  MATH  is  MATH   This upper triangularization ensures that 
+ that all the eigenvalues of   MATH   have positive real parts (in 
+ (in fact for our case,   MATH   can actually be a diagonal 
+ Hence an exact estimates of   MATH   can be obtained; furthermore by 
+ be obtained; furthermore by the   MATH  -regularity of  MATH  , one has 
+ by the  MATH -regularity of   MATH  , one has that  MATH  for 
+ of  MATH , one has that   MATH   for  MATH  . Therefore to obtain 
+ one has that  MATH  for   MATH   . Therefore to obtain the full 
+ obtain the full estimates for   MATH   , it remains to estimate the 
+ the other two components of   MATH  , i.e.  MATH  , which are in 
+ two components of  MATH , i.e.   MATH   , which are in the stable 
+ in the stable subspace of   MATH   . Instead of integrating the first 
+ to derive the estimates of   MATH   , we only use the boundary 
+ in  (2.21) . In fact, from   MATH   , the boundary conditions are reduced 
+ boundary conditions are reduced to   MATH   where  P  is a   MATH 
+ reduced to  MATH  where   MATH   is a  MATH  matrix whose 
+ MATH   where  P  is a   MATH   matrix whose determinant is exactly 
+ Lopatinskii determinant is not zero,   MATH   is invertible and the matrix 
+ and the matrix norm of   MATH   can be estimated. Therefore   MATH 
+ MATH   can be estimated. Therefore   MATH  , and  MATH  is controlled by 
+ be estimated. Therefore  MATH , and   MATH   is controlled by  h  . This 
+ and  MATH  is controlled by   MATH   . This together with the fact 
+ together with the fact that   MATH   lead to the estimates of 
+ lead to the estimates of   MATH   and hence complete the proof 
+ our proof of  Theorem 2.1 :  MATH   with  MATH  . Denote two new 
+ of  Theorem 2.1 : MATH  with   MATH  . Denote two new operators   MATH 
+ MATH  . Denote two new operators   MATH   and  MATH  by MATH  We 
+ two new operators  MATH  and   MATH   by MATH  We note that 
+ operators  MATH  and  MATH  by  MATH   We note that  MATH  and 
+ by  MATH  We note that   MATH   and  MATH  are equivalent to 
+ We note that  MATH  and   MATH   are equivalent to the norms 
+ are equivalent to the norms   MATH   and  MATH  respectively. Then we 
+ to the norms  MATH  and   MATH   respectively. Then we have the 
+241(text): (1) If the particular solution defined by
+242(text): satisfies
+ (2.8)  satisfies (2.14) , there is  MATH  positive constant C  such that 
+ there is  a positive constant  MATH  such that for all  MATH 
+245(text): such that for all
+ C  such that for all  MATH  , MATH and MATH  , the following 
+247(text): ,
+ such that for all  MATH ,  MATH  and MATH  , the following estimate 
+249(text): and
+ for all  MATH , MATH and  MATH  , the following estimate holds  MATH 
+251(text): , the following estimate holds
+ MATH  , the following estimate holds  MATH 
+253(text): (2) If the particular solution defined by
+254(text): satisfies
+ satisfies  (2.16) Then there is  MATH  positive constant C  such that 
+ there is  a positive constant  MATH  such that for all  MATH 
+257(text): such that for all
+ C  such that for all  MATH  , MATH and MATH  , the following 
+259(text): ,
+ such that for all  MATH ,  MATH  and MATH  , the following estimate 
+261(text): and
+ for all  MATH , MATH and  MATH  , the following estimate holds  MATH 
+263(text): , the following estimate holds
+ MATH  , the following estimate holds  MATH 
+265(text): (3) If the particular solution defined by
+266(text): satisfies
+ satisfies  (2.18) Then there is  MATH  positive constant C  such that 
+ there is  a positive constant  MATH  such that for all  MATH 
+269(text): such that for all
+ C  such that for all  MATH  , MATH and MATH  , the following 
+271(text): ,
+ such that for all  MATH ,  MATH  and MATH  , the following estimate 
+273(text): and
+ for all  MATH , MATH and  MATH  , the following estimate holds  MATH 
+275(text): , the following estimate holds
+ MATH  , the following estimate holds  MATH 
+277(text): (4) If the particular solution defined by
+278(text): satisfies
+ solution defined by  (2.8) satisfies  MATH  the constant vortex sheets  (2.8) 
+280(text): the constant vortex sheets
+281(text): is linearly unstable, in the sense that the Lopatinskii condition is violated.
+ reductions and eliminate the front   MATH   from the linearized system.
+ following inhomogeneous differential system for   MATH   and  MATH  on  MATH :  MATH 
+ differential system for  MATH  and   MATH   on  MATH :  MATH 
+ for  MATH  and  MATH  on   MATH  : MATH  where   MATH 
+ MATH   and  MATH  on  MATH :  MATH   where  MATH  and  MATH  are 
+ MATH  : MATH  where   MATH   and  MATH  are given sources. 
+ MATH   where  MATH  and   MATH   are given sources.
+ consider the following problem for   MATH   with the homogeneous boundary conditions: 
+ with the homogeneous boundary conditions:   MATH   where MATH  From the classical 
+ conditions:  MATH  where  MATH   From the classical hyperbolic theory 
+ a solution satisfying following estimates:   MATH   for any integer  MATH .
+ estimates:  MATH  for any integer   MATH  .
+ second problem for the difference   MATH  . In fact  W  satisfies the 
+ the difference  MATH . In fact   MATH   satisfies the following homogeneous differential 
+ equations with inhomogeneous boundary conditions:   MATH   Remark 3.1Here we are slightly 
+ are slightly abusing notations, since   MATH   was previously defined to be 
+ now on we will consider   MATH   as a solution to   (3.3) 
+ equations in system  (3.3)  by   MATH   and integrating, we have  MATH 
+ W   and integrating, we have  MATH   Thus it suffices to derive 
+ derive the following estimate on   MATH  : MATH  to obtain all the 
+ the following estimate on  W :  MATH   to obtain all the estimates 
+ estimates in  Theorem 2.2 , where   MATH   will be determined accordingly.
+ with respect to tangential variables   MATH   and denote the variables in 
+ in the frequency space by   MATH  . Let  MATH . Then  MATH  , the 
+ frequency space by  MATH . Let   MATH  . Then  MATH  , the Fourier transform 
+ by  MATH . Let  MATH . Then   MATH  , the Fourier transform of   W 
+ MATH  , the Fourier transform of   MATH  , satisfies the following system:  MATH 
+ W  , satisfies the following system:  MATH   where MATH
+ system:  MATH  where  MATH 
+ system, we define the hemisphere   MATH   in the whole frequency space 
+ in the whole frequency space   MATH   . It is easily seen that 
+ It is easily seen that   MATH   . We will carry out our 
+ is that the wave front   MATH   is only involved in the 
+There is  MATH  MATH map MATH  which is 
+There is a  MATH  map MATH  which is homogeneous 
+317(text): map
+ There is  a MATH map  MATH   which is homogeneous of degree 
+319(text): which is homogeneous of degree
+320(text): , such that
+ of degree   0 , such that  MATH  where θ  is homogeneous of 
+ 0  , such that MATH where  MATH  is homogeneous of degree  1 
+323(text): is homogeneous of degree
+324(text): and
+ homogeneous of degree   1  and  MATH 
+ is to consider the map   MATH   on Σ and extend it 
+ (3.5)   from the left by   MATH   and obtain the new boundary 
+ obtain the new boundary conditions:   MATH 
+With this choice of   MATH  , we have  MATH MATH  on 
+ choice of  Q , we have   MATH  MATH  on Σ which is 
+ of  Q , we have  MATH  MATH   on Σ which is homogeneous 
+ of the above matrix by   MATH   . Hence the third equation of 
+ new boundary conditions  (3.6)  is  MATH   Notice that  ℓ  and   MATH 
+ is  MATH  Notice that   MATH   and  MATH  are homogeneous of 
+ MATH   Notice that  ℓ  and   MATH   are homogeneous of degree 0. 
+ of Σ and continuity of   MATH   and  MATH  , we know that 
+ and continuity of  ℓ  and   MATH   , we know that they are 
+ the above equation, we have   MATH   Moreover, the last four equations 
+ new boundary conditions  (3.6)  are  MATH   for all  MATH , where   MATH 
+ (3.6)   are MATH  for all   MATH  , where  MATH  is the matrix 
+ MATH   for all  MATH , where   MATH   is the matrix consisting of 
+ the last four rows of   MATH   . Isolating the third, forth, seventh 
+ above equations, we can obtain   MATH   on Π. Since now the 
+ and invertible, we can obtain   MATH   Recall the definition of   MATH 
+ MATH   Recall the definition of   MATH   in  (2.10)  . We know from 
+ (3.8)   that an estimate of   MATH   leads to the estimate of 
+ leads to the estimate of   MATH   , and hence the estimate of 
+ and hence the estimate of   MATH   from  (3.7) . Therefore by   (3.4) 
+ to obtain the estimate of   MATH  .
+ new boundary conditions  (3.6)  at   MATH   and the equations of   (3.5) 
+ the equations of  (3.5)  for   MATH   . We arrived at the following 
+ system where the wave front   MATH   is eliminated: MATH MATH  where 
+ wave front  φ  is eliminated:  MATH  MATH  where  h  is the 
+ front  φ  is eliminated: MATH  MATH   where  h  is the product 
+ is eliminated:  MATH MATH  where   MATH   is the product of the 
+ the first two rows of   MATH   and  MATH , and MATH  on 
+ two rows of  Q  and   MATH  , and MATH  on Σ and 
+ of  Q  and  MATH , and  MATH   on Σ and is extended 
+ that from the homogeneity of   MATH   we have the following bounds 
+ we have the following bounds   MATH   for some positive constant   C 
+ MATH   for some positive constant   MATH   which is independent of   MATH 
+ C   which is independent of   MATH   . The rest of this paper 
+ devoted to the estimate of   MATH   from the system  (3.9)  – 
+ To obtain an estimate of   MATH   , we are led to derive 
+ a closed differential system of   MATH   . For this purpose, we single 
+ ten algebraic equations from  (3.9) :  MATH   Recall definition  (2.11)  , we know 
+ explicitly solved in terms of   MATH   as the following: MATH  Then 
+ of  MATH  as the following:  MATH   Then using the differential equations 
+ the following differential equations for   MATH   only: MATH  where MATH  and 
+ differential equations for  MATH  only:  MATH   where MATH  and MATH
+ for  MATH  only: MATH  where  MATH   and MATH
+ only:  MATH  where MATH  and  MATH 
+ issues in the estimates of   MATH   is to bound the components 
+ to bound the components of   MATH   on the stable subspace of 
+ on the stable subspace of   MATH   . For this reason, we first 
+ of the stable subspace of   MATH   on Σ. The proof can 
+377(text): For
+For  MATH  and MATH , the matrix  A 
+379(text): and
+For MATH and  MATH  , the matrix A  defined in 
+ MATH  and MATH , the matrix  MATH  defined in (4.2)  admits four 
+382(text): defined in
+383(text): admits four eigenvalues
+ in  (4.2) admits four eigenvalues  MATH  and MATH , where MATH  and 
+385(text): and
+ admits four eigenvalues  MATH and  MATH  , where MATH and MATH  are 
+387(text): , where
+ eigenvalues  MATH and MATH , where  MATH  and MATH  are negative. Moreover, 
+389(text): and
+ and  MATH , where MATH and  MATH   are negative. Moreover, the following 
+391(text): are negative. Moreover, the following dispersion relations hold:
+ the following dispersion relations hold:   MATH  The eigenvectors of MATH ,  MATH 
+393(text): The eigenvectors of
+ hold:  MATH The eigenvectors of  MATH  , MATH , MATH and MATH  take 
+395(text): ,
+ MATH  The eigenvectors of MATH ,  MATH  , MATH and MATH  take the 
+397(text): ,
+ The eigenvectors of  MATH , MATH ,  MATH  and MATH  take the following 
+399(text): and
+ of  MATH , MATH , MATH and  MATH   take the following forms respectively: 
+401(text): take the following forms respectively:
+ take the following forms respectively:   MATH  where MATH
+403(text): where
+ following forms respectively:  MATH where  MATH 
+405(text): Both
+Both  MATH  and MATH  can be extended 
+407(text): and
+Both MATH and  MATH   can be extended continuously to 
+409(text): can be extended continuously to all points
+ extended continuously to all points   MATH  such that MATH  , so can 
+411(text): such that
+ all points  MATH such that  MATH  , so can MATH and  MATH 
+413(text): , so can
+ such that  MATH , so can  MATH  and MATH  . The two vectors 
+415(text): and
+ MATH  , so can MATH and  MATH  . The two vectors MATH  and 
+417(text): . The two vectors
+ and  MATH . The two vectors  MATH  and MATH  remain linearly independent 
+419(text): and
+ The two vectors  MATH and  MATH   remain linearly independent for all 
+421(text): remain linearly independent for all
+ remain linearly independent for all   MATH  .
+423(text): .
+By the definition of   MATH  ,  (4.3)  actually holds on Π. 
+ (4.4)  , we can see that   MATH   can not be smoothly diagonalized 
+ smoothly diagonalized near the points   MATH   satisfying one of the following: 
+ satisfying one of the following:   MATH  , or  MATH , or  MATH  , or 
+ of the following:  MATH , or   MATH  , or  MATH , or  MATH  , because 
+ following:  MATH , or  MATH , or   MATH  , or  MATH , because  MATH  and 
+ or  MATH , or  MATH , or   MATH  , because  MATH  and  MATH  (or 
+ or  MATH , or  MATH , because   MATH   and  MATH  (or  MATH  and 
+ or  MATH , because  MATH  and   MATH   (or  MATH  and  MATH  ) become 
+ because  MATH  and  MATH  (or   MATH   and  MATH  ) become parallel at 
+ and  MATH  (or  MATH  and   MATH   ) become parallel at those points. 
+ at those points. In fact,   MATH   are poles of  A  when 
+ fact,  MATH  are poles of   MATH   when  MATH  or  MATH  . Therefore 
+ are poles of  A  when   MATH   or  MATH  . Therefore instead of 
+ of  A  when  MATH  or   MATH   . Therefore instead of looking for 
+ looking for a diagonalization of   MATH   , we perform an upper triangularization 
+ perform an upper triangularization of   MATH   , which we refer to as 
+441(text): separation of modes
+Since the eigenbasis of   MATH   may degenerate at some points 
+ Σ, we need to treat   MATH   microlocally. This means that for 
+ means that for each point   MATH   , we will separate the outgoing 
+ separate the outgoing modes of   MATH   from the system  (4.1)  in 
+ (4.1)   in some open neighborhood   MATH   of that point  MATH  . Here 
+ neighborhood  MATH  of that point   MATH   . Here we refer to the 
+448(text): outgoing modes
+ to the  outgoing modes  of   MATH   as all the components of 
+ as all the components of   MATH   which do not belong to 
+ to the stable subspace of   MATH   . By using this separation, we 
+ Section  6  that for every   MATH   , these outgoing modes in fact 
+ modes in fact vanish in   MATH   . Thus from the compactness of 
+ can extract a finite covering   MATH   of Σ to show that 
+ that the outgoing modes of   MATH   vanish in the entire   MATH 
+ A   vanish in the entire   MATH  .
+457(text): For
+For  MATH  defined in Lemma 4.1  , we 
+459(text): defined in
+460(text): Lemma 4.1
+461(text): , we have
+ in  Lemma 4.1 , we have  MATH  for all MATH .
+463(text): for all
+ we have  MATH for all  MATH  .
+465(text): .
+ real and imaginary parts of   MATH   . For this purpose, we consider 
+ consider the general situation where   MATH   for  x ,  y ,  p ,   MATH 
+ general situation where  MATH  for   MATH  ,  y ,  p ,  MATH  and   MATH 
+ situation where  MATH  for  x ,   MATH  ,  p ,  MATH  and  MATH  . By 
+ where  MATH  for  x ,  y ,   MATH  ,  MATH  and  MATH  . By a 
+ MATH   for  x ,  y ,  p ,   MATH   and  MATH  . By a direct 
+ x  ,  y ,  p ,  MATH  and   MATH   . By a direct computation, we 
+ direct computation, we can express   MATH   and  y  in terms of 
+ we can express  x  and   MATH   in terms of  p  and 
+ and  y  in terms of   MATH   and  q  as MATH  for 
+ in terms of  p  and   MATH   as MATH  for all   MATH 
+ of  p  and  q  as  MATH   for all  MATH .
+ q   as MATH  for all   MATH  .
+ apply the above relations to   MATH   at the point  MATH  with 
+ to  MATH  at the point   MATH   with  MATH . Let  MATH  and 
+ at the point  MATH  with   MATH  . Let  MATH  and  MATH  , where 
+ point  MATH  with  MATH . Let   MATH   and  MATH , where  MATH ,   MATH 
+ with  MATH . Let  MATH  and   MATH  , where  MATH ,  MATH ,  MATH ,   MATH 
+ Let  MATH  and  MATH , where   MATH  ,  MATH ,  MATH ,  MATH  . From the 
+ MATH   and  MATH , where  MATH ,   MATH  ,  MATH ,  MATH  . From the definition 
+ and  MATH , where  MATH ,  MATH ,   MATH  ,  MATH . From the definition   (4.3) 
+ MATH  , where  MATH ,  MATH ,  MATH ,   MATH  . From the definition  (4.3)  of 
+ From the definition  (4.3)  of   MATH   we know that  MATH  and 
+ of  MATH  we know that   MATH   and MATH MATH  With this 
+ we know that  MATH  and  MATH  MATH  With this setup it 
+ know that  MATH  and MATH  MATH   With this setup it is 
+ see from  (4.5)  that when   MATH   and  MATH  the sign of 
+ (4.5)   that when  MATH  and   MATH   the sign of  MATH  is 
+ and  MATH  the sign of   MATH   is opposite to the sign 
+ opposite to the sign of   MATH   respectively. Here we recall the 
+ Here we recall the fact   MATH   . On the other hand, when 
+ On the other hand, when   MATH  ,  (4.5)  fails to hold. More 
+ exactly to the case when   MATH   Therefore they all lie on 
+ Lemma 4.1  , the values of   MATH   at the boundary of Σ 
+ of the interior values of   MATH   . This way, we can still 
+ still determine the signs of   MATH   and  MATH  by continuity. Thus 
+ the signs of  MATH  and   MATH   by continuity. Thus by the 
+ by the continuous extension of   MATH   along the path where the 
+ path where the ratio of   MATH   and  η  is fixed, the 
+ the ratio of  δ  and   MATH   is fixed, the sign of 
+ is fixed, the sign of   MATH   is opposite to the sign 
+ opposite to the sign of   MATH   respectively at those exceptional points 
+ respectively at those exceptional points   MATH  . Hence we conclude that  MATH 
+ MATH  . Hence we conclude that  MATH 
+ We will only prove that   MATH  . The case that  MATH  can 
+ that  MATH . The case that   MATH   can be treated similarly. Assume 
+ Assume on the contrary that   MATH 
+If   MATH  , the above equation becomes   MATH 
+ MATH  , the above equation becomes   MATH  . Combining this with  (4.3)  , we 
+ this with  (4.3) , we obtain   MATH  , and hence  MATH  , which in 
+ we obtain  MATH , and hence   MATH  , which in turn implies   MATH 
+ MATH  , which in turn implies   MATH   . This contradicts the fact that 
+ This contradicts the fact that   MATH  .
+Thus we can assume   MATH   . From this it follows that 
+ From this it follows that   MATH   If  γ  (i.e. ℜ  τ 
+ it follows that  MATH  If   MATH   (i.e. ℜ τ  ) is positive, 
+ MATH   If  γ  (i.e. ℜ  MATH   ) is positive, it is easy 
+ which contradicts the definition that   MATH  .
+ to check the situation when   MATH   . In this case, we have 
+ In this case, we have   MATH  . By  (4.10)  , we know that 
+ By  (4.10) , we know that   MATH  , and therefore  MATH  and   MATH 
+ know that  MATH , and therefore   MATH   and  MATH  . We further claim 
+ MATH  , and therefore  MATH  and   MATH  . We further claim that   MATH 
+ MATH  . We further claim that   MATH  . Otherwise if  MATH , from   (4.3) 
+ claim that  MATH . Otherwise if   MATH  , from  (4.3)  and the fact 
+ (4.3)   and the fact that   MATH   we have  MATH  . Then from 
+ fact that  MATH  we have   MATH  . Then from  (4.9)  we must 
+ from  (4.9)  we must have   MATH  . By  (4.6)  it follows that 
+ By  (4.6)  it follows that   MATH  , and hence  MATH  , which contradicts 
+ follows that  MATH , and hence   MATH   , which contradicts the fact that 
+ which contradicts the fact that   MATH  .
+ we only need to consider   MATH   when  MATH ,  MATH  and   MATH 
+ need to consider  MATH  when   MATH  ,  MATH  and  MATH  . This immediately 
+ to consider  MATH  when  MATH ,   MATH   and  MATH  . This immediately implies 
+ MATH   when  MATH ,  MATH  and   MATH  . This immediately implies that   MATH 
+ MATH  . This immediately implies that   MATH  . From  (4.8)  we know that 
+ know that the sign of   MATH   is opposite to that of 
+ is opposite to that of   MATH  . However by  (4.10)  and the 
+ (4.10)   and the fact that   MATH  , MATH  Since  MATH , from   (4.6) 
+ and the fact that  MATH ,  MATH   Since  MATH , from  (4.6)  we 
+ fact that  MATH , MATH  Since   MATH  , from  (4.6)  we know that 
+ from  (4.6)  we know that   MATH  . Thus the sign of   MATH 
+ MATH  . Thus the sign of   MATH   is the same as the 
+ same as the sign of   MATH   , which is a contradiction. Hence 
+ contradiction. Hence we conclude that   MATH   never vanishes in Σ, which 
+ proposition, we can show that   MATH   do not vanish at any 
+ point on Σ. Because if   MATH  , we have  MATH  and   MATH 
+ Because if  MATH , we have   MATH   and  MATH  . By a direct 
+ MATH  , we have  MATH  and   MATH   . By a direct computation we 
+ direct computation we have that   MATH  . Then  MATH  implies that   MATH 
+ we have that  MATH . Then   MATH   implies that  MATH  . From the 
+ MATH  . Then  MATH  implies that   MATH  . From the definition of   MATH 
+ MATH  . From the definition of   MATH   it follows that MATH  Together 
+ of  MATH  it follows that  MATH   Together with  MATH  and   (4.3) 
+ follows that  MATH  Together with   MATH   and  (4.3) , we have  MATH 
+ MATH   and  (4.3) , we have  MATH   which contradicts  Proposition 4.1 .
+The non-degeneracy of   MATH   allows us to construct the 
+ construct the following transformation matrix   MATH   in a neighborhood of   MATH 
+ MATH   in a neighborhood of   MATH   with  MATH 
+ a neighborhood of  MATH  with  MATH   and similarly,  MATH 
+ MATH   and similarly,  MATH   Obviously, from the above argument, 
+ above argument, for any point   MATH   , there is an open neighborhood 
+ there is an open neighborhood   MATH   of  MATH  where  T  is 
+ an open neighborhood  MATH  of   MATH   where  T  is continuously invertible. 
+ neighborhood  MATH  of  MATH  where   MATH   is continuously invertible. Then we 
+ invertible. Then we can obtain   MATH   on  MATH  where  A  is 
+ we can obtain  MATH  on   MATH   where  A  is given in 
+ obtain  MATH  on  MATH  where   MATH   is given in  (4.2)  and 
+ is given in  (4.2)  and  MATH 
+By the definition of   MATH  ,  MATH  and  MATH  , we know 
+ By the definition of  MATH ,   MATH   and  MATH  , we know that 
+ definition of  MATH ,  MATH  and   MATH  , we know that  MATH  may 
+ and  MATH , we know that   MATH   may not be well defined 
+ defined at the poles of   MATH   which are all located on 
+ Σ. However, the estimates of   MATH   only involves the interior points 
+ obtain a uniform estimate of   MATH   in the interior of Σ, 
+ of Σ, which corresponds to   MATH  .
+ to estimate the components of   MATH   in the stable subspace of 
+ in the stable subspace of   MATH   through the boundary conditions, which 
+ the invertibility of the matrix   MATH   . This can be done by 
+ can be done by computing   MATH   , which is known as the 
+ the Lopatinskii determinant to be   MATH   from which we see that 
+588(text): The roots of the Lopatinskii determinant
+589(text): are distributed in the following ways.
+Case  MATH  If MATH  , then all the 
+591(text): If
+Case 1. If  MATH   , then all the roots are 
+593(text): , then all the roots are simple and on the boundary of
+594(text): . The Lopatinskii condition holds. More precisely, the roots are
+ More precisely, the roots are   MATH  such that
+596(text): such that
+597(text): (1)
+(1)  MATH  , or
+599(text): , or
+600(text): (2)
+(2)  MATH  ,    or
+602(text): ,    or
+603(text): (3)
+(3)  MATH  ,
+605(text): ,
+606(text): where
+where  MATH  .
+608(text): .
+Case  MATH  If MATH , but MATH  , then 
+610(text): If
+Case 2. If  MATH  , but MATH  , then all roots 
+612(text): , but
+ Case  2. If MATH , but  MATH   , then all roots are also 
+614(text): , then all roots are also simple and on the boundary of
+615(text): . The Lopatinskii condition still holds. More precisely, the roots are
+ More precisely, the roots are   MATH  such that
+617(text): such that
+618(text): (1)
+(1)  MATH  , or
+620(text): , or
+621(text): (2)
+(2)  MATH  .
+623(text): .
+Case  MATH  If MATH  , then all roots 
+625(text): If
+Case 3. If  MATH   , then all roots are on 
+627(text): , then all roots are on the boundary of
+628(text): . The Lopatinskii condition still holds. More precisely, the roots are
+ More precisely, the roots are   MATH  such that MATH  Case 
+630(text): such that
+ roots are  MATH such that  MATH  Case 4. If MATH  , then 
+ such that  MATH Case  MATH  If MATH  , then all roots 
+633(text): If
+ MATH  Case 4. If  MATH   , then all roots are on 
+635(text): , then all roots are on the boundary of
+636(text): . The Lopatinskii condition still holds. More precisely, the roots are
+ More precisely, the roots are   MATH  such that
+638(text): such that
+639(text): (1)
+(1)  MATH  (simple roots), or
+641(text): (simple roots), or
+642(text): (2)
+(2)  MATH  (triple root).
+644(text): (triple root).
+Case  MATH  If MATH  , then all roots 
+646(text): If
+Case 5. If  MATH   , then all roots are on 
+648(text): , then all roots are on the boundary of
+649(text): . The Lopatinskii condition still holds. More precisely, the roots are
+ More precisely, the roots are   MATH  such that
+651(text): such that
+652(text): (1)
+(1)  MATH  (simple roots), or
+654(text): (simple roots), or
+655(text): (2)
+(2)  MATH  (double root).
+657(text): (double root).
+Case  MATH  If MATH  , then some roots 
+659(text): If
+Case 6. If  MATH   , then some roots are in 
+661(text): , then some roots are in the interior of
+662(text): , and hence the Lopatinskii condition fails.
+ above, if the degree of   MATH  root MATH , with MATH  for 
+664(text): root
+ the degree of  a root  MATH  , with MATH  for some real 
+666(text): , with
+ of  a root MATH , with  MATH  for some real number  ϑ, 
+ MATH  for some real number  MATH  is k,  then we have 
+ some real number  ϑ, is  MATH  then we have MATH  for 
+670(text): then we have
+ is  k, then we have  MATH  for some continuous MATH  satisfying 
+672(text): for some continuous
+ have  MATH for some continuous  MATH  satisfying MATH  near the root. 
+674(text): satisfying
+ for some continuous  MATH satisfying  MATH  near the root.
+676(text): near the root.
+ is easily seen that if   MATH   with  MATH  (this corresponds to 
+ seen that if  MATH  with   MATH   (this corresponds to the second 
+ of the non-differentiable points of   MATH  , namely  MATH  , coincides with the 
+ non-differentiable points of  A , namely   MATH  , coincides with the root   MATH 
+ MATH  , coincides with the root   MATH   of the Lopatinskii determinant. As 
+ Lopatinskii determinant. Firstly, the factors   MATH   are exactly the expression in 
+ Secondly, we consider the factors   MATH  . Obviously  MATH  are the only 
+ consider the factors  MATH . Obviously   MATH   are the only simple roots 
+ the only simple roots to   MATH  , respectively.
+Thirdly, we assume that  MATH   If  MATH , we have   MATH 
+ we assume that  MATH  If   MATH  , we have  MATH  , which means 
+ MATH   If  MATH , we have   MATH  , which means  MATH  , and hence 
+ we have  MATH , which means   MATH  , and hence  MATH  . Moreover, if 
+ which means  MATH , and hence   MATH  . Moreover, if  MATH  , for example 
+ and hence  MATH . Moreover, if   MATH  , for example  MATH  , then from 
+ Moreover, if  MATH , for example   MATH  , then from  (4.3) MATH  is 
+ example  MATH , then from  (4.3)  MATH   is real and negative. However, 
+ real and negative. However, since   MATH  , we know that  MATH  , which 
+ since  MATH , we know that   MATH  , which implies  MATH . Thus   MATH 
+ know that  MATH , which implies   MATH  . Thus  MATH  can not be 
+ MATH  , which implies  MATH . Thus   MATH   can not be a real 
+ (5.3)   can not happen for   MATH   or  MATH .
+ not happen for  MATH  or   MATH  .
+ only on the points where   MATH   and  MATH  . Introduce the following 
+ the points where  MATH  and   MATH   . Introduce the following two variables, 
+ Introduce the following two variables,   MATH   From  (5.3)  we have   MATH 
+ MATH   From  (5.3)  we have   MATH  , and hence  MATH  . By the 
+ we have  MATH , and hence   MATH  . By the  (4.3)  we know 
+ By the  (4.3)  we know  MATH  MATH  Hence we have  MATH 
+ the  (4.3)  we know MATH  MATH   Hence we have MATH  which 
+ MATH  MATH  Hence we have  MATH   which leads to the following 
+ to the following equation for   MATH  : MATH  Using the quadratic formula, 
+ the following equation for  MATH :  MATH   Using the quadratic formula, the 
+ of the above equation are   MATH  MATH
+ the above equation are  MATH  MATH 
+ We claim that the points   MATH   with  MATH  are not the 
+ that the points  MATH  with   MATH   are not the roots of 
+ of generality, we can assume   MATH   is positive. By a direct 
+ a direct computation, we have   MATH   and  MATH . Now, by   (4.5) 
+ computation, we have  MATH  and   MATH  . Now, by  (4.5) ,  (4.7)  and 
+ by  (4.5) ,  (4.7)  and  (4.8) ,   MATH   have opposite signs to   MATH 
+ MATH   have opposite signs to   MATH   respectively. If  MATH  , we have 
+ signs to  MATH  respectively. If   MATH  , we have  MATH  and   MATH 
+ respectively. If  MATH , we have   MATH   and  MATH . Therefore  MATH  and 
+ MATH  , we have  MATH  and   MATH  . Therefore  MATH  and  MATH  are 
+ have  MATH  and  MATH . Therefore   MATH   and  MATH  are purely imaginary, 
+ and  MATH . Therefore  MATH  and   MATH   are purely imaginary, and  MATH 
+ MATH   are purely imaginary, and  MATH   from which we deduce that 
+ from which we deduce that   MATH   Therefore  MATH  and  (5.3)  is 
+ we deduce that  MATH  Therefore   MATH   and  (5.3)  is not satisfied. 
+ Similarly, we can show that   MATH   with  MATH  are also not 
+ can show that  MATH  with   MATH   are also not the roots 
+Now we focus on   MATH  . Obviously, by  (5.7)  , we have 
+ Obviously, by  (5.7) , we have  MATH 
+If   MATH  , by  (5.4)  , we obtain that 
+ by  (5.4) , we obtain that   MATH   are real. Thus  MATH  , but 
+ that  MATH  are real. Thus   MATH  , but  MATH  and  MATH  . This 
+ are real. Thus  MATH , but   MATH   and  MATH  . This implies that 
+ Thus  MATH , but  MATH  and   MATH  . This implies that  MATH  . By 
+ and  MATH . This implies that   MATH  . By  (4.6)  and  (4.7)  , we 
+ and  (4.7) , we know that   MATH   and  MATH . Using  (4.5)  , we 
+ we know that  MATH  and   MATH  . Using  (4.5)  , we can have 
+ Using  (4.5) , we can have   MATH   and  MATH , i.e.  MATH  is 
+ we can have  MATH  and   MATH  , i.e.  MATH  is the complex 
+ have  MATH  and  MATH , i.e.   MATH   is the complex conjugate of 
+ is the complex conjugate of   MATH  . Then  MATH  , which implies that 
+ complex conjugate of  MATH . Then   MATH  , which implies that  MATH  are 
+ Then  MATH , which implies that   MATH   are the roots of   (5.3) 
+ able to find a root   MATH   with  MATH  , which violates the 
+ find a root  MATH  with   MATH   , which violates the Lopatinskii condition, 
+ are unstable. This proves  Case  MATH   in the lemma.
+ rest cases we will consider   MATH   and when taking the square 
+ the positive branch, that is   MATH  .
+If   MATH  , we have  MATH  is purely 
+If  MATH , we have   MATH   is purely imaginary. Without loss 
+ only consider the case when   MATH  . Then  MATH , but  MATH  and 
+ the case when  MATH . Then   MATH  , but  MATH  and  MATH  . By 
+ when  MATH . Then  MATH , but   MATH   and  MATH  . By a direct 
+ Then  MATH , but  MATH  and   MATH   . By a direct computation, we 
+ direct computation, we can obtain   MATH   Thus  MATH . By  (4.3)  and 
+ we can obtain  MATH  Thus   MATH  . By  (4.3)  and  (5.9)  , we 
+ and  (5.9) , we have that   MATH   are both real and negative. 
+ real and negative. This means   MATH   are purely imaginary, and from 
+ from  (4.8)  the signs of   MATH   are opposite to those of 
+ are opposite to those of   MATH  , respectively. Hence MATH  Therefore   MATH 
+ those of  MATH , respectively. Hence  MATH   Therefore  MATH , and  MATH  with 
+ MATH  , respectively. Hence MATH  Therefore   MATH  , and  MATH  with  MATH  are 
+ Hence  MATH  Therefore  MATH , and   MATH   with  MATH  are roots of 
+ Therefore  MATH , and  MATH  with   MATH   are roots of  (5.3)  . The 
+ (5.3)  . The other case when   MATH   can be treated exactly the 
+If   MATH  , we also have that   MATH 
+ MATH  , we also have that   MATH   is purely imaginary. Similarly as 
+ we only treat the case   MATH  . Then  MATH , but  MATH  and 
+ treat the case  MATH . Then   MATH  , but  MATH  and  MATH  . Now, 
+ case  MATH . Then  MATH , but   MATH   and  MATH  . Now, we have 
+ Then  MATH , but  MATH  and   MATH  . Now, we have MATH  By 
+ and  MATH . Now, we have  MATH   By  (4.3)  and  (5.10)  , we 
+ (4.3)   and  (5.10) , we have   MATH   are both real and positive. 
+ both real and positive. Thus   MATH   are both real and negative, 
+ real and negative, which implies   MATH  . Hence  MATH  with  MATH  are 
+ negative, which implies  MATH . Hence   MATH   with  MATH  are roots of 
+ implies  MATH . Hence  MATH  with   MATH   are roots of  (5.3) .
+ show that under the condition   MATH   or  MATH  the roots to 
+ under the condition  MATH  or   MATH   the roots to  (5.3)  are 
+ not admit a root at   MATH  , the points  MATH  satisfying   MATH 
+ root at  MATH , the points   MATH   satisfying  MATH  are not the 
+ MATH  , the points  MATH  satisfying   MATH   are not the roots of 
+ are not the roots of   MATH   From  (4.3) ,  MATH  are analytic 
+ roots of  MATH  From  (4.3) ,   MATH   are analytic near the points 
+ analytic near the points where   MATH   do not vanish. We can 
+ and  (5.6)  with respect to   MATH   at  MATH  to obtain  MATH 
+ with respect to  V  at   MATH   to obtain MATH  Thus  MATH 
+ V   at  MATH  to obtain  MATH   Thus MATH  Plugging in   (5.5) 
+ MATH   to obtain MATH  Thus  MATH   Plugging in  (5.5)  and   (5.6) 
+ (5.5)   and  (5.6) , we obtain  MATH   Using  (5.7) , we have  MATH 
+ MATH   Using  (5.7) , we have  MATH   Hence we have proved   MATH 
+ MATH   Hence we have proved   MATH   with  MATH  are all simple 
+ we have proved  MATH  with   MATH   are all simple roots of 
+ simple roots of  (5.3)  provided   MATH   or  MATH  . More precisely, near 
+ of  (5.3)  provided  MATH  or   MATH  . More precisely, near  MATH  , we 
+ or  MATH . More precisely, near   MATH  , we have  MATH  for some 
+ precisely, near  MATH , we have   MATH   for some continuous  MATH  respectively. 
+ have  MATH  for some continuous   MATH   respectively.
+If   MATH  , we obtain  MATH  . In this 
+If  MATH , we obtain   MATH  . In this case  MATH  but 
+ obtain  MATH . In this case   MATH   but  MATH . By  (4.6)  , we 
+ In this case  MATH  but   MATH  . By  (4.6) , we have   MATH 
+ MATH  . By  (4.6) , we have   MATH   . Together with the fact that 
+ Together with the fact that   MATH  ,  MATH  and  (4.8)  , we infer 
+ with the fact that  MATH ,   MATH   and  (4.8)  , we infer that 
+ and  (4.8) , we infer that   MATH   are purely imaginary and   MATH 
+ MATH   are purely imaginary and   MATH   have opposite signs to   MATH 
+ MATH   have opposite signs to   MATH   respectively. This implies  MATH  . Hence 
+ to  MATH  respectively. This implies   MATH  . Hence  MATH  with  MATH  are 
+ respectively. This implies  MATH . Hence   MATH   with  MATH  are roots of 
+ implies  MATH . Hence  MATH  with   MATH   are roots of  (5.3) .
+If   MATH  , we also obtain  MATH  . Then 
+ If  MATH , we also obtain   MATH  . Then  MATH  but  MATH  . By 
+ we also obtain  MATH . Then   MATH   but  MATH . By  (4.6)  and 
+ obtain  MATH . Then  MATH  but   MATH  . By  (4.6)  and  (4.7)  , we 
+ (4.6)   and  (4.7) , we have   MATH   and  MATH . This implies   MATH 
+ (4.7)  , we have  MATH  and   MATH  . This implies  MATH  are both 
+ MATH   and  MATH . This implies   MATH   are both real and negative. 
+ both real and negative. Thus   MATH  . Hence  MATH  with  MATH  are 
+ and negative. Thus  MATH . Hence   MATH   with  MATH  are roots of 
+ Thus  MATH . Hence  MATH  with   MATH   are roots of  (5.3) .
+ multiplicity of the root when   MATH   under the condition  MATH  or 
+ when  MATH  under the condition   MATH   or  MATH  . Similarly as in 
+ under the condition  MATH  or   MATH   . Similarly as in the previous 
+ the following first derivative of   MATH  : MATH  Further differentiation yields the 
+ following first derivative of  MATH :  MATH   Further differentiation yields the following 
+ yields the following second derivative:   MATH   Thus MATH  Hence  MATH  with 
+ following second derivative:  MATH  Thus  MATH   Hence  MATH  with  MATH  are 
+ derivative:  MATH  Thus MATH  Hence   MATH   with  MATH  are all double 
+ Thus  MATH  Hence  MATH  with   MATH   are all double roots of 
+ double roots of  (5.3)  if   MATH   or  MATH  . We can also 
+ of  (5.3)  if  MATH  or   MATH   . We can also conclude that 
+ We can also conclude that   MATH   for some continuous  MATH  near 
+ that  MATH  for some continuous   MATH   near  MATH .
+ for some continuous  MATH  near   MATH  .
+ the last factor of  (5.1)  MATH   It is obvious from the 
+ from the  (4.3)  that if   MATH   then  MATH  and  MATH  , and 
+ (4.3)   that if  MATH  then   MATH   and  MATH , and hence   MATH 
+ if  MATH  then  MATH  and   MATH  , and hence  MATH  . Thus we 
+ MATH   and  MATH , and hence   MATH   . Thus we focus on the 
+ focus on the case when   MATH  . By  (4.7) , we have   MATH 
+ MATH  . By  (4.7) , we have   MATH  . From  (5.11)  and using the 
+ the definition  (5.4) , we have   MATH  , which implies  MATH . Using   (4.6) 
+ we have  MATH , which implies   MATH  . Using  (4.6) , we have  MATH 
+ MATH  . Using  (4.6) , we have  MATH   This implies  MATH . If   MATH 
+ we have  MATH  This implies   MATH  . If  MATH , we obtain   MATH 
+ MATH   This implies  MATH . If   MATH  , we obtain  MATH . Thus   MATH 
+ MATH  . If  MATH , we obtain   MATH  . Thus  MATH  and  MATH  . From 
+ MATH  , we obtain  MATH . Thus   MATH   and  MATH . From  (4.8)  , we 
+ obtain  MATH . Thus  MATH  and   MATH  . From  (4.8) , we obtain   MATH 
+ MATH  . From  (4.8) , we obtain   MATH  , which contradicts  (5.11)  . Hence it 
+ (5.11)  . Hence it must be   MATH  . Since  MATH , we have   MATH 
+ it must be  MATH . Since   MATH  , we have  MATH  . In this 
+ MATH  . Since  MATH , we have   MATH  . In this case, MATH  If 
+ have  MATH . In this case,  MATH   If  MATH  , we obtain that 
+ In this case,  MATH  If   MATH  , we obtain that  MATH  are 
+ If  MATH , we obtain that   MATH   are both real and negative, 
+ which contradicts  (5.11) . Otherwise if   MATH  , we have  MATH  , which means 
+ Otherwise if  MATH , we have   MATH  , which means  MATH  are roots 
+ we have  MATH , which means   MATH   are roots of  (5.11)  . On 
+ this situation belongs to  Case  MATH   which we have already concluded 
+ we only consider the case   MATH  . In this case  MATH  are 
+ case  MATH . In this case   MATH   are purely imaginary. Since   MATH 
+ MATH   are purely imaginary. Since   MATH   and  MATH , we have   MATH 
+ purely imaginary. Since  MATH  and   MATH  , we have  MATH  . Again a 
+ MATH   and  MATH , we have   MATH  . Again a use of   (4.8) 
+ implies that the signs of   MATH   are opposite to those of 
+ are opposite to those of   MATH  , which implies  MATH . Hence   MATH 
+ those of  MATH , which implies   MATH  . Hence  MATH , and  MATH  are 
+ MATH  , which implies  MATH . Hence   MATH  , and  MATH  are roots of 
+ implies  MATH . Hence  MATH , and   MATH   are roots of  (5.11) .
+ roots. From  (4.3)  we know   MATH   and  MATH  can not vanish 
+ (4.3)   we know  MATH  and   MATH   can not vanish simultaneously. Thus 
+ can not vanish simultaneously. Thus   MATH   is analytic near these roots. 
+ (5.5)   and  (5.6) , we have  MATH   This implies MATH  Since in 
+ we have  MATH  This implies  MATH   Since in this case   MATH 
+ MATH   Since in this case   MATH  , we have  MATH  at   MATH 
+ this case  MATH , we have   MATH   at  MATH  . At these roots, 
+ MATH  , we have  MATH  at   MATH   . At these roots, we have 
+ At these roots, we have   MATH   Hence,  MATH  are all simple 
+ roots, we have  MATH  Hence,   MATH   are all simple roots to 
+ simple roots to  (5.11) , if   MATH  . Therefore we have  MATH  for 
+ if  MATH . Therefore we have   MATH   for some continuous  MATH  near 
+ have  MATH  for some continuous   MATH   near  MATH .
+ for some continuous  MATH  near   MATH  .
+ have derived all possible roots   MATH   of the Lopatinskii determinant, namely, 
+ of the Lopatinskii determinant, namely,   MATH   where we have assumed that 
+ where we have assumed that   MATH   . In general, some of the 
+ already discussed the possibility that   MATH   in the study of   (5.3) 
+ are left to check whether   MATH   when  MATH  . By a direct 
+ to check whether  MATH  when   MATH  . By a direct computation,   MATH 
+ MATH  . By a direct computation,   MATH   if and only if  MATH 
+ MATH   if and only if  MATH   Obviously,  MATH .
+ and only if  MATH  Obviously,   MATH  .
+ six cases in the lemma:   MATH 
+ on the stable subspace of   MATH   near the roots of the 
+898(text): Let
+Let  MATH  be a  root of the 
+Let MATH be  MATH   root of the Lopatinskii determinant 
+901(text): root of the Lopatinskii determinant
+ determinant   Δ . Then there is  MATH  neighborhood MATH of MATH  which 
+903(text): neighborhood
+ Then there is  a neighborhood  MATH  of MATH  which does not 
+905(text): of
+ is  a neighborhood MATH of  MATH   which does not contain any 
+907(text): which does not contain any other roots of
+ other roots of   Δ  and  MATH  constant MATH  , such that, for 
+909(text): constant
+ of   Δ  and a constant  MATH  , such that, for MATH  and 
+911(text): , such that, for
+ constant  MATH , such that, for  MATH  and MATH ,
+913(text): and
+ such that, for  MATH and  MATH  ,
+915(text): ,
+916(text): (1) If
+(1) If  MATH  , MATH
+918(text): ,
+(1) If MATH ,  MATH 
+920(text): (2) If
+(2) If  MATH  , but MATH , MATH
+922(text): , but
+(2) If MATH , but  MATH  , MATH
+924(text): ,
+ (2) If  MATH , but MATH ,  MATH 
+926(text): (3) If
+(3) If  MATH  , MATH
+928(text): ,
+(3) If MATH ,  MATH 
+930(text): (4) If
+(4) If  MATH  ,
+932(text): ,
+933(text): when
+when  MATH  , MATH
+935(text): ,
+when MATH ,  MATH 
+937(text): when
+when  MATH  , MATH
+939(text): ,
+when MATH ,  MATH 
+941(text): (5) If
+(5) If  MATH  ,
+943(text): ,
+944(text): when
+when  MATH  , MATH
+946(text): ,
+when MATH ,  MATH 
+948(text): when
+when  MATH  , MATH
+950(text): ,
+when MATH ,  MATH 
+ in the Lopatinskii matrix by   MATH   Since every element of   MATH 
+ MATH   Since every element of   MATH   is continuous, we know that 
+ there is an element of   MATH   which is nonzero at   MATH 
+ MATH   which is nonzero at   MATH   , then there is an open 
+ there is an open neighborhood   MATH   of  MATH  such that   MATH 
+ an open neighborhood  MATH  of   MATH   such that  MATH  can be 
+ MATH   of  MATH  such that   MATH   can be transformed to a 
+ to a diagonal matrix in   MATH  , that is MATH  For some 
+ matrix in  MATH , that is  MATH   For some  MATH  continuously invertible 
+ that is  MATH  For some   MATH   continuously invertible in  MATH  . For 
+ some  MATH  continuously invertible in   MATH  . For example, if  MATH  , then 
+ in  MATH . For example, if   MATH   , then we have the following 
+ we have the following identity   MATH   Now we claim that there 
+ is always an element in   MATH   which is not zero for 
+ is not zero for all   MATH   in Σ. First we consider 
+ in Σ. First we consider   MATH   From  Proposition 4.1 ,  MATH  and 
+ consider  MATH  From  Proposition 4.1 ,   MATH   and  MATH  are never zero. 
+ From  Proposition 4.1 ,  MATH  and   MATH   are never zero. Thus   MATH 
+ MATH   are never zero. Thus   MATH   only vanishes when  MATH  , and 
+ Thus  MATH  only vanishes when   MATH  , and  MATH  only vanishes when 
+ only vanishes when  MATH , and   MATH   only vanishes when  MATH  . If 
+ and  MATH  only vanishes when   MATH  . If  MATH  , we can obtain 
+ only vanishes when  MATH . If   MATH  , we can obtain  MATH  and 
+ If  MATH , we can obtain   MATH   and  MATH . Since  MATH  , we 
+ we can obtain  MATH  and   MATH  . Since  MATH , we have   MATH 
+ obtain  MATH  and  MATH . Since   MATH  , we have  MATH  , which implies 
+ MATH  . Since  MATH , we have   MATH  , which implies that  MATH  and 
+ have  MATH , which implies that   MATH   and  MATH  . From the expression 
+ which implies that  MATH  and   MATH  . From the expression of   MATH 
+ MATH  . From the expression of   MATH   and  MATH  , we know that 
+ the expression of  MATH  and   MATH   , we know that in this 
+ know that in this case   MATH   and  MATH  . Hence for any 
+ in this case  MATH  and   MATH  . Hence for any  MATH  , there 
+ and  MATH . Hence for any   MATH   , there is an open neighborhood 
+ there is an open neighborhood   MATH   of  MATH  such that   MATH 
+ an open neighborhood  MATH  of   MATH   such that  MATH  can always 
+ MATH   of  MATH  such that   MATH   can always be locally continuously 
+ be locally continuously transformed to   MATH   . Therefore by the continuity and 
+ the continuity and boundness of   MATH  , equation  (5.13)  implies that  MATH 
+ MATH  , equation  (5.13)  implies that  MATH   in  MATH , where  MATH  depends 
+ (5.13)   implies that MATH  in   MATH  , where  MATH  depends on   MATH 
+ that  MATH  in  MATH , where   MATH   depends on  MATH  . From the 
+ MATH  , where  MATH  depends on   MATH   . From the fact that there 
+ of Δ we know that   MATH   can be chosen so that 
+ root of Δ, which is   MATH   . Now combining the result in 
+For the points   MATH   where the Lopatinskii determinant is 
+ also obtain an open neighborhood   MATH   of  MATH  in which   MATH 
+ an open neighborhood  MATH  of   MATH   in which  MATH  such that 
+ MATH   of  MATH  in which   MATH   such that MATH  for all 
+ in which  MATH  such that  MATH   for all  MATH  and   MATH 
+ such that  MATH  for all   MATH   and  MATH , where  MATH  is 
+ MATH   for all  MATH  and   MATH  , where  MATH  is a positive 
+ all  MATH  and  MATH , where   MATH   is a positive constant depending 
+ a positive constant depending on   MATH  .
+ energy estimates. For a point   MATH   , shrinking the neighborhood if necessary, 
+ we obtain a new neighborhood   MATH   of  MATH  where we have 
+ a new neighborhood  MATH  of   MATH   where we have the separation 
+ the separation of modes of   MATH   (cf.  (4.11)  ) and the estimate 
+ We call such a point   MATH   a “generating point” of   MATH 
+ MATH   a “generating point” of   MATH  . Notice that if  MATH  then 
+ of  MATH . Notice that if   MATH   then  MATH  at every point 
+ Notice that if  MATH  then   MATH   at every point of   MATH 
+ MATH   at every point of   MATH   . Repeating this process for all 
+ there is a finite subcovering   MATH   of Σ with the corresponding 
+ corresponding generating points denoted by   MATH   . Obviously this subcovering contains all 
+ subcovering contains all the neighborhoods   MATH   of  MATH  such that   MATH 
+ all the neighborhoods  MATH  of   MATH   such that  MATH  . Then we 
+ MATH   of  MATH  such that   MATH   . Then we can construct a 
+ subcovering, i.e., we can find   MATH   for  MATH  such that   MATH 
+ we can find  MATH  for   MATH   such that  MATH  on Σ. 
+ MATH   for  MATH  such that   MATH   on Σ.
+ estimate in each conic zone   MATH  . In each neighborhood  MATH  of 
+ MATH  . In each neighborhood   MATH   of  MATH , we denote   MATH 
+ In each neighborhood  MATH  of   MATH  , we denote  MATH  the transformation 
+ MATH   of  MATH , we denote   MATH   the transformation matrix of the 
+ in this neighborhood and extend   MATH   and  MATH  by homogeneity of 
+ neighborhood and extend  MATH  and   MATH   by homogeneity of degree 0 
+ 0 to the conic zone   MATH  . Then we consider MATH  for 
+ zone  MATH . Then we consider  MATH   for all  MATH  . The system 
+ we consider  MATH  for all   MATH  . The system that  MATH  satisfies 
+ all  MATH . The system that   MATH   satisfies now becomes MATH  Recalling 
+ that  MATH  satisfies now becomes  MATH   Recalling  Remark 4.1  , we know 
+ to obtain uniform estimates of   MATH   for  MATH  . Therefore we only 
+ uniform estimates of  Z  for   MATH  . Therefore we only consider   MATH 
+ MATH  . Therefore we only consider   MATH   below.
+ second and fourth equations are   MATH   for all  MATH  with   MATH 
+ equations are  MATH  for all   MATH   with  MATH . By  (4.3)  we 
+ MATH   for all  MATH  with   MATH  . By  (4.3)  we have   MATH 
+ MATH  . By  (4.3)  we have   MATH   provided  MATH . Moreover, since   MATH 
+ (4.3)   we have  MATH  provided   MATH  . Moreover, since  MATH  is in 
+ MATH   provided  MATH . Moreover, since   MATH   is in  MATH  and   MATH 
+ Moreover, since  MATH  is in   MATH   and  MATH  is continuous and 
+ MATH   is in  MATH  and   MATH   is continuous and bounded from 
+ and bounded from above in   MATH  , we know that  MATH  is 
+ in  MATH , we know that   MATH   is also in  MATH  for 
+ that  MATH  is also in   MATH   for every  MATH  . Hence, the 
+ also in  MATH  for every   MATH   . Hence, the above ODEs implies 
+ the above ODEs implies that   MATH   for all  MATH  with   MATH 
+ MATH   for all   MATH   with  MATH .
+ MATH   for all  MATH  with   MATH  .
+Next for   MATH   and  MATH , from  (6.1)  and 
+Next for  MATH  and   MATH  , from  (6.1)  and  (6.2)  we 
+ (6.1)   and  (6.2)  we have  MATH   for all  MATH  with   MATH 
+ we have  MATH  for all   MATH   with  MATH  . Then the boundary 
+ MATH   for all  MATH  with   MATH   . Then the boundary condition becomes 
+ Then the boundary condition becomes   MATH   for all  MATH  with   MATH 
+ condition becomes  MATH  for all   MATH   with  MATH  . In the above 
+ MATH   for all  MATH  with   MATH  . In the above equation,   MATH 
+ MATH  . In the above equation,   MATH   is the Lopatinskii determinant Δ. 
+ Δ. From  Remark 5.2 , if   MATH   is not zero at   MATH 
+ MATH   is not zero at   MATH   we have MATH MATH  and 
+ zero at  MATH  we have  MATH  MATH  and  MATH , where   MATH 
+ at  MATH  we have MATH  MATH   and  MATH , where  MATH  is 
+ we have  MATH MATH  and   MATH  , where  MATH  is a positive 
+ MATH  MATH  and  MATH , where   MATH   is a positive constant depending 
+ a positive constant depending on   MATH  . Since  β  is homogeneous of 
+ constant depending on  MATH . Since   MATH   is homogeneous of degree 0, 
+ of degree 0, we have   MATH   for all  MATH  and   MATH 
+ we have  MATH  for all   MATH   and  MATH . By  (6.3)  , we 
+ MATH   for all  MATH  and   MATH  . By  (6.3) , we have  MATH 
+ MATH  . By  (6.3) , we have  MATH   for all  MATH  with   MATH 
+ we have  MATH  for all   MATH   with  MATH .
+ MATH   for all  MATH  with   MATH  .
+If   MATH   is a simple root of 
+ by  Lemma 5.2 , we have  MATH   for all  MATH  and   MATH 
+ we have  MATH  for all   MATH   and  MATH . Since  β  is 
+ MATH   for all  MATH  and   MATH  . Since  β  is homogeneous of 
+ all  MATH  and  MATH . Since   MATH   is homogeneous of degree 0, 
+ of degree 0, we have   MATH   for all  MATH  and   MATH 
+ we have  MATH  for all   MATH   and  MATH . By  (6.3)  , we 
+ MATH   for all  MATH  and   MATH  . By  (6.3) , we have  MATH 
+ MATH  . By  (6.3) , we have  MATH   for all  MATH  with   MATH 
+ we have  MATH  for all   MATH   with  MATH .
+ MATH   for all  MATH  with   MATH  .
+If   MATH   is a double root of 
+ from  Lemma 5.2 , we have  MATH   for all  MATH  and   MATH 
+ we have  MATH  for all   MATH   and  MATH  . It follows from 
+ MATH   for all  MATH  and   MATH   . It follows from the homogeneity 
+ follows from the homogeneity of   MATH   that MATH  for all   MATH 
+ the homogeneity of  β  that  MATH   for all  MATH  and   MATH 
+ β   that MATH  for all   MATH   and  MATH . By  (6.3)  , we 
+ MATH   for all  MATH  and   MATH  . By  (6.3) , we have  MATH 
+ MATH  . By  (6.3) , we have  MATH   for all  MATH .
+ we have  MATH  for all   MATH  .
+Similarly if   MATH   is a triple root of 
+ root of Δ, we have   MATH   for all  MATH  and   MATH 
+ we have  MATH  for all   MATH   and  MATH  . Using homogeneity of 
+ MATH   for all  MATH  and   MATH  . Using homogeneity of  β  , once 
+ and  MATH . Using homogeneity of   MATH  , once again we have  MATH 
+ β  , once again we have  MATH   for all  MATH  and   MATH 
+ we have  MATH  for all   MATH   and  MATH . By  (6.3)  , we 
+ MATH   for all  MATH  and   MATH  . By  (6.3) , we have  MATH 
+ MATH  . By  (6.3) , we have  MATH   for all  MATH .
+ we have  MATH  for all   MATH  .
+ obtain the following estimate for   MATH   in  MATH : MATH  where   MATH 
+ following estimate for  Z  in   MATH  : MATH  where  MATH  corresponds to 
+ estimate for  Z  in  MATH :  MATH   where  MATH  corresponds to the 
+ Z   in  MATH : MATH  where   MATH   corresponds to the case when 
+ corresponds to the case when   MATH   is invertible at  MATH  , and 
+ when  MATH  is invertible at   MATH  , and  MATH  corresponds to the 
+ is invertible at  MATH , and   MATH   corresponds to the multiplicity of 
+ corresponds to the multiplicity of   MATH   as a root of Δ. 
+ Lemma 5.1   we know either   MATH   is invertible at  MATH  or 
+ either  MATH  is invertible at   MATH   or  MATH  is a simple 
+ is invertible at  MATH  or   MATH   is a simple root of 
+ (6.8)   we can always have  MATH   for all  MATH  with   MATH 
+ always have  MATH  for all   MATH   with  MATH  and all   MATH 
+ MATH   for all  MATH  with   MATH   and all  MATH . From   (6.1) 
+ MATH   with  MATH  and all   MATH  . From  (6.1) , we have  MATH 
+ MATH  . From  (6.1) , we have  MATH   Using the boundedness of   MATH 
+ MATH   Using the boundedness of   MATH   in  MATH  and summing up 
+ the boundedness of  MATH  in   MATH   and summing up the estimates 
+ over all the conic zones   MATH  , we obtain MATH  for all 
+ conic zones  MATH , we obtain  MATH   for all  MATH  with   MATH 
+ we obtain  MATH  for all   MATH   with  MATH  . Then integrating the 
+ MATH   for all  MATH  with   MATH   . Then integrating the above inequality 
+ above inequality with respect to   MATH   over  MATH  and recalling   (3.12) 
+ with respect to  MATH  over   MATH   and recalling  (3.12)  we have 
+ and recalling  (3.12)  we have  MATH   which implies  (2.27) .
+ holds,  Lemma 5.1  indicates that   MATH   may be a nonzero point, 
+ From  (6.8)  we always have  MATH   for all  MATH  with   MATH 
+ always have  MATH  for all   MATH   with  MATH  and all   MATH 
+ MATH   for all  MATH  with   MATH   and all  MATH  . Thus from 
+ MATH   with  MATH  and all   MATH  . Thus from  (6.1)  , we have 
+ Thus from  (6.1) , we have  MATH   Patching up the estimates over 
+ over all the conic zones   MATH   we obtain MATH  for all 
+ conic zones  MATH  we obtain  MATH   for all  MATH  with   MATH 
+ we obtain  MATH  for all   MATH   with  MATH . Integration in   MATH 
+ MATH   for all  MATH  with   MATH  . Integration in  MATH  over   MATH 
+ MATH   with  MATH . Integration in   MATH   over  MATH  implies MATH  which 
+ MATH  . Integration in  MATH  over   MATH   implies MATH  which proves   (2.28) 
+ in  MATH  over  MATH  implies  MATH   which proves  (2.28) .
+ from  Lemma 5.1  we know   MATH   may be a nonzero point, 
+ Δ, and hence we have   MATH   for all  MATH  with   MATH 
+ we have  MATH  for all   MATH   with  MATH  and all   MATH 
+ MATH   for all  MATH  with   MATH   and all  MATH  . Converting into 
+ MATH   with  MATH  and all   MATH  . Converting into  MATH  , we have 
+ and all  MATH . Converting into   MATH  , we have MATH  Therefore  MATH 
+ Converting into  MATH , we have  MATH   Therefore MATH  for all   MATH 
+ MATH  , we have MATH  Therefore  MATH   for all  MATH  with   MATH 
+ MATH   Therefore MATH  for all   MATH   with  MATH  , which shows that 
+ MATH   for all  MATH  with   MATH  , which shows that MATH  proving 
+ with  MATH , which shows that  MATH   proving estimate  (2.29)  . Thus we 
+ isentropic Euler flow (cf.  [16] ):  MATH   We use the same change 
+ around the rectilinear vortex sheets:   MATH   where  MATH  and  ρ  are 
+ rectilinear vortex sheets:  MATH  where   MATH   and  ρ  are real numbers. 
+ sheets:  MATH  where  MATH  and   MATH   are real numbers. We keep 
+ Lemma 4.2]  , we know that   MATH   and  MATH  have nonzero real 
+ we know that  MATH  and   MATH   have nonzero real parts, provided 
+ nonzero real parts, provided that   MATH   on Σ, and the corresponding 
+ and the corresponding eigenvectors are   MATH   By a direct computation, and 
+ direct computation, and note that   MATH   and  MATH  are the roots 
+ and note that  MATH  and   MATH   are the roots with negative 
+ with negative real parts for   MATH   on Σ, we have   MATH 
+ MATH   on Σ, we have   MATH   and  MATH  . By the same 
+ Σ, we have  MATH  and   MATH   . By the same argument as 
+ as in Section  4.2 , for   MATH   , there is an open neighborhood 
+ there is an open neighborhood   MATH   and a matrix  MATH  which 
+ neighborhood  MATH  and a matrix   MATH   which is invertible in   MATH 
+ MATH   which is invertible in   MATH  , such that MATH  Similarly as 
+ invertible in  MATH , such that  MATH   Similarly as in our elasticity 
+ as in our elasticity model,   MATH   and  MATH  may blow up 
+ our elasticity model,  MATH  and   MATH   may blow up to infinity 
+ But since only the points   MATH   with  MATH  will be involved 
+ only the points  MATH  with   MATH   will be involved in the 
+ Lemma 4.5]  , for any root   MATH   of the Lopatinskii determinant, there 
+ there is an open neighborhood   MATH   of  MATH  in Σ and 
+ an open neighborhood  MATH  of   MATH   in Σ and a constant 
+ in Σ and a constant   MATH   , such that following estimates hold 
+ following estimates hold for all   MATH  : MATH  For the points   MATH 
+ estimates hold for all  MATH :  MATH   For the points  MATH  which 
+ MATH  : MATH  For the points   MATH   which is not a root 
+ still obtain an open neighborhood   MATH   of  MATH  in Σ and 
+ an open neighborhood  MATH  of   MATH   in Σ and a constant 
+ in Σ and a constant   MATH   , such that the following estimates 
+ following estimates hold for all   MATH  : MATH  Thus by shrinking the 
+ estimates hold for all  MATH :  MATH   Thus by shrinking the open 
+ by shrinking the open neighborhood   MATH   for each point  MATH  if 
+ neighborhood  MATH  for each point   MATH   if necessary, we can obtain 
+ we can obtain the matrix   MATH   and the constant  MATH  such 
+ matrix  T  and the constant   MATH   such that  (7.1)  and   (7.2) 
+ or  (7.3)  hold for all   MATH   . Hence we can apply the 
+ two-dimensional isentropic MHD (cf.  [56] ):  MATH   We linearize the system around 
+ around the rectilinear vortex sheets:   MATH   where the components of   MATH 
+ MATH   where the components of   MATH   are constants satisfying MATH  Similarly, 
+ of  MATH  are constants satisfying  MATH   Similarly, keeping the same argument 
+ to Lemma 4.1, we obtain   MATH   where MATH  with MATH  By 
+ 4.1, we obtain  MATH  where  MATH   with MATH  By   [56, Lemma 
+ obtain  MATH  where MATH  with  MATH   By  [56, Lemma 4.1]  , if 
+ By  [56, Lemma 4.1] , if   MATH   with  MATH , the eigenvalues   MATH 
+ Lemma 4.1]  , if  MATH  with   MATH  , the eigenvalues  MATH  and   MATH 
+ MATH   with  MATH , the eigenvalues   MATH   and  MATH  have negative real 
+ MATH  , the eigenvalues  MATH  and   MATH   have negative real parts and 
+ and the corresponding eigenvectors are   MATH   where MATH  Then we want 
+ corresponding eigenvectors are  MATH  where  MATH   Then we want to examine 
+ we want to examine whether   MATH   can vanish on Σ. Setting 
+ can vanish on Σ. Setting   MATH  , it is obvious that   MATH 
+ MATH  , it is obvious that   MATH  , which, by   [56, Lemma 4.2] 
+ equivalent to the condition that   MATH   or  MATH . Note that   MATH 
+ the condition that  MATH  or   MATH  . Note that  MATH  is undefined 
+ MATH   or  MATH . Note that   MATH   is undefined at  MATH  . Moreover 
+ that  MATH  is undefined at   MATH  . Moreover MATH  On the other 
+ is undefined at  MATH . Moreover  MATH   On the other hand, a 
+ direct computation shows that when   MATH  , we have  MATH . Thus   MATH 
+ that when  MATH , we have   MATH  . Thus  MATH  in Σ. Similarly 
+ MATH  , we have  MATH . Thus   MATH   in Σ. Similarly we can 
+ Similarly we can show that   MATH   in Σ. Hence again we 
+ Section  4.2  to upper triangularize   MATH   in an open neighborhood   MATH 
+ A   in an open neighborhood   MATH   of each point  MATH  in 
+ neighborhood  MATH  of each point   MATH   in Σ. For the Lopatinskii 

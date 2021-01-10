@@ -1,0 +1,690 @@
+ with constant scalar curvature in   MATH   are isoparametric
+ any closed minimal Willmore hypersurface   MATH   of  MATH  with constant scalar 
+ minimal Willmore hypersurface  MATH  of   MATH   with constant scalar curvature must 
+ be isoparametric. To be precise,   MATH   is either an equatorial 4 
+ sphere, a product of sphere   MATH   or a Cartan's minimal hypersurface. 
+ of the second fundamental form   MATH   can only be 0, 4, 
+Let  MATH   be the value of the 
+7(text): be the value of the squared norm of the second fundamental forms for n-dimensional closed minimal hypersurfaces in the unit sphere
+ hypersurfaces in the unit sphere   MATH   with constant scalar curvature, then 
+ curvature, then the set of   MATH  should be discrete.
+10(text): should be discrete.
+11(text): Let
+(J. Simons  [17] )  Let  MATH   be an n-dimensional closed minimal 
+ n-dimensional closed minimal hypersurface in   MATH  unit sphere MATH . Then  MATH 
+14(text): unit sphere
+ hypersurface in  a unit sphere  MATH  . Then MATH where S  denotes 
+16(text): . Then
+ a  unit sphere MATH . Then  MATH  where S  denotes the squared 
+ sphere  MATH . Then MATH where  MATH   denotes the squared norm of 
+19(text): denotes the squared norm of the second fundamental form of
+ the second fundamental form of   MATH  .
+21(text): .
+ we conclude immediately that if   MATH  , then either  MATH  or   MATH 
+ that if  MATH , then either   MATH   or  MATH  . And the latter 
+ MATH  , then either  MATH  or   MATH   . And the latter case was 
+ only closed minimal hypersurfaces in   MATH   with  MATH .
+ minimal hypersurfaces in  MATH  with   MATH  .
+ Cartan, the next value of   MATH   may be 2 n  . In 
+ of  S  may be 2  MATH  . In  [13]  , C.K. Peng and 
+ considered the next value of   MATH   and proved  MATH  if   MATH 
+ value of  S  and proved   MATH   if  MATH  and  S  is 
+ S   and proved  MATH  if   MATH   and  S  is a constant. 
+ proved  MATH  if  MATH  and   MATH   is a constant. Q.M. Cheng 
+ Yang improved this result to   MATH   (please see  [21–23]  for details). 
+ [18]   improved Cheng–Yang's result to   MATH  .
+35(text): Open Problem
+Open Problem  Let   MATH   be a closed minimal hypersurface 
+ a closed minimal hypersurface in   MATH   with  S  = constant. If   MATH 
+ minimal hypersurface in  MATH  with   MATH   = constant. If  MATH , then   MATH 
+ MATH   with  S  = constant. If   MATH  , then  MATH ?
+ S   = constant. If  MATH , then   MATH  ?
+Moreover, for the case   MATH  , Peng–Terng  [13]  proved the following 
+42(text): Let
+(Peng–Terng  [13] )  Let  MATH  be a  closed minimal hypersurface 
+ (Peng–Terng  [13] )  Let MATH be  MATH  closed minimal hypersurface in  MATH 
+45(text): closed minimal hypersurface in
+ a  closed minimal hypersurface in  MATH  with S  =  constant. If  MATH 
+ minimal hypersurface in  MATH with  MATH   =  constant. If MATH , then  MATH 
+48(text): constant. If
+ MATH  with S  =  constant. If  MATH  , then MATH . Moreover, MATH  is 
+50(text): , then
+ S   =  constant. If MATH , then  MATH  . Moreover, MATH  is assumed in 
+52(text): . Moreover,
+ If  MATH , then MATH . Moreover,  MATH   is assumed in the example 
+54(text): is assumed in the example of Cartan
+55(text): [3]
+56(text): and Hsiang
+57(text): [8]
+58(text): .
+ the following classification theorem for   MATH   . Thus Chern's conjecture is right 
+ Chern's conjecture is right for   MATH  .
+(Chang's Classification Theorem  [5] )   MATH   closed minimally immersed hypersurface with 
+62(text): closed minimally immersed hypersurface with constant scalar curvature in
+ with constant scalar curvature in   MATH   is either an equatorial 3-sphere, 
+ is either an equatorial 3-sphere,   MATH  product of sphere, or  a 
+ a  product of sphere, or  MATH  Cartan's minimal hypersurface.
+66(text): Cartan's minimal hypersurface.
+In particular,  MATH  can only be MATH .
+68(text): can only be
+ particular,  S can only be  MATH  .
+70(text): .
+For the closed hypersurface   MATH   of  MATH  with constant mean 
+ the closed hypersurface  MATH  of   MATH   with constant mean curvature and 
+ S.P. Chang  [4]  proved that   MATH   is isoparametric. There is another 
+(Almeida–Brito–Sousa Jr.  [2] )  Let  MATH  K and R  be the 
+ (Almeida–Brito–Sousa Jr.  [2] )  Let H,  MATH  and R  be the mean 
+ [2]  )  Let H, K and  MATH   be the mean curvature, the 
+77(text): be the mean curvature, the Gauss–Kronecker curvature and scalar curvature of
+ curvature and scalar curvature of   MATH   . If two out of these 
+79(text): . If two out of these three functions are constant, then either
+ are constant, then either   (1)   MATH   is an isoparametric hypersurface of 
+81(text): is an isoparametric hypersurface of
+ is an isoparametric hypersurface of   MATH  or  (2)  MATH .
+83(text): or
+ hypersurface of  MATH or  (2)   MATH  .
+85(text): .
+However, if   MATH   is not closed, then we 
+ MATH  piece of a  minimally immersed 
+A piece of  MATH   minimally immersed hypersurface of constant 
+89(text): minimally immersed hypersurface of constant scalar curvature in
+ of constant scalar curvature in   MATH  is isoparametric.
+91(text): is isoparametric.
+For the case   MATH   , T. Lusala, M. Scherfner and 
+(Lusala-Scherfner-Sousa Jr.  [11,15] )   MATH  closed minimal Willmore hypersurface  MATH 
+94(text): closed minimal Willmore hypersurface
+ A  closed minimal Willmore hypersurface  MATH  of MATH  with nonnegative constant 
+96(text): of
+ minimal Willmore hypersurface  MATH of  MATH   with nonnegative constant scalar curvature 
+98(text): with nonnegative constant scalar curvature must be isoparametric.
+ If we do not require   MATH   to have constant scalar curvature, 
+(Peng–Terng  [14] )  Let  MATH  be a  closed minimally immersed 
+ (Peng–Terng  [14] )  Let M be  MATH   closed minimally immersed hypersuface in 
+102(text): closed minimally immersed hypersuface in
+ closed minimally immersed hypersuface in   MATH  , MATH , and S  the square 
+104(text): ,
+ minimally immersed hypersuface in  MATH ,  MATH  , and S  the square of 
+ hypersuface in  MATH , MATH , and  MATH   the square of the length 
+ the second fundamental form of   MATH  Then there exists MATH  such 
+108(text): Then there exists
+ of  M. Then there exists  MATH  such that if MATH  then 
+110(text): such that if
+ exists  MATH such that if  MATH  then MATH , hence M  is 
+112(text): then
+ such that if  MATH then  MATH  , hence M is a  Clifford 
+ if  MATH then MATH , hence  MATH  is a Clifford torus.
+ then  MATH , hence M is  MATH  Clifford torus.
+116(text): Clifford torus.
+ improved the above theorem from   MATH   to  MATH  . And then Q. 
+ above theorem from  MATH  to   MATH  . And then Q. Zhang   [24] 
+ Zhang  [24]  extended it to   MATH  , and finally Ding–Xin  [7]  extended 
+ with constant scalar curvature in   MATH   , we will prove the following 
+121(text): Any closed minimal Willmore hypersurface
+ Any closed minimal Willmore hypersurface   MATH  of MATH  with constant scalar 
+123(text): of
+ minimal Willmore hypersurface  MATH of  MATH   with constant scalar curvature must 
+125(text): with constant scalar curvature must be isoparametric. To be precise,
+ be isoparametric. To be precise,   MATH  is either an equatorial  4 
+ MATH  is either an equatorial  MATH  sphere, a  product of sphere 
+ either an equatorial  4 sphere,  MATH  product of sphere MATH  or 
+129(text): product of sphere
+ sphere,  a product of sphere  MATH  or a  Cartan's minimal hypersurface. 
+ product of sphere  MATH or  MATH  Cartan's minimal hypersurface.
+132(text): Cartan's minimal hypersurface.
+In particular,  MATH  can only be 0,  4, 
+ particular,  S can only be  MATH  4, 12.
+ S  can only be 0,  MATH  12.
+136(text): 12.
+ closed Willmore minimal hypersurfaces in   MATH  . In section  3  , we will 
+ that it is Clifford torus   MATH   . This case has been dealt 
+ the minimal value point of   MATH   and prove that  MATH  if 
+ of  MATH  and prove that   MATH   if there are four distinct 
+ closed Willmore minimal hypersurfaces in   MATH 
+ closed Willmore minimal hypersurfaces in   MATH   , which can be found in 
+Let   MATH   be an  n  -dimensional closed 
+Let  MATH  be an   MATH   -dimensional closed hypersurface with constant 
+ hypersurface with constant mean curvature   MATH   in  MATH  and then we 
+ constant mean curvature  H  in   MATH   and then we can choose 
+ choose local orthonormal frame fields   MATH   such that  MATH  is tangent 
+ frame fields  MATH  such that   MATH   is tangent to  MATH  . Denote 
+ that  MATH  is tangent to   MATH  . Denote  MATH  and  H  as 
+ is tangent to  MATH . Denote   MATH   and  H  as the second 
+ to  MATH . Denote  MATH  and   MATH   as the second fundamental form 
+ the mean curvature respectively. Then   MATH 
+ For an arbitrary fixed point   MATH   , we take orthonormal frames such 
+ take orthonormal frames such that   MATH   at  p , for all   MATH 
+ frames such that  MATH  at   MATH  , for all  MATH  . Then at 
+ MATH   at  p , for all   MATH  . Then at this point   p 
+ MATH  . Then at this point   MATH  , we have MATH
+ this point  p , we have  MATH 
+ with constant scalar curvature means   MATH   and  S  is constant (please 
+ scalar curvature means  MATH  and   MATH   is constant (please see   [10] 
+ [10]   for details). And if   MATH  , then MATH  (Please see   [11] 
+ details). And if  MATH , then  MATH   (Please see  [11]  for details.) 
+Let   MATH   and  MATH  be the components 
+Let  MATH  and   MATH   be the components of the 
+ the second fundamental form. Define   MATH   by MATH  Followed by the 
+ fundamental form. Define  MATH  by  MATH   Followed by the straightforward computation 
+ hypersurfaces with constant scalar curvature:   MATH  MATH MATH MATH MATH
+ with constant scalar curvature:  MATH  MATH  MATH MATH MATH
+ constant scalar curvature:  MATH MATH  MATH  MATH MATH
+ scalar curvature:  MATH MATH MATH  MATH  MATH
+ curvature:  MATH MATH MATH MATH  MATH 
+172(text): Let
+Let  MATH  be a  closed minimal Willmore 
+Let MATH be  MATH   closed minimal Willmore hypersurface with 
+ scalar curvature. If there exists   MATH   point with two distinct principal 
+176(text): point with two distinct principal curvatures, then
+ two distinct principal curvatures, then   MATH  and M  is Clifford torus 
+ principal curvatures, then  MATH and  MATH  is Clifford torus MATH .
+179(text): is Clifford torus
+ and  M is Clifford torus  MATH  .
+181(text): .
+ we will always assume that   MATH   is a closed Willmore minimal 
+ closed Willmore minimal hypersurface in   MATH   with constant scalar curvature, and 
+ point at which we have   MATH   . Moreover, all the computations are 
+185(text): For any
+For any  MATH  , we have MATH
+187(text): , we have
+ For any  MATH , we have  MATH 
+Since the mean curvature   MATH   , after taking the derivative, we 
+ taking the derivative, we have   MATH  , for any  MATH . Similarly,   MATH 
+ we have  MATH , for any   MATH  . Similarly,  MATH  is constant, then 
+ MATH  , for any  MATH . Similarly,   MATH   is constant, then  MATH  , for 
+ Similarly,  MATH  is constant, then   MATH  , for any  MATH  . The lemma 
+ constant, then  MATH , for any   MATH   . The lemma holds immediately by 
+ immediately by the observation that   MATH  .  □
+ the derivatives of the function   MATH   defined on  M .
+ the function  MATH  defined on   MATH  .
+Because   MATH   is a Willmore hypersurface, we 
+ a Willmore hypersurface, we have   MATH   which implies  MATH  , for any 
+ we have  MATH  which implies   MATH  , for any  MATH  . More precisely, 
+ which implies  MATH , for any   MATH  . More precisely,
+ MATH  MATH MATH MATH MATH  MATH 
+MATH  MATH  MATH MATH MATH MATH  MATH 
+MATH MATH  MATH  MATH MATH MATH MATH  MATH 
+MATH MATH MATH  MATH  MATH MATH MATH MATH
+MATH MATH MATH MATH  MATH  MATH MATH MATH
+ MATH  MATH MATH MATH MATH  MATH  MATH MATH
+ MATH  MATH MATH MATH MATH  MATH  MATH
+ MATH  MATH MATH MATH MATH  MATH 
+For any fixed direction   MATH  , we can get  MATH  by 
+ direction  MATH , we can get   MATH   by rotating the directions   MATH 
+ MATH   by rotating the directions   MATH   and  MATH  with some appropriate 
+ rotating the directions  MATH  and   MATH   with some appropriate angles. Without 
+ loss of generality, assume that   MATH  . Then from equation  (3.5)  , we 
+ from equation  (3.5) , we obtain  MATH   The product being 0 tells 
+Case  MATH  MATH .
+Case I:  MATH  .
+ equation  (3.3) , we obtain that  MATH   Since  MATH  is invariant under 
+ we obtain that  MATH  Since   MATH   is invariant under the rotation 
+ invariant under the rotation of   MATH   and  MATH  , combining this and 
+ the rotation of  MATH  and   MATH  , combining this and equation   (3.10) 
+ equation  (3.10) , we get that   MATH  , for any directions  MATH  and 
+ that  MATH , for any directions   MATH   and  MATH . Recalling equation   (3.3) 
+ for any directions  MATH  and   MATH  . Recalling equation  (3.3)  , we obtain 
+ equation  (3.3) , we obtain that   MATH   is true for any directions 
+ is true for any directions   MATH   and  MATH . That indicates   (3.10) 
+ for any directions  MATH  and   MATH  . That indicates  (3.10)  is always 
+ always true for any directions   MATH   and  MATH  under this case. 
+ for any directions  MATH  and   MATH   under this case.
+If   MATH  , then we have  MATH  , which 
+ If  MATH , then we have   MATH   , which again contains two subcases: 
+232(text): Subcase I.1:
+Subcase I.1:  MATH  .
+In this subcase,   MATH  , for all  MATH  , which proves 
+ this subcase,  MATH , for all   MATH  , which proves  Theorem 3.1 .
+236(text): Subcase I.2:
+Subcase I.2:  MATH  .
+ subcase, equation  (3.2)  reduces to  MATH 
+ Claim that there exist directions   MATH   and  MATH , such that   MATH 
+ there exist directions  MATH  and   MATH  , such that  MATH .
+ MATH   and  MATH , such that   MATH  .
+Indeed,   MATH   is invariant under the rotation 
+ invariant under the rotation of   MATH   and  MATH . Suppose  MATH ,   MATH 
+ the rotation of  MATH  and   MATH  . Suppose  MATH ,  MATH  , then by 
+ of  MATH  and  MATH . Suppose   MATH  ,  MATH  , then by direct calculation 
+ MATH   and  MATH . Suppose  MATH ,   MATH   , then by direct calculation and 
+ by direct calculation and  (3.1) ,   MATH   holds. By using the extreme 
+ find that there exists a   MATH  , such that  MATH  . The claim 
+ exists a  θ , such that   MATH  . The claim is true.
+ Hence for the fixed directions   MATH   and  MATH ,  (3.11)  is equivalent 
+ the fixed directions  MATH  and   MATH  ,  (3.11)  is equivalent to  MATH 
+ MATH  ,  (3.11)  is equivalent to  MATH 
+If   MATH  , then for the fixed   MATH 
+ MATH  , then for the fixed   MATH   , we can rotate the directions 
+ we can rotate the directions   MATH   and  MATH , such that   MATH 
+ rotate the directions  MATH  and   MATH  , such that  MATH  . Then we 
+ MATH   and  MATH , such that   MATH   . Then we can apply the 
+ Case I, we get all   MATH   except  MATH  and they satisfy 
+ we get all  MATH  except   MATH   and they satisfy the following 
+ they satisfy the following relation:   MATH   So, actually there is just 
+ there is just one term   MATH   unknown in Case I.
+262(text): Case II:
+Case II:  MATH  .
+ (3.2)   to  (3.9) , we get  MATH  MATH MATH MATH MATH  MATH 
+ to  (3.9) , we get MATH  MATH  MATH MATH MATH MATH  MATH 
+ (3.9)  , we get MATH MATH  MATH  MATH MATH MATH MATH
+ we get  MATH MATH MATH  MATH  MATH MATH MATH
+ get  MATH MATH MATH MATH  MATH  MATH MATH
+ MATH  MATH MATH MATH MATH  MATH  MATH
+ MATH  MATH MATH MATH MATH  MATH 
+Equation  (3.13) ,   MATH  , implies  MATH  or  MATH .
+Equation  (3.13) ,  MATH , implies   MATH   or  MATH .
+ (3.13)  ,  MATH , implies  MATH  or   MATH  .
+274(text): Subcase II.1:
+Subcase II.1:  MATH  .
+ equation  (3.18) , it follows immediately  MATH 
+ equation  (3.17) , we also obtain  MATH 
+ as the equation system of   MATH   and  MATH . Furthermore, if   MATH 
+ equation system of  MATH  and   MATH  . Furthermore, if  MATH , then  MATH 
+ MATH   and  MATH . Furthermore, if   MATH  , then MATH  This is of 
+ MATH  . Furthermore, if  MATH , then  MATH   This is of Case I. 
+If   MATH   , we shall not do processing. 
+283(text): Subcase II.2:
+Subcase II.2:  MATH  .
+ and equation  (3.18) , it yields  MATH 
+ (3.17)  , we can also get  MATH 
+ as the equation system of   MATH   and  MATH . So if   MATH 
+ equation system of  MATH  and   MATH  . So if  MATH , then  MATH 
+ MATH   and  MATH . So if   MATH  , then MATH  which reduced to 
+ MATH  . So if  MATH , then  MATH   which reduced to Case I. 
+If   MATH   , we will leave it here 
+ Case II, the information of   MATH   is required. Hence we should 
+ first explore the information of   MATH   in Case I, and then 
+ taking the calculations in case   MATH   into consideration, we have for 
+ we have for any fixed   MATH  MATH MATH More precisely,  MATH 
+ have for any fixed  k,  MATH  MATH More precisely, MATH  MATH 
+ for any fixed  k, MATH  MATH  More precisely, MATH MATH  MATH 
+298(text): More precisely,
+ k,  MATH MATH More precisely,  MATH  MATH MATH MATH Therefore  MATH 
+ MATH  MATH More precisely, MATH  MATH  MATH MATH Therefore MATH
+ MATH  More precisely, MATH MATH  MATH  MATH Therefore MATH
+ More precisely,  MATH MATH MATH  MATH  Therefore MATH
+303(text): Therefore
+ MATH  MATH MATH MATH Therefore  MATH 
+Since the mean curvature   MATH  , this gives us  MATH  , for 
+ curvature  MATH , this gives us   MATH  , for any  MATH . Similarly,   MATH 
+ gives us  MATH , for any   MATH  . Similarly,  MATH , we have   MATH 
+ MATH  , for any  MATH . Similarly,   MATH  , we have  MATH  , for any 
+ MATH  . Similarly,  MATH , we have   MATH  , for any  MATH  . Note that 
+ we have  MATH , for any   MATH  . Note that  MATH  , we can 
+ for any  MATH . Note that   MATH  , we can get  (3.23)  . Moreover, 
+ we can use the facts:   MATH   and  MATH .  □
+ use the facts:  MATH  and   MATH  .  □
+ under the assumptions in Case   MATH  Then we have MATH  MATH 
+315(text): Then we have
+ Case  I. Then we have  MATH  MATH
+ I.  Then we have MATH  MATH 
+Since   MATH  , taking the derivative of   MATH 
+ MATH  , taking the derivative of   MATH   on both sides, we conclude 
+ on both sides, we conclude   MATH   In particular, for  MATH  , we 
+ conclude  MATH  In particular, for   MATH  , we have MATH  By direct 
+ particular, for  MATH , we have  MATH   By direct computation, we get 
+ By direct computation, we get   MATH   Furthermore, when  MATH  , we have 
+ we get  MATH  Furthermore, when   MATH  , we have MATH  Combining   (3.31) 
+ Furthermore, when  MATH , we have  MATH   Combining  (3.31)  and  (3.32)  , the 
+ and  (3.32) , the following holds  MATH 
+ We can also deduce that   MATH   by  (3.1)  . This result together 
+ under the assumption in Case   MATH  Then we have MATH
+329(text): Then we have
+ Case  I. Then we have  MATH 
+ the derivative of the function   MATH   gives us MATH  Since   M 
+ the function  MATH  gives us  MATH   Since  M  is a Willmore 
+ MATH   gives us MATH  Since   MATH   is a Willmore hypersurface,   MATH 
+ M   is a Willmore hypersurface,   MATH  . Note that  MATH  , we are 
+ Willmore hypersurface,  MATH . Note that   MATH   , we are going to show 
+ we are going to show   MATH   We will write this in 
+Step  MATH  MATH
+Step 1:  MATH 
+Set   MATH   in  (3.34) , we get  MATH 
+ MATH   in  (3.34) , we get  MATH   On the one hand, the 
+ term can be interpreted as   MATH   where in the second equality 
+ the second term reduces to   MATH   using the fact that   MATH 
+ MATH   using the fact that   MATH  .
+ and  Lemma 3.6 , we get  MATH 
+Step  MATH  MATH
+Step 2:  MATH 
+Setting   MATH   in  (3.34)  yields MATH  Indeed, 
+ Setting  MATH  in  (3.34)  yields  MATH   Indeed, as  MATH  , we get 
+ (3.34)   yields MATH  Indeed, as   MATH  , we get MATH
+ Indeed, as  MATH , we get  MATH 
+Step  MATH  MATH
+Step 3:  MATH 
+Setting   MATH   in  (3.34)  concludes MATH  On 
+ Setting  MATH  in  (3.34)  concludes  MATH   On the one hand, the 
+ one hand, the first term   MATH   On the other hand, the 
+ other hand, the second term   MATH   By  MATH  , the third term 
+ the second term  MATH  By   MATH   , the third term can be 
+ term can be simplified to   MATH 
+ in Step 1, we get   MATH 
+Step  MATH  MATH
+Step 4:  MATH 
+Set   MATH   in  (3.34) , then MATH  In 
+ Set  MATH  in  (3.34) , then  MATH   In fact, the first term 
+ In fact, the first term   MATH   Moreover, the second term  MATH 
+ MATH   Moreover, the second term  MATH   and the third term becomes 
+ and the third term becomes   MATH   using the fact  MATH .
+ becomes  MATH  using the fact   MATH  .
+ the above equalities, we get   MATH 
+ before, in Case I, all   MATH   except  MATH  and  MATH  . And 
+ Case I, all  MATH  except   MATH   and  MATH  . And they have 
+ all  MATH  except  MATH  and   MATH   . And they have the relations 
+ And they have the relations   MATH 
+373(text): Let
+Let  MATH  be a  closed minimal Willmore 
+Let MATH be  MATH   closed minimal Willmore hypersurface with 
+ scalar curvature. If there exists   MATH   point with two distinct principal 
+377(text): point with two distinct principal curvatures, without loss of generality, suppose
+ without loss of generality, suppose   MATH   at this point. Moreover, suppose 
+ suppose it is of Case   MATH  Then MATH and M  is 
+380(text): Then
+ is of Case  I. Then  MATH  and M  is Clifford torus 
+ Case  I. Then MATH and  MATH  is Clifford torus MATH .
+383(text): is Clifford torus
+ and  M is Clifford torus  MATH  .
+385(text): .
+ know that in case I,   MATH  . Hence either  MATH  or   MATH 
+ case I,  MATH . Hence either   MATH   or  MATH .
+ MATH  . Hence either  MATH  or   MATH  .
+If   MATH  , claim that MATH
+If  MATH , claim that  MATH 
+ it is easy to conclude   MATH   Hence  MATH  directly.
+ easy to conclude  MATH  Hence   MATH   directly.
+In order to obtain   MATH   , we should use some other 
+ in  Lemma 3.7  together with   MATH  , we get MATH  If   MATH 
+ together with  MATH , we get  MATH   If  MATH , then MATH  It 
+ MATH  , we get MATH  If   MATH  , then MATH  It means   MATH 
+ get  MATH  If  MATH , then  MATH   It means  MATH  . As a 
+ MATH  , then MATH  It means   MATH  . As a result MATH  Since 
+ means  MATH . As a result  MATH   Since  MATH , then  MATH  . Hence 
+ As a result  MATH  Since   MATH  , then  MATH . Hence  MATH .
+ result  MATH  Since  MATH , then   MATH  . Hence  MATH .
+ Since  MATH , then  MATH . Hence   MATH  .
+ as above, we can get   MATH   Substituting  MATH  into this equality, 
+ we can get  MATH  Substituting   MATH   into this equality, we obtain 
+ into this equality, we obtain   MATH   which proves the claim.
+ is easy to verify that   MATH   , which contradicts the claim. This 
+ contradicts the claim. This implies   MATH  . Therefore  Theorem 3.1  has been 
+ 3.1   has been proven when   MATH  .
+If   MATH  , we want to show  MATH 
+ MATH  , we want to show  MATH 
+Actually,   MATH   is also true in this 
+ MATH   can be obtained by the 
+ Lemma 3.7   and combining with   MATH  , we get MATH  If   MATH 
+ combining with  MATH , we get  MATH   If  MATH , then MATH  Notice 
+ MATH  , we get MATH  If   MATH  , then MATH  Notice  MATH  , we 
+ get  MATH  If  MATH , then  MATH   Notice  MATH , we obtain  MATH 
+ If  MATH , then MATH  Notice   MATH  , we obtain MATH  Since   MATH 
+ MATH   Notice  MATH , we obtain  MATH   Since  MATH  , it is clear 
+ MATH  , we obtain MATH  Since   MATH  , it is clear that   MATH 
+ MATH  , it is clear that   MATH  . Hence  MATH . By using   (3.27) 
+ is clear that  MATH . Hence   MATH  . By using  (3.27)  , we conclude 
+ By using  (3.27) , we conclude  MATH 
+ as above, we can get   MATH   Therefore  MATH  follows from   MATH 
+ we can get  MATH  Therefore   MATH   follows from  MATH .
+ MATH   Therefore  MATH  follows from   MATH  .
+ Lemma 3.7  , we can get   MATH   . Combining this and the above 
+ obtain the contradiction! This implies   MATH  , and then  MATH  , for all 
+ This implies  MATH , and then   MATH  , for all  MATH  . So we 
+ and then  MATH , for all   MATH  . So we obtain   Theorem 3.1 
+ we obtain  Theorem 3.1  if   MATH  .
+ are going to find out   MATH   in Case II, and use 
+ Case I, we can rotate   MATH   and  MATH , such that   MATH 
+ we can rotate  MATH  and   MATH  , such that  MATH  . Combining this 
+ MATH   and  MATH , such that   MATH  . Combining this and equation   (3.13) 
+ equation  (3.13) , we can get  MATH   Hence either  MATH  or   MATH 
+ can get  MATH  Hence either   MATH   or  MATH  . We will only 
+ MATH   Hence either  MATH  or   MATH   . We will only present the 
+ proof for the case when   MATH   , the other one follows almost 
+ II.1. In this subcase, if   MATH  , then MATH  which reduces to 
+ this subcase, if  MATH , then  MATH   which reduces to Case I 
+ remains to show is when   MATH   . Applying all the conditions to 
+ (3.12)  – (3.18) , we get  MATH 
+If   MATH   , then by the same argument 
+ following, we always assume that   MATH  .
+445(text): Suppose the computations are considered under the assumptions in Case II. Then we have
+ Case II. Then we have   MATH 
+ know that, for any fixed   MATH  , MATH  On the other hand, 
+ that, for any fixed  MATH ,  MATH   On the other hand, under 
+ by direct computation, we have   MATH   The lemma follows immediately from 
+450(text): Suppose the computations are considered just under the assumption in Case II. Then we have
+ Case II. Then we have   MATH  MATH MATH MATH
+ II. Then we have  MATH  MATH  MATH MATH
+ Then we have  MATH MATH  MATH  MATH
+ we have  MATH MATH MATH  MATH 
+ the derivative of the function   MATH   directly and obtain that:  MATH 
+ MATH   directly and obtain that:  MATH   We will state our result 
+Step  MATH  MATH
+Step 1:  MATH 
+Substituting   MATH   into  (3.39) , we get  MATH 
+ MATH   into  (3.39) , we get  MATH   On the one hand, for 
+ first term, by direct computation   MATH   For the second term, we 
+ the second term, we have   MATH   Hence, by using the above 
+ the above equalities, we get   MATH 
+Step  MATH  MATH
+Step 2:  MATH 
+Setting   MATH   into  (3.39) , we get  MATH 
+ MATH   into  (3.39) , we get  MATH   Again, the first term vanishes 
+ the second term, we have   MATH   Hence, by using the above 
+ the above equalities, we get   MATH   By using  Lemma 3.4 ,   Lemma 
+ (3.40)  , we can get that:  MATH   Hence we finished the proof 
+Step  MATH  MATH
+Step 3:  MATH 
+Setting   MATH   into  (3.39) , we get  MATH 
+ MATH   into  (3.39) , we get  MATH   Similarly, for the first term, 
+ first term, by direct computation   MATH   For the second term, we 
+ the second term, we have   MATH   Combining the above equalities, we 
+ the above equalities, we obtain   MATH   So we finished the proof 
+Step  MATH  MATH
+Step 4:  MATH 
+Setting   MATH   into  (3.39) , we get  MATH 
+ MATH   into  (3.39) , we get  MATH   Meanwhile, for the first term, 
+ first term, by direct computation   MATH   For the second term, we 
+ the second term, we have   MATH   For the third term, we 
+ the third term, we have   MATH   Combining the above equalities, we 
+ the above equalities, we get   MATH 
+Step  MATH  MATH
+Step 5:  MATH 
+Setting   MATH   into  (3.39) , we get  MATH 
+ MATH   into  (3.39) , we get  MATH   Furthermore, for the first term, 
+ first term, by direct computation   MATH   For the second term, we 
+ the second term, we have   MATH   For the third term, we 
+ the third term, we have   MATH   Combining the above equalities, we 
+ the above equalities, we get   MATH   Combining  Lemma 3.4 ,   Lemma 3.9 
+ and  (3.43) , we can get  MATH   Hence we finished the proof 
+Step  MATH  MATH
+Step 6:  MATH 
+Setting   MATH   into  (3.39) , we get  MATH 
+ MATH   into  (3.39) , we get  MATH   In addition, for the first 
+ first term, by direct computation   MATH   For the second term, we 
+ the second term, we have   MATH   For the third term, we 
+ the third term, we have   MATH   Combining the above equalities, we 
+ the above equalities, we get   MATH   Combining  Lemma 3.4 ,  (3.36)  and 
+ and this equality, we obtain   MATH   So we finished the proof 
+ in Case II, we get   MATH  .
+505(text): Let
+Let  MATH  be a  closed minimal Willmore 
+Let MATH be  MATH   closed minimal Willmore hypersurface with 
+ scalar curvature. If there exists   MATH   point with two distinct principal 
+509(text): point with two distinct principal curvatures, without loss of generality, suppose
+ without loss of generality, suppose   MATH   at this point. Moreover, suppose 
+511(text): at this point. Moreover, suppose it is of Case II. Then
+ is of Case II. Then   MATH  and M  is Clifford torus 
+ Case II. Then  MATH and  MATH  is Clifford torus MATH .
+514(text): is Clifford torus
+ and  M is Clifford torus  MATH  .
+516(text): .
+ and  (3.35) , we can get  MATH   By using  Lemma 3.4  and 
+ 3.4   and  (3.37) , we get  MATH   Substituting  (3.44)  into this equality, 
+ into this equality, we get   MATH   Then applying  Lemma 3.4  and 
+ 3.4   and  (3.36) , we get  MATH   And also applying   Lemma 3.9 
+ 3.9   and  (3.38) , we get  MATH   Combining the equalities  (3.44)  – 
+ Lemma 3.9  , we can obtain  MATH  Lemma 3.4  alone tells us 
+ Lemma 3.4   alone tells us  MATH   From the above two equalities, 
+ curvatures at minimum point of   MATH 
+ curvatures everywhere on the hypersurface   MATH  . Suppose  MATH  and  MATH ,   MATH 
+ on the hypersurface  M . Suppose   MATH   and  MATH ,  MATH  . Define the 
+ hypersurface  M . Suppose  MATH  and   MATH  ,  MATH . Define the function   MATH 
+ M  . Suppose  MATH  and  MATH ,   MATH  . Define the function  MATH  on 
+ MATH  ,  MATH . Define the function   MATH   on  M  . Furthermore we assume 
+ Define the function  MATH  on   MATH   . Furthermore we assume at point 
+ Furthermore we assume at point   MATH   , it attains the minimum of 
+ it attains the minimum of   MATH   . If not specified, all the 
+ are considered at this point   MATH  .
+Taking the derivative of   MATH   at  P , we obtain  MATH 
+ the derivative of  MATH  at   MATH  , we obtain MATH  Since the 
+ MATH   at  P , we obtain  MATH   Since the mean curvature   MATH 
+ MATH   Since the mean curvature   MATH   , the squared norm of the 
+ of the second fundamental form   MATH   and the function  MATH  , we 
+ form  MATH  and the function   MATH   , we proceed the proof by 
+ three quantities and we obtain   MATH   Combining the above four equations 
+ the above four equations and   MATH   for  MATH  , we can get 
+ four equations and  MATH  for   MATH  , we can get  MATH 
+ for  MATH , we can get  MATH   Therefore all  MATH  except   MATH 
+ get  MATH  Therefore all   MATH   except  MATH .
+ MATH   Therefore all  MATH  except   MATH  .
+ need to check the terms   MATH  .
+ can be easily verified that   MATH   by taking derivatives of   MATH 
+ MATH   by taking derivatives of   MATH  .
+ the equalities below are true   MATH   Secondly, we take the derivative 
+ we take the derivative of   MATH   to get  MATH  , this implies 
+ derivative of  MATH  to get   MATH  , this implies that  MATH .
+ get  MATH , this implies that   MATH  .
+ the derivative again to get   MATH   More precisely, we have  MATH 
+ MATH   More precisely, we have  MATH   Next, define  MATH  and   MATH 
+ we have  MATH  Next, define   MATH   and  MATH  . It can be 
+ MATH   Next, define  MATH  and   MATH   . It can be simply checked 
+ checked by direct computation that   MATH   Taking the derivative at the 
+ derivative at the minimal point   MATH   of  MATH  gives us  MATH 
+ the minimal point  P  of   MATH   gives us MATH  More precisely, 
+ P   of  MATH  gives us  MATH   More precisely, we have  MATH 
+ MATH   More precisely, we have  MATH 
+562(text): If
+If  MATH  , then we have MATH .
+564(text): , then we have
+ If  MATH , then we have  MATH  .
+566(text): .
+Suppose   MATH   , then by using the first 
+ –  (4.3) , we can obtain  MATH   This can be considered as 
+ as an equation system of   MATH  . Denote MATH MATH MATH  MATH 
+ equation system of  MATH . Denote  MATH  MATH MATH MATH  By some 
+ system of  MATH . Denote MATH  MATH  MATH MATH  By some basic 
+ of  MATH . Denote MATH MATH  MATH  MATH  By some basic tools 
+ MATH  . Denote MATH MATH MATH  MATH   By some basic tools from 
+ get the following nice results   MATH   Similarly, by using the second, 
+ –  (4.3) , we can get  MATH   where  MATH  are the corresponding 
+ we can get  MATH  where   MATH   are the corresponding determinant.
+ the other hand, by differentiating   MATH   twice, we get  MATH 
+ differentiating  MATH  twice, we get  MATH   Specially, for  MATH  , we get 
+ get  MATH  Specially, for   MATH  , we get MATH  Note that 
+ Specially, for  MATH , we get  MATH   Note that  MATH  and   MATH 
+ we get  MATH  Note that   MATH   and  MATH  together indicate  MATH 
+ MATH   Note that  MATH  and   MATH   together indicate MATH  Combining   MATH 
+ MATH   and  MATH  together indicate  MATH   Combining  MATH  and  MATH  , we 
+ MATH   together indicate MATH  Combining   MATH   and  MATH  , we can obtain 
+ indicate  MATH  Combining  MATH  and   MATH  , we can obtain MATH  □ 
+ and  MATH , we can obtain  MATH   □
+587(text): There is at least one of the terms
+ least one of the terms   MATH  equal to zero.
+589(text): equal to zero.
+Suppose   MATH  , then by  Lemma 4.1  , we 
+ by  Lemma 4.1 , we have   MATH  . Putting this into equations   (4.1) 
+ solutions to the equation systems   MATH  , for  MATH  . In particular, we 
+ the equation systems  MATH , for   MATH  . In particular, we know  MATH 
+ MATH  . In particular, we know  MATH   On the other hand, by 
+ the other hand, by differentiating   MATH   twice, we get  MATH 
+ differentiating  MATH  twice, we get  MATH   In particular, for  MATH  , we 
+ MATH   In particular, for   MATH  , we get MATH  Therefore  MATH 
+ particular, for  MATH , we get  MATH   Therefore MATH  Since  MATH  is 
+ MATH  , we get MATH  Therefore  MATH   Since  MATH  is a constant, 
+ get  MATH  Therefore MATH  Since   MATH   is a constant, all its 
+ derivatives should be zero, i.e.   MATH   Letting  MATH  and  MATH  , we 
+ i.e.  MATH  Letting   MATH   and  MATH , we get  MATH 
+ MATH   Letting  MATH  and   MATH  , we get MATH  Substituting the 
+ MATH   and  MATH , we get  MATH   Substituting the values for   MATH 
+ MATH   Substituting the values for   MATH   into this equation end up 
+ with the beautiful equality below   MATH   Since  MATH , that leaves  MATH 
+ beautiful equality below  MATH  Since   MATH  , that leaves MATH  which contradicts 
+ MATH   Since  MATH , that leaves  MATH   which contradicts  MATH  . Hence the 
+ that leaves  MATH  which contradicts   MATH   . Hence the lemma is proved. 
+ least one of the terms   MATH   equal to zero. Without loss 
+ generality, we can assume that   MATH   or  MATH .
+ can assume that  MATH  or   MATH  .
+Case  MATH  MATH .
+Case 1:  MATH  .
+615(text): .
+ MATH  .
+617(text): .
+ following linear system of equations   MATH   we obtain MATH  Hence,  MATH 
+ of equations  MATH  we obtain  MATH   Hence, MATH  which shows   MATH 
+ MATH   we obtain MATH  Hence,  MATH   which shows  MATH  .  □ 
+ MATH   Hence, MATH  which shows   MATH  .  □
+Case  MATH  MATH .
+Case 2:  MATH  .
+624(text): .
+ MATH  .
+626(text): .
+Taking the derivative of   MATH   twice, we can get  MATH 
+ MATH   twice, we can get  MATH 
+Setting   MATH  , we have MATH  Taking the 
+Setting  MATH , we have  MATH   Taking the derivative of   S 
+ MATH   Taking the derivative of   MATH   twice, we have got  MATH 
+ S   twice, we have got  MATH   when  MATH  , it changes into 
+ got  MATH  when   MATH  , it changes into MATH  During 
+ when  MATH , it changes into  MATH   During the proof of   Lemma 
+ have got the value of   MATH   and  MATH  , combining with equality 
+ the value of  MATH  and   MATH  , combining with equality  (4.6) ,   (4.5) 
+ equality  (4.6) ,  (4.5)  reduces to  MATH 
+Recall that  MATH 
+At   MATH  , we have MATH  i.e.  MATH 
+At  P , we have  MATH   i.e. MATH
+ P  , we have MATH  i.e.  MATH 
+ following linear system of equations   MATH   we can conclude MATH
+ equations  MATH  we can conclude  MATH 
+Let   MATH  , putting  MATH  into  (4.8)  we 
+Let  MATH , putting   MATH   into  (4.8)  we can get 
+ into  (4.8)  we can get  MATH   where MATH  Therefore, MATH  MATH 
+ we can get  MATH  where  MATH   Therefore, MATH MATH
+ get  MATH  where MATH  Therefore,  MATH  MATH
+ MATH   where MATH  Therefore, MATH  MATH 
+Letting   MATH  , we have MATH  which is 
+Letting  MATH , we have  MATH   which is equivalent to  MATH 
+ MATH   which is equivalent to  MATH   i.e. MATH  By direct computation, 
+ is equivalent to  MATH  i.e.  MATH   By direct computation, we have 
+ By direct computation, we have   MATH   which is always non-negative. Thus, 
+ always non-negative. Thus, we have   MATH   if  MATH . □
+ Thus, we have  MATH  if   MATH  . □
+657(text): Let
+Let  MATH  be a  closed minimal Willmore 
+Let MATH be  MATH   closed minimal Willmore hypersurface with 
+ curvatures at the minimum point   MATH  of MATH , then MATH  has 
+661(text): of
+ the minimum point  P of  MATH  , then MATH  has nonnegative scalar 
+663(text): , then
+ point  P of MATH , then  MATH  has nonnegative scalar curvature.
+665(text): has nonnegative scalar curvature.
+Case  MATH   If there is one point 
+ no distinct principle curvatures, then   MATH   must be zero and hence 
+ must be zero and hence   MATH   is totally geodesic, which means 
+ is totally geodesic, which means   MATH   is an equatorial 4 sphere 
+ an equatorial 4 sphere and   MATH  .
+Case  MATH   If there is one point 
+ two distinct principle curvatures, then   MATH   is Clifford torus  MATH  and 
+ then  MATH  is Clifford torus   MATH   and  MATH  by   Theorem 3.1 
+ is Clifford torus  MATH  and   MATH   by  Theorem 3.1  in section 
+Case  MATH   If there are three distinct 
+ at the minimum point of   MATH   , then the principle curvatures are 
+ then the principle curvatures are   MATH   at every point, which means 
+ at every point, which means   MATH   is isoparametric. But from   [3] 
+ is no such hypersurface in   MATH  .
+Case  MATH   If there are four distinct 
+ at the minimum point of   MATH  , then  MATH  has nonnegative scalar 
+ minimum point of  MATH , then   MATH   has nonnegative scalar curvature by 
+ theorem of Lusala–Scherfner–Sousa Jr.  [11] ,   MATH   is an Cartan's minimal hypersurface 
+ an Cartan's minimal hypersurface and   MATH  .
+Closed hypersurfaces of   MATH   with two constant curvature functions 
+ and constant mean curvature in   MATH   is isoparametric
+ with constant scalar curvatures in   MATH 
+ submanifolds in the standard riemannian   MATH  -sphere
+ Closed minimal Willmore hypersurfaces of   MATH   with constant scalar curvature
