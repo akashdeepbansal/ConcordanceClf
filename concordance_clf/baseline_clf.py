@@ -133,7 +133,8 @@ with open('../logs/error_analysis.txt', 'w') as f_write:
 
 print(f"Count of error: {counter}")
 from sklearn.linear_model import SGDClassifier
-clf_svm = SGDClassifier(loss='hinge', alpha=1e-3, random_state=1)
+clf_svm = SGDClassifier(loss='hinge', alpha=1e-3, random_state=1, early_stopping=True,
+                        validation_fraction=0.1, class_weight='balanced')
 clf_svm.fit(train_X, train_y)
 prediction = clf_svm.predict(test_X)
 accuracy = metrics.accuracy_score(test_y, prediction)
