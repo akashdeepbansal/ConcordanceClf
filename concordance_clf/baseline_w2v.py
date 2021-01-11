@@ -177,7 +177,7 @@ for idx, cc_tokens in enumerate(test_X[1:]):
     except Exception as error:
         pass
 
-# test_X_emb = np.concatenate([cc_w2v(cc_tokens) for cc_tokens in test_X], axis=0)
+
 print(train_X_emb.shape)
 print(test_X_emb.shape)
 

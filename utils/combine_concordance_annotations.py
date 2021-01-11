@@ -47,7 +47,7 @@ def combine_cc_annot(project_dir, sub_data_dir):
                     file_dataset.write(json.dumps(dataset_item, ensure_ascii=False) + '\n')
                     counter += 1
                 except Exception as missing_error:
-                    # print(missing_error)
+                    print(missing_error)
                     continue
         file_dataset.close()
         print(f'counter: {counter}')
