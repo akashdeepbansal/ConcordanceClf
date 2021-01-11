@@ -65,8 +65,8 @@ except FileNotFoundError as file_error:
     train_X = vectorizer.fit_transform(train_X)
     test_X = vectorizer.transform(test_X)
     # print("Vocab: ")
-    # print(vectorizer.vocabulary_)
-    # print(dataset_X[0])
+    print(vectorizer.vocabulary_)
+    print(dataset_X[0])
     # print(vectorizer.inverse_transform(dataset_X[0]))
     with open("../logs/train_X.pkl", 'wb') as f_write:
         pickle.dump(train_X, f_write)
