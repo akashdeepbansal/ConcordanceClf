@@ -42,6 +42,8 @@ except FileNotFoundError as file_error:
         # print(dataset["annot"])
 # creating the one-hot encoding for the words based
 try:
+    with open("../logs/vectorizer.pkl", 'rb') as f_read:
+        vectorizer = pickle.load(f_read)
     with open("../logs/train_X.pkl", 'rb') as f_read:
         train_X = pickle.load(f_read)
     with open("../logs/train_y.pkl", 'rb') as f_read:
@@ -50,6 +52,8 @@ try:
         test_X = pickle.load(f_read)
     with open("../logs/test_y.pkl", 'rb') as f_read:
         test_y = pickle.load(f_read)
+    with open("../logs/test_X_raw.pkl", 'rb') as f_read:
+        test_X_raw = pickle.load(f_read)
 
 except FileNotFoundError as file_error:
     # from sklearn.feature_extraction.text import CountVectorizer
@@ -60,14 +64,16 @@ except FileNotFoundError as file_error:
     from sklearn.model_selection import train_test_split
     dataset_X = dataset["concor"].tolist()
     dataset_y = dataset['annot'].tolist()
-    train_X, test_X, train_y, test_y = train_test_split(dataset_X, dataset_y, test_size=0.2, random_state=1,
+    train_X_raw, test_X_raw, train_y, test_y = train_test_split(dataset_X, dataset_y, test_size=0.2, random_state=1,
                                                         stratify=dataset_y)
-    train_X = vectorizer.fit_transform(train_X)
-    test_X = vectorizer.transform(test_X)
+    train_X = vectorizer.fit_transform(train_X_raw)
+    test_X = vectorizer.transform(test_X_raw)
     # print("Vocab: ")
-    print(vectorizer.vocabulary_)
-    print(dataset_X[0])
+    # print(vectorizer.vocabulary_)
+    # print(dataset_X[0])
     # print(vectorizer.inverse_transform(dataset_X[0]))
+    with open("../logs/vectorizer.pkl", 'wb') as f_write:
+        pickle.dump(vectorizer, f_write)
     with open("../logs/train_X.pkl", 'wb') as f_write:
         pickle.dump(train_X, f_write)
     with open("../logs/train_y.pkl", 'wb') as f_write:
@@ -76,6 +82,9 @@ except FileNotFoundError as file_error:
         pickle.dump(test_X, f_write)
     with open("../logs/test_y.pkl", 'wb') as f_write:
         pickle.dump(test_y, f_write)
+    with open("../logs/test_X_raw.pkl", 'wb') as f_write:
+        pickle.dump(test_X_raw, f_write)
+
 
 # print(dataset_X[1].toarray())
 # print(dataset_y[1])
@@ -107,8 +116,22 @@ print(f"Total Accuracy: {accuracy}")
 print(f"f1_score: {f1_score}")
 print(f'confusion matrix labels[1,0]:\n{conf_mat}')
 
+# error analysis
+with open('../logs/error_analysis.txt', 'w') as f_write:
+    f_correct = open('../logs/correct_output.txt', 'w')
+    counter = 0
+    for test_X_raw_i, test_X_i, test_y_i in zip(test_X_raw, test_X, test_y):
+        if prediction[counter] != test_y_i:
+            f_write.write(f"{counter}: {test_X_raw_i} : {vectorizer.inverse_transform(test_X_i)},"
+                               f"\n true: {test_y_i}, pred: {prediction[counter]}\n")
+            counter += 1
+        else:
+            f_correct.write(f"{counter}: {test_X_raw_i} : {vectorizer.inverse_transform(test_X_i)},"
+                               f"\n true: {test_y_i}, pred: {prediction[counter]}\n")
+            counter += 1
+    f_correct.close()
 
-
+print(f"Count of error: {counter}")
 from sklearn.linear_model import SGDClassifier
 clf_svm = SGDClassifier(loss='hinge', alpha=1e-3, random_state=1)
 clf_svm.fit(train_X, train_y)
