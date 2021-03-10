@@ -1,0 +1,8 @@
+Collecting torchtext
+  Using cached torchtext-0.6.0-py3-none-any.whl (64 kB)
+Requirement already satisfied: numpy in c:\users\akashdeep bansal\appdata\local\packages\pythonsoftwarefoundation.python.3.9_qbz5n2kfra8p0\localcache\local-packages\python39\site-packages (from torchtext) (1.20.1)
+Collecting six
+  Using cached six-1.15.0-py2.py3-none-any.whl (10 kB)
+Collecting sentencepiece
+  Using cached sentencepiece-0.1.95-cp39-cp39-win_amd64.whl (1.2 MB)
+Collecting torch

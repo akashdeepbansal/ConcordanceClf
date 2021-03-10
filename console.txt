@@ -1,0 +1,18 @@
+Collecting torchtext
+  Using cached torchtext-0.6.0-py3-none-any.whl (64 kB)
+Requirement already satisfied: numpy in c:\users\akashdeep bansal\appdata\local\packages\pythonsoftwarefoundation.python.3.9_qbz5n2kfra8p0\localcache\local-packages\python39\site-packages (from torchtext) (1.20.1)
+Collecting sentencepiece
+  Using cached sentencepiece-0.1.95-cp39-cp39-win_amd64.whl (1.2 MB)
+Collecting requests
+  Using cached requests-2.25.1-py2.py3-none-any.whl (61 kB)
+Collecting six
+  Using cached six-1.15.0-py2.py3-none-any.whl (10 kB)
+Requirement already satisfied: tqdm in c:\users\akashdeep bansal\appdata\local\packages\pythonsoftwarefoundation.python.3.9_qbz5n2kfra8p0\localcache\local-packages\python39\site-packages (from torchtext) (4.58.0)
+Collecting torch
+  Using cached torch-1.7.1-cp39-cp39-win_amd64.whl (184.0 MB)
+Requirement already satisfied: chardet<5,>=3.0.2 in c:\users\akashdeep bansal\appdata\local\packages\pythonsoftwarefoundation.python.3.9_qbz5n2kfra8p0\localcache\local-packages\python39\site-packages (from requests->torchtext) (4.0.0)
+Requirement already satisfied: certifi>=2017.4.17 in c:\users\akashdeep bansal\appdata\local\packages\pythonsoftwarefoundation.python.3.9_qbz5n2kfra8p0\localcache\local-packages\python39\site-packages (from requests->torchtext) (2020.12.5)
+Requirement already satisfied: idna<3,>=2.5 in c:\users\akashdeep bansal\appdata\local\packages\pythonsoftwarefoundation.python.3.9_qbz5n2kfra8p0\localcache\local-packages\python39\site-packages (from requests->torchtext) (2.10)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in c:\users\akashdeep bansal\appdata\local\packages\pythonsoftwarefoundation.python.3.9_qbz5n2kfra8p0\localcache\local-packages\python39\site-packages (from requests->torchtext) (1.26.3)
+Requirement already satisfied: typing-extensions in c:\users\akashdeep bansal\appdata\local\packages\pythonsoftwarefoundation.python.3.9_qbz5n2kfra8p0\localcache\local-packages\python39\site-packages (from torch->torchtext) (3.7.4.3)
+Installing collected packages: torch, six, sentencepiece, requests, torchtext
